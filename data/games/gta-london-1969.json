@@ -5,14 +5,14 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.772Z",
+    "generated": "2026-11-15T16:39:16.716Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "complete",
       "vehicles": "limited",
       "weapons": "limited",
-      "cheats": "limited",
+      "cheats": "complete",
       "locations": "partial",
       "collectibles": "empty"
     },
@@ -21,7 +21,7 @@
       "missions": 47,
       "vehicles": 6,
       "weapons": 5,
-      "cheats": 1,
+      "cheats": 28,
       "locations": 4,
       "collectibles": 0
     },
@@ -819,21 +819,399 @@
     ]
   },
   "cheats": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
       {
-        "id": "full-health",
-        "effect": "Full health",
+        "id": "10x-multiplier",
+        "effect": "10x multiplier",
         "codes": [
           {
             "platform": "PC",
-            "code": "GESUNDHEIT",
+            "code": "iamgod",
             "input": "keyboard"
           }
         ],
-        "verified": false,
-        "source": "Shared GTA 1 engine cheat; verify against the London 1969 build",
-        "image": "assets/img/cheat/gta-london-1969/full-health.svg"
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/10x-multiplier.svg"
+      },
+      {
+        "id": "5x-multiplier",
+        "effect": "5x Multiplier",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "SIDEBURN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/5x-multiplier.svg"
+      },
+      {
+        "id": "9-999-990-points",
+        "effect": "9,999,990 Points",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "BIGBEN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/9-999-990-points.svg"
+      },
+      {
+        "id": "99-lives",
+        "effect": "99 Lives",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "MCVICAR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/99-lives.svg"
+      },
+      {
+        "id": "999999999-points",
+        "effect": "999999999 points.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "averyrichman",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/999999999-points.svg"
+      },
+      {
+        "id": "all-cheat-effects-above-will-be-automatically-enabled",
+        "effect": "All cheat effects above will be automatically enabled.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "herc",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-cheat-effects-above-will-be-automatically-enabled.svg"
+      },
+      {
+        "id": "all-cheats",
+        "effect": "All Cheats",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "HAROLDHAND",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-cheats.svg"
+      },
+      {
+        "id": "all-items-press-for-all-weapons",
+        "effect": "All items, press * for all weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "uaintnuffin",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-items-press-for-all-weapons.svg"
+      },
+      {
+        "id": "all-levels",
+        "effect": "All Levels",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Razzle, READERWIFE",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-levels.svg"
+      },
+      {
+        "id": "all-levels-all-weapons-infinite-ammunition-get-out-of",
+        "effect": "All levels, all weapons, infinite ammunition, Get Out Of Jail Free card, armor, 5X multiplier",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "FREEMANS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-levels-all-weapons-infinite-ammunition-get-out-of.svg"
+      },
+      {
+        "id": "all-levels-all-weapons-infinite-ammunition-get-out-of-2",
+        "effect": "All levels, all weapons, infinite ammunition, Get out of jail free card, armor, 99 lives, 5X multiplier, maximum wanted level, display co-ordinates",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "GETCARTER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-levels-all-weapons-infinite-ammunition-get-out-of-2.svg"
+      },
+      {
+        "id": "all-levels-and-all-weapons-and-unlimited-ammunition",
+        "effect": "All levels, and all weapons and unlimited ammunition",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "SORTED",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-levels-and-all-weapons-and-unlimited-ammunition.svg"
+      },
+      {
+        "id": "all-weapons-and-a-jail-card",
+        "effect": "All Weapons and a Jail Card",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "DONTMESS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/all-weapons-and-a-jail-card.svg"
+      },
+      {
+        "id": "change-car-color-by-pressing-the-horn",
+        "effect": "Change car color by pressing the horn.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "psychadelic",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/change-car-color-by-pressing-the-horn.svg"
+      },
+      {
+        "id": "diagnostic-cheat",
+        "effect": "Diagnostic cheat",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "pieandmash",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/diagnostic-cheat.svg"
+      },
+      {
+        "id": "diagnostics-cheat-driveby-cheat-and-psychadelic-cheat",
+        "effect": "Diagnostics cheat, driveby cheat and psychadelic cheat combined",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "rommel",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/diagnostics-cheat-driveby-cheat-and-psychadelic-cheat.svg"
+      },
+      {
+        "id": "disables-the-police-scanner",
+        "effect": "Disables the police scanner",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "silence",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/disables-the-police-scanner.svg"
+      },
+      {
+        "id": "infinite-lives",
+        "effect": "Infinite lives",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "6661970",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/infinite-lives.svg"
+      },
+      {
+        "id": "infinite-weapons-armor-and-a-get-out-of-jail-free-card",
+        "effect": "Infinite Weapons, Armor and a Get Out of Jail Free card.",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "TOOLEDUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/infinite-weapons-armor-and-a-get-out-of-jail-free-card.svg"
+      },
+      {
+        "id": "london-levels-1-2",
+        "effect": "London levels 1-2",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "MAYFAIR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/london-levels-1-2.svg"
+      },
+      {
+        "id": "london-levels-1-3",
+        "effect": "London levels 1-3",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "PENTHOUSE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/london-levels-1-3.svg"
+      },
+      {
+        "id": "maximum-wanted-level",
+        "effect": "Maximum Wanted Level",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "OLDBILL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/maximum-wanted-level.svg"
+      },
+      {
+        "id": "no-cops",
+        "effect": "No Cops",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "GRASS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/no-cops.svg"
+      },
+      {
+        "id": "no-police",
+        "effect": "No police",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "tithead, iamfilth",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/no-police.svg"
+      },
+      {
+        "id": "press-for-all-weapons",
+        "effect": "Press * for all weapons.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "asawindow, deathtoall",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/press-for-all-weapons.svg"
+      },
+      {
+        "id": "show-coordinates",
+        "effect": "Show Coordinates",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "SWEENEY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/show-coordinates.svg"
+      },
+      {
+        "id": "unlocks-all-levels",
+        "effect": "Unlocks all levels",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "flashmotor, super well, travelcard",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/unlocks-all-levels.svg"
+      },
+      {
+        "id": "use-guns-while-driving-on-bikes-or-cars",
+        "effect": "Use guns while driving on bikes or cars.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "driveby",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-london-1969/use-guns-while-driving-on-bikes-or-cars.svg"
       }
     ]
   },

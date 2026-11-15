@@ -5,7 +5,7 @@
     "base_url": "https://abinashspace.github.io/gta-hub",
     "language": "en"
   },
-  "generated": "2026-11-15T16:25:01.741Z",
+  "generated": "2026-11-15T16:39:13.557Z",
   "schema_version": "1.0.0",
   "counts": {
     "games": 17,
@@ -121,7 +121,7 @@
         "missions": 100,
         "vehicles": 9,
         "weapons": 7,
-        "cheats": 1,
+        "cheats": 35,
         "locations": 3,
         "collectibles": 1
       },
@@ -130,11 +130,11 @@
         "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "limited"
       },
-      "records": 125,
+      "records": 159,
       "links": {
         "page": "games/gta/",
         "data": "data/games/gta.json",
@@ -168,7 +168,7 @@
         "missions": 47,
         "vehicles": 6,
         "weapons": 5,
-        "cheats": 1,
+        "cheats": 28,
         "locations": 4,
         "collectibles": 0
       },
@@ -177,11 +177,11 @@
         "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "empty"
       },
-      "records": 66,
+      "records": 93,
       "links": {
         "page": "games/gta-london-1969/",
         "data": "data/games/gta-london-1969.json",
@@ -262,7 +262,7 @@
         "missions": 4,
         "vehicles": 9,
         "weapons": 8,
-        "cheats": 1,
+        "cheats": 33,
         "locations": 4,
         "collectibles": 1
       },
@@ -271,11 +271,11 @@
         "missions": "limited",
         "vehicles": "limited",
         "weapons": "limited",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "limited"
       },
-      "records": 35,
+      "records": 67,
       "links": {
         "page": "games/gta-2/",
         "data": "data/games/gta-2.json",
@@ -311,7 +311,7 @@
         "missions": 68,
         "vehicles": 50,
         "weapons": 12,
-        "cheats": 14,
+        "cheats": 23,
         "locations": 18,
         "collectibles": 3
       },
@@ -320,11 +320,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "partial",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 184,
+      "records": 193,
       "links": {
         "page": "games/gta-iii/",
         "data": "data/games/gta-iii.json",
@@ -360,7 +360,7 @@
         "missions": 61,
         "vehicles": 51,
         "weapons": 20,
-        "cheats": 20,
+        "cheats": 59,
         "locations": 17,
         "collectibles": 4
       },
@@ -369,11 +369,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "partial",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 193,
+      "records": 232,
       "links": {
         "page": "games/gta-vice-city/",
         "data": "data/games/gta-vice-city.json",
@@ -411,7 +411,7 @@
         "missions": 101,
         "vehicles": 54,
         "weapons": 21,
-        "cheats": 25,
+        "cheats": 101,
         "locations": 22,
         "collectibles": 6
       },
@@ -420,11 +420,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "partial",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 252,
+      "records": 328,
       "links": {
         "page": "games/gta-san-andreas/",
         "data": "data/games/gta-san-andreas.json",
@@ -504,7 +504,7 @@
         "missions": 71,
         "vehicles": 16,
         "weapons": 12,
-        "cheats": 0,
+        "cheats": 43,
         "locations": 10,
         "collectibles": 5
       },
@@ -513,11 +513,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 128,
+      "records": 171,
       "links": {
         "page": "games/gta-liberty-city-stories/",
         "data": "data/games/gta-liberty-city-stories.json",
@@ -550,7 +550,7 @@
         "missions": 59,
         "vehicles": 19,
         "weapons": 13,
-        "cheats": 0,
+        "cheats": 31,
         "locations": 10,
         "collectibles": 5
       },
@@ -559,11 +559,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 119,
+      "records": 150,
       "links": {
         "page": "games/gta-vice-city-stories/",
         "data": "data/games/gta-vice-city-stories.json",
@@ -597,7 +597,7 @@
         "missions": 90,
         "vehicles": 38,
         "weapons": 14,
-        "cheats": 12,
+        "cheats": 32,
         "locations": 12,
         "collectibles": 4
       },
@@ -606,11 +606,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "partial",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 188,
+      "records": 208,
       "links": {
         "page": "games/gta-iv/",
         "data": "data/games/gta-iv.json",
@@ -653,7 +653,7 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "limited",
+        "cheats": "empty",
         "locations": "partial",
         "collectibles": "partial"
       },
@@ -700,7 +700,7 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "limited",
+        "cheats": "empty",
         "locations": "partial",
         "collectibles": "complete"
       },
@@ -739,7 +739,7 @@
         "missions": 58,
         "vehicles": 10,
         "weapons": 10,
-        "cheats": 0,
+        "cheats": 20,
         "locations": 5,
         "collectibles": 2
       },
@@ -748,11 +748,11 @@
         "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
-        "cheats": "limited",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "partial"
       },
-      "records": 95,
+      "records": 115,
       "links": {
         "page": "games/gta-chinatown-wars/",
         "data": "data/games/gta-chinatown-wars.json",
@@ -793,7 +793,7 @@
         "missions": 75,
         "vehicles": 35,
         "weapons": 22,
-        "cheats": 12,
+        "cheats": 36,
         "locations": 14,
         "collectibles": 6
       },
@@ -802,11 +802,11 @@
         "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
-        "cheats": "partial",
+        "cheats": "complete",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 183,
+      "records": 207,
       "links": {
         "page": "games/gta-v/",
         "data": "data/games/gta-v.json",

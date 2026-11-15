@@ -5,14 +5,14 @@
     "year": 2009,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.965Z",
+    "generated": "2026-11-15T16:39:16.928Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
-      "cheats": "limited",
+      "cheats": "empty",
       "locations": "partial",
       "collectibles": "partial"
     },
@@ -762,7 +762,7 @@
     ]
   },
   "cheats": {
-    "coverage": "limited",
+    "coverage": "empty",
     "items": []
   },
   "locations": {

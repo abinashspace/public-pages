@@ -5,14 +5,14 @@
     "year": 2002,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.845Z",
+    "generated": "2026-11-15T16:39:16.795Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
-      "cheats": "partial",
+      "cheats": "complete",
       "locations": "partial",
       "collectibles": "complete"
     },
@@ -21,7 +21,7 @@
       "missions": 61,
       "vehicles": 51,
       "weapons": 20,
-      "cheats": 20,
+      "cheats": 59,
       "locations": 17,
       "collectibles": 4
     },
@@ -1972,273 +1972,1363 @@
     ]
   },
   "cheats": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
-        "id": "flying-boats",
-        "effect": "Cars drive and fly on water",
+        "id": "advanced-weapons-set-chainsaw-grenades-357-spas-12-smg",
+        "effect": "Advanced weapons set ( Chainsaw , Grenades , .357 , S.P.A.S. 12 , SMG , M4 , .308 Sniper , Minigun )",
         "codes": [
           {
-            "platform": "PC",
-            "code": "SEAWAYS",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/flying-boats.svg"
-      },
-      {
-        "id": "media-level",
-        "effect": "Change media attention level",
-        "codes": [
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
           {
-            "platform": "PC",
-            "code": "CHASESTAT",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/media-level.svg"
-      },
-      {
-        "id": "weather",
-        "effect": "Change weather",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "ALOVELYDAY",
-            "input": "keyboard"
-          }
-        ],
-        "verified": false,
-        "source": "Community cheat databases",
-        "image": "assets/img/cheat/gta-vice-city/weather.svg"
-      },
-      {
-        "id": "suicide",
-        "effect": "Commit suicide",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "ICANTTAKEITANYMORE",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/suicide.svg"
-      },
-      {
-        "id": "blow-up-cars",
-        "effect": "Destroy all vehicles",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "BIGBANG",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/blow-up-cars.svg"
-      },
-      {
-        "id": "full-armor",
-        "effect": "Full armor",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "PRECIOUSPROTECTION",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/full-armor.svg"
-      },
-      {
-        "id": "full-health",
-        "effect": "Full health",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "ASPIRINE",
+            "platform": "PC/ Android",
+            "code": "NUTTERTOOLS",
             "input": "keyboard"
           },
           {
-            "platform": "PlayStation 2",
-            "code": "R1 R2 L1 R2 LEFT DOWN RIGHT UP",
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
             "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/full-health.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/advanced-weapons-set-chainsaw-grenades-357-spas-12-smg.svg"
       },
       {
-        "id": "fat",
-        "effect": "Maximum fat",
+        "id": "aggressive-drivers",
+        "effect": "Aggressive drivers",
         "codes": [
           {
-            "platform": "PC",
+            "platform": "PlayStation",
+            "code": "R2 → Circle → R1 → L2 → D-Pad Left → R1 → L1 → R2 → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "MIAMITRAFFIC",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → B → Right Trigger (RT) → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Black → White",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/aggressive-drivers.svg"
+      },
+      {
+        "id": "all-traffic-cars-are-black-bright-green-in-the",
+        "effect": "All traffic cars are black (bright green in The Definitive Edition )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L2 → D-Pad Up → R1 → D-Pad Left → Cross → R1 → L1 → D-Pad Left → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "IWANTITPAINTEDBLACK",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → White → D-Pad Up → Right Trigger (RT) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/all-traffic-cars-are-black-bright-green-in-the.svg"
+      },
+      {
+        "id": "all-traffic-cars-are-pink",
+        "effect": "All traffic cars are pink",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → D-Pad Right → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "AHAIRDRESSERSCAR",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Down → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/all-traffic-cars-are-pink.svg"
+      },
+      {
+        "id": "all-traffic-lights-are-green",
+        "effect": "All traffic lights are green",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R1 → D-Pad Up → L2 → L2 → D-Pad Left → R1 → L1 → R1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GREENLIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → White → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/all-traffic-lights-are-green.svg"
+      },
+      {
+        "id": "basic-weapons-set-brass-knuckles-baseball-bat-molotov",
+        "effect": "Basic weapons set ( Brass Knuckles , Baseball Bat , Molotov Cocktails , Pistol , Chrome Shotgun , Tec 9 , Ruger , Sniper Rifle , Flamethrower )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "THUGSTOOLS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/basic-weapons-set-brass-knuckles-baseball-bat-molotov.svg"
+      },
+      {
+        "id": "blow-up-explode-destroy-all-vehicles-excluding-police",
+        "effect": "Blow up/explode/destroy all vehicles, excluding police-controlled helicopters and NPC Dodo",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L2 → R1 → L1 → L2 → R2 → Square → Triangle → Circle → Triangle → L2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "BIGBANG",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → White → Right Trigger (RT) → Left Trigger (LT) → White → Black → X → Y → B → Y → White → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/blow-up-explode-destroy-all-vehicles-excluding-police.svg"
+      },
+      {
+        "id": "cars-can-drive-hover-over-water",
+        "effect": "Cars can drive/hover over water",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R2 → Circle → R1 → L2 → Square → R1 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "SEAWAYS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Black → B → Right Trigger (RT) → White → X → Right Trigger (RT) → Black",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/cars-can-drive-hover-over-water.svg"
+      },
+      {
+        "id": "commit-suicide-or-with-sufficiently-high-health-suffer",
+        "effect": "Commit suicide or, with sufficiently high health, suffer major loss of health",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L2 → D-Pad Down → R1 → D-Pad Left → D-Pad Left → R1 → L1 → L2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ICANTTAKEITANYMORE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → White → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → White → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/commit-suicide-or-with-sufficiently-high-health-suffer.svg"
+      },
+      {
+        "id": "decrease-game-speed-by-half-down-to-x025-normal-speed",
+        "effect": "Decrease game speed by half, down to x0.25 normal speed",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → R2 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "BOOOOOORING",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → X → Black → Right Trigger (RT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/decrease-game-speed-by-half-down-to-x025-normal-speed.svg"
+      },
+      {
+        "id": "foggy-weather",
+        "effect": "Foggy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "CANTSEEATHING",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/foggy-weather.svg"
+      },
+      {
+        "id": "gives-tommy-thick-arms-legs",
+        "effect": "Gives Tommy thick arms/legs",
+        "codes": [
+          {
+            "platform": "PC/ Android",
             "code": "DEEPFRIEDMARSBARS",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/fat.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/gives-tommy-thick-arms-legs.svg"
       },
       {
-        "id": "thin",
-        "effect": "Minimum fat",
+        "id": "gives-tommy-thin-arms-legs",
+        "effect": "Gives Tommy thin arms/legs",
         "codes": [
           {
-            "platform": "PC",
+            "platform": "PC/ Android",
             "code": "PROGRAMMER",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/thin.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/gives-tommy-thin-arms-legs.svg"
       },
       {
-        "id": "armed-pedestrians",
-        "effect": "Pedestrians carry weapons",
+        "id": "increase-game-speed-by-2-up-to-x4-normal-speed",
+        "effect": "Increase game speed by 2, up to x4 normal speed",
         "codes": [
           {
-            "platform": "PC",
-            "code": "OURGODGIVENRIGHTTOBEARARMS",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → L2 → L1 → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ONSPEED",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → White → Left Trigger (LT) → X",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/armed-pedestrians.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/increase-game-speed-by-2-up-to-x4-normal-speed.svg"
       },
       {
-        "id": "pedestrians-hate",
-        "effect": "Pedestrians hate you",
+        "id": "increase-grip-on-ground-boost-jump-ability-in-all-cars",
+        "effect": "Increase grip on ground, boost jump ability in all cars, disables unique stunt jumps",
         "codes": [
           {
-            "platform": "PC",
-            "code": "NOBODYLIKESME",
+            "platform": "PlayStation",
+            "code": "Triangle → R1 → R1 → D-Pad Left → R1 → L1 → R2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GRIPISEVERYTHING",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Black → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/pedestrians-hate.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/increase-grip-on-ground-boost-jump-ability-in-all-cars.svg"
       },
       {
-        "id": "pedestrians-riot",
-        "effect": "Pedestrians riot",
+        "id": "increase-wanted-level-by-two-stars",
+        "effect": "Increase wanted level by two stars",
         "codes": [
           {
-            "platform": "PC",
-            "code": "FIGHTFIGHTFIGHT",
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "YOUWONTTAKEMEALIVE",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Black → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/pedestrians-riot.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/increase-wanted-level-by-two-stars.svg"
       },
       {
-        "id": "random-outfit",
-        "effect": "Random outfit",
+        "id": "intermediate-weapons-set-katana-detonator-grenade-357",
+        "effect": "Intermediate weapons set ( Katana , Detonator Grenade , .357 , Stubby Shotgun , Mac 10 , M4 , .308 Sniper , Rocket Launcher )",
         "codes": [
           {
-            "platform": "PC",
-            "code": "STILLLIKEDRESSINGUP",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/random-outfit.svg"
-      },
-      {
-        "id": "spawn-tank",
-        "effect": "Spawn a Rhino tank",
-        "codes": [
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
           {
-            "platform": "PC",
-            "code": "PANZER",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/spawn-tank.svg"
-      },
-      {
-        "id": "spawn-tour-bus",
-        "effect": "Spawn a Tour Bus",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "LOADSOFLITTLETHINGS",
-            "input": "keyboard"
-          }
-        ],
-        "verified": false,
-        "image": "assets/img/cheat/gta-vice-city/spawn-tour-bus.svg"
-      },
-      {
-        "id": "weapons-tier-3",
-        "effect": "Weapons: heavy tier",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "NUTTERTOOLS",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/weapons-tier-3.svg"
-      },
-      {
-        "id": "weapons-tier-1",
-        "effect": "Weapons: light tier",
-        "codes": [
-          {
-            "platform": "PC",
-            "code": "THUGSTOOLS",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/weapons-tier-1.svg"
-      },
-      {
-        "id": "weapons-tier-2",
-        "effect": "Weapons: medium tier",
-        "codes": [
-          {
-            "platform": "PC",
+            "platform": "PC/ Android",
             "code": "PROFESSIONALTOOLS",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/weapons-tier-2.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/intermediate-weapons-set-katana-detonator-grenade-357.svg"
       },
       {
-        "id": "women-with-guns",
-        "effect": "Women carry guns",
+        "id": "light-clouds",
+        "effect": "Light clouds",
         "codes": [
           {
-            "platform": "PC",
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "APLEASANTDAY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/light-clouds.svg"
+      },
+      {
+        "id": "low-gravity-for-boats-boats-control-like-plane-in-air",
+        "effect": "Low gravity for boats, boats control like plane in air",
+        "codes": [
+          {
+            "platform": "PC/ Android",
+            "code": "AIRSHIP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/low-gravity-for-boats-boats-control-like-plane-in-air.svg"
+      },
+      {
+        "id": "low-gravity-for-cars-cars-control-like-plane-in-air",
+        "effect": "Low gravity for cars, cars control like plane in air",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R2 → Circle → R1 → L2 → D-Pad Down → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "COMEFLYWITHME",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Black → B → Right Trigger (RT) → White → D-Pad Down → Left Trigger (LT) → Right Trigger (RT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/low-gravity-for-cars-cars-control-like-plane-in-air.svg"
+      },
+      {
+        "id": "makes-tommy-smoke-a-cigarette",
+        "effect": "Makes Tommy smoke a cigarette",
+        "codes": [
+          {
+            "platform": "PC/ Android",
+            "code": "CERTAINDEATH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/makes-tommy-smoke-a-cigarette.svg"
+      },
+      {
+        "id": "nearby-pedestrians-will-enter-tommys-vehicle",
+        "effect": "Nearby pedestrians will enter Tommy's vehicle",
+        "codes": [
+          {
+            "platform": "PC/ Android",
+            "code": "HOPINGIRL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/nearby-pedestrians-will-enter-tommys-vehicle.svg"
+      },
+      {
+        "id": "only-the-wheels-of-cars-are-visible",
+        "effect": "Only the wheels of cars are visible",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → L1 → Triangle → R2 → Square → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "WHEELSAREALLINEED",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Left Trigger (LT) → Y → Black → X → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/only-the-wheels-of-cars-are-visible.svg"
+      },
+      {
+        "id": "overcast-weather",
+        "effect": "Overcast weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ABITDRIEG",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → X",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/overcast-weather.svg"
+      },
+      {
+        "id": "pedestrian-riot-irreversible",
+        "effect": "Pedestrian riot (irreversible)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → Cross → R2 → R1 → L2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "FIGHTFIGHTFIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → A → Black → Right Trigger (RT) → White → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/pedestrian-riot-irreversible.svg"
+      },
+      {
+        "id": "pedestrians-carry-weapons-pistol-nightstick-golf-club",
+        "effect": "Pedestrians carry weapons (Pistol, Nightstick, Golf Club, Tec 9)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → R1 → Cross → Triangle → Cross → Triangle → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "OURGODGIVENRIGHTTOBEARARMS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Right Trigger (RT) → A → Y → A → Y → D-Pad Up → D-Pad Down",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/pedestrians-carry-weapons-pistol-nightstick-golf-club.svg"
+      },
+      {
+        "id": "pedestrians-hate-tommy-irreversible",
+        "effect": "Pedestrians hate Tommy (irreversible)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → Cross → R2 → R1 → L2 → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "NOBODYLIKESME",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → A → Black → Right Trigger (RT) → White → White",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/pedestrians-hate-tommy-irreversible.svg"
+      },
+      {
+        "id": "play-as-a-pedestrian",
+        "effect": "Play as a pedestrian",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → D-Pad Right → D-Pad Left → D-Pad Up → L1 → L2 → D-Pad Left → D-Pad Up → D-Pad Down → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "STILLLIKEDRESSINGUP",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Up → Left Trigger (LT) → White → D-Pad Left → D-Pad Up → D-Pad Down → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-a-pedestrian.svg"
+      },
+      {
+        "id": "play-as-candy-suxxx",
+        "effect": "Play as Candy Suxxx",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → R2 → D-Pad Down → R1 → D-Pad Left → D-Pad Right → R1 → L1 → Cross → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "IWANTBIGTITS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Black → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → A → White",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-candy-suxxx.svg"
+      },
+      {
+        "id": "play-as-hilary-king",
+        "effect": "Play as Hilary King",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → Circle → R2 → L1 → D-Pad Right → R1 → L1 → Cross → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ILOOKLIKEHILARY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → B → Black → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → A → Black",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-hilary-king.svg"
+      },
+      {
+        "id": "play-as-ken-rosenberg",
+        "effect": "Play as Ken Rosenberg",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L1 → D-Pad Up → L2 → L1 → D-Pad Right → R1 → L1 → Cross → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "MYSONISALAWYER",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Left Trigger (LT) → D-Pad Up → White → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → A → Right Trigger (RT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-ken-rosenberg.svg"
+      },
+      {
+        "id": "play-as-lance-vance",
+        "effect": "Play as Lance Vance",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L2 → D-Pad Left → Cross → R1 → L1 → Cross → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "LOOKLIKELANCE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → A → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-lance-vance.svg"
+      },
+      {
+        "id": "play-as-love-fist-character-dick",
+        "effect": "Play as Love Fist character Dick",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → L2 → R2 → L1 → D-Pad Right → R2 → D-Pad Left → Cross → Square → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "WELOVEOURDICK",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → White → Black → Left Trigger (LT) → D-Pad Left → Black → D-Pad Left → A → X → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-love-fist-character-dick.svg"
+      },
+      {
+        "id": "play-as-love-fist-character-jezz-torrent",
+        "effect": "Play as Love Fist character Jezz Torrent",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → Cross → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ROCKANDROLLMAN",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Left Trigger (LT) → D-Pad Down → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → A → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-love-fist-character-jezz-torrent.svg"
+      },
+      {
+        "id": "play-as-mercedes-cortez",
+        "effect": "Play as Mercedes Cortez",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → D-Pad Up → L1 → D-Pad Right → R1 → D-Pad Right → D-Pad Up → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "FOXYLITTLETHING",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Left Trigger (LT) → D-Pad Up → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Up → B → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-mercedes-cortez.svg"
+      },
+      {
+        "id": "play-as-phil-cassidy",
+        "effect": "Play as Phil Cassidy",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R1 → D-Pad Up → R2 → L1 → D-Pad Right → R1 → L1 → D-Pad Right → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ONEARMEDBANDIT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → Black → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-phil-cassidy.svg"
+      },
+      {
+        "id": "play-as-ricardo-diaz",
+        "effect": "Play as Ricardo Diaz",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → L2 → R1 → R2 → D-Pad Down → L1 → R2 → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "CHEATSHAVEBEENCRACKED",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → White → Right Trigger (RT) → Black → D-Pad Down → Left Trigger (LT) → Black → White",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-ricardo-diaz.svg"
+      },
+      {
+        "id": "play-as-sonny-forelli",
+        "effect": "Play as Sonny Forelli",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → Circle → L2 → D-Pad Left → Cross → R1 → L1 → Cross → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "IDONTHAVETHEMONEYSONNY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → B → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → A → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/play-as-sonny-forelli.svg"
+      },
+      {
+        "id": "police-come-back-to-life-after-being-killed",
+        "effect": "Police come back to life after being killed",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → D-Pad Right → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/police-come-back-to-life-after-being-killed.svg"
+      },
+      {
+        "id": "remove-all-wanted-level-on-android-lower-wanted-level",
+        "effect": "Remove all wanted level (on Android, lower wanted level by two stars)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "LEAVEMEALONE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Black → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/remove-all-wanted-level-on-android-lower-wanted-level.svg"
+      },
+      {
+        "id": "replenish-player-armor",
+        "effect": "Replenish player armor",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → Cross → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "PRECIOUSPROTECTION",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → A → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/replenish-player-armor.svg"
+      },
+      {
+        "id": "replenish-player-health-if-driving-vehicle-replenish",
+        "effect": "Replenish player health; if driving vehicle, replenish health and fixes tires of vehicle",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → Circle → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ASPIRINE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → B → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/replenish-player-health-if-driving-vehicle-replenish.svg"
+      },
+      {
+        "id": "shows-media-level-when-previous-media-level-is-beaten",
+        "effect": "Shows media level when previous media level is beaten",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Circle → D-Pad Up → L1 → D-Pad Right → R1 → D-Pad Right → D-Pad Up → Square → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "CHASESTAT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → B → D-Pad Up → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Up → X → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/shows-media-level-when-previous-media-level-is-beaten.svg"
+      },
+      {
+        "id": "spawn-a-bloodring-banger-glendale-variant",
+        "effect": "Spawn a Bloodring Banger ( Glendale variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Right → D-Pad Right → L1 → D-Pad Right → D-Pad Up → Square → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GETTHEREQUICKLY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → D-Pad Left → Left Trigger (LT) → D-Pad Left → D-Pad Up → X → White",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-bloodring-banger-glendale-variant.svg"
+      },
+      {
+        "id": "spawn-a-bloodring-banger-oceanic-variant",
+        "effect": "Spawn a Bloodring Banger ( Oceanic variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R1 → Circle → L2 → L2 → Cross → R1 → L1 → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "TRAVELINSTYLE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Right Trigger (RT) → Black → White → White → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-bloodring-banger-oceanic-variant.svg"
+      },
+      {
+        "id": "spawn-a-caddy",
+        "effect": "Spawn a Caddy",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Up → R1 → L2 → Cross → R1 → L1 → Circle → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "BETTERTHANWALKING",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → White → A → Right Trigger (RT) → Left Trigger (LT) → B → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-caddy.svg"
+      },
+      {
+        "id": "spawn-a-hotring-racer-second-variant",
+        "effect": "Spawn a Hotring Racer (second variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → Circle → R2 → D-Pad Right → L1 → L2 → Cross → Cross → Square → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GETTHEREAMAZINGLYFAST",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → B → Black → D-Pad Left → Left Trigger (LT) → White → A → A → X → Right Trigger (RT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-hotring-racer-second-variant.svg"
+      },
+      {
+        "id": "spawn-a-hotring-racer-third-variant",
+        "effect": "Spawn a Hotring Racer (third variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → Circle → D-Pad Right → L1 → R1 → D-Pad Right → D-Pad Up → Circle → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GETTHEREVERYFASTINDEED",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Left Trigger (LT) → B → D-Pad Left → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → D-Pad Up → B → Black",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-hotring-racer-third-variant.svg"
+      },
+      {
+        "id": "spawn-a-rhino-on-android-instead-of-a-tank-the-first",
+        "effect": "Spawn a Rhino (On Android, instead of a tank, the first time the cheat is used a Landstalker spawns, after which random cars are spawned)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Circle → Circle → Circle → L1 → L2 → R1 → Triangle → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "PANZER",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → B → B → B → Left Trigger (LT) → White → Right Trigger (RT) → Y → B → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-rhino-on-android-instead-of-a-tank-the-first.svg"
+      },
+      {
+        "id": "spawn-a-romeros-hearse",
+        "effect": "Spawn a Romero's Hearse",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R2 → D-Pad Down → R1 → L2 → D-Pad Left → R1 → L1 → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "THELASTRIDE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Black → D-Pad Down → Right Trigger (RT) → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-romeros-hearse.svg"
+      },
+      {
+        "id": "spawn-a-sabre-turbo",
+        "effect": "Spawn a Sabre Turbo",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L2 → D-Pad Down → L2 → L2 → Cross → R1 → L1 → Circle → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "GETTHEREFAST",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → White → D-Pad Down → White → White → A → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-sabre-turbo.svg"
+      },
+      {
+        "id": "spawn-a-trashmaster",
+        "effect": "Spawn a Trashmaster",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → R1 → Circle → R1 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "RUBBISHCAR",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Right Trigger (RT) → B → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-a-trashmaster.svg"
+      },
+      {
+        "id": "spawn-love-fist",
+        "effect": "Spawn Love Fist",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → D-Pad Up → L2 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ROCKANDROLLCAR",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → D-Pad Up → White → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/spawn-love-fist.svg"
+      },
+      {
+        "id": "speed-up-game-clock",
+        "effect": "Speed up game clock",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Square → L1 → Square → Square → Square → L1 → Triangle → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "LIFEISPASSINGMEBY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → X → Left Trigger (LT) → X → X → X → Left Trigger (LT) → Y → B → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/speed-up-game-clock.svg"
+      },
+      {
+        "id": "stormy-weather",
+        "effect": "Stormy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "CATSANDDOGS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → B",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/stormy-weather.svg"
+      },
+      {
+        "id": "sunny-clear-weather",
+        "effect": "Sunny/clear weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "ALOVELYDAY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → D-Pad Down",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/sunny-clear-weather.svg"
+      },
+      {
+        "id": "various-changes-to-vehicle-properties-including-wheel",
+        "effect": "Various changes to vehicle properties, including wheel size, top speed, acceleration, and handling. &#91; 1 &#93;",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → Cross → Triangle → D-Pad Right → R2 → Square → D-Pad Up → D-Pad Down → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
+            "code": "LOADSOFLITTLETHINGS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → A → Y → D-Pad Left → Black → X → D-Pad Up → D-Pad Down → X",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/various-changes-to-vehicle-properties-including-wheel.svg"
+      },
+      {
+        "id": "vercetti-gang-will-become-girls-in-bikinis-with-m4s",
+        "effect": "Vercetti Gang will become girls in bikinis with M4s",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L1 → Circle → L2 → D-Pad Left → Cross → R1 → L1 → L1 → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
             "code": "CHICKSWITHGUNS",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Left Trigger (LT) → B → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → A",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/women-with-guns.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/vercetti-gang-will-become-girls-in-bikinis-with-m4s.svg"
       },
       {
-        "id": "women-follow",
-        "effect": "Women follow you",
+        "id": "women-will-be-attracted-to-and-follow-tommy",
+        "effect": "Women will be attracted to and follow Tommy",
         "codes": [
           {
-            "platform": "PC",
+            "platform": "PlayStation",
+            "code": "Circle → Cross → L1 → L1 → R2 → Cross → Cross → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC/ Android",
             "code": "FANNYMAGNET",
             "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → A → Left Trigger (LT) → Left Trigger (LT) → Black → A → A → B → Y",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-vice-city/women-follow.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city/women-will-be-attracted-to-and-follow-tommy.svg"
       }
     ]
   },

@@ -5,14 +5,14 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.945Z",
+    "generated": "2026-11-15T16:39:16.908Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
-      "cheats": "partial",
+      "cheats": "complete",
       "locations": "partial",
       "collectibles": "complete"
     },
@@ -21,7 +21,7 @@
       "missions": 90,
       "vehicles": 38,
       "weapons": 14,
-      "cheats": 12,
+      "cheats": 32,
       "locations": 12,
       "collectibles": 4
     },
@@ -2059,163 +2059,455 @@
     ]
   },
   "cheats": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
-        "id": "weapons-advanced",
-        "effect": "Advanced weapon set",
+        "id": "advanced-weapons-set-and-refill-ammo-baseball-bat",
+        "effect": "Advanced weapons set and refill ammo ( Baseball Bat , Combat Pistol , Combat Shotgun , SMG , Carbine Rifle , Combat Sniper , Grenades and RPG )",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "486-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "486-555-0100 (GUN-555-0100)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/weapons-advanced.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/advanced-weapons-set-and-refill-ammo-baseball-bat.svg"
       },
       {
-        "id": "weapons-basic",
-        "effect": "Basic weapon set",
+        "id": "advanced-weapons-set-and-refill-ammo-knife-pistol-44",
+        "effect": "Advanced weapons set and refill ammo ( Knife , Pistol .44 , Explosive Shotgun , Assault SMG , Advanced MG , Advanced Sniper , Grenade Launcher , Sticky Bombs )",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "486-555-0150",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "486-555-0100 (GUN-555-0100)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/weapons-basic.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/advanced-weapons-set-and-refill-ammo-knife-pistol-44.svg"
       },
       {
-        "id": "weather",
-        "effect": "Change weather",
+        "id": "akuma",
+        "effect": "Akuma",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "468-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "625-555-0200 (MBK-555-0200)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/weather.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/akuma.svg"
       },
       {
-        "id": "clear-wanted",
+        "id": "annihilator",
+        "effect": "Annihilator",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "359-555-0100 (FLY-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/annihilator.svg"
+      },
+      {
+        "id": "apc-and-91-1-and-93",
+        "effect": "APC &#91; 1 &#93;",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "272-555-8265 (APC-555-TANK)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/apc-and-91-1-and-93.svg"
+      },
+      {
+        "id": "bullet-gt",
+        "effect": "Bullet GT",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "227-555-9666 (CAR-555-ZOOM)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/bullet-gt.svg"
+      },
+      {
+        "id": "buzzard",
+        "effect": "Buzzard",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "359-555-2899 (FLY-555-BUZZ)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/buzzard.svg"
+      },
+      {
+        "id": "clear-wanted-level",
         "effect": "Clear wanted level",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "267-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "267-555-0100 (COP-555-0100)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/clear-wanted.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/clear-wanted-level.svg"
       },
       {
-        "id": "full-armor",
-        "effect": "Full armor",
+        "id": "cognoscenti",
+        "effect": "Cognoscenti",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "362-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "227-555-0142 (CAR-555-0142)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/full-armor.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/cognoscenti.svg"
       },
       {
-        "id": "full-health",
-        "effect": "Full health",
+        "id": "comet",
+        "effect": "Comet",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "482-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "227-555-0175 (CAR-555-0175)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/full-health.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/comet.svg"
       },
       {
-        "id": "raise-wanted",
-        "effect": "Raise wanted level",
+        "id": "cycles-weather-sequentially-to-the-next-condition-in",
+        "effect": "Cycles weather sequentially to the next condition in the same order as the timecyc.dat file; there are eight different weather conditions",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "267-555-0150",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "468-555-0100 (HOT-555-0100)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/raise-wanted.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/cycles-weather-sequentially-to-the-next-condition-in.svg"
       },
       {
-        "id": "spawn-banshee",
-        "effect": "Spawn a Banshee",
+        "id": "double-t-custom",
+        "effect": "Double T Custom",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "227-555-0142",
-            "input": "phone"
-          }
-        ],
-        "verified": false,
-        "image": "assets/img/cheat/gta-iv/spawn-banshee.svg"
-      },
-      {
-        "id": "spawn-comet",
-        "effect": "Spawn a Comet",
-        "codes": [
-          {
-            "platform": "Mobile phone",
-            "code": "227-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "245-555-0125 (BIK-555-0125)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/spawn-comet.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/double-t-custom.svg"
       },
       {
-        "id": "spawn-turismo",
-        "effect": "Spawn a Turismo",
+        "id": "explosive-sniper-rounds-and-91-3-and-93",
+        "effect": "Explosive sniper rounds &#91; 3 &#93;",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "625-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "486-555-2526 (GUN-555-BLAM)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/spawn-turismo.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/explosive-sniper-rounds-and-91-3-and-93.svg"
       },
       {
-        "id": "spawn-annihilator",
-        "effect": "Spawn an Annihilator",
+        "id": "fib-buffalo",
+        "effect": "FIB Buffalo",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "359-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "227-555-0100 (CAR-555-0100)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/spawn-annihilator.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/fib-buffalo.svg"
       },
       {
-        "id": "spawn-nrg-900",
-        "effect": "Spawn an NRG-900",
+        "id": "floater",
+        "effect": "Floater",
         "codes": [
           {
-            "platform": "Mobile phone",
-            "code": "938-555-0100",
-            "input": "phone"
+            "platform": "Phone number",
+            "code": "938-555-0150 (WET-555-0150)",
+            "input": "touch"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-iv/spawn-nrg-900.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/floater.svg"
+      },
+      {
+        "id": "gang-burrito",
+        "effect": "Gang Burrito",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "826-555-0150 (VAN-555-0150)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/gang-burrito.svg"
+      },
+      {
+        "id": "hakuchou-custom",
+        "effect": "Hakuchou Custom",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "245-555-0199 (BIK-555-0199)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/hakuchou-custom.svg"
+      },
+      {
+        "id": "hexer",
+        "effect": "Hexer",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "245-555-0150 (BIK-555-0150)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/hexer.svg"
+      },
+      {
+        "id": "increase-wanted-level-by-one-star",
+        "effect": "Increase wanted level by one star",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "267-555-0150 (COP-555-0150)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/increase-wanted-level-by-one-star.svg"
+      },
+      {
+        "id": "innovation",
+        "effect": "Innovation",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "245-555-0100 (BIK-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/innovation.svg"
+      },
+      {
+        "id": "jetmax",
+        "effect": "Jetmax",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "938-555-0100 (WET-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/jetmax.svg"
+      },
+      {
+        "id": "luis-throws-explosive-punches-and-91-2-and-93",
+        "effect": "Luis throws explosive punches &#91; 2 &#93;",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "276-555-2666 (ARM-555-BOOM)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/luis-throws-explosive-punches-and-91-2-and-93.svg"
+      },
+      {
+        "id": "nrg-900",
+        "effect": "NRG 900",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "625-555-0100 (MBK-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/nrg-900.svg"
+      },
+      {
+        "id": "parachute",
+        "effect": "Parachute",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "359-555-7272 (FLY-555-PARA)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/parachute.svg"
+      },
+      {
+        "id": "poor-weapons-set-and-refill-ammo-knife-pistol-pump",
+        "effect": "Poor weapons set and refill ammo ( Knife , Pistol , Pump Shotgun , Micro-SMG , Assault Rifle , Combat Sniper , Molotov Cocktail and RPG )",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "486-555-0150 (GUN-555-0150)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/poor-weapons-set-and-refill-ammo-knife-pistol-pump.svg"
+      },
+      {
+        "id": "refill-health-and-ammo-repair-vehicle-and-advanced",
+        "effect": "Refill health and ammo, repair vehicle, and advanced weapons set",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "482-555-0100 (GTA-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/refill-health-and-ammo-repair-vehicle-and-advanced.svg"
+      },
+      {
+        "id": "refill-health-and-armor-repair-vehicle",
+        "effect": "Refill health and armor, repair vehicle",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "362-555-0100 (DOC-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/refill-health-and-armor-repair-vehicle.svg"
+      },
+      {
+        "id": "sanchez",
+        "effect": "Sanchez",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "625-555-0150 (MBK-555-0150)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/sanchez.svg"
+      },
+      {
+        "id": "slamvan",
+        "effect": "Slamvan",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "826-555-0100 (VAN-555-0100)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/slamvan.svg"
+      },
+      {
+        "id": "supergt",
+        "effect": "SuperGT",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "227-555-0168 (CAR-555-0168)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/supergt.svg"
+      },
+      {
+        "id": "turismo",
+        "effect": "Turismo",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "227-555-0147 (CAR-555-0147)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/turismo.svg"
+      },
+      {
+        "id": "vader",
+        "effect": "Vader",
+        "codes": [
+          {
+            "platform": "Phone number",
+            "code": "625-555-3273 (MBK-555-FARE)",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/vader.svg"
       }
     ]
   },

@@ -2,22 +2,498 @@
   "game": "gta",
   "game_title": "Grand Theft Auto",
   "section": "cheats",
-  "coverage": "limited",
-  "count": 1,
+  "coverage": "complete",
+  "count": 35,
   "items": [
     {
-      "id": "full-health",
-      "effect": "Full health",
+      "id": "10-score-multipliers-from-the-start",
+      "effect": "+10 Score Multipliers from the start.",
       "codes": [
         {
           "platform": "PC",
-          "code": "GESUNDHEIT",
+          "code": "HATEMACHINE",
           "input": "keyboard"
         }
       ],
-      "verified": false,
-      "source": "Cheat string carried over from the 3D era; verify against the 1997 PC build",
-      "image": "assets/img/cheat/gta/full-health.svg"
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/10-score-multipliers-from-the-start.svg"
+    },
+    {
+      "id": "9-999-990-points",
+      "effect": "9,999,990 points",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "WEYHEY",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/9-999-990-points.svg"
+    },
+    {
+      "id": "99-lives",
+      "effect": "99 lives",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "SATANLIVES",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/99-lives.svg"
+    },
+    {
+      "id": "999-999-999-points-from-the-start",
+      "effect": "999,999,999 points from the start.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ITCOULDBEYOU",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/999-999-999-points-from-the-start.svg"
+    },
+    {
+      "id": "access-san-andreas-parts-1-and-2",
+      "effect": "Access San Andreas parts 1 and 2",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "TVMAN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/access-san-andreas-parts-1-and-2.svg"
+    },
+    {
+      "id": "all-cheats",
+      "effect": "All Cheats",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "T H E S H I T",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-cheats.svg"
+    },
+    {
+      "id": "all-cities",
+      "effect": "All Cities",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Caprice",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-cities.svg"
+    },
+    {
+      "id": "all-cities-parts-1-and-2-except-vice-city",
+      "effect": "All Cities parts 1 and 2 except Vice City .",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "URGE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-cities-parts-1-and-2-except-vice-city.svg"
+    },
+    {
+      "id": "all-cities-infinite-weapons-and-99-lives",
+      "effect": "All cities,infinite weapons and 99 lives",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "BSTARD",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-cities-infinite-weapons-and-99-lives.svg"
+    },
+    {
+      "id": "all-six-chapters-unlocked",
+      "effect": "All six chapters unlocked.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ITSGALLUS NINEINAROW SUPER WELL",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-six-chapters-unlocked.svg"
+    },
+    {
+      "id": "all-weapons",
+      "effect": "All Weapons",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Groovy",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-weapons.svg"
+    },
+    {
+      "id": "all-weapons-with-full-ammo",
+      "effect": "All weapons with full ammo",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad *",
+          "input": "touch"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-weapons-with-full-ammo.svg"
+    },
+    {
+      "id": "all-weapons-armor-and-a-jail-card",
+      "effect": "All Weapons, Armor and a Jail Card",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "PECKINPAH",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/all-weapons-armor-and-a-jail-card.svg"
+    },
+    {
+      "id": "center-camera-view",
+      "effect": "Center camera view",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Home",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/center-camera-view.svg"
+    },
+    {
+      "id": "disable-offensive-language",
+      "effect": "Disable offensive language",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "IAMNOTGARYPENN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/disable-offensive-language.svg"
+    },
+    {
+      "id": "disable-wanted-level-press-ctrl-enter-after-entering",
+      "effect": "Disable wanted level. Press Ctrl + Enter after entering train to hijack it.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "IAMTHELAW STEVESMATES",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/disable-wanted-level-press-ctrl-enter-after-entering.svg"
+    },
+    {
+      "id": "enable-coordinates",
+      "effect": "Enable Coordinates",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "BLOWME",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/enable-coordinates.svg"
+    },
+    {
+      "id": "enable-offensive-language",
+      "effect": "Enable offensive language",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "IAMGARYPENN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/enable-offensive-language.svg"
+    },
+    {
+      "id": "five-times-multiplier",
+      "effect": "Five Times Multiplier",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "EXCREMENT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/five-times-multiplier.svg"
+    },
+    {
+      "id": "gives-the-player-all-weapons-full-armor-and-a-get-out",
+      "effect": "Gives the player all weapons, full Armor and a 'Get Out of Jail Free Card' from the start.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SUCKMYROCKET",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/gives-the-player-all-weapons-full-armor-and-a-get-out.svg"
+    },
+    {
+      "id": "god-cheat",
+      "effect": "God Cheat",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "HANGTHEDJ",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/god-cheat.svg"
+    },
+    {
+      "id": "infinite-lives",
+      "effect": "Infinite lives.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ITSTANTRUM 6031769",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/infinite-lives.svg"
+    },
+    {
+      "id": "level-select",
+      "effect": "Level Select",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "SKYBABIES",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/level-select.svg"
+    },
+    {
+      "id": "level-select-with-extra-options",
+      "effect": "Level Select with Extra Options",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "INGLORIOUS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/level-select-with-extra-options.svg"
+    },
+    {
+      "id": "liberty-city-parts-1-and-2",
+      "effect": "Liberty City parts 1 and 2",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "FECK",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/liberty-city-parts-1-and-2.svg"
+    },
+    {
+      "id": "no-police",
+      "effect": "No Police",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "CHUFF",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/no-police.svg"
+    },
+    {
+      "id": "pan-camera-down",
+      "effect": "Pan camera down",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad 2",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/pan-camera-down.svg"
+    },
+    {
+      "id": "pan-camera-left",
+      "effect": "Pan camera left",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad 4",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/pan-camera-left.svg"
+    },
+    {
+      "id": "pan-camera-right",
+      "effect": "Pan camera right",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad 6",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/pan-camera-right.svg"
+    },
+    {
+      "id": "pan-camera-up",
+      "effect": "Pan camera up",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad 8",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/pan-camera-up.svg"
+    },
+    {
+      "id": "pause-and-advance-single-frame",
+      "effect": "Pause and advance single frame",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "Numpad +",
+          "input": "touch"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/pause-and-advance-single-frame.svg"
+    },
+    {
+      "id": "press-the-to-enable-all-weapons",
+      "effect": "Press the * to enable all weapons.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BUCKFAST CALLMENIGEL",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/press-the-to-enable-all-weapons.svg"
+    },
+    {
+      "id": "raise-point-values",
+      "effect": "Raise point values.",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "% MACHINE",
+          "input": "touch"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/raise-point-values.svg"
+    },
+    {
+      "id": "restart-current-chapter",
+      "effect": "Restart current chapter",
+      "codes": [
+        {
+          "platform": "Debug Cheat (PC only)",
+          "code": "F12",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/restart-current-chapter.svg"
+    },
+    {
+      "id": "wanted-level-max",
+      "effect": "Wanted Level Max ($)",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "EATTHIS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta/wanted-level-max.svg"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-15T16:25:05.077Z",
+  "generated": "2026-11-15T16:39:17.040Z",
   "games": [
     {
       "slug": "gta",
       "title": "Grand Theft Auto",
       "status": "released",
-      "records": 125,
+      "records": 159,
       "sections": {
         "characters": {
           "count": 4,
@@ -24,8 +24,8 @@
           "coverage": "limited"
         },
         "cheats": {
-          "count": 1,
-          "coverage": "limited"
+          "count": 35,
+          "coverage": "complete"
         },
         "locations": {
           "count": 3,
@@ -41,7 +41,7 @@
       "slug": "gta-london-1969",
       "title": "Grand Theft Auto: London 1969",
       "status": "released",
-      "records": 66,
+      "records": 93,
       "sections": {
         "characters": {
           "count": 3,
@@ -60,8 +60,8 @@
           "coverage": "limited"
         },
         "cheats": {
-          "count": 1,
-          "coverage": "limited"
+          "count": 28,
+          "coverage": "complete"
         },
         "locations": {
           "count": 4,
@@ -113,7 +113,7 @@
       "slug": "gta-2",
       "title": "Grand Theft Auto 2",
       "status": "released",
-      "records": 35,
+      "records": 67,
       "sections": {
         "characters": {
           "count": 8,
@@ -132,8 +132,8 @@
           "coverage": "limited"
         },
         "cheats": {
-          "count": 1,
-          "coverage": "limited"
+          "count": 33,
+          "coverage": "complete"
         },
         "locations": {
           "count": 4,
@@ -149,7 +149,7 @@
       "slug": "gta-iii",
       "title": "Grand Theft Auto III",
       "status": "released",
-      "records": 184,
+      "records": 193,
       "sections": {
         "characters": {
           "count": 19,
@@ -168,8 +168,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 14,
-          "coverage": "partial"
+          "count": 23,
+          "coverage": "complete"
         },
         "locations": {
           "count": 18,
@@ -185,7 +185,7 @@
       "slug": "gta-vice-city",
       "title": "Grand Theft Auto: Vice City",
       "status": "released",
-      "records": 193,
+      "records": 232,
       "sections": {
         "characters": {
           "count": 20,
@@ -204,8 +204,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 20,
-          "coverage": "partial"
+          "count": 59,
+          "coverage": "complete"
         },
         "locations": {
           "count": 17,
@@ -221,7 +221,7 @@
       "slug": "gta-san-andreas",
       "title": "Grand Theft Auto: San Andreas",
       "status": "released",
-      "records": 252,
+      "records": 328,
       "sections": {
         "characters": {
           "count": 23,
@@ -240,8 +240,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 25,
-          "coverage": "partial"
+          "count": 101,
+          "coverage": "complete"
         },
         "locations": {
           "count": 22,
@@ -293,7 +293,7 @@
       "slug": "gta-liberty-city-stories",
       "title": "Grand Theft Auto: Liberty City Stories",
       "status": "released",
-      "records": 128,
+      "records": 171,
       "sections": {
         "characters": {
           "count": 14,
@@ -312,8 +312,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 0,
-          "coverage": "limited"
+          "count": 43,
+          "coverage": "complete"
         },
         "locations": {
           "count": 10,
@@ -329,7 +329,7 @@
       "slug": "gta-vice-city-stories",
       "title": "Grand Theft Auto: Vice City Stories",
       "status": "released",
-      "records": 119,
+      "records": 150,
       "sections": {
         "characters": {
           "count": 13,
@@ -348,8 +348,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 0,
-          "coverage": "limited"
+          "count": 31,
+          "coverage": "complete"
         },
         "locations": {
           "count": 10,
@@ -365,7 +365,7 @@
       "slug": "gta-iv",
       "title": "Grand Theft Auto IV",
       "status": "released",
-      "records": 188,
+      "records": 208,
       "sections": {
         "characters": {
           "count": 18,
@@ -384,8 +384,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 12,
-          "coverage": "partial"
+          "count": 32,
+          "coverage": "complete"
         },
         "locations": {
           "count": 12,
@@ -421,7 +421,7 @@
         },
         "cheats": {
           "count": 0,
-          "coverage": "limited"
+          "coverage": "empty"
         },
         "locations": {
           "count": 6,
@@ -457,7 +457,7 @@
         },
         "cheats": {
           "count": 0,
-          "coverage": "limited"
+          "coverage": "empty"
         },
         "locations": {
           "count": 7,
@@ -473,7 +473,7 @@
       "slug": "gta-chinatown-wars",
       "title": "Grand Theft Auto: Chinatown Wars",
       "status": "released",
-      "records": 95,
+      "records": 115,
       "sections": {
         "characters": {
           "count": 10,
@@ -492,8 +492,8 @@
           "coverage": "limited"
         },
         "cheats": {
-          "count": 0,
-          "coverage": "limited"
+          "count": 20,
+          "coverage": "complete"
         },
         "locations": {
           "count": 5,
@@ -509,7 +509,7 @@
       "slug": "gta-v",
       "title": "Grand Theft Auto V",
       "status": "released",
-      "records": 183,
+      "records": 207,
       "sections": {
         "characters": {
           "count": 19,
@@ -528,8 +528,8 @@
           "coverage": "partial"
         },
         "cheats": {
-          "count": 12,
-          "coverage": "partial"
+          "count": 36,
+          "coverage": "complete"
         },
         "locations": {
           "count": 14,
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 1883,
+    "total": 2238,
     "real": 0,
-    "placeholder": 1883
+    "placeholder": 2238
   }
 }

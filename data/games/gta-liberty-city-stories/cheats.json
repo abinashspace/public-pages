@@ -2,7 +2,825 @@
   "game": "gta-liberty-city-stories",
   "game_title": "Grand Theft Auto: Liberty City Stories",
   "section": "cheats",
-  "coverage": "limited",
-  "count": 0,
-  "items": []
+  "coverage": "complete",
+  "count": 43,
+  "items": [
+    {
+      "id": "250-000",
+      "effect": "$250,000",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → R1 → Triangle → L1 → R1 → Circle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → R Trigger → Triangle → L Trigger → R Trigger → Circle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/250-000.svg"
+    },
+    {
+      "id": "aggressive-drivers",
+      "effect": "Aggressive drivers",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Square → Square → R1 → Cross → Cross → L1 → Circle → Circle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Square → Square → R Trigger → Cross → Cross → L Trigger → Circle → Circle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/aggressive-drivers.svg"
+    },
+    {
+      "id": "all-green-lights",
+      "effect": "All green lights",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Triangle → Triangle → R1 → Square → Square → L1 → Cross → Cross",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Triangle → Triangle → R Trigger → Square → Square → L Trigger → Cross → Cross",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/all-green-lights.svg"
+    },
+    {
+      "id": "all-vehicles-chrome-plated",
+      "effect": "All vehicles chrome plated",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Triangle → R1 → L1 → D-Pad Down → D-Pad Down → R1 → R1 → Triangle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Triangle → R Trigger → L Trigger → D-Pad Down → D-Pad Down → R Trigger → R Trigger → Triangle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/all-vehicles-chrome-plated.svg"
+    },
+    {
+      "id": "big-heads",
+      "effect": "Big heads",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Circle → Circle → Cross → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Circle → Circle → Cross → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/big-heads.svg"
+    },
+    {
+      "id": "black-traffic",
+      "effect": "Black traffic",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Circle → Circle → R1 → Triangle → Triangle → L1 → Square → Square",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Circle → Circle → R Trigger → Triangle → Triangle → L Trigger → Square → Square",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/black-traffic.svg"
+    },
+    {
+      "id": "cars-drive-on-water",
+      "effect": "Cars drive on water",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Circle → Cross → D-Pad Down → Circle → Cross → D-Pad Up → L1 → L1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Circle → Cross → D-Pad Down → Circle → Cross → D-Pad Up → L Trigger → L Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/cars-drive-on-water.svg"
+    },
+    {
+      "id": "change-bike-tire-size",
+      "effect": "Change bike tire size",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Circle → D-Pad Right → Cross → D-Pad Up → D-Pad Right → Cross → L1 → Square",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Circle → D-Pad Right → Cross → D-Pad Up → D-Pad Right → Cross → L Trigger → Square",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/change-bike-tire-size.svg"
+    },
+    {
+      "id": "clear-weather",
+      "effect": "Clear weather",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Down → Circle → D-Pad Up → D-Pad Down → Square → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Down → Circle → D-Pad Up → D-Pad Down → Square → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/clear-weather.svg"
+    },
+    {
+      "id": "commit-suicide",
+      "effect": "Commit suicide",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → D-Pad Down → D-Pad Left → R1 → Cross → Circle → D-Pad Up → Triangle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → D-Pad Down → D-Pad Left → R Trigger → Cross → Circle → D-Pad Up → Triangle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/commit-suicide.svg"
+    },
+    {
+      "id": "destroy-all-cars",
+      "effect": "Destroy all cars",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → D-Pad Left → L1 → L1 → D-Pad Right → Cross → Square",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → D-Pad Left → L Trigger → L Trigger → D-Pad Right → Cross → Square",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/destroy-all-cars.svg"
+    },
+    {
+      "id": "display-game-credits",
+      "effect": "Display game credits",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → R1 → L1 → R1 → D-Pad Up → D-Pad Down → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → R Trigger → L Trigger → R Trigger → D-Pad Up → D-Pad Down → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/display-game-credits.svg"
+    },
+    {
+      "id": "faster-clock",
+      "effect": "Faster clock",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → D-Pad Left → L1 → L1 → D-Pad Right → Circle → Cross",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → D-Pad Left → L Trigger → L Trigger → D-Pad Right → Circle → Cross",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/faster-clock.svg"
+    },
+    {
+      "id": "faster-gameplay",
+      "effect": "Faster gameplay",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "R1 → R1 → L1 → R1 → R1 → L1 → D-Pad Down → Cross",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "R Trigger → R Trigger → L Trigger → R Trigger → R Trigger → L Trigger → D-Pad Down → Cross",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/faster-gameplay.svg"
+    },
+    {
+      "id": "foggy-weather",
+      "effect": "Foggy weather",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Down → Triangle → D-Pad Up → D-Pad Down → Cross → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Down → Triangle → D-Pad Up → D-Pad Down → Cross → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/foggy-weather.svg"
+    },
+    {
+      "id": "full-armor",
+      "effect": "Full armor",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → R1 → Circle → L1 → R1 → Cross → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → R Trigger → Circle → L Trigger → R Trigger → Cross → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/full-armor.svg"
+    },
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → R1 → Cross → L1 → R1 → Square → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → R Trigger → Cross → L Trigger → R Trigger → Square → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/full-health.svg"
+    },
+    {
+      "id": "male-pedestrians-follow-you",
+      "effect": "Male pedestrians follow you",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Triangle → Triangle → Circle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Triangle → Triangle → Circle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/male-pedestrians-follow-you.svg"
+    },
+    {
+      "id": "media-attention-meter",
+      "effect": "Media attention meter",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → D-Pad Up → D-Pad Right → R1 → Triangle → Square → D-Pad Down → Cross",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → D-Pad Up → D-Pad Right → R Trigger → Triangle → Square → D-Pad Down → Cross",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/media-attention-meter.svg"
+    },
+    {
+      "id": "nearest-pedestrian-enters-your-vehicle",
+      "effect": "Nearest pedestrian enters your vehicle",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Cross → Square → D-Pad Down → Cross → Square → D-Pad Up → R1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Cross → Square → D-Pad Down → Cross → Square → D-Pad Up → R Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/nearest-pedestrian-enters-your-vehicle.svg"
+    },
+    {
+      "id": "never-wanted",
+      "effect": "Never wanted",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → Triangle → R1 → R1 → Cross → Square → Circle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → Triangle → R Trigger → R Trigger → Cross → Square → Circle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/never-wanted.svg"
+    },
+    {
+      "id": "overcast-weather",
+      "effect": "Overcast weather",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Down → Cross → D-Pad Up → D-Pad Down → Triangle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Down → Cross → D-Pad Up → D-Pad Down → Triangle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/overcast-weather.svg"
+    },
+    {
+      "id": "pedestrians-attack",
+      "effect": "Pedestrians attack",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → R1 → L1 → L1 → R1 → D-Pad Up → Triangle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → R Trigger → L Trigger → L Trigger → R Trigger → D-Pad Up → Triangle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/pedestrians-attack.svg"
+    },
+    {
+      "id": "pedestrians-have-weapons",
+      "effect": "Pedestrians have weapons",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "R1 → R1 → L1 → R1 → R1 → L1 → D-Pad Right → Circle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "R Trigger → R Trigger → L Trigger → R Trigger → R Trigger → L Trigger → D-Pad Right → Circle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/pedestrians-have-weapons.svg"
+    },
+    {
+      "id": "pedestrians-riot",
+      "effect": "Pedestrians riot",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → R1 → L1 → L1 → R1 → D-Pad Left → Square",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → R Trigger → L Trigger → L Trigger → R Trigger → D-Pad Left → Square",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/pedestrians-riot.svg"
+    },
+    {
+      "id": "perfect-traction",
+      "effect": "Perfect traction",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → D-Pad Up → D-Pad Left → R1 → Triangle → Circle → D-Pad Down → Cross → D-Pad Down",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → D-Pad Up → D-Pad Left → R Trigger → Triangle → Circle → D-Pad Down → Cross → D-Pad Down",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/perfect-traction.svg"
+    },
+    {
+      "id": "play-as-pedestrian",
+      "effect": "Play as pedestrian",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → D-Pad Left → L1 → L1 → D-Pad Right → Square → Triangle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → D-Pad Left → L Trigger → L Trigger → D-Pad Right → Square → Triangle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/play-as-pedestrian.svg"
+    },
+    {
+      "id": "rainy-weather",
+      "effect": "Rainy weather",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Down → Square → D-Pad Up → D-Pad Down → Circle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Down → Square → D-Pad Up → D-Pad Down → Circle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/rainy-weather.svg"
+    },
+    {
+      "id": "raise-wanted-level",
+      "effect": "Raise wanted level",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → R1 → Square → L1 → R1 → Triangle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → R Trigger → Square → L Trigger → R Trigger → Triangle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/raise-wanted-level.svg"
+    },
+    {
+      "id": "reverse-upside-down",
+      "effect": "Reverse upside down",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Cross → Cross → Cross → D-Pad Down → D-Pad Down → D-Pad Right → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Cross → Cross → Cross → D-Pad Down → D-Pad Down → D-Pad Right → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/reverse-upside-down.svg"
+    },
+    {
+      "id": "slower-gameplay",
+      "effect": "Slower gameplay",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "R1 → Triangle → Cross → R1 → Square → Circle → D-Pad Left → D-Pad Right",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "R Trigger → Triangle → Cross → R Trigger → Square → Circle → D-Pad Left → D-Pad Right",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/slower-gameplay.svg"
+    },
+    {
+      "id": "spawn-rhino",
+      "effect": "Spawn Rhino",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → D-Pad Left → L1 → L1 → D-Pad Right → Triangle → Circle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → D-Pad Left → L Trigger → L Trigger → D-Pad Right → Triangle → Circle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/spawn-rhino.svg"
+    },
+    {
+      "id": "spawn-trashmaster",
+      "effect": "Spawn Trashmaster",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Triangle → Circle → D-Pad Down → Triangle → Circle → D-Pad Up → L1 → L1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Triangle → Circle → D-Pad Down → Triangle → Circle → D-Pad Up → L Trigger → L Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/spawn-trashmaster.svg"
+    },
+    {
+      "id": "sunny-weather",
+      "effect": "Sunny weather",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "L1 → L1 → Circle → R1 → R1 → Square → Triangle → Cross",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "L Trigger → L Trigger → Circle → R Trigger → R Trigger → Square → Triangle → Cross",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/sunny-weather.svg"
+    },
+    {
+      "id": "unlock-all-multiplayer-content",
+      "effect": "Unlock all multiplayer content",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Triangle → Triangle → Circle → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Triangle → Triangle → Circle → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/unlock-all-multiplayer-content.svg"
+    },
+    {
+      "id": "unlock-multiplayer-content-set-1",
+      "effect": "Unlock multiplayer content set 1",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Square → Square → Triangle → R1 → L1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Square → Square → Triangle → R Trigger → L Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/unlock-multiplayer-content-set-1.svg"
+    },
+    {
+      "id": "unlock-multiplayer-content-set-2",
+      "effect": "Unlock multiplayer content set 2",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Circle → Circle → Cross → L1 → R1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Circle → Circle → Cross → L Trigger → R Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/unlock-multiplayer-content-set-2.svg"
+    },
+    {
+      "id": "unlock-multiplayer-content-set-3",
+      "effect": "Unlock multiplayer content set 3",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Cross → Cross → Square → R1 → L1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → D-Pad Up → D-Pad Up → Cross → Cross → Square → R Trigger → L Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/unlock-multiplayer-content-set-3.svg"
+    },
+    {
+      "id": "upside-down",
+      "effect": "Upside down",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Cross → Cross → Square → R1 → L1",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Down → D-Pad Down → D-Pad Down → Cross → Cross → Square → R Trigger → L Trigger",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/upside-down.svg"
+    },
+    {
+      "id": "weapon-set-1",
+      "effect": "Weapon set 1",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → Square → Square → D-Pad Down → D-Pad Left → Square → Square → D-Pad Right",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → Square → Square → D-Pad Down → D-Pad Left → Square → Square → D-Pad Right",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/weapon-set-1.svg"
+    },
+    {
+      "id": "weapon-set-2",
+      "effect": "Weapon set 2",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → Circle → Circle → D-Pad Down → D-Pad Left → Circle → Circle → D-Pad Right",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → Circle → Circle → D-Pad Down → D-Pad Left → Circle → Circle → D-Pad Right",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/weapon-set-2.svg"
+    },
+    {
+      "id": "weapon-set-3",
+      "effect": "Weapon set 3",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "D-Pad Up → Cross → Cross → D-Pad Down → D-Pad Left → Cross → Cross → D-Pad Right",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "D-Pad Up → Cross → Cross → D-Pad Down → D-Pad Left → Cross → Cross → D-Pad Right",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/weapon-set-3.svg"
+    },
+    {
+      "id": "white-traffic",
+      "effect": "White traffic",
+      "codes": [
+        {
+          "platform": "PlayStation",
+          "code": "Cross → Cross → R1 → Circle → Circle → L1 → Triangle → Triangle",
+          "input": "button"
+        },
+        {
+          "platform": "PlayStation Portable",
+          "code": "Cross → Cross → R Trigger → Circle → Circle → L Trigger → Triangle → Triangle",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GTA Wiki cheat code tables (per-platform codes)",
+      "image": "assets/img/cheat/gta-liberty-city-stories/white-traffic.svg"
+    }
+  ]
 }

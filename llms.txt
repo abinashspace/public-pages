@@ -24,12 +24,12 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto (1997, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta.json
-- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 125
+- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 159
 
 ### Grand Theft Auto: London 1969 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1969/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-london-1969.json
-- Cities: London · Status: released · Records: 66
+- Cities: London · Status: released · Records: 93
 
 ### Grand Theft Auto: London 1961 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1961/
@@ -39,22 +39,22 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto 2 (1999, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-2/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-2.json
-- Cities: Anywhere City · Status: released · Records: 35
+- Cities: Anywhere City · Status: released · Records: 67
 
 ### Grand Theft Auto III (2001, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iii/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iii.json
-- Cities: Liberty City · Status: released · Records: 184
+- Cities: Liberty City · Status: released · Records: 193
 
 ### Grand Theft Auto: Vice City (2002, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city.json
-- Cities: Vice City · Status: released · Records: 193
+- Cities: Vice City · Status: released · Records: 232
 
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-san-andreas.json
-- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 252
+- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 328
 
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
@@ -64,17 +64,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto: Liberty City Stories (2005, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-liberty-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-liberty-city-stories.json
-- Cities: Liberty City · Status: released · Records: 128
+- Cities: Liberty City · Status: released · Records: 171
 
 ### Grand Theft Auto: Vice City Stories (2006, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city-stories.json
-- Cities: Vice City · Status: released · Records: 119
+- Cities: Vice City · Status: released · Records: 150
 
 ### Grand Theft Auto IV (2008, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv.json
-- Cities: Liberty City · Status: released · Records: 188
+- Cities: Liberty City · Status: released · Records: 208
 
 ### Grand Theft Auto IV: The Lost and Damned (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/
@@ -89,12 +89,12 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto: Chinatown Wars (2009, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-chinatown-wars/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-chinatown-wars.json
-- Cities: Liberty City · Status: released · Records: 95
+- Cities: Liberty City · Status: released · Records: 115
 
 ### Grand Theft Auto V (2013, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-v/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-v.json
-- Cities: Los Santos, Blaine County · Status: released · Records: 183
+- Cities: Los Santos, Blaine County · Status: released · Records: 207
 
 ### Grand Theft Auto Online (2013, Online)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-online/

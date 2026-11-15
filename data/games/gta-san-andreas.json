@@ -5,14 +5,14 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.866Z",
+    "generated": "2026-11-15T16:39:16.821Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
-      "cheats": "partial",
+      "cheats": "complete",
       "locations": "partial",
       "collectibles": "complete"
     },
@@ -21,7 +21,7 @@
       "missions": 101,
       "vehicles": 54,
       "weapons": 21,
-      "cheats": 25,
+      "cheats": 101,
       "locations": 22,
       "collectibles": 6
     },
@@ -2648,337 +2648,3271 @@
     ]
   },
   "cheats": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
-        "id": "cars-fly-away",
-        "effect": "Cars fly away when hit",
+        "id": "adrenaline-effects",
+        "effect": "Adrenaline effects",
         "codes": [
           {
-            "platform": "PC",
-            "code": "BSXSGGC",
-            "input": "keyboard"
-          }
-        ],
-        "verified": false,
-        "image": "assets/img/cheat/gta-san-andreas/cars-fly-away.svg"
-      },
-      {
-        "id": "clear-wanted",
-        "effect": "Clear wanted level",
-        "codes": [
+            "platform": "PlayStation",
+            "code": "Cross → Cross → Square → R1 → L1 → Cross → D-Pad Down → D-Pad Left → Cross",
+            "input": "button"
+          },
           {
             "platform": "PC",
-            "code": "ASNAEB",
-            "input": "keyboard"
-          }
-        ],
-        "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/clear-wanted.svg"
-      },
-      {
-        "id": "suicide",
-        "effect": "Commit suicide",
-        "codes": [
+            "code": "ANOSEONGLASS MUNASEF TAKEACHILLPILL*",
+            "input": "touch"
+          },
           {
-            "platform": "PC",
-            "code": "SZCMAWO",
+            "platform": "Xbox",
+            "code": "A → A → X → Right Trigger (RT) → Left Trigger (LT) → A → D-Pad Down → D-Pad Left → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → A → X → Right Trigger (RT) → Left Trigger (LT) → A → D-Pad Down → D-Pad Left → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "SLSNRKK",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/suicide.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/adrenaline-effects.svg"
       },
       {
-        "id": "drive-by-aim",
-        "effect": "Drive-by from any car",
+        "id": "advance-4-hours",
+        "effect": "Advance 4 hours",
         "codes": [
           {
-            "platform": "PC",
-            "code": "OUIQDMW",
+            "platform": "Android 2013",
+            "code": "YACKMWS",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/drive-by-aim.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/advance-4-hours.svg"
       },
       {
-        "id": "fast-time",
-        "effect": "Faster game clock",
+        "id": "aggressive-drivers",
+        "effect": "Aggressive drivers",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R2 → D-Pad Up → D-Pad Up → R2 → Circle → Square → R2 → L1 → D-Pad Right → D-Pad Down → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "YSOHNUL",
+            "code": "YLTEICZ ALLDRIVERSARECRIMINALS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Black → D-Pad Up → D-Pad Up → Black → B → X → Black → Left Trigger (LT) → D-Pad Left → D-Pad Down → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Bumper (RB) → D-Pad Up → D-Pad Up → Right Bumper (RB) → B → X → Right Bumper (RB) → Left Trigger (LT) → D-Pad Left → D-Pad Down → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "IOKXTFJ",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/fast-time.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/aggressive-drivers.svg"
       },
       {
-        "id": "health-armor-money",
-        "effect": "Full health, armor and $250,000",
+        "id": "aggressive-traffic",
+        "effect": "Aggressive traffic",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "R2 → Circle → R1 → L2 → D-Pad Left → R1 → L1 → R2 → L2",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "HESOYAM",
+            "code": "YLTEICZ ALLDRIVERSARECRIMINALS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → B → Right Trigger (RT) → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Black → White",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → B → Right Trigger (RT) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Bumper (RB) → Left Bumper (LB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "IOKXTFJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/aggressive-traffic.svg"
+      },
+      {
+        "id": "all-cars-have-nitrous",
+        "effect": "All cars have nitrous (",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → Triangle → R1 → L1 → D-Pad Up → Square → Triangle → D-Pad Down → Circle → L2 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SPEEDFREAK* COXEFGU",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Y → Right Trigger (RT) → Left Trigger (LT) → D-Pad Up → X → Y → D-Pad Down → B → White → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Y → Right Trigger (RT) → Left Trigger (LT) → D-Pad Up → X → Y → D-Pad Down → B → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "WUSDOTO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/all-cars-have-nitrous.svg"
+      },
+      {
+        "id": "always-21-00-with-orange-sky",
+        "effect": "Always 21:00 with orange sky",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → L2 → R1 → D-Pad Right → Square → Square → L1 → L2 → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "OFVIAC DONTBRINGONTHENIGHT*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → White → Right Trigger (RT) → D-Pad Left → X → X → Left Trigger (LT) → White → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Bumper (LB) → Right Trigger (RT) → D-Pad Left → X → X → Left Trigger (LT) → Left Bumper (LB) → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "KTGDLXY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/always-21-00-with-orange-sky.svg"
+      },
+      {
+        "id": "always-midnight-00-00",
+        "effect": "Always midnight (00:00)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → L1 → R1 → D-Pad Right → Cross → D-Pad Up → L1 → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "NIGHTPROWLER* XJVSNAJ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → A → D-Pad Up → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → A → D-Pad Up → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AWUJNBB",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/always-midnight-00-00.svg"
+      },
+      {
+        "id": "armor-health-and-250-000-in-money-also-repairs-vehicles",
+        "effect": "Armor , health and $250,000 in money (also repairs vehicles occupied by the player and increases the criminal rating to 40)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → Cross → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "HESOYAM INEEDSOMEHELP* ENABLEFORTUNEASPECTS 2A873S8A",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → A → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → A → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "PJYNQCQ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/armor-health-and-250-000-in-money-also-repairs-vehicles.svg"
+      },
+      {
+        "id": "beach-party-theme-cjs-outfit-is-changed-to-victim-olive",
+        "effect": "Beach party theme ( CJ's outfit is changed to Victim olive shorts, flip-flops, and ProLaps sunglasses. Traffic and pedestrians are replaced with those usually seen around Verona Beach . Weather set to very sunny. )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → Square → Circle → L1 → R1 → Triangle → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "LIFESABEACH* CIKGCGX",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → X → B → Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → X → B → Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BWCMMTD",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/beach-party-theme-cjs-outfit-is-changed-to-victim-olive.svg"
+      },
+      {
+        "id": "beater-cheap-traffic",
+        "effect": "Beater/cheap traffic",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Right → L1 → D-Pad Up → Cross → L1 → L2 → R2 → R1 → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BGKGTJH",
             "input": "keyboard"
           },
           {
-            "platform": "PlayStation 2",
-            "code": "R1 R2 L1 X LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP",
+            "platform": "Xbox",
+            "code": "White → D-Pad Left → Left Trigger (LT) → D-Pad Up → A → Left Trigger (LT) → White → Black → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Bumper (LB) → D-Pad Left → Left Trigger (LT) → D-Pad Up → A → Left Trigger (LT) → Left Bumper (LB) → Right Bumper (RB) → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "JTBCSN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/beater-cheap-traffic.svg"
+      },
+      {
+        "id": "black-traffic",
+        "effect": "Black traffic",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L2 → D-Pad Up → R1 → D-Pad Left → Cross → R1 → L1 → D-Pad Left → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "IOWDLAC SOLONGASITSBLACK*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → White → D-Pad Up → Right Trigger (RT) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Bumper (LB) → D-Pad Up → Right Trigger (RT) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GOYDVAO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/black-traffic.svg"
+      },
+      {
+        "id": "carls-car-is-invincible-and-can-instantly-destroy-other",
+        "effect": "Carl's car is invincible and can instantly destroy other vehicles (auto-immune car)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → L2 → L2 → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → R1 → R2 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "JCNRUAD TOUCHMYCARYOUDIE*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → White → White → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → Right Trigger (RT) → Black → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → Right Trigger (RT) → Right Bumper (RB) → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BXBTUBTI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/carls-car-is-invincible-and-can-instantly-destroy-other.svg"
+      },
+      {
+        "id": "carnival-funhouse-theme-cjs-outfit-changes-to-a-pink",
+        "effect": "Carnival/funhouse theme ( CJ's outfit changes to a pink Cesar haircut, joker glasses and red heart boxers . Pedestrians are replaced with fast food workers and clowns. Traffic consists of Pizza Boys , BF Injections , Hotknives , Tugs , Quads , Karts , Mr. Whoopees , and Hotdogs . All four-wheeled vehicles, except emergency vehicles, are equipped with hydraulics. )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → L1 → Square → Square → Circle → Square → D-Pad Down → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "CRAZYTOWN* PRIEBJ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → Left Trigger (LT) → X → X → B → X → D-Pad Down → B",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → Left Trigger (LT) → X → X → B → X → D-Pad Down → B",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "HDLIWGB",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/carnival-funhouse-theme-cjs-outfit-changes-to-a-pink.svg"
+      },
+      {
+        "id": "cars-drive-on-water",
+        "effect": "Cars drive on water",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R2 → Circle → R1 → L2 → Square → R1 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Black → B → Right Trigger (RT) → White → X → Right Trigger (RT) → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Bumper (RB) → B → Right Trigger (RT) → Left Bumper (LB) → X → Right Trigger (RT) → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BDBGXNJI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/cars-drive-on-water.svg"
+      },
+      {
+        "id": "cars-float-away-when-hit",
+        "effect": "Cars float away when hit",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → R2 → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → L2 → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BUBBLECARS* BSXSGGC",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Black → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → White → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Right Bumper (RB) → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → Left Bumper (LB) → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "JBVIJXA",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/cars-float-away-when-hit.svg"
+      },
+      {
+        "id": "cj-jumps-10-times-higher",
+        "effect": "CJ jumps 10 times higher",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → Triangle → Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → R2 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "KANGAROO* LFGMHAL",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → Black → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → Right Bumper (RB) → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BFMANNZP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/cj-jumps-10-times-higher.svg"
+      },
+      {
+        "id": "cj-never-gets-hungry",
+        "effect": "CJ never gets hungry",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → L2 → R1 → Triangle → D-Pad Up → Square → L2 → D-Pad Up → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "AEDUWNV IAMNEVERHUNGRY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → White → Right Trigger (RT) → Y → D-Pad Up → X → White → D-Pad Up → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Left Bumper (LB) → Right Trigger (RT) → Y → D-Pad Up → X → Left Bumper (LB) → D-Pad Up → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "KBTMUVH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/cj-never-gets-hungry.svg"
+      },
+      {
+        "id": "cloudy-weather",
+        "effect": "Cloudy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Down → D-Pad Down → D-Pad Left → Square → D-Pad Left → R2 → Square → Cross → R1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ALNSFMZO DULLDULLDAY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "White → D-Pad Down → D-Pad Down → D-Pad Left → X → D-Pad Left → Black → X → A → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Bumper (LB) → D-Pad Down → D-Pad Down → D-Pad Left → X → D-Pad Left → Right Bumper (RB) → X → A → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "VBWEMQX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/cloudy-weather.svg"
+      },
+      {
+        "id": "commit-suicide-instant-death",
+        "effect": "Commit suicide / Instant death",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L2 → D-Pad Down → R1 → D-Pad Left → D-Pad Left → R1 → L1 → L2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SZCMAWO GOODBYECRUELWORLD*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → White → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → White → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Left Bumper (LB) → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Left Bumper (LB) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "SLOTSFK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/commit-suicide-instant-death.svg"
+      },
+      {
+        "id": "complete-invulnerability",
+        "effect": "Complete invulnerability",
+        "codes": [
+          {
+            "platform": "Android 2013",
+            "code": "GONPXWR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/complete-invulnerability.svg"
+      },
+      {
+        "id": "explode-all-vehicles-except-bicycles",
+        "effect": "Explode all vehicles (except bicycles)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L2 → R1 → L1 → L2 → R2 → Square → Triangle → Circle → Triangle → L2 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ALLCARSGOBOOM* CPKTNWT",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → White → Right Trigger (RT) → Left Trigger (LT) → White → Black → X → Y → B → Y → White → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → Left Bumper (LB) → Right Trigger (RT) → Left Trigger (LT) → Left Bumper (LB) → Right Bumper (RB) → X → Y → B → Y → Left Bumper (LB) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BKFONFE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/explode-all-vehicles-except-bicycles.svg"
+      },
+      {
+        "id": "fast-gameplay",
+        "effect": "Fast gameplay",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → L2 → L1 → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SPEEDITUP* PPGWJHT",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → White → Left Trigger (LT) → X",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → Left Bumper (LB) → Left Trigger (LT) → X",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EHWBWDS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/fast-gameplay.svg"
+      },
+      {
+        "id": "flying-boats",
+        "effect": "Flying boats",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Circle → D-Pad Up → L1 → D-Pad Right → R1 → D-Pad Right → D-Pad Up → Square → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FLYINGFISH* AFSNMSMW",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → B → D-Pad Up → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Up → X → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → B → D-Pad Up → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Up → X → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "PTHSEO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/flying-boats.svg"
+      },
+      {
+        "id": "flying-cars",
+        "effect": "Flying cars",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → D-Pad Down → L2 → D-Pad Up → L1 → Circle → D-Pad Up → Cross → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "RIPAZHA ANSWERTALKINVEHICLE CHITTYCHITTYBANGBANG*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → D-Pad Down → White → D-Pad Up → Left Trigger (LT) → B → D-Pad Up → A → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → D-Pad Down → Left Bumper (LB) → D-Pad Up → Left Trigger (LT) → B → D-Pad Up → A → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "DOTBSFK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/flying-cars.svg"
+      },
+      {
+        "id": "foggy-weather",
+        "effect": "Foggy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "CFVFGMJ CANTSEEWHEREIMGOING*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EGCEBVM",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/foggy-weather.svg"
+      },
+      {
+        "id": "full-weapon-aiming-in-vehicles-micro-smg-if-cj-doesnt",
+        "effect": "Full weapon aiming in vehicles + Micro SMG (If CJ doesn't have this type of weapon.)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → Square → L2 → D-Pad Right → Cross → R1 → D-Pad Down → R2 → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "OUIQDMW IWANNADRIVEBY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → X → White → D-Pad Left → A → Right Trigger (RT) → D-Pad Down → Black → B",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → X → Left Bumper (LB) → D-Pad Left → A → Right Trigger (RT) → D-Pad Down → Right Bumper (RB) → B",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "RYSMRM",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/full-weapon-aiming-in-vehicles-micro-smg-if-cj-doesnt.svg"
+      },
+      {
+        "id": "gang-members-spawn-much-faster-can-be-deactivated",
+        "effect": "Gang members spawn much faster (can be deactivated)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "MROEMZH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EAMLJNN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/gang-members-spawn-much-faster-can-be-deactivated.svg"
+      },
+      {
+        "id": "gang-wars-break-out-all-over-san-andreas-can-be",
+        "effect": "Gang wars break out all over San Andreas (can be deactivated)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ONLYHOMIESALLOWED*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Black → D-Pad Left → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Right Bumper (RB) → D-Pad Left → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EAMLJNN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/gang-wars-break-out-all-over-san-andreas-can-be.svg"
+      },
+      {
+        "id": "gangs-and-workers-can-be-deactivated",
+        "effect": "Gangs and workers (can be deactivated)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "MROEMZH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EAMLJNN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/gangs-and-workers-can-be-deactivated.svg"
+      },
+      {
+        "id": "hitman-level-for-all-weapons",
+        "effect": "Hitman level for all weapons",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Square → Cross → D-Pad Left → R1 → R2 → D-Pad Left → D-Pad Down → D-Pad Down → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "PROFESSIONALKILLER* NCSGDAG",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → X → A → D-Pad Left → Right Trigger (RT) → Black → D-Pad Left → D-Pad Down → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → X → A → D-Pad Left → Right Trigger (RT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
             "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/health-armor-money.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/hitman-level-for-all-weapons.svg"
       },
       {
-        "id": "ghost-town",
-        "effect": "Ghost town (no pedestrians)",
+        "id": "improved-suspensions",
+        "effect": "Improved suspensions",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Square → Square → R2 → D-Pad Left → D-Pad Up → Square → R2 → Cross → Cross → Cross",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "GHOSTTOWN",
+            "code": "STICKLIKEGLUE* PGGOMOY",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → X → Black → D-Pad Left → D-Pad Up → X → Black → A → A → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → X → Right Bumper (RB) → D-Pad Left → D-Pad Up → X → Right Bumper (RB) → A → A → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "DLNNHZJ",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/ghost-town.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/improved-suspensions.svg"
       },
       {
-        "id": "infinite-ammo",
-        "effect": "Infinite ammo",
+        "id": "infinite-lung-capacity",
+        "effect": "Infinite Lung capacity",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → L1 → D-Pad Down → D-Pad Down → R2 → D-Pad Down → L2 → D-Pad Down",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "WANRLTW",
+            "code": "CVWKXAM MANFROMATLANTIS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Left → Left Trigger (LT) → D-Pad Down → D-Pad Down → Black → D-Pad Down → White → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Left → Left Trigger (LT) → D-Pad Down → D-Pad Down → Right Bumper (RB) → D-Pad Down → Left Bumper (LB) → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "POOOJOX",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/infinite-ammo.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/infinite-lung-capacity.svg"
       },
       {
-        "id": "infinite-oxygen",
-        "effect": "Infinite lung capacity",
+        "id": "invisible-cars",
+        "effect": "Invisible cars",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Triangle → L1 → Triangle → R2 → Square → L1 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "CVWKXAM",
+            "code": "WHEELSONLYPLEASE* XICWMD",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Left Trigger (LT) → Y → Black → X → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Left Trigger (LT) → Y → Right Bumper (RB) → X → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/invisible-cars.svg"
+      },
+      {
+        "id": "kinky-theme-pimp-mode-cjs-outfit-changes-to-the-gimp",
+        "effect": "Kinky theme/pimp mode ( CJ's outfit changes to the Gimp Suit . Pedestrians consist of pimps and prostitutes equipped with dildos . Prostitutes are attracted to CJ and follow him around. )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → D-Pad Right → Square → Square → L2 → Cross → Triangle → Cross → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BEKKNQV LOVECONQUERSALL*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → D-Pad Left → X → X → White → A → Y → A → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → D-Pad Left → X → X → Left Bumper (LB) → A → Y → A → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BNIZWSB",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/infinite-oxygen.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/kinky-theme-pimp-mode-cjs-outfit-changes-to-the-gimp.svg"
       },
       {
-        "id": "infinite-health",
-        "effect": "Invincibility",
+        "id": "lock-wanted-level-facilitates-exploration-of-islands",
+        "effect": "Lock wanted level ( Facilitates exploration of islands/cities and restricted areas before they're unlocked )",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Triangle → D-Pad Up",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "BAGUVIX",
+            "code": "AEZAKMI IFIRSTDOZ TESTEDUCATIONALSKILLS IDOASIPLEASE*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → Y → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → Y → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BYKGOAB",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/infinite-health.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/lock-wanted-level-facilitates-exploration-of-islands.svg"
       },
       {
-        "id": "lower-wanted",
-        "effect": "Lower wanted level",
+        "id": "massive-bicycle-bunny-hops-jump-100-feet-in-air",
+        "effect": "Massive bicycle bunny hops (Jump 100 feet in air)",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Triangle → Square → Circle → Circle → Square → Circle → Circle → L1 → L2 → L2 → R1 → R2",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "TURNDOWNTHEHEAT",
+            "code": "CJPHONEHOME* JHJOECW",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → X → B → B → X → B → B → Left Trigger (LT) → White → White → Right Trigger (RT) → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → X → B → B → X → B → B → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "TDBKCEH",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/lower-wanted.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/massive-bicycle-bunny-hops-jump-100-feet-in-air.svg"
       },
       {
-        "id": "mega-jump",
-        "effect": "Mega jump",
+        "id": "maximum-fat",
+        "effect": "Maximum fat",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Down",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "KANGAROO",
+            "code": "BTCDBCB HIVEMADETORPEDO WHOATEALLTHEPIES*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AESHXWQI",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/mega-jump.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-fat.svg"
       },
       {
-        "id": "never-wanted",
-        "effect": "Never gain wanted level",
+        "id": "maximum-muscle",
+        "effect": "Maximum muscle",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Left",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "AEZAKMI",
+            "code": "BUFFMEUP* JYSDSOD",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "SGVDSQW",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/never-wanted.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-muscle.svg"
       },
       {
-        "id": "no-hunger",
-        "effect": "No hunger",
+        "id": "maximum-respect",
+        "effect": "Maximum respect",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "L1 → R1 → Triangle → D-Pad Down → R2 → Cross → L1 → D-Pad Up → L2 → L2 → L1 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "AEDUWNV",
+            "code": "WORSHIPME* OGXSDAG",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down → Black → A → Left Trigger (LT) → D-Pad Up → White → White → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down → Right Bumper (RB) → A → Left Trigger (LT) → D-Pad Up → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "MTGIISR",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/no-hunger.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-respect.svg"
       },
       {
-        "id": "pedestrians-attack",
-        "effect": "Pedestrians attack you",
+        "id": "maximum-sex-appeal",
+        "effect": "Maximum sex appeal",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Circle → Triangle → Triangle → D-Pad Up → Circle → R1 → L2 → D-Pad Up → Triangle → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "BAGOWPG",
+            "code": "HELLOLADIES* EHIBXQS",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Y → Y → D-Pad Up → B → Right Trigger (RT) → White → D-Pad Up → Y → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Y → Y → D-Pad Up → B → Right Trigger (RT) → Left Bumper (LB) → D-Pad Up → Y → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "APGZLQR",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/pedestrians-attack.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-sex-appeal.svg"
       },
       {
-        "id": "armed-pedestrians",
-        "effect": "Pedestrians carry weapons",
+        "id": "maximum-stamina",
+        "effect": "Maximum stamina",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → Cross → Triangle → Cross → Triangle → Cross → Square → R2 → D-Pad Right",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "FOOOXFT",
+            "code": "VKYPQCF ICANGOALLNIGHT*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → A → Y → A → Y → A → X → Black → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → A → Y → A → Y → A → X → Right Bumper (RB) → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AEZLCKXU",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/armed-pedestrians.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-stamina.svg"
+      },
+      {
+        "id": "maximum-vehicle-skills-driving-flying-bike-cycling",
+        "effect": "Maximum vehicle skills (Driving, flying, bike, cycling)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Square → L2 → Cross → R1 → L2 → L2 → D-Pad Left → R1 → D-Pad Right → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "NATURALTALENT* VQIMAHA",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → White → A → Right Trigger (RT) → White → White → D-Pad Left → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → Left Bumper (LB) → A → Right Trigger (RT) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/maximum-vehicle-skills-driving-flying-bike-cycling.svg"
+      },
+      {
+        "id": "minimum-fat-and-muscle",
+        "effect": "Minimum fat and muscle",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "KVGYZQK LEANANDMEAN*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AWXDCRJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/minimum-fat-and-muscle.svg"
+      },
+      {
+        "id": "no-citizens-or-cops-only-gang-members-having-gunfights",
+        "effect": "No citizens or cops, only gang members having gunfights (can be deactivated)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BIFBUZZ BETTERSTAYINDOORS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "White → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Black → D-Pad Left → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Bumper (LB) → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Right Bumper (RB) → D-Pad Left → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "HAPOHXR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/no-citizens-or-cops-only-gang-members-having-gunfights.svg"
+      },
+      {
+        "id": "no-pedestrians-reduced-traffic",
+        "effect": "No pedestrians/reduced traffic",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Cross → D-Pad Down → D-Pad Up → R2 → D-Pad Down → Triangle → L1 → Triangle → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "GHOSTTOWN* THGLOJ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → D-Pad Down → D-Pad Up → Black → D-Pad Down → Y → Left Trigger (LT) → Y → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → D-Pad Down → D-Pad Up → Right Bumper (RB) → D-Pad Down → Y → Left Trigger (LT) → Y → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "DEHDRX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/no-pedestrians-reduced-traffic.svg"
+      },
+      {
+        "id": "overcast-weather",
+        "effect": "Overcast weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ALNSFMZO DULLDULLDAY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → X",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → X",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "VBWEMQX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/overcast-weather.svg"
+      },
+      {
+        "id": "pedestrians-are-elvis",
+        "effect": "Pedestrians are Elvis",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → Circle → Triangle → L1 → L1 → Square → L2 → D-Pad Up → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BLUESUEDESHOES* ASBHGRB",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → B → Y → Left Trigger (LT) → Left Trigger (LT) → X → White → D-Pad Up → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → B → Y → Left Trigger (LT) → Left Trigger (LT) → X → Left Bumper (LB) → D-Pad Up → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "LNHVOAE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-are-elvis.svg"
+      },
+      {
+        "id": "pedestrians-attack-carl",
+        "effect": "Pedestrians attack Carl",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → Cross → R2 → R1 → L2 → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BAGOWPG STOPPICKINGONME*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → A → Black → Right Trigger (RT) → White → White",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → A → Right Bumper (RB) → Right Trigger (RT) → Left Bumper (LB) → Left Bumper (LB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "FARYJHZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-attack-carl.svg"
+      },
+      {
+        "id": "pedestrians-attack-carl-with-guns",
+        "effect": "Pedestrians attack Carl with guns",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Cross → L1 → D-Pad Up → Square → D-Pad Down → Cross → L2 → Triangle → D-Pad Down → R1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BGLUAWML ATTACKOFTHEVILLAGEPEOPLE*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → Left Trigger (LT) → D-Pad Up → X → D-Pad Down → A → White → Y → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → Left Trigger (LT) → D-Pad Up → X → D-Pad Down → A → Left Bumper (LB) → Y → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "ERFBFNI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-attack-carl-with-guns.svg"
+      },
+      {
+        "id": "pedestrians-have-weapons-baseball-bat-pistol-shotgun-m4",
+        "effect": "Pedestrians have weapons (Baseball Bat, Pistol, Shotgun, M4, Rocket Launcher)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → R1 → Cross → Triangle → Cross → Triangle → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FOOOXFT SURROUNDEDBYNUTTERS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Right Trigger (RT) → A → Y → A → Y → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → Right Trigger (RT) → A → Y → A → Y → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GDNXHDK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-have-weapons-baseball-bat-pistol-shotgun-m4.svg"
       },
       {
         "id": "pedestrians-riot",
         "effect": "Pedestrians riot",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Right → L1 → Triangle → D-Pad Right → D-Pad Right → R1 → L1 → D-Pad Right → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "AJLOJYQY",
+            "code": "STATEOFEMERGENCY* IOJUFZN",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "White → D-Pad Left → Left Trigger (LT) → Y → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Bumper (LB) → D-Pad Left → Left Trigger (LT) → Y → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "NJXPCYE",
             "input": "keyboard"
           }
         ],
         "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
         "image": "assets/img/cheat/gta-san-andreas/pedestrians-riot.svg"
       },
       {
-        "id": "raise-wanted",
-        "effect": "Raise wanted level",
+        "id": "pedestrians-riot-with-golf-club",
+        "effect": "Pedestrians riot (with golf club)",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → Cross → R2 → R1 → L2 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "TURNUPTHEHEAT",
+            "code": "AJLOJYQY ROUGHNEIGHBOURHOOD*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → A → Black → Right Trigger (RT) → White → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → A → Right Bumper (RB) → Right Trigger (RT) → Left Bumper (LB) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AKOZBCH",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/raise-wanted.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-riot-with-golf-club.svg"
       },
       {
-        "id": "recruit-anyone",
-        "effect": "Recruit anyone into your gang",
+        "id": "perfect-handling",
+        "effect": "Perfect handling",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Triangle → R1 → R1 → D-Pad Left → R1 → L1 → R2 → L1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "SJMAHPE",
+            "code": "STICKLIKEGLUE* PGGOMOY",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Black → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Bumper (RB) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "DLNNHZJ",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/recruit-anyone.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/perfect-handling.svg"
       },
       {
-        "id": "jetpack",
-        "effect": "Spawn jetpack",
+        "id": "pink-traffic",
+        "effect": "Pink traffic",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → D-Pad Right → Circle",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "ROCKETMAN",
+            "code": "LLQPFBN PINKISTHENEWCOOL*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Down → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Down → Left Bumper (LB) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GYKVYTR",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/jetpack.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/pink-traffic.svg"
       },
       {
-        "id": "storm-weather",
-        "effect": "Storm weather",
+        "id": "prostitutes-pay-carl-instead-of-taking-carls-money-for",
+        "effect": "Prostitutes pay Carl instead of taking Carl's money ( For some unknown reason, this cheat will alternate between giving the player Thermal Vision Goggles and Night Vision Goggles every time this cheat is activated. It also gives him a Minigun with some ammo. Tested and confirmed on PS3. )",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L2 → L2 → D-Pad Down → L2 → D-Pad Up → D-Pad Up → L2 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → White → White → D-Pad Down → White → D-Pad Up → D-Pad Up → White → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Left Bumper (LB) → Left Bumper (LB) → D-Pad Down → Left Bumper (LB) → D-Pad Up → D-Pad Up → Left Bumper (LB) → Right Bumper (RB)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/prostitutes-pay-carl-instead-of-taking-carls-money-for.svg"
+      },
+      {
+        "id": "rainy-weather",
+        "effect": "Rainy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "MGHXYRM",
+            "code": "AUIFRVQS STAYINANDWATCHTV*",
+            "input": "touch"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "TAVPIER",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/storm-weather.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/rainy-weather.svg"
+      },
+      {
+        "id": "raise-wanted-level-by-two-stars",
+        "effect": "Raise wanted level by two stars",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "TURNUPTHEHEAT* OSRBLHH",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Black → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "NCBXXDX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/raise-wanted-level-by-two-stars.svg"
+      },
+      {
+        "id": "recruit-anyone-into-gang-with-ak47s",
+        "effect": "Recruit anyone into gang with AK47s",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BMTPWHR NOONECANSTOPUS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AWIOMPH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/recruit-anyone-into-gang-with-ak47s.svg"
+      },
+      {
+        "id": "recruit-anyone-into-gang-with-pistols",
+        "effect": "Recruit anyone into gang with Pistols",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Square → D-Pad Up → R2 → R2 → D-Pad Up → D-Pad Right → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SJMAHPE WANNABEINMYGANG*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → X → D-Pad Up → Black → Black → D-Pad Up → D-Pad Left → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → X → D-Pad Up → Right Bumper (RB) → Right Bumper (RB) → D-Pad Up → D-Pad Left → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "JEZRPI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/recruit-anyone-into-gang-with-pistols.svg"
+      },
+      {
+        "id": "recruit-anyone-into-gang-with-rocket-launchers",
+        "effect": "Recruit anyone into gang with rocket launchers",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → R2 → R2 → Cross → L2 → L1 → R2 → L1 → D-Pad Down → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ROCKETMAYHEM* ZSOXFSQ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Black → Black → A → White → Left Trigger (LT) → Black → Left Trigger (LT) → D-Pad Down → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → Right Bumper (RB) → Right Bumper (RB) → A → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Left Trigger (LT) → D-Pad Down → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "QAONHOH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/recruit-anyone-into-gang-with-rocket-launchers.svg"
+      },
+      {
+        "id": "remove-wanted-level",
+        "effect": "Remove wanted level",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "TURNDOWNTHEHEAT* ASNAEB SOMEONESOMETIMEALAN",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Black → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "KDTZNHO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/remove-wanted-level.svg"
+      },
+      {
+        "id": "rural-theme-cjs-outfit-changes-to-a-binco-trucker-cap",
+        "effect": "Rural theme ( CJ's outfit changes to a Binco Trucker Cap and overalls . Traffic and pedestrians are replaced with those usually seen in Red and Flint counties. )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FVTMNBZ HICKSVILLE*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Left → X → Left Bumper (LB) → D-Pad Up → Right Bumper (RB) → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "OAXCCRI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/rural-theme-cjs-outfit-changes-to-a-binco-trucker-cap.svg"
+      },
+      {
+        "id": "rural-traffic",
+        "effect": "Rural traffic",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → L1 → R1 → R1 → L2 → L1 → R2 → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "EVERYONEISPOOR* KKZRPKW",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT) → White → Left Trigger (LT) → Black → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT) → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "JTBCSN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/rural-traffic.svg"
+      },
+      {
+        "id": "sandstorm",
+        "effect": "Sandstorm",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "CWJXUOC SANDINMYEARS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "JBWDWWO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/sandstorm.svg"
+      },
+      {
+        "id": "six-star-wanted-level",
+        "effect": "Six-star wanted level",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Cross → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BRINGITON* LJSPQK",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → A → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → A → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GWJZWC",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/six-star-wanted-level.svg"
+      },
+      {
+        "id": "slow-gameplay",
+        "effect": "Slow gameplay",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → R2 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SLOWITDOWN* LIYOAAY",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → X → Black → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → X → Right Bumper (RB) → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "FNJFCZC",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/slow-gameplay.svg"
+      },
+      {
+        "id": "spawn-bloodring-banger",
+        "effect": "Spawn Bloodring Banger",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R1 → Circle → L2 → L2 → Cross → R1 → L1 → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "OLDSPEEDDEMON* CQZIJMB",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Right Trigger (RT) → B → White → White → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Right Trigger (RT) → B → Left Bumper (LB) → Left Bumper (LB) → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BIGLWCDD",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-bloodring-banger.svg"
+      },
+      {
+        "id": "spawn-caddy",
+        "effect": "Spawn Caddy",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Up → R1 → L2 → Cross → R1 → L1 → Circle → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "RZHSUEW 18HOLES*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → White → A → Right Trigger (RT) → Left Trigger (LT) → B → A",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → Left Bumper (LB) → A → Right Trigger (RT) → Left Trigger (LT) → B → A",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "DAHESZY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-caddy.svg"
+      },
+      {
+        "id": "spawn-dozer",
+        "effect": "Spawn Dozer",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → L1 → D-Pad Right → D-Pad Right → D-Pad Up → D-Pad Up → Cross → L1 → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ITSALLBULL* EEGCYXT",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → D-Pad Up → D-Pad Up → A → Left Trigger (LT) → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → D-Pad Up → D-Pad Up → A → Left Trigger (LT) → D-Pad Left",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-dozer.svg"
+      },
+      {
+        "id": "spawn-hotring-racer-second-variant",
+        "effect": "Spawn Hotring Racer (second variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → Circle → R2 → D-Pad Right → L1 → L2 → Cross → Cross → Square → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "VROCKPOKEY PDNEJOH NOTFORPUBLICROADS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → B → Black → D-Pad Left → Left Trigger (LT) → White → A → A → X → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Left → Left Trigger (LT) → Left Bumper (LB) → A → A → X → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BGJPSYC",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-hotring-racer-second-variant.svg"
+      },
+      {
+        "id": "spawn-hotring-racer-third-variant",
+        "effect": "Spawn Hotring Racer (third variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → Circle → D-Pad Right → L1 → R1 → D-Pad Right → D-Pad Up → Circle → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "VPJTQWV JUSTTRYANDSTOPME*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → Left Trigger (LT) → B → D-Pad Left → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → D-Pad Up → B → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → Left Trigger (LT) → B → D-Pad Left → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → D-Pad Up → B → Right Bumper (RB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BIEAVBAY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-hotring-racer-third-variant.svg"
+      },
+      {
+        "id": "spawn-hunter",
+        "effect": "Spawn Hunter",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Cross → L1 → Circle → Circle → L1 → Circle → R1 → R2 → L2 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "OHDUDE*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → A → Left Trigger (LT) → B → B → Left Trigger (LT) → B → Right Trigger (RT) → Black → White → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → A → Left Trigger (LT) → B → B → Left Trigger (LT) → B → Right Trigger (RT) → Right Bumper (RB) → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-hunter.svg"
+      },
+      {
+        "id": "spawn-hydra",
+        "effect": "Spawn Hydra",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L1 → D-Pad Down → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "JUMPJET*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Trigger (LT) → D-Pad Down → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Trigger (LT) → D-Pad Down → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AWPTMIIQ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-hydra.svg"
+      },
+      {
+        "id": "spawn-jetpack",
+        "effect": "Spawn Jetpack",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "ROCKETMAN* YECGAA",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB) → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "CDGUDEP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-jetpack.svg"
+      },
+      {
+        "id": "spawn-monster-truck-second-variant",
+        "effect": "Spawn Monster Truck (second variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → D-Pad Up → R1 → R1 → R1 → D-Pad Down → Triangle → Triangle → Cross → Circle → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "MONSTERMASH* AGBDLCID",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → Right Trigger (RT) → D-Pad Down → Y → Y → A → B → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → Right Trigger (RT) → D-Pad Down → Y → Y → A → B → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-monster-truck-second-variant.svg"
+      },
+      {
+        "id": "spawn-parachute",
+        "effect": "Spawn Parachute",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → R2 → D-Pad Up → D-Pad Down → D-Pad Right → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "AIYPWZQP LETSGOBASEJUMPING*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → D-Pad Up → D-Pad Down → D-Pad Left → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB) → Right Bumper (RB) → D-Pad Up → D-Pad Down → D-Pad Left → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GSUMLEG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-parachute.svg"
+      },
+      {
+        "id": "spawn-quad",
+        "effect": "Spawn Quad",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Up → D-Pad Up → Square → Circle → Triangle → R1 → R2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FOURWHEELFUN* AKJJYGLC",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Up → D-Pad Up → X → B → Y → Right Trigger (RT) → Black",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Up → D-Pad Up → X → B → Y → Right Trigger (RT) → Right Bumper (RB)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-quad.svg"
+      },
+      {
+        "id": "spawn-rancher-lure-variant",
+        "effect": "Spawn Rancher (Lure variant)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Right → D-Pad Right → L1 → D-Pad Right → D-Pad Up → Square → L2",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "JQNTDMH DOUGHNUTHANDICAP**",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → D-Pad Left → Left Trigger (LT) → D-Pad Left → D-Pad Up → X → White",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → D-Pad Left → Left Trigger (LT) → D-Pad Left → D-Pad Up → X → Left Bumper (LB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "HPGPIJZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-rancher-lure-variant.svg"
+      },
+      {
+        "id": "spawn-rhino",
+        "effect": "Spawn Rhino",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Circle → Circle → Circle → L1 → L2 → R1 → Triangle → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "AIWPRTON TIMETOKICKASS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → B → B → B → Left Trigger (LT) → White → Right Trigger (RT) → Y → B → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → B → B → B → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Y → B → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AYNVQVK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-rhino.svg"
+      },
+      {
+        "id": "spawn-romero",
+        "effect": "Spawn Romero",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R2 → D-Pad Down → R1 → L2 → D-Pad Left → R1 → L1 → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "WHERESTHEFUNERAL* AQTBCODX",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Black → D-Pad Down → Right Trigger (RT) → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → Right Bumper (RB) → D-Pad Down → Right Trigger (RT) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "PSPNATX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-romero.svg"
+      },
+      {
+        "id": "spawn-sport-cars",
+        "effect": "Spawn sport cars",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → L1 → R1 → D-Pad Up → D-Pad Right → D-Pad Up → Cross → L2 → Cross → L1",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → Left Bumper (LB) → A → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-sport-cars.svg"
+      },
+      {
+        "id": "spawn-stretch-limousine",
+        "effect": "Spawn Stretch Limousine",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → D-Pad Up → L2 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "CELEBRITYSTATUS* KRIJEBR",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → D-Pad Up → White → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → D-Pad Up → Left Bumper (LB) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "IXSMWCQ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-stretch-limousine.svg"
+      },
+      {
+        "id": "spawn-stunt-plane",
+        "effect": "Spawn Stunt Plane",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Up → L1 → L2 → D-Pad Down → R1 → L1 → L1 → D-Pad Left → D-Pad Left → Cross → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FLYINGTOSTUNT* URKQSRK",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Up → Left Trigger (LT) → White → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → A → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Up → Left Trigger (LT) → Left Bumper (LB) → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → A → Y",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-stunt-plane.svg"
+      },
+      {
+        "id": "spawn-tanker-with-attached-tanker-trailer",
+        "effect": "Spawn Tanker with attached tanker trailer",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → D-Pad Up → D-Pad Left → D-Pad Right → R2 → D-Pad Up → D-Pad Right → Square → D-Pad Right → L2 → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "AMOMHRER SCANDALOUSTRAILERGARY HITTHEROADJACK*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Left → Black → D-Pad Up → D-Pad Left → X → D-Pad Left → White → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Left → Right Bumper (RB) → D-Pad Up → D-Pad Left → X → D-Pad Left → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-tanker-with-attached-tanker-trailer.svg"
+      },
+      {
+        "id": "spawn-trashmaster",
+        "effect": "Spawn Trashmaster",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → R1 → Circle → R1 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "TRUEGRIME* UBHYZHQ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Right Trigger (RT) → B → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → Right Trigger (RT) → B → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "QPOLSVK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-trashmaster.svg"
+      },
+      {
+        "id": "spawn-vortex",
+        "effect": "Spawn Vortex",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L2 → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "KGGGDKP IWANTTOHOVER*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → X → B → A → Left Trigger (LT) → White → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Bumper (LB) → D-Pad Down → D-Pad Down",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/spawn-vortex.svg"
+      },
+      {
+        "id": "speed-up-time",
+        "effect": "Speed up time",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Square → L1 → Square → Square → Square → L1 → Triangle → Circle → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "YSOHNUL TIMEJUSTFLIESBY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → X → Left Trigger (LT) → X → X → X → Left Trigger (LT) → Y → B → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → X → Left Trigger (LT) → X → X → X → Left Trigger (LT) → Y → B → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "OWAKIJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/speed-up-time.svg"
+      },
+      {
+        "id": "sports-car-traffic-traffic-consists-of-buffalos",
+        "effect": "Sports car traffic ( Traffic consists of Buffalos , Cheetahs , Uranuses , Euroses , Bullets , Infernuses , ZR-350s , Stratums , Elegies , Flashes , Jesters , Sultans , Clubs , Phoenixes , Hotknives , Super GTs , Banshees , Comets , and Turismos . )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → L1 → R1 → D-Pad Up → D-Pad Right → D-Pad Up → Cross → L2 → Cross → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "EVERYONEISRICH* GUSNHDE",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → Left Bumper (LB) → A → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "FRIUBIL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/sports-car-traffic-traffic-consists-of-buffalos.svg"
+      },
+      {
+        "id": "stormy-weather",
+        "effect": "Stormy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "SCOTTISHSUMMER* MGHXYRM",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → B",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → B",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "EAKILHM",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/stormy-weather.svg"
       },
       {
         "id": "sunny-weather",
         "effect": "Sunny weather",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Triangle",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "TOODAMNHOT",
+            "code": "PLEASANTLYWARM* AFZLLQLL",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AAEXPPQC",
             "input": "keyboard"
           }
         ],
         "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
         "image": "assets/img/cheat/gta-san-andreas/sunny-weather.svg"
       },
       {
-        "id": "weapons-tier-3",
-        "effect": "Weapons: heavy tier",
+        "id": "super-punches-one-hit-kills",
+        "effect": "Super punches (one hit kills)",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Left → Cross → Triangle → R1 → Circle → Circle → Circle → L2",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "UZUMYMW",
+            "code": "STINGLIKEABEE* IAVENJQ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → A → Y → Right Trigger (RT) → B → B → B → White",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → A → Y → Right Trigger (RT) → B → B → B → Left Bumper (LB)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "LRMYOJM",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-3.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/super-punches-one-hit-kills.svg"
       },
       {
-        "id": "weapons-tier-1",
-        "effect": "Weapons: light tier",
+        "id": "taxi-missions-completed",
+        "effect": "Taxi missions completed",
         "codes": [
           {
-            "platform": "PC",
-            "code": "LXGIWYL",
-            "input": "keyboard"
+            "platform": "PlayStation",
+            "code": "D-Pad Up → Cross → Triangle → Cross → Triangle → Cross → Square → R2 → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → A → Y → A → Y → A → X → Black → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Up → A → Y → A → Y → A → X → Right Bumper (RB) → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-1.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/taxi-missions-completed.svg"
       },
       {
-        "id": "weapons-tier-2",
-        "effect": "Weapons: medium tier",
+        "id": "traffic-lights-always-green",
+        "effect": "Traffic lights always green",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R1 → D-Pad Up → L2 → L2 → D-Pad Left → R1 → L1 → R1 → R1",
+            "input": "button"
+          },
+          {
             "platform": "PC",
-            "code": "KJKSZPJ",
+            "code": "ZEIIVG DONTTRYANDSTOPME*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → White → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → Left Bumper (LB) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "ENQCFMA",
             "input": "keyboard"
           }
         ],
         "verified": true,
-        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-2.svg"
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/traffic-lights-always-green.svg"
+      },
+      {
+        "id": "triad-theme-cj-is-equipped-with-a-katana-and-all",
+        "effect": "Triad theme ( CJ is equipped with a katana and all pedestrians are replaced with groups of Triads. Traffic mostly consists of PCJ-600s , FCR-900s , and BF-400s . All vehicles spawn in all black, behaving identically to the black traffic cheat. )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Cross → Cross → D-Pad Down → R2 → L2 → Circle → R1 → Circle → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "NINJATOWN* AFPHULTL",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → A → D-Pad Down → Black → White → B → Right Trigger (RT) → B → X",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "A → A → D-Pad Down → Right Bumper (RB) → Left Bumper (LB) → B → Right Trigger (RT) → B → X",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "AAUSQP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/triad-theme-cj-is-equipped-with-a-katana-and-all.svg"
+      },
+      {
+        "id": "unlimited-ammunition-with-no-reload-for-all-weapons",
+        "effect": "Unlimited ammunition with no reload for all weapons",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → R1 → Square → R1 → D-Pad Left → R2 → R1 → D-Pad Left → Square → D-Pad Down → L1 → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "FULLCLIP* WANRLTW",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Right Trigger (RT) → X → Right Trigger (RT) → D-Pad Left → Black → Right Trigger (RT) → D-Pad Left → X → D-Pad Down → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Right Trigger (RT) → X → Right Trigger (RT) → D-Pad Left → Right Bumper (RB) → Right Trigger (RT) → D-Pad Left → X → D-Pad Down → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "NECUMZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/unlimited-ammunition-with-no-reload-for-all-weapons.svg"
+      },
+      {
+        "id": "unlimited-health",
+        "effect": "Unlimited health",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Cross → D-Pad Right → D-Pad Left → D-Pad Right → R1 → D-Pad Right → D-Pad Down → D-Pad Up → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "BAGUVIX CAINEMVHZC NOONECANHURTME*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → A → D-Pad Left → D-Pad Left → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Down → D-Pad Up → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "D-Pad Down → A → D-Pad Left → D-Pad Left → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Down → D-Pad Up → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BLOKKIK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/unlimited-health.svg"
+      },
+      {
+        "id": "very-sunny-weather",
+        "effect": "Very sunny weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "TOODAMNHOT* ICIKPYH",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "HTRTTVJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/very-sunny-weather.svg"
+      },
+      {
+        "id": "weapons-tier-1-brass-knuckles-baseball-bat-pistol",
+        "effect": "Weapons, tier 1 ( Brass Knuckles , Baseball Bat , Pistol , Shotgun , Micro SMG , AK47 , Rifle , Rocket Launcher , Molotov Cocktails , & Spray Paint )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "LXGIWYL POOLOWNERBRIEFCASE THUGSARMOURY*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "BEFWKSBQ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-1-brass-knuckles-baseball-bat-pistol.svg"
+      },
+      {
+        "id": "weapons-tier-2-fist-knife-desert-eagle-sawn-off-shotgun",
+        "effect": "Weapons, tier 2 ( Fist , Knife , Desert Eagle , Sawn-Off Shotgun , TEC 9 , M4 , Sniper Rifle , Flamethrower , Fire Extinguisher , & Grenades )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "PROFESSIONALSKIT* KJKSZPJ",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "SHHIHJG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-2-fist-knife-desert-eagle-sawn-off-shotgun.svg"
+      },
+      {
+        "id": "weapons-tier-3-fist-chainsaw-silenced-9mm-spas-12-smg",
+        "effect": "Weapons, tier 3 ( Fist , Chainsaw , Silenced 9mm , SPAS 12 , SMG , M4 , Heat-Seeking Rocket Launcher , Satchel Charges , & Detonator )",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "PC",
+            "code": "UZUMYMW NUTTERSTOYS*",
+            "input": "touch"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Black → Left Trigger (LT) → Black → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Android 2013",
+            "code": "GOIZSSX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-3-fist-chainsaw-silenced-9mm-spas-12-smg.svg"
+      },
+      {
+        "id": "weapons-tier-4-minigun-vibrator-random-night-vision",
+        "effect": "Weapons, tier 4 ( Minigun , Vibrator , Random: Night Vision Goggles or Thermal Vision Goggles )",
+        "codes": [
+          {
+            "platform": "Android 2013",
+            "code": "BIEUHQY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-4-minigun-vibrator-random-night-vision.svg"
       }
     ]
   },

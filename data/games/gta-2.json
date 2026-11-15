@@ -5,14 +5,14 @@
     "year": 1999,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:25:04.808Z",
+    "generated": "2026-11-15T16:39:16.752Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "limited",
       "vehicles": "limited",
       "weapons": "limited",
-      "cheats": "limited",
+      "cheats": "complete",
       "locations": "partial",
       "collectibles": "limited"
     },
@@ -21,7 +21,7 @@
       "missions": 4,
       "vehicles": 9,
       "weapons": 8,
-      "cheats": 1,
+      "cheats": 33,
       "locations": 4,
       "collectibles": 1
     },
@@ -392,21 +392,579 @@
     ]
   },
   "cheats": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
+      {
+        "id": "10x-multiplier",
+        "effect": "10x multiplier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SEGARULZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/10x-multiplier.svg"
+      },
+      {
+        "id": "5x-multiplier",
+        "effect": "5x multiplier",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "HIGHFIVE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "BOYAKASH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/5x-multiplier.svg"
+      },
+      {
+        "id": "99-lives",
+        "effect": "99 lives",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CUTIE1",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "BIGCATS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/99-lives.svg"
+      },
+      {
+        "id": "all-cars-are-mini-cars",
+        "effect": "All cars are mini cars",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FISHFLAP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-cars-are-mini-cars.svg"
+      },
+      {
+        "id": "all-levels-unlocked",
+        "effect": "All levels unlocked",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "ITSALLUP",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "TUMYFROG",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "SESAME",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-levels-unlocked.svg"
+      },
+      {
+        "id": "all-peds-are-naked",
+        "effect": "All peds are naked",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NEKKID",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-peds-are-naked.svg"
+      },
       {
         "id": "all-weapons",
         "effect": "All weapons",
         "codes": [
           {
+            "platform": "PlayStation",
+            "code": "NAVARONE",
+            "input": "keyboard"
+          },
+          {
             "platform": "PC",
-            "code": "GUNSGUNSGUNS",
+            "code": "GODOFGTA",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "BIGGUNS",
             "input": "keyboard"
           }
         ],
-        "verified": false,
-        "source": "Community cheat lists — string must be verified against the GTA 2 PC build",
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
         "image": "assets/img/cheat/gta-2/all-weapons.svg"
+      },
+      {
+        "id": "basic-set-of-weapons-and-max-ammo",
+        "effect": "Basic set of weapons and max ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DAVEMOON",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/basic-set-of-weapons-and-max-ammo.svg"
+      },
+      {
+        "id": "debug-basic-scripts",
+        "effect": "Debug basic scripts",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "NOFRILLS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/debug-basic-scripts.svg"
+      },
+      {
+        "id": "display-coordinates",
+        "effect": "Display coordinates",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "WUGGLES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/display-coordinates.svg"
+      },
+      {
+        "id": "electro-gun-with-infinite-ammo",
+        "effect": "Electro Gun with infinite ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "VOLTFEST",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "BIGFRIES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/electro-gun-with-infinite-ammo.svg"
+      },
+      {
+        "id": "flame-thrower-with-infinite-ammo",
+        "effect": "Flame Thrower with infinite ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FLAMEON",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "TOASTIES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/flame-thrower-with-infinite-ammo.svg"
+      },
+      {
+        "id": "free-shopping",
+        "effect": "Free shopping",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "EATSOUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/free-shopping.svg"
+      },
+      {
+        "id": "get-10-000-000",
+        "effect": "Get $10,000,000",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "IAMDAVEJ",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "ULTIMATE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-10-000-000.svg"
+      },
+      {
+        "id": "get-500-000",
+        "effect": "Get $500,000",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-500-000.svg"
+      },
+      {
+        "id": "get-10-million-points",
+        "effect": "Get 10 million points",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "BIGSCORE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-10-million-points.svg"
+      },
+      {
+        "id": "invincibility",
+        "effect": "Invincibility*",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "LIVELONG",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "RSJABBER",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "INFINITY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/invincibility.svg"
+      },
+      {
+        "id": "invisibility",
+        "effect": "Invisibility",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "HUNSRUS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "SCOOBYDO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/invisibility.svg"
+      },
+      {
+        "id": "keep-weapons-after-death",
+        "effect": "Keep weapons after death",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ARSESTAR",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "LOSTTOYS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/keep-weapons-after-death.svg"
+      },
+      {
+        "id": "max-respect-from-all-gangs",
+        "effect": "Max respect from all gangs",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "MADEMAN",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "ALLFREND",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/max-respect-from-all-gangs.svg"
+      },
+      {
+        "id": "maximum-wanted-level",
+        "effect": "Maximum wanted level",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "DESIRES",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "BADBOYS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/maximum-wanted-level.svg"
+      },
+      {
+        "id": "more-blood",
+        "effect": "More blood",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GOREFEST",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "WOUNDED",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/more-blood.svg"
+      },
+      {
+        "id": "no-police",
+        "effect": "No police",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "LOSEFEDS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "LOSEFEDS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "LAWLESS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/no-police.svg"
+      },
+      {
+        "id": "only-elvis-peds-spawn",
+        "effect": "Only Elvis peds spawn",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "LASVEGAS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "ERRHUH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/only-elvis-peds-spawn.svg"
+      },
+      {
+        "id": "only-mugger-peds-spawn",
+        "effect": "Only mugger peds spawn",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BUCKFAST",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/only-mugger-peds-spawn.svg"
+      },
+      {
+        "id": "player-get-points",
+        "effect": "Player get points",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DANISGOD",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/player-get-points.svg"
+      },
+      {
+        "id": "skip-exploding-scores",
+        "effect": "Skip exploding scores",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "COCKTART",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/skip-exploding-scores.svg"
+      },
+      {
+        "id": "turbo-mode",
+        "effect": "Turbo mode",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "IGNITION",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/turbo-mode.svg"
+      },
+      {
+        "id": "unlimited-get-out-of-jail-free-cards",
+        "effect": "Unlimited \"get out of jail free\" cards",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "JAILBAIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-get-out-of-jail-free-cards.svg"
+      },
+      {
+        "id": "unlimited-cash",
+        "effect": "Unlimited cash",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "IAMPLAYA",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-cash.svg"
+      },
+      {
+        "id": "unlimited-double-damage",
+        "effect": "Unlimited double damage",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SCHURULZ",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Dreamcast",
+            "code": "DBLWAMMY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-double-damage.svg"
+      },
+      {
+        "id": "unlock-levels-one-and-two",
+        "effect": "Unlock levels one and two",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GINGERRR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlock-levels-one-and-two.svg"
+      },
+      {
+        "id": "unlock-three-main-levels",
+        "effect": "Unlock three main levels",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "UKGAMER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlock-three-main-levels.svg"
       }
     ]
   },
