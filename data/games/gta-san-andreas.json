@@ -5,7 +5,7 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:56:35.480Z",
+    "generated": "2026-11-15T17:02:17.602Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -17,7 +17,7 @@
       "collectibles": "complete"
     },
     "counts": {
-      "characters": 23,
+      "characters": 24,
       "missions": 101,
       "vehicles": 171,
       "weapons": 90,
@@ -295,6 +295,16 @@
         "status": "Alive",
         "verified": true,
         "image": "assets/img/portrait/gta-san-andreas/the-truth.svg"
+      },
+      {
+        "id": "woozie",
+        "name": "Woozie",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 18 missions in gta-san-andreas, starting with \"Toreno's Last Flight\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-san-andreas/woozie.svg"
       },
       {
         "id": "wu-zi-mu",

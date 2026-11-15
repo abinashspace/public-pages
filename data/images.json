@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T16:56:35.321Z",
+  "generated": "2026-11-15T17:02:17.433Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -4626,6 +4626,17 @@
     {
       "kind": "portrait",
       "game": "gta-2",
+      "id": "zaibatsu",
+      "record": "zaibatsu",
+      "path": "assets/img/portrait/gta-2/zaibatsu.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Zaibatsu"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-2",
       "id": "zaibatsu-boss",
       "record": "zaibatsu-boss",
       "path": "assets/img/portrait/gta-2/zaibatsu-boss.svg",
@@ -8575,6 +8586,17 @@
     {
       "kind": "portrait",
       "game": "gta-vice-city",
+      "id": "avery-carrington",
+      "record": "avery-carrington",
+      "path": "assets/img/portrait/gta-vice-city/avery-carrington.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Avery Carrington"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city",
       "id": "big-mitch-baker",
       "record": "big-mitch-baker",
       "path": "assets/img/portrait/gta-vice-city/big-mitch-baker.svg",
@@ -8652,6 +8674,17 @@
     {
       "kind": "portrait",
       "game": "gta-vice-city",
+      "id": "juan-cortez",
+      "record": "juan-cortez",
+      "path": "assets/img/portrait/gta-vice-city/juan-cortez.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Juan Cortez"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city",
       "id": "ken-rosenberg",
       "record": "ken-rosenberg",
       "path": "assets/img/portrait/gta-vice-city/ken-rosenberg.svg",
@@ -8692,6 +8725,28 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Mercedes Cortez"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city",
+      "id": "mitch-baker",
+      "record": "mitch-baker",
+      "path": "assets/img/portrait/gta-vice-city/mitch-baker.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Mitch Baker"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city",
+      "id": "mr-black",
+      "record": "mr-black",
+      "path": "assets/img/portrait/gta-vice-city/mr-black.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Mr. Black"
     },
     {
       "kind": "portrait",
@@ -12410,6 +12465,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "The Truth"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-san-andreas",
+      "id": "woozie",
+      "record": "woozie",
+      "path": "assets/img/portrait/gta-san-andreas/woozie.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Woozie"
     },
     {
       "kind": "portrait",
@@ -19256,6 +19322,28 @@
     {
       "kind": "portrait",
       "game": "gta-liberty-city-stories",
+      "id": "mrs-cipriani",
+      "record": "mrs-cipriani",
+      "path": "assets/img/portrait/gta-liberty-city-stories/mrs-cipriani.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Mrs. Cipriani"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-liberty-city-stories",
+      "id": "ned-burner",
+      "record": "ned-burner",
+      "path": "assets/img/portrait/gta-liberty-city-stories/ned-burner.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Ned Burner"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-liberty-city-stories",
       "id": "paulie-sindacco",
       "record": "paulie-sindacco",
       "path": "assets/img/portrait/gta-liberty-city-stories/paulie-sindacco.svg",
@@ -19285,6 +19373,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Toni Cipriani"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-liberty-city-stories",
+      "id": "toshiko-kasen",
+      "record": "toshiko-kasen",
+      "path": "assets/img/portrait/gta-liberty-city-stories/toshiko-kasen.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Toshiko Kasen"
     },
     {
       "kind": "portrait",
@@ -22116,6 +22215,17 @@
     {
       "kind": "portrait",
       "game": "gta-vice-city-stories",
+      "id": "gonzales",
+      "record": "gonzales",
+      "path": "assets/img/portrait/gta-vice-city-stories/gonzales.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Gonzales"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city-stories",
       "id": "gonzalez",
       "record": "gonzalez",
       "path": "assets/img/portrait/gta-vice-city-stories/gonzalez.svg",
@@ -22167,6 +22277,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Marty Jay Williams"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-vice-city-stories",
+      "id": "mendez-brothers",
+      "record": "mendez-brothers",
+      "path": "assets/img/portrait/gta-vice-city-stories/mendez-brothers.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Mendez Brothers"
     },
     {
       "kind": "portrait",
@@ -25064,6 +25185,17 @@
     {
       "kind": "portrait",
       "game": "gta-iv",
+      "id": "derrick-mcreary",
+      "record": "derrick-mcreary",
+      "path": "assets/img/portrait/gta-iv/derrick-mcreary.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Derrick McReary"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
       "id": "dimitri-rascalov",
       "record": "dimitri-rascalov",
       "path": "assets/img/portrait/gta-iv/dimitri-rascalov.svg",
@@ -25082,6 +25214,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Dwayne Forge"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "elizabeta-torres",
+      "record": "elizabeta-torres",
+      "path": "assets/img/portrait/gta-iv/elizabeta-torres.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Elizabeta Torres"
     },
     {
       "kind": "portrait",
@@ -25108,6 +25251,17 @@
     {
       "kind": "portrait",
       "game": "gta-iv",
+      "id": "gerry-mcreary",
+      "record": "gerry-mcreary",
+      "path": "assets/img/portrait/gta-iv/gerry-mcreary.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Gerry McReary"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
       "id": "jimmy-pegorino",
       "record": "jimmy-pegorino",
       "path": "assets/img/portrait/gta-iv/jimmy-pegorino.svg",
@@ -25115,6 +25269,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Jimmy Pegorino"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "jon-gravelli",
+      "record": "jon-gravelli",
+      "path": "assets/img/portrait/gta-iv/jon-gravelli.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Jon Gravelli"
     },
     {
       "kind": "portrait",
@@ -25137,6 +25302,39 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Little Jacob"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "mallorie-bardas",
+      "record": "mallorie-bardas",
+      "path": "assets/img/portrait/gta-iv/mallorie-bardas.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Mallorie Bardas"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "manny-escuela",
+      "record": "manny-escuela",
+      "path": "assets/img/portrait/gta-iv/manny-escuela.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Manny Escuela"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "michelle",
+      "record": "michelle",
+      "path": "assets/img/portrait/gta-iv/michelle.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Michelle"
     },
     {
       "kind": "portrait",
@@ -25225,6 +25423,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "United Liberty Paper contact"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-iv",
+      "id": "vlad-glebov",
+      "record": "vlad-glebov",
+      "path": "assets/img/portrait/gta-iv/vlad-glebov.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Vlad Glebov"
     },
     {
       "kind": "portrait",
@@ -35470,6 +35679,17 @@
     {
       "kind": "portrait",
       "game": "gta-v",
+      "id": "dave-norton-fib",
+      "record": "dave-norton-fib",
+      "path": "assets/img/portrait/gta-v/dave-norton-fib.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Dave Norton (FIB)"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-v",
       "id": "devin-weston",
       "record": "devin-weston",
       "path": "assets/img/portrait/gta-v/devin-weston.svg",
@@ -35569,6 +35789,17 @@
     {
       "kind": "portrait",
       "game": "gta-v",
+      "id": "none-flashback",
+      "record": "none-flashback",
+      "path": "assets/img/portrait/gta-v/none-flashback.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "None (flashback)"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-v",
       "id": "patricia-madrazo",
       "record": "patricia-madrazo",
       "path": "assets/img/portrait/gta-v/patricia-madrazo.svg",
@@ -35602,6 +35833,17 @@
     {
       "kind": "portrait",
       "game": "gta-v",
+      "id": "solomon-richards",
+      "record": "solomon-richards",
+      "path": "assets/img/portrait/gta-v/solomon-richards.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Solomon Richards"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-v",
       "id": "steve-haines",
       "record": "steve-haines",
       "path": "assets/img/portrait/gta-v/steve-haines.svg",
@@ -35613,6 +35855,17 @@
     {
       "kind": "portrait",
       "game": "gta-v",
+      "id": "steve-haines-fib",
+      "record": "steve-haines-fib",
+      "path": "assets/img/portrait/gta-v/steve-haines-fib.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Steve Haines (FIB)"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-v",
       "id": "stretch",
       "record": "stretch",
       "path": "assets/img/portrait/gta-v/stretch.svg",
@@ -35620,6 +35873,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Stretch"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-v",
+      "id": "tao-cheng",
+      "record": "tao-cheng",
+      "path": "assets/img/portrait/gta-v/tao-cheng.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Tao Cheng"
     },
     {
       "kind": "portrait",
@@ -41113,6 +41377,28 @@
     {
       "kind": "portrait",
       "game": "gta-online",
+      "id": "ceo-office",
+      "record": "ceo-office",
+      "path": "assets/img/portrait/gta-online/ceo-office.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "CEO office"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-online",
+      "id": "free-mode",
+      "record": "free-mode",
+      "path": "assets/img/portrait/gta-online/free-mode.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Free mode"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-online",
       "id": "lamar-davis",
       "record": "lamar-davis",
       "path": "assets/img/portrait/gta-online/lamar-davis.svg",
@@ -41175,6 +41461,17 @@
       "height": 512,
       "status": "placeholder",
       "alt": "Tom Connors"
+    },
+    {
+      "kind": "portrait",
+      "game": "gta-online",
+      "id": "tony-prince",
+      "record": "tony-prince",
+      "path": "assets/img/portrait/gta-online/tony-prince.svg",
+      "width": 512,
+      "height": 512,
+      "status": "placeholder",
+      "alt": "Tony Prince"
     },
     {
       "kind": "mission",

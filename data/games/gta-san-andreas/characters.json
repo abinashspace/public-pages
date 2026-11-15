@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto: San Andreas",
   "section": "characters",
   "coverage": "partial",
-  "count": 23,
+  "count": 24,
   "items": [
     {
       "id": "carl-johnson",
@@ -261,6 +261,16 @@
       "status": "Alive",
       "verified": true,
       "image": "assets/img/portrait/gta-san-andreas/the-truth.svg"
+    },
+    {
+      "id": "woozie",
+      "name": "Woozie",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 18 missions in gta-san-andreas, starting with \"Toreno's Last Flight\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-san-andreas/woozie.svg"
     },
     {
       "id": "wu-zi-mu",

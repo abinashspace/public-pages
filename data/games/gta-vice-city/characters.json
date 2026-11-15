@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto: Vice City",
   "section": "characters",
   "coverage": "partial",
-  "count": 20,
+  "count": 24,
   "items": [
     {
       "id": "alex-shrub",
@@ -28,6 +28,16 @@
       "status": "Alive",
       "verified": true,
       "image": "assets/img/portrait/gta-vice-city/auntie-poulet.svg"
+    },
+    {
+      "id": "avery-carrington",
+      "name": "Avery Carrington",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 3 missions in gta-vice-city, starting with \"Four Iron\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-vice-city/avery-carrington.svg"
     },
     {
       "id": "big-mitch-baker",
@@ -114,6 +124,16 @@
       "image": "assets/img/portrait/gta-vice-city/hilary-king.svg"
     },
     {
+      "id": "juan-cortez",
+      "name": "Juan Cortez",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 5 missions in gta-vice-city, starting with \"Treacherous Swine\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-vice-city/juan-cortez.svg"
+    },
+    {
       "id": "ken-rosenberg",
       "name": "Ken Rosenberg",
       "role": "Lawyer, fixer",
@@ -162,6 +182,26 @@
       "status": "Alive",
       "verified": true,
       "image": "assets/img/portrait/gta-vice-city/mercedes.svg"
+    },
+    {
+      "id": "mitch-baker",
+      "name": "Mitch Baker",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 3 missions in gta-vice-city, starting with \"Alloy Wheels of Steel\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-vice-city/mitch-baker.svg"
+    },
+    {
+      "id": "mr-black",
+      "name": "Mr. Black",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 5 missions in gta-vice-city, starting with \"Road Kill\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-vice-city/mr-black.svg"
     },
     {
       "id": "pastor-richards",

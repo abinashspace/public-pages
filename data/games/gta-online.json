@@ -5,7 +5,7 @@
     "year": 2013,
     "type": "Online",
     "status": "live",
-    "generated": "2026-11-15T16:56:35.686Z",
+    "generated": "2026-11-15T17:02:17.808Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -17,7 +17,7 @@
       "collectibles": "limited"
     },
     "counts": {
-      "characters": 8,
+      "characters": 11,
       "missions": 8,
       "vehicles": 8,
       "weapons": 6,
@@ -62,6 +62,26 @@
         "status": "Alive",
         "verified": true,
         "image": "assets/img/portrait/gta-online/agent-14.svg"
+      },
+      {
+        "id": "ceo-office",
+        "name": "CEO office",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-online, starting with \"Vehicle Cargo\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-online/ceo-office.svg"
+      },
+      {
+        "id": "free-mode",
+        "name": "Free mode",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-online, starting with \"Business Battles\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-online/free-mode.svg"
       },
       {
         "id": "lamar-davis",
@@ -136,6 +156,16 @@
         "status": "Alive",
         "verified": true,
         "image": "assets/img/portrait/gta-online/tom-connors.svg"
+      },
+      {
+        "id": "tony-prince",
+        "name": "Tony Prince",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-online, starting with \"Nightclub management\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-online/tony-prince.svg"
       }
     ]
   },

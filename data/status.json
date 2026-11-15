@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T16:56:35.720Z",
+  "generated": "2026-11-15T17:02:17.844Z",
   "games": [
     {
       "slug": "gta",
@@ -113,10 +113,10 @@
       "slug": "gta-2",
       "title": "Grand Theft Auto 2",
       "status": "released",
-      "records": 138,
+      "records": 139,
       "sections": {
         "characters": {
-          "count": 8,
+          "count": 9,
           "coverage": "limited"
         },
         "missions": {
@@ -185,10 +185,10 @@
       "slug": "gta-vice-city",
       "title": "Grand Theft Auto: Vice City",
       "status": "released",
-      "records": 327,
+      "records": 331,
       "sections": {
         "characters": {
-          "count": 20,
+          "count": 24,
           "coverage": "partial"
         },
         "missions": {
@@ -221,10 +221,10 @@
       "slug": "gta-san-andreas",
       "title": "Grand Theft Auto: San Andreas",
       "status": "released",
-      "records": 514,
+      "records": 515,
       "sections": {
         "characters": {
-          "count": 23,
+          "count": 24,
           "coverage": "partial"
         },
         "missions": {
@@ -293,10 +293,10 @@
       "slug": "gta-liberty-city-stories",
       "title": "Grand Theft Auto: Liberty City Stories",
       "status": "released",
-      "records": 264,
+      "records": 267,
       "sections": {
         "characters": {
-          "count": 14,
+          "count": 17,
           "coverage": "partial"
         },
         "missions": {
@@ -329,10 +329,10 @@
       "slug": "gta-vice-city-stories",
       "title": "Grand Theft Auto: Vice City Stories",
       "status": "released",
-      "records": 266,
+      "records": 268,
       "sections": {
         "characters": {
-          "count": 13,
+          "count": 15,
           "coverage": "partial"
         },
         "missions": {
@@ -365,10 +365,10 @@
       "slug": "gta-iv",
       "title": "Grand Theft Auto IV",
       "status": "released",
-      "records": 301,
+      "records": 309,
       "sections": {
         "characters": {
-          "count": 18,
+          "count": 26,
           "coverage": "partial"
         },
         "missions": {
@@ -509,10 +509,10 @@
       "slug": "gta-v",
       "title": "Grand Theft Auto V",
       "status": "released",
-      "records": 510,
+      "records": 515,
       "sections": {
         "characters": {
-          "count": 19,
+          "count": 24,
           "coverage": "partial"
         },
         "missions": {
@@ -545,10 +545,10 @@
       "slug": "gta-online",
       "title": "Grand Theft Auto Online",
       "status": "live",
-      "records": 38,
+      "records": 41,
       "sections": {
         "characters": {
-          "count": 8,
+          "count": 11,
           "coverage": "limited"
         },
         "missions": {
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 3780,
+    "total": 3807,
     "real": 0,
-    "placeholder": 3780
+    "placeholder": 3807
   }
 }

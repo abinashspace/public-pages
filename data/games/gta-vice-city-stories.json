@@ -5,7 +5,7 @@
     "year": 2006,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:56:35.548Z",
+    "generated": "2026-11-15T17:02:17.677Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -17,7 +17,7 @@
       "collectibles": "complete"
     },
     "counts": {
-      "characters": 13,
+      "characters": 15,
       "missions": 59,
       "vehicles": 106,
       "weapons": 42,
@@ -74,6 +74,16 @@
         "status": "Deceased",
         "verified": true,
         "image": "assets/img/portrait/gta-vice-city-stories/diego-mendez.svg"
+      },
+      {
+        "id": "gonzales",
+        "name": "Gonzales",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 2 missions in gta-vice-city-stories, starting with \"Home's on the Range\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-vice-city-stories/gonzales.svg"
       },
       {
         "id": "gonzalez",
@@ -135,6 +145,16 @@
         "status": "Deceased",
         "verified": true,
         "image": "assets/img/portrait/gta-vice-city-stories/marty-jay-williams.svg"
+      },
+      {
+        "id": "mendez-brothers",
+        "name": "Mendez Brothers",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 5 missions in gta-vice-city-stories, starting with \"The Mugshot Longshot\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-vice-city-stories/mendez-brothers.svg"
       },
       {
         "id": "phil-cassidy",

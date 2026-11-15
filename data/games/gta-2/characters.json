@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto 2",
   "section": "characters",
   "coverage": "limited",
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "id": "claude-speed",
@@ -89,6 +89,16 @@
       "status": "Alive",
       "verified": false,
       "image": "assets/img/portrait/gta-2/yakuza-boss.svg"
+    },
+    {
+      "id": "zaibatsu",
+      "name": "Zaibatsu",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 1 mission in gta-2, starting with \"Final jobs\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-2/zaibatsu.svg"
     },
     {
       "id": "zaibatsu-boss",

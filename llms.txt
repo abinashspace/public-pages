@@ -39,7 +39,7 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto 2 (1999, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-2/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-2.json
-- Cities: Anywhere City · Status: released · Records: 138
+- Cities: Anywhere City · Status: released · Records: 139
 
 ### Grand Theft Auto III (2001, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iii/
@@ -49,12 +49,12 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto: Vice City (2002, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city.json
-- Cities: Vice City · Status: released · Records: 327
+- Cities: Vice City · Status: released · Records: 331
 
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-san-andreas.json
-- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 514
+- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 515
 
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
@@ -64,17 +64,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto: Liberty City Stories (2005, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-liberty-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-liberty-city-stories.json
-- Cities: Liberty City · Status: released · Records: 264
+- Cities: Liberty City · Status: released · Records: 267
 
 ### Grand Theft Auto: Vice City Stories (2006, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city-stories.json
-- Cities: Vice City · Status: released · Records: 266
+- Cities: Vice City · Status: released · Records: 268
 
 ### Grand Theft Auto IV (2008, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv.json
-- Cities: Liberty City · Status: released · Records: 301
+- Cities: Liberty City · Status: released · Records: 309
 
 ### Grand Theft Auto IV: The Lost and Damned (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/
@@ -94,12 +94,12 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto V (2013, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-v/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-v.json
-- Cities: Los Santos, Blaine County · Status: released · Records: 510
+- Cities: Los Santos, Blaine County · Status: released · Records: 515
 
 ### Grand Theft Auto Online (2013, Online)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-online/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-online.json
-- Cities: Los Santos, Blaine County · Status: live · Records: 38
+- Cities: Los Santos, Blaine County · Status: live · Records: 41
 
 ### Grand Theft Auto VI (2026, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vi/

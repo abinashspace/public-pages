@@ -5,7 +5,7 @@
     "base_url": "https://abinashspace.github.io/gta-hub",
     "language": "en"
   },
-  "generated": "2026-11-15T16:56:32.171Z",
+  "generated": "2026-11-15T17:02:14.179Z",
   "schema_version": "1.0.0",
   "counts": {
     "games": 17,
@@ -258,7 +258,7 @@
       "cheats": "full",
       "accent": "#f08c00",
       "counts": {
-        "characters": 8,
+        "characters": 9,
         "missions": 4,
         "vehicles": 68,
         "weapons": 20,
@@ -275,7 +275,7 @@
         "locations": "partial",
         "collectibles": "limited"
       },
-      "records": 138,
+      "records": 139,
       "links": {
         "page": "games/gta-2/",
         "data": "data/games/gta-2.json",
@@ -356,7 +356,7 @@
       "cheats": "full",
       "accent": "#f76707",
       "counts": {
-        "characters": 20,
+        "characters": 24,
         "missions": 61,
         "vehicles": 107,
         "weapons": 59,
@@ -373,7 +373,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 327,
+      "records": 331,
       "links": {
         "page": "games/gta-vice-city/",
         "data": "data/games/gta-vice-city.json",
@@ -407,7 +407,7 @@
       "cheats": "full",
       "accent": "#2f9e44",
       "counts": {
-        "characters": 23,
+        "characters": 24,
         "missions": 101,
         "vehicles": 171,
         "weapons": 90,
@@ -424,7 +424,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 514,
+      "records": 515,
       "links": {
         "page": "games/gta-san-andreas/",
         "data": "data/games/gta-san-andreas.json",
@@ -500,7 +500,7 @@
       "cheats": "full",
       "accent": "#0c8599",
       "counts": {
-        "characters": 14,
+        "characters": 17,
         "missions": 71,
         "vehicles": 81,
         "weapons": 40,
@@ -517,7 +517,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 264,
+      "records": 267,
       "links": {
         "page": "games/gta-liberty-city-stories/",
         "data": "data/games/gta-liberty-city-stories.json",
@@ -546,7 +546,7 @@
       "cheats": "full",
       "accent": "#ae3ec9",
       "counts": {
-        "characters": 13,
+        "characters": 15,
         "missions": 59,
         "vehicles": 106,
         "weapons": 42,
@@ -563,7 +563,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 266,
+      "records": 268,
       "links": {
         "page": "games/gta-vice-city-stories/",
         "data": "data/games/gta-vice-city-stories.json",
@@ -593,7 +593,7 @@
       "cheats": "phone",
       "accent": "#495057",
       "counts": {
-        "characters": 18,
+        "characters": 26,
         "missions": 90,
         "vehicles": 122,
         "weapons": 23,
@@ -610,7 +610,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 301,
+      "records": 309,
       "links": {
         "page": "games/gta-iv/",
         "data": "data/games/gta-iv.json",
@@ -789,7 +789,7 @@
       "cheats": "full",
       "accent": "#0b7285",
       "counts": {
-        "characters": 19,
+        "characters": 24,
         "missions": 75,
         "vehicles": 298,
         "weapons": 62,
@@ -806,7 +806,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 510,
+      "records": 515,
       "links": {
         "page": "games/gta-v/",
         "data": "data/games/gta-v.json",
@@ -841,7 +841,7 @@
       "cheats": "none",
       "accent": "#1098ad",
       "counts": {
-        "characters": 8,
+        "characters": 11,
         "missions": 8,
         "vehicles": 8,
         "weapons": 6,
@@ -858,7 +858,7 @@
         "locations": "partial",
         "collectibles": "limited"
       },
-      "records": 38,
+      "records": 41,
       "links": {
         "page": "games/gta-online/",
         "data": "data/games/gta-online.json",

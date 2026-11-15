@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto V",
   "section": "characters",
   "coverage": "partial",
-  "count": 19,
+  "count": 24,
   "items": [
     {
       "id": "amanda-de-santa",
@@ -28,6 +28,16 @@
       "status": "Alive",
       "verified": true,
       "image": "assets/img/portrait/gta-v/dave-norton.svg"
+    },
+    {
+      "id": "dave-norton-fib",
+      "name": "Dave Norton (FIB)",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 3 missions in gta-v, starting with \"Dead Man Walking\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-v/dave-norton-fib.svg"
     },
     {
       "id": "devin-weston",
@@ -141,6 +151,16 @@
       "image": "assets/img/portrait/gta-v/molly-schultz.svg"
     },
     {
+      "id": "none-flashback",
+      "name": "None (flashback)",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 1 mission in gta-v, starting with \"Prologue\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-v/none-flashback.svg"
+    },
+    {
       "id": "patricia-madrazo",
       "name": "Patricia Madrazo",
       "role": "Ally",
@@ -177,6 +197,16 @@
       "image": "assets/img/portrait/gta-v/simeon-yetarian.svg"
     },
     {
+      "id": "solomon-richards",
+      "name": "Solomon Richards",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 3 missions in gta-v, starting with \"Mr. Richards\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-v/solomon-richards.svg"
+    },
+    {
       "id": "steve-haines",
       "name": "Steve Haines",
       "role": "Antagonist, FIB",
@@ -189,6 +219,16 @@
       "image": "assets/img/portrait/gta-v/steve-haines.svg"
     },
     {
+      "id": "steve-haines-fib",
+      "name": "Steve Haines (FIB)",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 10 missions in gta-v, starting with \"By the Book\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-v/steve-haines-fib.svg"
+    },
+    {
       "id": "stretch",
       "name": "Stretch",
       "role": "Antagonist",
@@ -199,6 +239,16 @@
       "status": "Deceased",
       "verified": true,
       "image": "assets/img/portrait/gta-v/stretch.svg"
+    },
+    {
+      "id": "tao-cheng",
+      "name": "Tao Cheng",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 2 missions in gta-v, starting with \"Trevor Philips Industries\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-v/tao-cheng.svg"
     },
     {
       "id": "tracey-de-santa",

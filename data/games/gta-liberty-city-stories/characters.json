@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto: Liberty City Stories",
   "section": "characters",
   "coverage": "partial",
-  "count": 14,
+  "count": 17,
   "items": [
     {
       "id": "8-ball",
@@ -127,6 +127,26 @@
       "image": "assets/img/portrait/gta-liberty-city-stories/massimo-torini.svg"
     },
     {
+      "id": "mrs-cipriani",
+      "name": "Mrs. Cipriani",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 5 missions in gta-liberty-city-stories, starting with \"Snappy Dresser\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-liberty-city-stories/mrs-cipriani.svg"
+    },
+    {
+      "id": "ned-burner",
+      "name": "Ned Burner",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 4 missions in gta-liberty-city-stories, starting with \"L.C. Confidential\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-liberty-city-stories/ned-burner.svg"
+    },
+    {
       "id": "paulie-sindacco",
       "name": "Paulie Sindacco",
       "role": "Sindacco boss",
@@ -162,6 +182,16 @@
       "first_appearance": "GTA: Liberty City Stories",
       "verified": true,
       "image": "assets/img/portrait/gta-liberty-city-stories/toni-cipriani.svg"
+    },
+    {
+      "id": "toshiko-kasen",
+      "name": "Toshiko Kasen",
+      "role": "Mission giver",
+      "affiliations": [],
+      "summary": "Gives 4 missions in gta-liberty-city-stories, starting with \"More Deadly Than the Male\". Added from the mission table; affiliations are not tabulated here.",
+      "verified": true,
+      "source": "Derived from the mission list in this dataset (giver field)",
+      "image": "assets/img/portrait/gta-liberty-city-stories/toshiko-kasen.svg"
     },
     {
       "id": "vincenzo-cilli",

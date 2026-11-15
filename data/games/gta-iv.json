@@ -5,7 +5,7 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:56:35.574Z",
+    "generated": "2026-11-15T17:02:17.698Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -17,7 +17,7 @@
       "collectibles": "complete"
     },
     "counts": {
-      "characters": 18,
+      "characters": 26,
       "missions": 90,
       "vehicles": 122,
       "weapons": 23,
@@ -64,6 +64,16 @@
         "image": "assets/img/portrait/gta-iv/brucie-kibbutz.svg"
       },
       {
+        "id": "derrick-mcreary",
+        "name": "Derrick McReary",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Smackdown\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/derrick-mcreary.svg"
+      },
+      {
         "id": "dimitri-rascalov",
         "name": "Dimitri Rascalov",
         "role": "Antagonist",
@@ -86,6 +96,16 @@
         "status": "Varies",
         "verified": true,
         "image": "assets/img/portrait/gta-iv/dwayne-forge.svg"
+      },
+      {
+        "id": "elizabeta-torres",
+        "name": "Elizabeta Torres",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 4 missions in gta-iv, starting with \"Luck of the Irish\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/elizabeta-torres.svg"
       },
       {
         "id": "francis-mcreary",
@@ -113,6 +133,16 @@
         "image": "assets/img/portrait/gta-iv/gerald-mcreary.svg"
       },
       {
+        "id": "gerry-mcreary",
+        "name": "Gerry McReary",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 5 missions in gta-iv, starting with \"Actions Speak Louder than Words\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/gerry-mcreary.svg"
+      },
+      {
         "id": "jimmy-pegorino",
         "name": "Jimmy Pegorino",
         "role": "Boss",
@@ -123,6 +153,16 @@
         "status": "Varies",
         "verified": true,
         "image": "assets/img/portrait/gta-iv/jimmy-pegorino.svg"
+      },
+      {
+        "id": "jon-gravelli",
+        "name": "Jon Gravelli",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Entourage\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/jon-gravelli.svg"
       },
       {
         "id": "kate-mcreary",
@@ -148,6 +188,36 @@
         "status": "Alive",
         "verified": true,
         "image": "assets/img/portrait/gta-iv/little-jacob.svg"
+      },
+      {
+        "id": "mallorie-bardas",
+        "name": "Mallorie Bardas",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-iv, starting with \"Hostile Negotiation\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/mallorie-bardas.svg"
+      },
+      {
+        "id": "manny-escuela",
+        "name": "Manny Escuela",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Escuela of the Streets\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/manny-escuela.svg"
+      },
+      {
+        "id": "michelle",
+        "name": "Michelle",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-iv, starting with \"First Date\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/michelle.svg"
       },
       {
         "id": "mikhail-faustin",
@@ -246,6 +316,16 @@
         "status": "Alive",
         "verified": true,
         "image": "assets/img/portrait/gta-iv/ul-paper-contact.svg"
+      },
+      {
+        "id": "vlad-glebov",
+        "name": "Vlad Glebov",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 4 missions in gta-iv, starting with \"Bull in a China Shop\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/vlad-glebov.svg"
       },
       {
         "id": "vladimir-glebov",
