@@ -10,7 +10,18 @@ Static site, no external services. Regenerated 2026-11-15.
 - https://abinashspace.github.io/gta-hub/data/search-index.json — one object per record
 - https://abinashspace.github.io/gta-hub/data/images.json — image manifest with status
 - https://abinashspace.github.io/gta-hub/data/status.json — per-game coverage
+- https://abinashspace.github.io/gta-hub/data/cheats.json — every cheat code, flattened across games
+- https://abinashspace.github.io/gta-hub/data/locations.json — every location, flattened across games
+- https://abinashspace.github.io/gta-hub/data/cross/timeline.json — releases by universe
+- https://abinashspace.github.io/gta-hub/data/cross/compare.json — record counts per game and section
 - https://abinashspace.github.io/gta-hub/data/schema/<section>.json — JSON Schema per record type
+
+## Cross-game pages
+
+- https://abinashspace.github.io/gta-hub/timeline/ — releases in order, grouped by universe
+- https://abinashspace.github.io/gta-hub/compare/ — record matrix, section leaders, shared cities
+- https://abinashspace.github.io/gta-hub/cheats/ — all cheat codes on one page
+- https://abinashspace.github.io/gta-hub/locations/ — all locations on one page
 
 ## Record contract
 

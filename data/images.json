@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T17:09:58.440Z",
+  "generated": "2026-11-15T23:43:20.515Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -11947,7 +11947,7 @@
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Various changes to vehicle properties, including wheel size, top speed, acceleration, and handling. &#91; 1 &#93;"
+      "alt": "Various changes to vehicle properties, including wheel size, top speed, acceleration, and handling."
     },
     {
       "kind": "cheat",
@@ -19003,9 +19003,9 @@
     {
       "kind": "cheat",
       "game": "gta-advance",
-      "id": "15000-cash",
-      "record": "15000-cash",
-      "path": "assets/img/cheat/gta-advance/15000-cash.svg",
+      "id": "15-000-cash",
+      "record": "15-000-cash",
+      "path": "assets/img/cheat/gta-advance/15-000-cash.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
@@ -19014,9 +19014,9 @@
     {
       "kind": "cheat",
       "game": "gta-advance",
-      "id": "activate-cheat-mode",
-      "record": "activate-cheat-mode",
-      "path": "assets/img/cheat/gta-advance/activate-cheat-mode.svg",
+      "id": "activate-cheat-mode-shows-coordinates-required-for-the",
+      "record": "activate-cheat-mode-shows-coordinates-required-for-the",
+      "path": "assets/img/cheat/gta-advance/activate-cheat-mode-shows-coordinates-required-for-the.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
@@ -19036,9 +19036,9 @@
     {
       "kind": "cheat",
       "game": "gta-advance",
-      "id": "armor",
-      "record": "armor",
-      "path": "assets/img/cheat/gta-advance/armor.svg",
+      "id": "full-armor",
+      "record": "full-armor",
+      "path": "assets/img/cheat/gta-advance/full-armor.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
@@ -19047,9 +19047,9 @@
     {
       "kind": "cheat",
       "game": "gta-advance",
-      "id": "level-select",
-      "record": "level-select",
-      "path": "assets/img/cheat/gta-advance/level-select.svg",
+      "id": "level-select-at-the-main-menu",
+      "record": "level-select-at-the-main-menu",
+      "path": "assets/img/cheat/gta-advance/level-select-at-the-main-menu.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
@@ -19080,9 +19080,9 @@
     {
       "kind": "cheat",
       "game": "gta-advance",
-      "id": "health",
-      "record": "health",
-      "path": "assets/img/cheat/gta-advance/health.svg",
+      "id": "restore-health",
+      "record": "restore-health",
+      "path": "assets/img/cheat/gta-advance/restore-health.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
@@ -28078,13 +28078,13 @@
     {
       "kind": "cheat",
       "game": "gta-iv",
-      "id": "apc-and-91-1-and-93",
-      "record": "apc-and-91-1-and-93",
-      "path": "assets/img/cheat/gta-iv/apc-and-91-1-and-93.svg",
+      "id": "apc",
+      "record": "apc",
+      "path": "assets/img/cheat/gta-iv/apc.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "APC &#91; 1 &#93;"
+      "alt": "APC"
     },
     {
       "kind": "cheat",
@@ -28166,13 +28166,13 @@
     {
       "kind": "cheat",
       "game": "gta-iv",
-      "id": "explosive-sniper-rounds-and-91-3-and-93",
-      "record": "explosive-sniper-rounds-and-91-3-and-93",
-      "path": "assets/img/cheat/gta-iv/explosive-sniper-rounds-and-91-3-and-93.svg",
+      "id": "explosive-sniper-rounds",
+      "record": "explosive-sniper-rounds",
+      "path": "assets/img/cheat/gta-iv/explosive-sniper-rounds.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Explosive sniper rounds &#91; 3 &#93;"
+      "alt": "Explosive sniper rounds"
     },
     {
       "kind": "cheat",
@@ -28265,13 +28265,13 @@
     {
       "kind": "cheat",
       "game": "gta-iv",
-      "id": "luis-throws-explosive-punches-and-91-2-and-93",
-      "record": "luis-throws-explosive-punches-and-91-2-and-93",
-      "path": "assets/img/cheat/gta-iv/luis-throws-explosive-punches-and-91-2-and-93.svg",
+      "id": "luis-throws-explosive-punches",
+      "record": "luis-throws-explosive-punches",
+      "path": "assets/img/cheat/gta-iv/luis-throws-explosive-punches.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Luis throws explosive punches &#91; 2 &#93;"
+      "alt": "Luis throws explosive punches"
     },
     {
       "kind": "cheat",
@@ -40706,35 +40706,35 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "advance-weather-and-91-10-and-93",
-      "record": "advance-weather-and-91-10-and-93",
-      "path": "assets/img/cheat/gta-v/advance-weather-and-91-10-and-93.svg",
+      "id": "advance-weather",
+      "record": "advance-weather",
+      "path": "assets/img/cheat/gta-v/advance-weather.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Advance Weather &#91; 10 &#93;"
+      "alt": "Advance Weather"
     },
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "bang-bang-and-91-6-and-93",
-      "record": "bang-bang-and-91-6-and-93",
-      "path": "assets/img/cheat/gta-v/bang-bang-and-91-6-and-93.svg",
+      "id": "bang-bang",
+      "record": "bang-bang",
+      "path": "assets/img/cheat/gta-v/bang-bang.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Bang bang! &#91; 6 &#93;"
+      "alt": "Bang bang!"
     },
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "black-cellphones-and-91-1-and-93",
-      "record": "black-cellphones-and-91-1-and-93",
-      "path": "assets/img/cheat/gta-v/black-cellphones-and-91-1-and-93.svg",
+      "id": "black-cellphones",
+      "record": "black-cellphones",
+      "path": "assets/img/cheat/gta-v/black-cellphones.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Black Cellphones &#91; 1 &#93;"
+      "alt": "Black Cellphones"
     },
     {
       "kind": "cheat",
@@ -40750,13 +40750,13 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "enter-director-mode-and-91-1-and-93",
-      "record": "enter-director-mode-and-91-1-and-93",
-      "path": "assets/img/cheat/gta-v/enter-director-mode-and-91-1-and-93.svg",
+      "id": "enter-director-mode",
+      "record": "enter-director-mode",
+      "path": "assets/img/cheat/gta-v/enter-director-mode.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Enter Director Mode &#91; 1 &#93;"
+      "alt": "Enter Director Mode"
     },
     {
       "kind": "cheat",
@@ -40805,13 +40805,13 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "give-weapons-and-91-2-and-93",
-      "record": "give-weapons-and-91-2-and-93",
-      "path": "assets/img/cheat/gta-v/give-weapons-and-91-2-and-93.svg",
+      "id": "give-weapons",
+      "record": "give-weapons",
+      "path": "assets/img/cheat/gta-v/give-weapons.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Give weapons &#91; 2 &#93;"
+      "alt": "Give weapons"
     },
     {
       "kind": "cheat",
@@ -40827,13 +40827,13 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "max-health-and-armor-and-91-3-and-93",
-      "record": "max-health-and-armor-and-91-3-and-93",
-      "path": "assets/img/cheat/gta-v/max-health-and-armor-and-91-3-and-93.svg",
+      "id": "max-health-and-armor",
+      "record": "max-health-and-armor",
+      "path": "assets/img/cheat/gta-v/max-health-and-armor.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Max health and armor &#91; 3 &#93;"
+      "alt": "Max health and armor"
     },
     {
       "kind": "cheat",
@@ -40860,13 +40860,13 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "skyfall-and-91-12-and-93",
-      "record": "skyfall-and-91-12-and-93",
-      "path": "assets/img/cheat/gta-v/skyfall-and-91-12-and-93.svg",
+      "id": "skyfall",
+      "record": "skyfall",
+      "path": "assets/img/cheat/gta-v/skyfall.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Skyfall &#91; 12 &#93;"
+      "alt": "Skyfall"
     },
     {
       "kind": "cheat",
@@ -40882,24 +40882,24 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "slow-motion-and-91-11-and-93",
-      "record": "slow-motion-and-91-11-and-93",
-      "path": "assets/img/cheat/gta-v/slow-motion-and-91-11-and-93.svg",
+      "id": "slow-motion",
+      "record": "slow-motion",
+      "path": "assets/img/cheat/gta-v/slow-motion.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Slow Motion &#91; 11 &#93;"
+      "alt": "Slow Motion"
     },
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "slow-motion-aim-and-91-11-and-93",
-      "record": "slow-motion-aim-and-91-11-and-93",
-      "path": "assets/img/cheat/gta-v/slow-motion-aim-and-91-11-and-93.svg",
+      "id": "slow-motion-aim",
+      "record": "slow-motion-aim",
+      "path": "assets/img/cheat/gta-v/slow-motion-aim.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Slow motion aim &#91; 11 &#93;"
+      "alt": "Slow motion aim"
     },
     {
       "kind": "cheat",
@@ -40948,24 +40948,24 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "spawn-dodo-sea-plane-and-91-1-and-93-and-91-7-and-93",
-      "record": "spawn-dodo-sea-plane-and-91-1-and-93-and-91-7-and-93",
-      "path": "assets/img/cheat/gta-v/spawn-dodo-sea-plane-and-91-1-and-93-and-91-7-and-93.svg",
+      "id": "spawn-dodo-sea-plane",
+      "record": "spawn-dodo-sea-plane",
+      "path": "assets/img/cheat/gta-v/spawn-dodo-sea-plane.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Spawn Dodo Sea Plane &#91; 1 &#93; &#91; 7 &#93;"
+      "alt": "Spawn Dodo Sea Plane"
     },
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "spawn-duke-odeath-and-91-1-and-93-and-91-8-and-93",
-      "record": "spawn-duke-odeath-and-91-1-and-93-and-91-8-and-93",
-      "path": "assets/img/cheat/gta-v/spawn-duke-odeath-and-91-1-and-93-and-91-8-and-93.svg",
+      "id": "spawn-duke-odeath",
+      "record": "spawn-duke-odeath",
+      "path": "assets/img/cheat/gta-v/spawn-duke-odeath.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Spawn Duke O'Death &#91; 1 &#93; &#91; 8 &#93;"
+      "alt": "Spawn Duke O'Death"
     },
     {
       "kind": "cheat",
@@ -40981,13 +40981,13 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "spawn-kraken-submersible-and-91-1-and-93-and-91-9-and-93",
-      "record": "spawn-kraken-submersible-and-91-1-and-93-and-91-9-and-93",
-      "path": "assets/img/cheat/gta-v/spawn-kraken-submersible-and-91-1-and-93-and-91-9-and-93.svg",
+      "id": "spawn-kraken-submersible",
+      "record": "spawn-kraken-submersible",
+      "path": "assets/img/cheat/gta-v/spawn-kraken-submersible.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Spawn Kraken submersible &#91; 1 &#93; &#91; 9 &#93;"
+      "alt": "Spawn Kraken submersible"
     },
     {
       "kind": "cheat",
@@ -41080,24 +41080,24 @@
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "wanted-level-down-and-91-5-and-93",
-      "record": "wanted-level-down-and-91-5-and-93",
-      "path": "assets/img/cheat/gta-v/wanted-level-down-and-91-5-and-93.svg",
+      "id": "wanted-level-down",
+      "record": "wanted-level-down",
+      "path": "assets/img/cheat/gta-v/wanted-level-down.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Wanted Level down &#91; 5 &#93;"
+      "alt": "Wanted Level down"
     },
     {
       "kind": "cheat",
       "game": "gta-v",
-      "id": "wanted-level-up-and-91-4-and-93",
-      "record": "wanted-level-up-and-91-4-and-93",
-      "path": "assets/img/cheat/gta-v/wanted-level-up-and-91-4-and-93.svg",
+      "id": "wanted-level-up",
+      "record": "wanted-level-up",
+      "path": "assets/img/cheat/gta-v/wanted-level-up.svg",
       "width": 128,
       "height": 128,
       "status": "placeholder",
-      "alt": "Wanted Level up &#91; 4 &#93;"
+      "alt": "Wanted Level up"
     },
     {
       "kind": "location",

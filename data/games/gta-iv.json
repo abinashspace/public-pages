@@ -5,7 +5,7 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T17:09:58.686Z",
+    "generated": "2026-11-15T23:43:20.759Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -2926,9 +2926,9 @@
         "effect": "Advanced weapons set and refill ammo ( Baseball Bat , Combat Pistol , Combat Shotgun , SMG , Carbine Rifle , Combat Sniper , Grenades and RPG )",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "486-555-0100 (GUN-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -2940,9 +2940,9 @@
         "effect": "Advanced weapons set and refill ammo ( Knife , Pistol .44 , Explosive Shotgun , Assault SMG , Advanced MG , Advanced Sniper , Grenade Launcher , Sticky Bombs )",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "486-555-0100 (GUN-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -2954,9 +2954,9 @@
         "effect": "Akuma",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "625-555-0200 (MBK-555-0200)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -2968,9 +2968,9 @@
         "effect": "Annihilator",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "359-555-0100 (FLY-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -2978,27 +2978,27 @@
         "image": "assets/img/cheat/gta-iv/annihilator.svg"
       },
       {
-        "id": "apc-and-91-1-and-93",
-        "effect": "APC &#91; 1 &#93;",
+        "id": "apc",
+        "effect": "APC",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "272-555-8265 (APC-555-TANK)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
         "source": "GTA Wiki cheat code tables (per-platform codes)",
-        "image": "assets/img/cheat/gta-iv/apc-and-91-1-and-93.svg"
+        "image": "assets/img/cheat/gta-iv/apc.svg"
       },
       {
         "id": "bullet-gt",
         "effect": "Bullet GT",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-9666 (CAR-555-ZOOM)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3010,9 +3010,9 @@
         "effect": "Buzzard",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "359-555-2899 (FLY-555-BUZZ)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3024,9 +3024,9 @@
         "effect": "Clear wanted level",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "267-555-0100 (COP-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3038,9 +3038,9 @@
         "effect": "Cognoscenti",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-0142 (CAR-555-0142)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3052,9 +3052,9 @@
         "effect": "Comet",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-0175 (CAR-555-0175)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3066,9 +3066,9 @@
         "effect": "Cycles weather sequentially to the next condition in the same order as the timecyc.dat file; there are eight different weather conditions",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "468-555-0100 (HOT-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3080,9 +3080,9 @@
         "effect": "Double T Custom",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "245-555-0125 (BIK-555-0125)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3090,27 +3090,27 @@
         "image": "assets/img/cheat/gta-iv/double-t-custom.svg"
       },
       {
-        "id": "explosive-sniper-rounds-and-91-3-and-93",
-        "effect": "Explosive sniper rounds &#91; 3 &#93;",
+        "id": "explosive-sniper-rounds",
+        "effect": "Explosive sniper rounds",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "486-555-2526 (GUN-555-BLAM)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
         "source": "GTA Wiki cheat code tables (per-platform codes)",
-        "image": "assets/img/cheat/gta-iv/explosive-sniper-rounds-and-91-3-and-93.svg"
+        "image": "assets/img/cheat/gta-iv/explosive-sniper-rounds.svg"
       },
       {
         "id": "fib-buffalo",
         "effect": "FIB Buffalo",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-0100 (CAR-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3122,9 +3122,9 @@
         "effect": "Floater",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "938-555-0150 (WET-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3136,9 +3136,9 @@
         "effect": "Gang Burrito",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "826-555-0150 (VAN-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3150,9 +3150,9 @@
         "effect": "Hakuchou Custom",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "245-555-0199 (BIK-555-0199)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3164,9 +3164,9 @@
         "effect": "Hexer",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "245-555-0150 (BIK-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3178,9 +3178,9 @@
         "effect": "Increase wanted level by one star",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "267-555-0150 (COP-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3192,9 +3192,9 @@
         "effect": "Innovation",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "245-555-0100 (BIK-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3206,9 +3206,9 @@
         "effect": "Jetmax",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "938-555-0100 (WET-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3216,27 +3216,27 @@
         "image": "assets/img/cheat/gta-iv/jetmax.svg"
       },
       {
-        "id": "luis-throws-explosive-punches-and-91-2-and-93",
-        "effect": "Luis throws explosive punches &#91; 2 &#93;",
+        "id": "luis-throws-explosive-punches",
+        "effect": "Luis throws explosive punches",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "276-555-2666 (ARM-555-BOOM)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
         "source": "GTA Wiki cheat code tables (per-platform codes)",
-        "image": "assets/img/cheat/gta-iv/luis-throws-explosive-punches-and-91-2-and-93.svg"
+        "image": "assets/img/cheat/gta-iv/luis-throws-explosive-punches.svg"
       },
       {
         "id": "nrg-900",
         "effect": "NRG 900",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "625-555-0100 (MBK-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3248,9 +3248,9 @@
         "effect": "Parachute",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "359-555-7272 (FLY-555-PARA)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3262,9 +3262,9 @@
         "effect": "Poor weapons set and refill ammo ( Knife , Pistol , Pump Shotgun , Micro-SMG , Assault Rifle , Combat Sniper , Molotov Cocktail and RPG )",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "486-555-0150 (GUN-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3276,9 +3276,9 @@
         "effect": "Refill health and ammo, repair vehicle, and advanced weapons set",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "482-555-0100 (GTA-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3290,9 +3290,9 @@
         "effect": "Refill health and armor, repair vehicle",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "362-555-0100 (DOC-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3304,9 +3304,9 @@
         "effect": "Sanchez",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "625-555-0150 (MBK-555-0150)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3318,9 +3318,9 @@
         "effect": "Slamvan",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "826-555-0100 (VAN-555-0100)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3332,9 +3332,9 @@
         "effect": "SuperGT",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-0168 (CAR-555-0168)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3346,9 +3346,9 @@
         "effect": "Turismo",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "227-555-0147 (CAR-555-0147)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,
@@ -3360,9 +3360,9 @@
         "effect": "Vader",
         "codes": [
           {
-            "platform": "Phone number",
+            "platform": "In-game phone",
             "code": "625-555-3273 (MBK-555-FARE)",
-            "input": "touch"
+            "input": "phone"
           }
         ],
         "verified": true,

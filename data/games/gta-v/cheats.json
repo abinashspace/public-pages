@@ -6,9 +6,19 @@
   "count": 36,
   "items": [
     {
-      "id": "advance-weather-and-91-10-and-93",
-      "effect": "Advance Weather &#91; 10 &#93;",
+      "id": "advance-weather",
+      "effect": "Advance Weather",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-625-348-7246 (1-999-MAKE-IT-RAIN)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "MAKEITRAIN",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square",
@@ -18,26 +28,26 @@
           "platform": "Xbox",
           "code": "Right Trigger (RT) → A → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT) → X",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "MAKEITRAIN",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-625-348-7246 (1-999-MAKE-IT-RAIN)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/advance-weather-and-91-10-and-93.svg"
+      "image": "assets/img/cheat/gta-v/advance-weather.svg"
     },
     {
-      "id": "bang-bang-and-91-6-and-93",
-      "effect": "Bang bang! &#91; 6 &#93;",
+      "id": "bang-bang",
+      "effect": "Bang bang!",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-444-439 (1-999-HIGHEX)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "HIGHEX",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Square → Cross → R1 → R2 → L1 → L1 → L1",
@@ -47,40 +57,40 @@
           "platform": "Xbox",
           "code": "D-Pad Right → X → A → D-Pad Left → Right Bumper (RB) → Right Trigger (RT) → D-Pad Left → D-Pad Right → D-Pad Right → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "HIGHEX",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-444-439 (1-999-HIGHEX)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/bang-bang-and-91-6-and-93.svg"
+      "image": "assets/img/cheat/gta-v/bang-bang.svg"
     },
     {
-      "id": "black-cellphones-and-91-1-and-93",
-      "effect": "Black Cellphones &#91; 1 &#93;",
+      "id": "black-cellphones",
+      "effect": "Black Cellphones",
       "codes": [
         {
-          "platform": "In-Game Cellphone",
+          "platform": "In-game phone",
           "code": "1-999-367-3767 (1-999-EMPEROR)",
-          "input": "touch"
+          "input": "phone"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/black-cellphones-and-91-1-and-93.svg"
+      "image": "assets/img/cheat/gta-v/black-cellphones.svg"
     },
     {
       "id": "drunk-mode",
       "effect": "Drunk mode",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-547-867 (1-999-LIQUOR)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "LIQUOR",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Triangle → Square → Circle",
@@ -90,16 +100,6 @@
           "platform": "Xbox",
           "code": "Y → D-Pad Right → D-Pad Right → D-Pad Left → D-Pad Right → X → B → D-Pad Left",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "LIQUOR",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-547-867 (1-999-LIQUOR)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -107,23 +107,33 @@
       "image": "assets/img/cheat/gta-v/drunk-mode.svg"
     },
     {
-      "id": "enter-director-mode-and-91-1-and-93",
-      "effect": "Enter Director Mode &#91; 1 &#93;",
+      "id": "enter-director-mode",
+      "effect": "Enter Director Mode",
       "codes": [
         {
-          "platform": "In-Game Cellphone",
+          "platform": "In-game phone",
           "code": "1-999-57825368 (1-999-LS-TALENT)",
-          "input": "touch"
+          "input": "phone"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/enter-director-mode-and-91-1-and-93.svg"
+      "image": "assets/img/cheat/gta-v/enter-director-mode.svg"
     },
     {
       "id": "explosive-melee-attacks",
       "effect": "Explosive melee attacks",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-468-42637 (1-999 HOT-HANDS)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "HOTHANDS",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Cross → Triangle → R1 → Circle → Circle → Circle → L2",
@@ -133,16 +143,6 @@
           "platform": "Xbox",
           "code": "D-Pad Right → D-Pad Left → A → Y → Right Bumper (RB) → B → B → B → Left Trigger (LT)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "HOTHANDS",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-468-42637 (1-999 HOT-HANDS)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -154,6 +154,16 @@
       "effect": "Fast run",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-228-2463 (1-999-CATCH-ME)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "CATCHME",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Triangle → L2 → L1 → Square",
           "input": "button"
@@ -162,16 +172,6 @@
           "platform": "Xbox",
           "code": "Y → D-Pad Left → D-Pad Right → D-Pad Right → Left Trigger (LT) → Left Bumper (LB) → X",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "CATCHME",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-228-2463 (1-999-CATCH-ME)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -183,6 +183,16 @@
       "effect": "Fast swim",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-468-44557 (1-999-GOT-GILLS)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "GOTGILLS",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → R2 → L2",
           "input": "button"
@@ -191,16 +201,6 @@
           "platform": "Xbox",
           "code": "D-Pad Left → D-Pad Left → Left Bumper (LB) → D-Pad Right → D-Pad Right → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "GOTGILLS",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-468-44557 (1-999-GOT-GILLS)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -212,6 +212,16 @@
       "effect": "Flaming bullets",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-462-363-4279 (1-999-INCENDIARY)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "INCENDIARY",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → R1 → Square → R1 → R2 → R1 → Square → L1 → L1",
           "input": "button"
@@ -220,16 +230,6 @@
           "platform": "Xbox",
           "code": "Left Bumper (LB) → Right Bumper (RB) → X → Right Bumper (RB) → D-Pad Left → Right Trigger (RT) → Right Bumper (RB) → D-Pad Left → X → D-Pad Right → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "INCENDIARY",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-462-363-4279 (1-999-INCENDIARY)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -237,9 +237,19 @@
       "image": "assets/img/cheat/gta-v/flaming-bullets.svg"
     },
     {
-      "id": "give-weapons-and-91-2-and-93",
-      "effect": "Give weapons &#91; 2 &#93;",
+      "id": "give-weapons",
+      "effect": "Give weapons",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-866-587 (1-999-TOOL-UP)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "TOOLUP",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Triangle → R2 → L1 → Cross → Triangle → Square → L1 → L1 → L1",
@@ -249,26 +259,26 @@
           "platform": "Xbox",
           "code": "Y → Right Trigger (RT) → D-Pad Left → Left Bumper (LB) → A → D-Pad Right → Y → D-Pad Down → X → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "TOOLUP",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-866-587 (1-999-TOOL-UP)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/give-weapons-and-91-2-and-93.svg"
+      "image": "assets/img/cheat/gta-v/give-weapons.svg"
     },
     {
       "id": "invincible-for-5-minutes",
       "effect": "Invincible for 5 minutes",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-724-654-5537 (1-999-PAINKILLER)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "PAINKILLER",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Cross → R1 → Cross → Triangle",
@@ -278,16 +288,6 @@
           "platform": "Xbox",
           "code": "D-Pad Right → A → D-Pad Right → D-Pad Left → D-Pad Right → Right Bumper (RB) → D-Pad Right → D-Pad Left → A → Y",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "PAINKILLER",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-724-654-5537 (1-999-PAINKILLER)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -295,9 +295,19 @@
       "image": "assets/img/cheat/gta-v/invincible-for-5-minutes.svg"
     },
     {
-      "id": "max-health-and-armor-and-91-3-and-93",
-      "effect": "Max health and armor &#91; 3 &#93;",
+      "id": "max-health-and-armor",
+      "effect": "Max health and armor",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-887-853 (1-999-TURTLE)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "TURTLE",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Circle → L1 → Triangle → R2 → Cross → Square → Circle → Square → L1 → L1 → L1",
@@ -307,26 +317,26 @@
           "platform": "Xbox",
           "code": "B → Left Bumper (LB) → Y → Right Trigger (RT) → A → X → B → D-Pad Right → X → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "TURTLE",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-887-853 (1-999-TURTLE)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/max-health-and-armor-and-91-3-and-93.svg"
+      "image": "assets/img/cheat/gta-v/max-health-and-armor.svg"
     },
     {
       "id": "moon-gravity",
       "effect": "Moon gravity",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-356-2837 (1-999-FLOATER)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "FLOATER",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "L1 → R1 → L1 → L1",
@@ -336,16 +346,6 @@
           "platform": "Xbox",
           "code": "D-Pad Left → D-Pad Left → Left Bumper (LB) → Right Bumper (RB) → Left Bumper (LB) → D-Pad Right → D-Pad Left → Left Bumper (LB) → D-Pad Left",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "FLOATER",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-356-2837 (1-999-FLOATER)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -357,6 +357,16 @@
       "effect": "Parachute given",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-759-3483 (1-999-SKY-DIVE)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "SKYDIVE",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → R2 → L1",
           "input": "button"
@@ -365,16 +375,6 @@
           "platform": "Xbox",
           "code": "D-Pad Left → D-Pad Right → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → D-Pad Left → D-Pad Right → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "SKYDIVE",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-759-3483 (1-999-SKY-DIVE)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -382,9 +382,19 @@
       "image": "assets/img/cheat/gta-v/parachute-given.svg"
     },
     {
-      "id": "skyfall-and-91-12-and-93",
-      "effect": "Skyfall &#91; 12 &#93;",
+      "id": "skyfall",
+      "effect": "Skyfall",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-759-3255 (1-999-SKY-FALL)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "SKYFALL",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → L1 → L2 → R1 → R2",
@@ -394,26 +404,26 @@
           "platform": "Xbox",
           "code": "Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Right Trigger (RT) → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Right Trigger (RT) → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "SKYFALL",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-759-3255 (1-999-SKY-FALL)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/skyfall-and-91-12-and-93.svg"
+      "image": "assets/img/cheat/gta-v/skyfall.svg"
     },
     {
       "id": "slidey-cars",
       "effect": "Slidey cars",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-766-9329 (1-999-SNOW-DAY)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "SNOWDAY",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Triangle → R1 → R1 → R1 → L1 → R2 → L1",
@@ -423,16 +433,6 @@
           "platform": "Xbox",
           "code": "Y → Right Bumper (RB) → Right Bumper (RB) → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → Right Trigger (RT) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "SNOWDAY",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-766-9329 (1-999-SNOW-DAY)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -440,9 +440,19 @@
       "image": "assets/img/cheat/gta-v/slidey-cars.svg"
     },
     {
-      "id": "slow-motion-and-91-11-and-93",
-      "effect": "Slow Motion &#91; 11 &#93;",
+      "id": "slow-motion",
+      "effect": "Slow Motion",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-756-966 (1-999-SLOW-MO)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "SLOWMO",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Triangle → Square → R2 → R1",
@@ -452,26 +462,26 @@
           "platform": "Xbox",
           "code": "Y → D-Pad Left → D-Pad Right → D-Pad Right → X → Right Trigger (RT) → Right Bumper (RB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "SLOWMO",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-756-966 (1-999-SLOW-MO)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/slow-motion-and-91-11-and-93.svg"
+      "image": "assets/img/cheat/gta-v/slow-motion.svg"
     },
     {
-      "id": "slow-motion-aim-and-91-11-and-93",
-      "effect": "Slow motion aim &#91; 11 &#93;",
+      "id": "slow-motion-aim",
+      "effect": "Slow motion aim",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-332-3393 (1-999-DEAD-EYE)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "DEADEYE",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Square → L2 → R1 → Triangle → Square → L2 → Cross",
@@ -481,26 +491,26 @@
           "platform": "Xbox",
           "code": "X → Left Trigger (LT) → Right Bumper (RB) → Y → D-Pad Left → X → Left Trigger (LT) → D-Pad Right → A",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "DEADEYE",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-332-3393 (1-999-DEAD-EYE)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/slow-motion-aim-and-91-11-and-93.svg"
+      "image": "assets/img/cheat/gta-v/slow-motion-aim.svg"
     },
     {
       "id": "spawn-bmx",
       "effect": "Spawn BMX",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-226-348 (1-999-BANDIT)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "BANDIT",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Square → Circle → Triangle → R1 → R2",
@@ -510,16 +520,6 @@
           "platform": "Xbox",
           "code": "D-Pad Left → D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Left → D-Pad Right → X → B → Y → Right Bumper (RB) → Right Trigger (RT)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "BANDIT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-226-348 (1-999-BANDIT)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -531,6 +531,16 @@
       "effect": "Spawn Buzzard",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-289-9633 (1-999-BUZZ-OFF)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "BUZZOFF",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → Circle → L1 → Circle → Circle → Circle → L1 → L2 → R1 → Triangle → Circle → Triangle",
           "input": "button"
@@ -539,16 +549,6 @@
           "platform": "Xbox",
           "code": "B → B → Left Bumper (LB) → B → B → B → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Y → B → Y",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "BUZZOFF",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-289-9633 (1-999-BUZZ-OFF)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -560,6 +560,16 @@
       "effect": "Spawn Caddy",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-465-3461 (1-999-HOLE-IN-1)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "HOLEIN1",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → L1 → R1 → L2 → Cross → R1 → L1 → Circle → Cross",
           "input": "button"
@@ -568,16 +578,6 @@
           "platform": "Xbox",
           "code": "B → Left Bumper (LB) → D-Pad Left → Right Bumper (RB) → Left Trigger (LT) → A → Right Bumper (RB) → Left Bumper (LB) → B → A",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "HOLEIN1",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-465-3461 (1-999-HOLE-IN-1)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -589,6 +589,16 @@
       "effect": "Spawn Comet",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-266-38 (1-999-COMET)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "COMET",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R1 → Circle → R2 → L1 → L2 → Cross → Cross → Square → R1",
           "input": "button"
@@ -597,16 +607,6 @@
           "platform": "Xbox",
           "code": "Right Bumper (RB) → B → Right Trigger (RT) → D-Pad Right → Left Bumper (LB) → Left Trigger (LT) → A → A → X → Right Bumper (RB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "COMET",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-266-38 (1-999-COMET)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -614,9 +614,19 @@
       "image": "assets/img/cheat/gta-v/spawn-comet.svg"
     },
     {
-      "id": "spawn-dodo-sea-plane-and-91-1-and-93-and-91-7-and-93",
-      "effect": "Spawn Dodo Sea Plane &#91; 1 &#93; &#91; 7 &#93;",
+      "id": "spawn-dodo-sea-plane",
+      "effect": "Spawn Dodo Sea Plane",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-3984628 (1-999-EXTINCT)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "EXTINCT",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Square → R1 → Square → R1 → R1 → L1 → Square",
@@ -626,26 +636,26 @@
           "platform": "Xbox",
           "code": "X → Right Bumper (RB) → X → Right Bumper (RB) → D-Pad Left → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → X → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "EXTINCT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-3984628 (1-999-EXTINCT)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/spawn-dodo-sea-plane-and-91-1-and-93-and-91-7-and-93.svg"
+      "image": "assets/img/cheat/gta-v/spawn-dodo-sea-plane.svg"
     },
     {
-      "id": "spawn-duke-odeath-and-91-1-and-93-and-91-8-and-93",
-      "effect": "Spawn Duke O'Death &#91; 1 &#93; &#91; 8 &#93;",
+      "id": "spawn-duke-odeath",
+      "effect": "Spawn Duke O'Death",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-33284227 (1-999-DEATHCAR)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "DEATHCAR",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "Triangle → R1 → Triangle → R1 → R1 → L1 → Triangle",
@@ -655,26 +665,26 @@
           "platform": "Xbox",
           "code": "Y → Right Bumper (RB) → Y → Right Bumper (RB) → D-Pad Right → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → Y → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "DEATHCAR",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-33284227 (1-999-DEATHCAR)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/spawn-duke-odeath-and-91-1-and-93-and-91-8-and-93.svg"
+      "image": "assets/img/cheat/gta-v/spawn-duke-odeath.svg"
     },
     {
       "id": "spawn-duster",
       "effect": "Spawn Duster",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-359-77729 (1-999-FLY-SPRAY)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "FLYSPRAY",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R1 → R1 → R1 → Triangle → Triangle → Cross → Circle → L1 → L1",
@@ -684,16 +694,6 @@
           "platform": "Xbox",
           "code": "D-Pad Right → D-Pad Left → Right Bumper (RB) → Right Bumper (RB) → Right Bumper (RB) → D-Pad Left → Y → Y → A → B → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "FLYSPRAY",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-359-77729 (1-999-FLY-SPRAY)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -701,9 +701,19 @@
       "image": "assets/img/cheat/gta-v/spawn-duster.svg"
     },
     {
-      "id": "spawn-kraken-submersible-and-91-1-and-93-and-91-9-and-93",
-      "effect": "Spawn Kraken submersible &#91; 1 &#93; &#91; 9 &#93;",
+      "id": "spawn-kraken-submersible",
+      "effect": "Spawn Kraken submersible",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-282-2537 (1-999-BUBBLES)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "BUBBLES",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R2 → L2 → R1 → L1 → Square",
@@ -713,26 +723,26 @@
           "platform": "Xbox",
           "code": "Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → D-Pad Right → D-Pad Right → Right Bumper (RB) → Left Bumper (LB) → X → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "BUBBLES",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-282-2537 (1-999-BUBBLES)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/spawn-kraken-submersible-and-91-1-and-93-and-91-9-and-93.svg"
+      "image": "assets/img/cheat/gta-v/spawn-kraken-submersible.svg"
     },
     {
       "id": "spawn-pcj",
       "effect": "Spawn PCJ",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-762-538 (1-999-ROCKET)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "ROCKET",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R1 → R2 → Square → L2 → L1 → L1",
@@ -742,16 +752,6 @@
           "platform": "Xbox",
           "code": "Right Bumper (RB) → D-Pad Right → D-Pad Left → D-Pad Right → Right Trigger (RT) → D-Pad Left → D-Pad Right → X → D-Pad Right → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "ROCKET",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-762-538 (1-999-ROCKET)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -763,6 +763,16 @@
       "effect": "Spawn Rapid GT",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-727-4348 (1-999-RAPID-GT)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "RAPIDGT",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → L1 → Circle → L1 → R1 → Circle → R2",
           "input": "button"
@@ -771,16 +781,6 @@
           "platform": "Xbox",
           "code": "Right Trigger (RT) → Left Bumper (LB) → B → D-Pad Right → Left Bumper (LB) → Right Bumper (RB) → D-Pad Right → D-Pad Left → B → Right Trigger (RT)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "RAPIDGT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-727-4348 (1-999-RAPID-GT)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -792,6 +792,16 @@
       "effect": "Spawn Sanchez",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-633-7623 (1-999-OFF-ROAD)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "OFFROAD",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → Cross → L1 → Circle → Circle → L1 → Circle → R1 → R2 → L2 → L1 → L1",
           "input": "button"
@@ -800,16 +810,6 @@
           "platform": "Xbox",
           "code": "B → A → Left Bumper (LB) → B → B → Left Bumper (LB) → B → Right Bumper (RB) → Right Trigger (RT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "OFFROAD",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-633-7623 (1-999-OFF-ROAD)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -821,6 +821,16 @@
       "effect": "Spawn Stretch Limo",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-846-39663 (1-999-VINEWOOD)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "VINEWOOD",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → L2 → R1 → L1 → Circle",
           "input": "button"
@@ -829,16 +839,6 @@
           "platform": "Xbox",
           "code": "Right Trigger (RT) → D-Pad Right → Left Trigger (LT) → D-Pad Left → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → B → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "VINEWOOD",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-846-39663 (1-999-VINEWOOD)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -850,6 +850,16 @@
       "effect": "Spawn Stunt Plane",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-227-678-676 (1-999-BARN-STORM)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "BARNSTORM",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → L1 → L2 → R1 → L1 → L1 → Cross → Triangle",
           "input": "button"
@@ -858,16 +868,6 @@
           "platform": "Xbox",
           "code": "B → D-Pad Right → Left Bumper (LB) → Left Trigger (LT) → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Left → D-Pad Left → A → Y",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "BARNSTORM",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-227-678-676 (1-999-BARN-STORM)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -879,6 +879,16 @@
       "effect": "Spawn Trashmaster",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-872-433 (1-999-TRASHED)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "TRASHED",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → R1 → Circle → R1 → R1 → L1 → Circle",
           "input": "button"
@@ -887,16 +897,6 @@
           "platform": "Xbox",
           "code": "B → Right Bumper (RB) → B → Right Bumper (RB) → D-Pad Left → D-Pad Left → Right Bumper (RB) → Left Bumper (LB) → B → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "TRASHED",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-872-433 (1-999-TRASHED)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -908,6 +908,16 @@
       "effect": "Special ability recharged",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-769-3787 (1-999-POWERUP)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "POWERUP",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Cross → Cross → Square → R1 → L1 → Cross → Cross",
           "input": "button"
@@ -916,16 +926,6 @@
           "platform": "Xbox",
           "code": "A → A → X → Right Bumper (RB) → Left Bumper (LB) → A → D-Pad Right → D-Pad Left → A",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "POWERUP",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-769-3787 (1-999-POWERUP)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -937,6 +937,16 @@
       "effect": "Super jump",
       "codes": [
         {
+          "platform": "In-game phone",
+          "code": "1-999-467-8648 (1-999-HOP-TO-IT)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "HOPTOIT",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Triangle → Triangle → Square → R1 → R2",
           "input": "button"
@@ -945,16 +955,6 @@
           "platform": "Xbox",
           "code": "D-Pad Left → D-Pad Left → Y → Y → D-Pad Right → D-Pad Right → D-Pad Left → D-Pad Right → X → Right Bumper (RB) → Right Trigger (RT)",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "HOPTOIT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-467-8648 (1-999-HOP-TO-IT)",
-          "input": "touch"
         }
       ],
       "verified": true,
@@ -962,9 +962,19 @@
       "image": "assets/img/cheat/gta-v/super-jump.svg"
     },
     {
-      "id": "wanted-level-down-and-91-5-and-93",
-      "effect": "Wanted Level down &#91; 5 &#93;",
+      "id": "wanted-level-down",
+      "effect": "Wanted Level down",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-529-93787 (1-999-LAWYERUP)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "LAWYERUP",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R1 → R1 → Circle → R2",
@@ -974,26 +984,26 @@
           "platform": "Xbox",
           "code": "Right Bumper (RB) → Right Bumper (RB) → B → Right Trigger (RT) → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "LAWYERUP",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-529-93787 (1-999-LAWYERUP)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/wanted-level-down-and-91-5-and-93.svg"
+      "image": "assets/img/cheat/gta-v/wanted-level-down.svg"
     },
     {
-      "id": "wanted-level-up-and-91-4-and-93",
-      "effect": "Wanted Level up &#91; 4 &#93;",
+      "id": "wanted-level-up",
+      "effect": "Wanted Level up",
       "codes": [
+        {
+          "platform": "In-game phone",
+          "code": "1-999-384-48483 (1-999-FUGITIVE)",
+          "input": "phone"
+        },
+        {
+          "platform": "PC",
+          "code": "FUGITIVE",
+          "input": "keyboard"
+        },
         {
           "platform": "PlayStation",
           "code": "R1 → R1 → Circle → R2",
@@ -1003,21 +1013,11 @@
           "platform": "Xbox",
           "code": "Right Bumper (RB) → Right Bumper (RB) → B → Right Trigger (RT) → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC",
-          "code": "FUGITIVE",
-          "input": "keyboard"
-        },
-        {
-          "platform": "In-Game Cellphone &#91; 1 &#93;",
-          "code": "1-999-384-48483 (1-999-FUGITIVE)",
-          "input": "touch"
         }
       ],
       "verified": true,
       "source": "GTA Wiki cheat code tables (per-platform codes)",
-      "image": "assets/img/cheat/gta-v/wanted-level-up-and-91-4-and-93.svg"
+      "image": "assets/img/cheat/gta-v/wanted-level-up.svg"
     }
   ]
 }

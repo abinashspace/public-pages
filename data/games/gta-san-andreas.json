@@ -5,7 +5,7 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T17:09:58.592Z",
+    "generated": "2026-11-15T23:43:20.666Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -4189,9 +4189,9 @@
         "effect": "Adrenaline effects",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Cross → Cross → Square → R1 → L1 → Cross → D-Pad Down → D-Pad Left → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "SLSNRKK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4199,19 +4199,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "A → A → X → Right Trigger (RT) → Left Trigger (LT) → A → D-Pad Down → D-Pad Left → A",
+            "platform": "PlayStation",
+            "code": "Cross → Cross → Square → R1 → L1 → Cross → D-Pad Down → D-Pad Left → Cross",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "A → A → X → Right Trigger (RT) → Left Trigger (LT) → A → D-Pad Down → D-Pad Left → A",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "SLSNRKK",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4223,7 +4218,7 @@
         "effect": "Advance 4 hours",
         "codes": [
           {
-            "platform": "Android 2013",
+            "platform": "Android",
             "code": "YACKMWS",
             "input": "keyboard"
           }
@@ -4237,14 +4232,19 @@
         "effect": "Aggressive drivers",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Right → R2 → D-Pad Up → D-Pad Up → R2 → Circle → Square → R2 → L1 → D-Pad Right → D-Pad Down → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "IOKXTFJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "YLTEICZ ALLDRIVERSARECRIMINALS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R2 → D-Pad Up → D-Pad Up → R2 → Circle → Square → R2 → L1 → D-Pad Right → D-Pad Down → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4255,11 +4255,6 @@
             "platform": "Xbox",
             "code": "D-Pad Left → Right Bumper (RB) → D-Pad Up → D-Pad Up → Right Bumper (RB) → B → X → Right Bumper (RB) → Left Trigger (LT) → D-Pad Left → D-Pad Down → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "IOKXTFJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4271,14 +4266,19 @@
         "effect": "Aggressive traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Circle → R1 → L2 → D-Pad Left → R1 → L1 → R2 → L2",
-            "input": "button"
+            "platform": "Android",
+            "code": "IOKXTFJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "YLTEICZ ALLDRIVERSARECRIMINALS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Circle → R1 → L2 → D-Pad Left → R1 → L1 → R2 → L2",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4289,11 +4289,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → B → Right Trigger (RT) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Bumper (RB) → Left Bumper (LB)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "IOKXTFJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4305,9 +4300,9 @@
         "effect": "All cars have nitrous (",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → Triangle → R1 → L1 → D-Pad Up → Square → Triangle → D-Pad Down → Circle → L2 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "WUSDOTO",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4315,8 +4310,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → Y → Right Trigger (RT) → Left Trigger (LT) → D-Pad Up → X → Y → D-Pad Down → B → White → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → Triangle → R1 → L1 → D-Pad Up → Square → Triangle → D-Pad Down → Circle → L2 → L1 → L1",
             "input": "button"
           },
           {
@@ -4325,9 +4320,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "WUSDOTO",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → Y → Right Trigger (RT) → Left Trigger (LT) → D-Pad Up → X → Y → D-Pad Down → B → White → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4339,9 +4334,9 @@
         "effect": "Always 21:00 with orange sky",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Left → L2 → R1 → D-Pad Right → Square → Square → L1 → L2 → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "KTGDLXY",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4349,8 +4344,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Left → White → Right Trigger (RT) → D-Pad Left → X → X → Left Trigger (LT) → White → A",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → L2 → R1 → D-Pad Right → Square → Square → L1 → L2 → Cross",
             "input": "button"
           },
           {
@@ -4359,9 +4354,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "KTGDLXY",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → White → Right Trigger (RT) → D-Pad Left → X → X → Left Trigger (LT) → White → A",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4373,9 +4368,9 @@
         "effect": "Always midnight (00:00)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → L1 → R1 → D-Pad Right → Cross → D-Pad Up → L1 → D-Pad Left → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "AWUJNBB",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4383,19 +4378,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "X → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → A → D-Pad Up → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "Square → L1 → R1 → D-Pad Right → Cross → D-Pad Up → L1 → D-Pad Left → D-Pad Left",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "X → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → A → D-Pad Up → Left Trigger (LT) → D-Pad Left → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AWUJNBB",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4407,14 +4397,19 @@
         "effect": "Armor , health and $250,000 in money (also repairs vehicles occupied by the player and increases the criminal rating to 40)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R2 → L1 → Cross → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "PJYNQCQ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "HESOYAM INEEDSOMEHELP* ENABLEFORTUNEASPECTS 2A873S8A",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → Cross → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4425,11 +4420,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → A → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "PJYNQCQ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4441,9 +4431,9 @@
         "effect": "Beach party theme ( CJ's outfit is changed to Victim olive shorts, flip-flops, and ProLaps sunglasses. Traffic and pedestrians are replaced with those usually seen around Verona Beach . Weather set to very sunny. )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → Square → Circle → L1 → R1 → Triangle → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "BWCMMTD",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4451,19 +4441,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → X → B → Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → Square → Circle → L1 → R1 → Triangle → D-Pad Down",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "D-Pad Up → D-Pad Up → D-Pad Down → D-Pad Down → X → B → Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BWCMMTD",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4475,9 +4460,9 @@
         "effect": "Beater/cheap traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L2 → D-Pad Right → L1 → D-Pad Up → Cross → L1 → L2 → R2 → R1 → L1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "JTBCSN",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4485,8 +4470,8 @@
             "input": "keyboard"
           },
           {
-            "platform": "Xbox",
-            "code": "White → D-Pad Left → Left Trigger (LT) → D-Pad Up → A → Left Trigger (LT) → White → Black → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Right → L1 → D-Pad Up → Cross → L1 → L2 → R2 → R1 → L1 → L1 → L1",
             "input": "button"
           },
           {
@@ -4495,9 +4480,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "JTBCSN",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "White → D-Pad Left → Left Trigger (LT) → D-Pad Up → A → Left Trigger (LT) → White → Black → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4509,9 +4494,9 @@
         "effect": "Black traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → L2 → D-Pad Up → R1 → D-Pad Left → Cross → R1 → L1 → D-Pad Left → Circle",
-            "input": "button"
+            "platform": "Android",
+            "code": "GOYDVAO",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4519,8 +4504,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → White → D-Pad Up → Right Trigger (RT) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "platform": "PlayStation",
+            "code": "Circle → L2 → D-Pad Up → R1 → D-Pad Left → Cross → R1 → L1 → D-Pad Left → Circle",
             "input": "button"
           },
           {
@@ -4529,9 +4514,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "GOYDVAO",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "B → White → D-Pad Up → Right Trigger (RT) → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4543,9 +4528,9 @@
         "effect": "Carl's car is invincible and can instantly destroy other vehicles (auto-immune car)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → L2 → L2 → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → R1 → R2 → R2",
-            "input": "button"
+            "platform": "Android",
+            "code": "BXBTUBTI",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4553,8 +4538,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Left Trigger (LT) → White → White → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → Right Trigger (RT) → Black → Black",
+            "platform": "PlayStation",
+            "code": "L1 → L2 → L2 → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → R1 → R2 → R2",
             "input": "button"
           },
           {
@@ -4563,9 +4548,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "BXBTUBTI",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → White → White → D-Pad Up → D-Pad Down → D-Pad Down → D-Pad Up → Right Trigger (RT) → Black → Black",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4577,9 +4562,9 @@
         "effect": "Carnival/funhouse theme ( CJ's outfit changes to a pink Cesar haircut, joker glasses and red heart boxers . Pedestrians are replaced with fast food workers and clowns. Traffic consists of Pizza Boys , BF Injections , Hotknives , Tugs , Quads , Karts , Mr. Whoopees , and Hotdogs . All four-wheeled vehicles, except emergency vehicles, are equipped with hydraulics. )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → Triangle → L1 → Square → Square → Circle → Square → D-Pad Down → Circle",
-            "input": "button"
+            "platform": "Android",
+            "code": "HDLIWGB",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4587,19 +4572,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → Y → Left Trigger (LT) → X → X → B → X → D-Pad Down → B",
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → L1 → Square → Square → Circle → Square → D-Pad Down → Circle",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → Y → Left Trigger (LT) → X → X → B → X → D-Pad Down → B",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "HDLIWGB",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4610,6 +4590,11 @@
         "id": "cars-drive-on-water",
         "effect": "Cars drive on water",
         "codes": [
+          {
+            "platform": "Android",
+            "code": "BDBGXNJI",
+            "input": "keyboard"
+          },
           {
             "platform": "PlayStation",
             "code": "D-Pad Right → R2 → Circle → R1 → L2 → Square → R1 → R2",
@@ -4624,11 +4609,6 @@
             "platform": "Xbox",
             "code": "D-Pad Left → Right Bumper (RB) → B → Right Trigger (RT) → Left Bumper (LB) → X → Right Trigger (RT) → Right Bumper (RB)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BDBGXNJI",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4640,14 +4620,19 @@
         "effect": "Cars float away when hit",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → R2 → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → L2 → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "JBVIJXA",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "BUBBLECARS* BSXSGGC",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Square → R2 → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → L2 → Cross",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4658,11 +4643,6 @@
             "platform": "Xbox",
             "code": "X → Right Bumper (RB) → D-Pad Down → D-Pad Down → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Left → Left Bumper (LB) → A",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "JBVIJXA",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4674,14 +4654,19 @@
         "effect": "CJ jumps 10 times higher",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Up → Triangle → Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → R2 → R2",
-            "input": "button"
+            "platform": "Android",
+            "code": "BFMANNZP",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "KANGAROO* LFGMHAL",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → Triangle → Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → R2 → R2",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4692,11 +4677,6 @@
             "platform": "Xbox",
             "code": "D-Pad Up → D-Pad Up → Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → Right Bumper (RB) → Right Bumper (RB)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BFMANNZP",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4708,9 +4688,9 @@
         "effect": "CJ never gets hungry",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → L2 → R1 → Triangle → D-Pad Up → Square → L2 → D-Pad Up → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "KBTMUVH",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4718,8 +4698,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "X → White → Right Trigger (RT) → Y → D-Pad Up → X → White → D-Pad Up → A",
+            "platform": "PlayStation",
+            "code": "Square → L2 → R1 → Triangle → D-Pad Up → Square → L2 → D-Pad Up → Cross",
             "input": "button"
           },
           {
@@ -4728,9 +4708,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "KBTMUVH",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "X → White → Right Trigger (RT) → Y → D-Pad Up → X → White → D-Pad Up → A",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4742,9 +4722,9 @@
         "effect": "Cloudy weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L2 → D-Pad Down → D-Pad Down → D-Pad Left → Square → D-Pad Left → R2 → Square → Cross → R1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "VBWEMQX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4752,8 +4732,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "White → D-Pad Down → D-Pad Down → D-Pad Left → X → D-Pad Left → Black → X → A → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Down → D-Pad Down → D-Pad Left → Square → D-Pad Left → R2 → Square → Cross → R1 → L1 → L1",
             "input": "button"
           },
           {
@@ -4762,9 +4742,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "VBWEMQX",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "White → D-Pad Down → D-Pad Down → D-Pad Left → X → D-Pad Left → Black → X → A → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4776,9 +4756,9 @@
         "effect": "Commit suicide / Instant death",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Right → L2 → D-Pad Down → R1 → D-Pad Left → D-Pad Left → R1 → L1 → L2 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "SLOTSFK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4786,8 +4766,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → White → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → White → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L2 → D-Pad Down → R1 → D-Pad Left → D-Pad Left → R1 → L1 → L2 → L1",
             "input": "button"
           },
           {
@@ -4796,9 +4776,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "SLOTSFK",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → White → D-Pad Down → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → White → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4810,7 +4790,7 @@
         "effect": "Complete invulnerability",
         "codes": [
           {
-            "platform": "Android 2013",
+            "platform": "Android",
             "code": "GONPXWR",
             "input": "keyboard"
           }
@@ -4824,14 +4804,19 @@
         "effect": "Explode all vehicles (except bicycles)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → L2 → R1 → L1 → L2 → R2 → Square → Triangle → Circle → Triangle → L2 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "BKFONFE",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "ALLCARSGOBOOM* CPKTNWT",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L2 → R1 → L1 → L2 → R2 → Square → Triangle → Circle → Triangle → L2 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4842,11 +4827,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → Left Bumper (LB) → Right Trigger (RT) → Left Trigger (LT) → Left Bumper (LB) → Right Bumper (RB) → X → Y → B → Y → Left Bumper (LB) → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BKFONFE",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4858,9 +4838,9 @@
         "effect": "Fast gameplay",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → L2 → L1 → Square",
-            "input": "button"
+            "platform": "Android",
+            "code": "EHWBWDS",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4868,8 +4848,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → White → Left Trigger (LT) → X",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → L2 → L1 → Square",
             "input": "button"
           },
           {
@@ -4878,9 +4858,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "EHWBWDS",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → White → Left Trigger (LT) → X",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4892,14 +4872,19 @@
         "effect": "Flying boats",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Circle → D-Pad Up → L1 → D-Pad Right → R1 → D-Pad Right → D-Pad Up → Square → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "PTHSEO",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "FLYINGFISH* AFSNMSMW",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Circle → D-Pad Up → L1 → D-Pad Right → R1 → D-Pad Right → D-Pad Up → Square → Triangle",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4910,11 +4895,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → B → D-Pad Up → Left Trigger (LT) → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Up → X → Y",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "PTHSEO",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4926,9 +4906,9 @@
         "effect": "Flying cars",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → D-Pad Down → L2 → D-Pad Up → L1 → Circle → D-Pad Up → Cross → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "DOTBSFK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -4936,8 +4916,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "X → D-Pad Down → White → D-Pad Up → Left Trigger (LT) → B → D-Pad Up → A → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "Square → D-Pad Down → L2 → D-Pad Up → L1 → Circle → D-Pad Up → Cross → D-Pad Left",
             "input": "button"
           },
           {
@@ -4946,9 +4926,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "DOTBSFK",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "X → D-Pad Down → White → D-Pad Up → Left Trigger (LT) → B → D-Pad Up → A → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -4960,14 +4940,19 @@
         "effect": "Foggy weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "EGCEBVM",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "CFVFGMJ CANTSEEWHEREIMGOING*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -4978,11 +4963,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → A",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "EGCEBVM",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -4994,9 +4974,9 @@
         "effect": "Full weapon aiming in vehicles + Micro SMG (If CJ doesn't have this type of weapon.)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Up → Square → L2 → D-Pad Right → Cross → R1 → D-Pad Down → R2 → Circle",
-            "input": "button"
+            "platform": "Android",
+            "code": "RYSMRM",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5004,8 +4984,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → D-Pad Up → X → White → D-Pad Left → A → Right Trigger (RT) → D-Pad Down → Black → B",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → Square → L2 → D-Pad Right → Cross → R1 → D-Pad Down → R2 → Circle",
             "input": "button"
           },
           {
@@ -5014,9 +4994,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "RYSMRM",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Up → X → White → D-Pad Left → A → Right Trigger (RT) → D-Pad Down → Black → B",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5028,9 +5008,9 @@
         "effect": "Gang members spawn much faster (can be deactivated)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "EAMLJNN",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5038,19 +5018,14 @@
             "input": "keyboard"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "EAMLJNN",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5062,14 +5037,19 @@
         "effect": "Gang wars break out all over San Andreas (can be deactivated)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "EAMLJNN",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "ONLYHOMIESALLOWED*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "L1 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5080,11 +5060,6 @@
             "platform": "Xbox",
             "code": "Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Right Bumper (RB) → D-Pad Left → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "EAMLJNN",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5096,9 +5071,9 @@
         "effect": "Gangs and workers (can be deactivated)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "EAMLJNN",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5106,19 +5081,14 @@
             "input": "keyboard"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → D-Pad Right → D-Pad Right → D-Pad Left → Cross → D-Pad Down → D-Pad Up → Square → D-Pad Right",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → A → D-Pad Down → D-Pad Up → X → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "EAMLJNN",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5130,14 +5100,14 @@
         "effect": "Hitman level for all weapons",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → Square → Cross → D-Pad Left → R1 → R2 → D-Pad Left → D-Pad Down → D-Pad Down → L1 → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "PROFESSIONALKILLER* NCSGDAG",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Square → Cross → D-Pad Left → R1 → R2 → D-Pad Left → D-Pad Down → D-Pad Down → L1 → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5159,14 +5129,19 @@
         "effect": "Improved suspensions",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → Square → R2 → D-Pad Left → D-Pad Up → Square → R2 → Cross → Cross → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "DLNNHZJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "STICKLIKEGLUE* PGGOMOY",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Square → Square → R2 → D-Pad Left → D-Pad Up → Square → R2 → Cross → Cross → Cross",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5177,11 +5152,6 @@
             "platform": "Xbox",
             "code": "X → X → Right Bumper (RB) → D-Pad Left → D-Pad Up → X → Right Bumper (RB) → A → A → A",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "DLNNHZJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5193,14 +5163,19 @@
         "effect": "Infinite Lung capacity",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → D-Pad Left → L1 → D-Pad Down → D-Pad Down → R2 → D-Pad Down → L2 → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "POOOJOX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "CVWKXAM MANFROMATLANTIS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → L1 → D-Pad Down → D-Pad Down → R2 → D-Pad Down → L2 → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5211,11 +5186,6 @@
             "platform": "Xbox",
             "code": "D-Pad Down → D-Pad Left → Left Trigger (LT) → D-Pad Down → D-Pad Down → Right Bumper (RB) → D-Pad Down → Left Bumper (LB) → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "POOOJOX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5227,14 +5197,14 @@
         "effect": "Invisible cars",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → L1 → Triangle → R2 → Square → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "WHEELSONLYPLEASE* XICWMD",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → L1 → Triangle → R2 → Square → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5256,9 +5226,9 @@
         "effect": "Kinky theme/pimp mode ( CJ's outfit changes to the Gimp Suit . Pedestrians consist of pimps and prostitutes equipped with dildos . Prostitutes are attracted to CJ and follow him around. )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → D-Pad Right → Square → Square → L2 → Cross → Triangle → Cross → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "BNIZWSB",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5266,8 +5236,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "X → D-Pad Left → X → X → White → A → Y → A → Y",
+            "platform": "PlayStation",
+            "code": "Square → D-Pad Right → Square → Square → L2 → Cross → Triangle → Cross → Triangle",
             "input": "button"
           },
           {
@@ -5276,9 +5246,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "BNIZWSB",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "X → D-Pad Left → X → X → White → A → Y → A → Y",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5290,9 +5260,9 @@
         "effect": "Lock wanted level ( Facilitates exploration of islands/cities and restricted areas before they're unlocked )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Triangle → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "BYKGOAB",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5300,19 +5270,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → Y → D-Pad Up",
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Triangle → D-Pad Up",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → Y → D-Pad Up",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BYKGOAB",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5324,9 +5289,9 @@
         "effect": "Massive bicycle bunny hops (Jump 100 feet in air)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → Square → Circle → Circle → Square → Circle → Circle → L1 → L2 → L2 → R1 → R2",
-            "input": "button"
+            "platform": "Android",
+            "code": "TDBKCEH",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5334,8 +5299,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → X → B → B → X → B → B → Left Trigger (LT) → White → White → Right Trigger (RT) → Black",
+            "platform": "PlayStation",
+            "code": "Triangle → Square → Circle → Circle → Square → Circle → Circle → L1 → L2 → L2 → R1 → R2",
             "input": "button"
           },
           {
@@ -5344,9 +5309,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "TDBKCEH",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Y → X → B → B → X → B → B → Left Trigger (LT) → White → White → Right Trigger (RT) → Black",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5358,9 +5323,9 @@
         "effect": "Maximum fat",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "AESHXWQI",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5368,19 +5333,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Down",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Down",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AESHXWQI",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5392,9 +5352,9 @@
         "effect": "Maximum muscle",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "SGVDSQW",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5402,19 +5362,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Left",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "SGVDSQW",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5426,14 +5381,19 @@
         "effect": "Maximum respect",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → R1 → Triangle → D-Pad Down → R2 → Cross → L1 → D-Pad Up → L2 → L2 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "MTGIISR",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "WORSHIPME* OGXSDAG",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "L1 → R1 → Triangle → D-Pad Down → R2 → Cross → L1 → D-Pad Up → L2 → L2 → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5444,11 +5404,6 @@
             "platform": "Xbox",
             "code": "Left Trigger (LT) → Right Trigger (RT) → Y → D-Pad Down → Right Bumper (RB) → A → Left Trigger (LT) → D-Pad Up → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "MTGIISR",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5460,9 +5415,9 @@
         "effect": "Maximum sex appeal",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → Triangle → Triangle → D-Pad Up → Circle → R1 → L2 → D-Pad Up → Triangle → L1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "APGZLQR",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5470,8 +5425,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → Y → Y → D-Pad Up → B → Right Trigger (RT) → White → D-Pad Up → Y → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "Circle → Triangle → Triangle → D-Pad Up → Circle → R1 → L2 → D-Pad Up → Triangle → L1 → L1 → L1",
             "input": "button"
           },
           {
@@ -5480,9 +5435,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "APGZLQR",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "B → Y → Y → D-Pad Up → B → Right Trigger (RT) → White → D-Pad Up → Y → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5494,14 +5449,19 @@
         "effect": "Maximum stamina",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → Cross → Triangle → Cross → Triangle → Cross → Square → R2 → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "AEZLCKXU",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "VKYPQCF ICANGOALLNIGHT*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → Cross → Triangle → Cross → Triangle → Cross → Square → R2 → D-Pad Right",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5512,11 +5472,6 @@
             "platform": "Xbox",
             "code": "D-Pad Up → A → Y → A → Y → A → X → Right Bumper (RB) → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AEZLCKXU",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5528,23 +5483,23 @@
         "effect": "Maximum vehicle skills (Driving, flying, bike, cycling)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Square → L2 → Cross → R1 → L2 → L2 → D-Pad Left → R1 → D-Pad Right → L1 → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "NATURALTALENT* VQIMAHA",
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "X → White → A → Right Trigger (RT) → White → White → D-Pad Left → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "Square → L2 → Cross → R1 → L2 → L2 → D-Pad Left → R1 → D-Pad Right → L1 → L1 → L1",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "X → Left Bumper (LB) → A → Right Trigger (RT) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "X → White → A → Right Trigger (RT) → White → White → D-Pad Left → Right Trigger (RT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
             "input": "button"
           }
         ],
@@ -5557,9 +5512,9 @@
         "effect": "Minimum fat and muscle",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "AWXDCRJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5567,19 +5522,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Right → Square → Circle → D-Pad Right",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → D-Pad Up → D-Pad Up → D-Pad Left → D-Pad Left → X → B → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AWXDCRJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5591,9 +5541,9 @@
         "effect": "No citizens or cops, only gang members having gunfights (can be deactivated)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L2 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "HAPOHXR",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5601,8 +5551,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "White → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Black → D-Pad Left → D-Pad Down",
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Up → R1 → R1 → D-Pad Left → R1 → R1 → R2 → D-Pad Right → D-Pad Down",
             "input": "button"
           },
           {
@@ -5611,9 +5561,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "HAPOHXR",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "White → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Right Trigger (RT) → Black → D-Pad Left → D-Pad Down",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5625,14 +5575,19 @@
         "effect": "No pedestrians/reduced traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Cross → D-Pad Down → D-Pad Up → R2 → D-Pad Down → Triangle → L1 → Triangle → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "DEHDRX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "GHOSTTOWN* THGLOJ",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Cross → D-Pad Down → D-Pad Up → R2 → D-Pad Down → Triangle → L1 → Triangle → D-Pad Left",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5643,11 +5598,6 @@
             "platform": "Xbox",
             "code": "A → D-Pad Down → D-Pad Up → Right Bumper (RB) → D-Pad Down → Y → Left Trigger (LT) → Y → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "DEHDRX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5659,14 +5609,19 @@
         "effect": "Overcast weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square",
-            "input": "button"
+            "platform": "Android",
+            "code": "VBWEMQX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "ALNSFMZO DULLDULLDAY*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5677,11 +5632,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → X",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "VBWEMQX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5693,9 +5643,9 @@
         "effect": "Pedestrians are Elvis",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → Circle → Triangle → L1 → L1 → Square → L2 → D-Pad Up → D-Pad Down → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "LNHVOAE",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5703,8 +5653,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Left Trigger (LT) → B → Y → Left Trigger (LT) → Left Trigger (LT) → X → White → D-Pad Up → D-Pad Down → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "L1 → Circle → Triangle → L1 → L1 → Square → L2 → D-Pad Up → D-Pad Down → D-Pad Left",
             "input": "button"
           },
           {
@@ -5713,9 +5663,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "LNHVOAE",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → B → Y → Left Trigger (LT) → Left Trigger (LT) → X → White → D-Pad Up → D-Pad Down → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5727,14 +5677,19 @@
         "effect": "Pedestrians attack Carl",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → Cross → R2 → R1 → L2 → L2",
-            "input": "button"
+            "platform": "Android",
+            "code": "FARYJHZ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "BAGOWPG STOPPICKINGONME*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → Cross → R2 → R1 → L2 → L2",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5745,11 +5700,6 @@
             "platform": "Xbox",
             "code": "D-Pad Down → D-Pad Up → D-Pad Up → D-Pad Up → A → Right Bumper (RB) → Right Trigger (RT) → Left Bumper (LB) → Left Bumper (LB)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "FARYJHZ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5761,9 +5711,9 @@
         "effect": "Pedestrians attack Carl with guns",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Cross → L1 → D-Pad Up → Square → D-Pad Down → Cross → L2 → Triangle → D-Pad Down → R1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "ERFBFNI",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5771,8 +5721,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "A → Left Trigger (LT) → D-Pad Up → X → D-Pad Down → A → White → Y → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "Cross → L1 → D-Pad Up → Square → D-Pad Down → Cross → L2 → Triangle → D-Pad Down → R1 → L1 → L1",
             "input": "button"
           },
           {
@@ -5781,9 +5731,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "ERFBFNI",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "A → Left Trigger (LT) → D-Pad Up → X → D-Pad Down → A → White → Y → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5795,14 +5745,19 @@
         "effect": "Pedestrians have weapons (Baseball Bat, Pistol, Shotgun, M4, Rocket Launcher)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → R1 → Cross → Triangle → Cross → Triangle → D-Pad Up → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "GDNXHDK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "FOOOXFT SURROUNDEDBYNUTTERS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → R1 → Cross → Triangle → Cross → Triangle → D-Pad Up → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5813,11 +5768,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → Right Trigger (RT) → A → Y → A → Y → D-Pad Up → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "GDNXHDK",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5829,9 +5779,9 @@
         "effect": "Pedestrians riot",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L2 → D-Pad Right → L1 → Triangle → D-Pad Right → D-Pad Right → R1 → L1 → D-Pad Right → L1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "NJXPCYE",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5839,8 +5789,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "White → D-Pad Left → Left Trigger (LT) → Y → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "L2 → D-Pad Right → L1 → Triangle → D-Pad Right → D-Pad Right → R1 → L1 → D-Pad Right → L1 → L1 → L1",
             "input": "button"
           },
           {
@@ -5849,9 +5799,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "NJXPCYE",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "White → D-Pad Left → Left Trigger (LT) → Y → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5863,14 +5813,19 @@
         "effect": "Pedestrians riot (with golf club)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → Cross → R2 → R1 → L2 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "AKOZBCH",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "AJLOJYQY ROUGHNEIGHBOURHOOD*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → Cross → R2 → R1 → L2 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5881,11 +5836,6 @@
             "platform": "Xbox",
             "code": "D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → A → Right Bumper (RB) → Right Trigger (RT) → Left Bumper (LB) → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AKOZBCH",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5897,14 +5847,19 @@
         "effect": "Perfect handling",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → R1 → R1 → D-Pad Left → R1 → L1 → R2 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "DLNNHZJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "STICKLIKEGLUE* PGGOMOY",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → R1 → R1 → D-Pad Left → R1 → L1 → R2 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -5915,11 +5870,6 @@
             "platform": "Xbox",
             "code": "Y → Right Trigger (RT) → Right Trigger (RT) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Bumper (RB) → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "DLNNHZJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -5931,9 +5881,9 @@
         "effect": "Pink traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → D-Pad Right → Circle",
-            "input": "button"
+            "platform": "Android",
+            "code": "GYKVYTR",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5941,8 +5891,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → Left Trigger (LT) → D-Pad Down → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Down → L2 → D-Pad Left → Cross → R1 → L1 → D-Pad Right → Circle",
             "input": "button"
           },
           {
@@ -5951,9 +5901,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "GYKVYTR",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Down → White → D-Pad Left → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → B",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -5971,12 +5921,12 @@
           },
           {
             "platform": "Xbox",
-            "code": "D-Pad Left → White → White → D-Pad Down → White → D-Pad Up → D-Pad Up → White → Black",
+            "code": "D-Pad Left → Left Bumper (LB) → Left Bumper (LB) → D-Pad Down → Left Bumper (LB) → D-Pad Up → D-Pad Up → Left Bumper (LB) → Right Bumper (RB)",
             "input": "button"
           },
           {
             "platform": "Xbox",
-            "code": "D-Pad Left → Left Bumper (LB) → Left Bumper (LB) → D-Pad Down → Left Bumper (LB) → D-Pad Up → D-Pad Up → Left Bumper (LB) → Right Bumper (RB)",
+            "code": "D-Pad Left → White → White → D-Pad Down → White → D-Pad Up → D-Pad Up → White → Black",
             "input": "button"
           }
         ],
@@ -5989,9 +5939,9 @@
         "effect": "Rainy weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "TAVPIER",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -5999,9 +5949,9 @@
             "input": "touch"
           },
           {
-            "platform": "Android 2013",
-            "code": "TAVPIER",
-            "input": "keyboard"
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Cross",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6013,14 +5963,19 @@
         "effect": "Raise wanted level by two stars",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R1 → Circle → R2 → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "NCBXXDX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "TURNUPTHEHEAT* OSRBLHH",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6031,11 +5986,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "NCBXXDX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6047,14 +5997,14 @@
         "effect": "Recruit anyone into gang with AK47s",
         "codes": [
           {
+            "platform": "Android",
+            "code": "AWIOMPH",
+            "input": "keyboard"
+          },
+          {
             "platform": "PC",
             "code": "BMTPWHR NOONECANSTOPUS*",
             "input": "touch"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AWIOMPH",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6066,14 +6016,19 @@
         "effect": "Recruit anyone into gang with Pistols",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → Square → D-Pad Up → R2 → R2 → D-Pad Up → D-Pad Right → D-Pad Right → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "JEZRPI",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "SJMAHPE WANNABEINMYGANG*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Square → D-Pad Up → R2 → R2 → D-Pad Up → D-Pad Right → D-Pad Right → D-Pad Up",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6084,11 +6039,6 @@
             "platform": "Xbox",
             "code": "D-Pad Down → X → D-Pad Up → Right Bumper (RB) → Right Bumper (RB) → D-Pad Up → D-Pad Left → D-Pad Left → D-Pad Up",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "JEZRPI",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6100,14 +6050,19 @@
         "effect": "Recruit anyone into gang with rocket launchers",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → R2 → R2 → Cross → L2 → L1 → R2 → L1 → D-Pad Down → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "QAONHOH",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "ROCKETMAYHEM* ZSOXFSQ",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → R2 → R2 → Cross → L2 → L1 → R2 → L1 → D-Pad Down → Cross",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6118,11 +6073,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → Right Bumper (RB) → Right Bumper (RB) → A → Left Bumper (LB) → Left Trigger (LT) → Right Bumper (RB) → Left Trigger (LT) → D-Pad Down → A",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "QAONHOH",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6134,14 +6084,19 @@
         "effect": "Remove wanted level",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R1 → Circle → R2 → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "KDTZNHO",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "TURNDOWNTHEHEAT* ASNAEB SOMEONESOMETIMEALAN",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R1 → Circle → R2 → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6152,11 +6107,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "KDTZNHO",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6168,9 +6118,9 @@
         "effect": "Rural theme ( CJ's outfit changes to a Binco Trucker Cap and overalls . Traffic and pedestrians are replaced with those usually seen in Red and Flint counties. )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "OAXCCRI",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6178,8 +6128,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1",
             "input": "button"
           },
           {
@@ -6188,9 +6138,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "OAXCCRI",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6202,9 +6152,9 @@
         "effect": "Rural traffic",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → L1 → R1 → R1 → L2 → L1 → R2 → D-Pad Down → D-Pad Left → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "JTBCSN",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6212,8 +6162,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Left Trigger (LT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT) → White → Left Trigger (LT) → Black → D-Pad Down → D-Pad Left → D-Pad Up",
+            "platform": "PlayStation",
+            "code": "L1 → L1 → R1 → R1 → L2 → L1 → R2 → D-Pad Down → D-Pad Left → D-Pad Up",
             "input": "button"
           },
           {
@@ -6222,9 +6172,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "JTBCSN",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "Left Trigger (LT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT) → White → Left Trigger (LT) → Black → D-Pad Down → D-Pad Left → D-Pad Up",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6236,9 +6186,9 @@
         "effect": "Sandstorm",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2",
-            "input": "button"
+            "platform": "Android",
+            "code": "JBWDWWO",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6246,8 +6196,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2",
             "input": "button"
           },
           {
@@ -6256,9 +6206,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "JBWDWWO",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6270,9 +6220,9 @@
         "effect": "Six-star wanted level",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Cross → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "GWJZWC",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6280,19 +6230,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → A → D-Pad Down",
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Right → Circle → D-Pad Right → D-Pad Left → Square → Cross → D-Pad Down",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "B → D-Pad Left → B → D-Pad Left → D-Pad Left → X → A → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "GWJZWC",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6304,14 +6249,19 @@
         "effect": "Slow gameplay",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → R2 → R1",
-            "input": "button"
+            "platform": "Android",
+            "code": "FNJFCZC",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "SLOWITDOWN* LIYOAAY",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → R2 → R1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6322,11 +6272,6 @@
             "platform": "Xbox",
             "code": "Y → D-Pad Up → D-Pad Left → D-Pad Down → X → Right Bumper (RB) → Right Trigger (RT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "FNJFCZC",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6338,9 +6283,9 @@
         "effect": "Spawn Bloodring Banger",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → R1 → Circle → L2 → L2 → Cross → R1 → L1 → D-Pad Left → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "BIGLWCDD",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6348,8 +6293,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Down → Right Trigger (RT) → B → White → White → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R1 → Circle → L2 → L2 → Cross → R1 → L1 → D-Pad Left → D-Pad Left",
             "input": "button"
           },
           {
@@ -6358,9 +6303,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "BIGLWCDD",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Down → Right Trigger (RT) → B → White → White → A → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6372,9 +6317,9 @@
         "effect": "Spawn Caddy",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → L1 → D-Pad Up → R1 → L2 → Cross → R1 → L1 → Circle → Cross",
-            "input": "button"
+            "platform": "Android",
+            "code": "DAHESZY",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6382,8 +6327,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → White → A → Right Trigger (RT) → Left Trigger (LT) → B → A",
+            "platform": "PlayStation",
+            "code": "Circle → L1 → D-Pad Up → R1 → L2 → Cross → R1 → L1 → Circle → Cross",
             "input": "button"
           },
           {
@@ -6392,9 +6337,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "DAHESZY",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "B → Left Trigger (LT) → D-Pad Up → Right Trigger (RT) → White → A → Right Trigger (RT) → Left Trigger (LT) → B → A",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6406,14 +6351,14 @@
         "effect": "Spawn Dozer",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → L1 → L1 → D-Pad Right → D-Pad Right → D-Pad Up → D-Pad Up → Cross → L1 → D-Pad Left",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "ITSALLBULL* EEGCYXT",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → L1 → D-Pad Right → D-Pad Right → D-Pad Up → D-Pad Up → Cross → L1 → D-Pad Left",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6435,14 +6380,19 @@
         "effect": "Spawn Hotring Racer (second variant)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → Circle → R2 → D-Pad Right → L1 → L2 → Cross → Cross → Square → R1",
-            "input": "button"
+            "platform": "Android",
+            "code": "BGJPSYC",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "VROCKPOKEY PDNEJOH NOTFORPUBLICROADS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → Circle → R2 → D-Pad Right → L1 → L2 → Cross → Cross → Square → R1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6453,11 +6403,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → B → Right Bumper (RB) → D-Pad Left → Left Trigger (LT) → Left Bumper (LB) → A → A → X → Right Trigger (RT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BGJPSYC",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6469,14 +6414,19 @@
         "effect": "Spawn Hotring Racer (third variant)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → L1 → Circle → D-Pad Right → L1 → R1 → D-Pad Right → D-Pad Up → Circle → R2",
-            "input": "button"
+            "platform": "Android",
+            "code": "BIEAVBAY",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "VPJTQWV JUSTTRYANDSTOPME*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → L1 → Circle → D-Pad Right → L1 → R1 → D-Pad Right → D-Pad Up → Circle → R2",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6487,11 +6437,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → Left Trigger (LT) → B → D-Pad Left → Left Trigger (LT) → Right Trigger (RT) → D-Pad Left → D-Pad Up → B → Right Bumper (RB)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BIEAVBAY",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6503,14 +6448,14 @@
         "effect": "Spawn Hunter",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → Cross → L1 → Circle → Circle → L1 → Circle → R1 → R2 → L2 → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "OHDUDE*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Circle → Cross → L1 → Circle → Circle → L1 → Circle → R1 → R2 → L2 → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6532,9 +6477,9 @@
         "effect": "Spawn Hydra",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L1 → D-Pad Down → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "AWPTMIIQ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6542,19 +6487,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Trigger (LT) → D-Pad Down → D-Pad Up",
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L1 → D-Pad Down → D-Pad Up",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Trigger (LT) → D-Pad Down → D-Pad Up",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AWPTMIIQ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6566,9 +6506,9 @@
         "effect": "Spawn Jetpack",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "CDGUDEP",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6576,8 +6516,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right",
             "input": "button"
           },
           {
@@ -6586,9 +6526,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "CDGUDEP",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Left",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6600,18 +6540,13 @@
         "effect": "Spawn Monster Truck (second variant)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Right → D-Pad Up → R1 → R1 → R1 → D-Pad Down → Triangle → Triangle → Cross → Circle → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "MONSTERMASH* AGBDLCID",
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Up → Right Trigger (RT) → Right Trigger (RT) → Right Trigger (RT) → D-Pad Down → Y → Y → A → B → Left Trigger (LT) → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Right → D-Pad Up → R1 → R1 → R1 → D-Pad Down → Triangle → Triangle → Cross → Circle → L1 → L1",
             "input": "button"
           },
           {
@@ -6629,9 +6564,9 @@
         "effect": "Spawn Parachute",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → R2 → D-Pad Up → D-Pad Down → D-Pad Right → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "GSUMLEG",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6639,8 +6574,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → D-Pad Up → D-Pad Down → D-Pad Left → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → L1 → L2 → R1 → R2 → R2 → D-Pad Up → D-Pad Down → D-Pad Right → L1",
             "input": "button"
           },
           {
@@ -6649,9 +6584,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "GSUMLEG",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → D-Pad Left → Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → D-Pad Up → D-Pad Down → D-Pad Left → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6663,14 +6598,14 @@
         "effect": "Spawn Quad",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Left → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Up → D-Pad Up → Square → Circle → Triangle → R1 → R2",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "FOURWHEELFUN* AKJJYGLC",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Up → D-Pad Up → Square → Circle → Triangle → R1 → R2",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6692,9 +6627,9 @@
         "effect": "Spawn Rancher (Lure variant)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Right → D-Pad Right → L1 → D-Pad Right → D-Pad Up → Square → L2",
-            "input": "button"
+            "platform": "Android",
+            "code": "HPGPIJZ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6702,8 +6637,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → D-Pad Left → D-Pad Left → Left Trigger (LT) → D-Pad Left → D-Pad Up → X → White",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Right → D-Pad Right → L1 → D-Pad Right → D-Pad Up → Square → L2",
             "input": "button"
           },
           {
@@ -6712,9 +6647,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "HPGPIJZ",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → D-Pad Left → Left Trigger (LT) → D-Pad Left → D-Pad Up → X → White",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6726,9 +6661,9 @@
         "effect": "Spawn Rhino",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → Circle → L1 → Circle → Circle → Circle → L1 → L2 → R1 → Triangle → Circle → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "AYNVQVK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6736,8 +6671,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → B → Left Trigger (LT) → B → B → B → Left Trigger (LT) → White → Right Trigger (RT) → Y → B → Y",
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Circle → Circle → Circle → L1 → L2 → R1 → Triangle → Circle → Triangle",
             "input": "button"
           },
           {
@@ -6746,9 +6681,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "AYNVQVK",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "B → B → Left Trigger (LT) → B → B → B → Left Trigger (LT) → White → Right Trigger (RT) → Y → B → Y",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -6760,14 +6695,19 @@
         "effect": "Spawn Romero",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → R2 → D-Pad Down → R1 → L2 → D-Pad Left → R1 → L1 → D-Pad Left → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "PSPNATX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "WHERESTHEFUNERAL* AQTBCODX",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → R2 → D-Pad Down → R1 → L2 → D-Pad Left → R1 → L1 → D-Pad Left → D-Pad Right",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6778,11 +6718,6 @@
             "platform": "Xbox",
             "code": "D-Pad Down → Right Bumper (RB) → D-Pad Down → Right Trigger (RT) → Left Bumper (LB) → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → D-Pad Left → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "PSPNATX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6800,12 +6735,12 @@
           },
           {
             "platform": "Xbox",
-            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → Left Bumper (LB) → A → Left Trigger (LT)",
             "input": "button"
           },
           {
             "platform": "Xbox",
-            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → Left Bumper (LB) → A → Left Trigger (LT)",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
             "input": "button"
           }
         ],
@@ -6818,14 +6753,19 @@
         "effect": "Spawn Stretch Limousine",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → D-Pad Up → L2 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "IXSMWCQ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "CELEBRITYSTATUS* KRIJEBR",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → D-Pad Up → L2 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6836,11 +6776,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → D-Pad Up → Left Bumper (LB) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "IXSMWCQ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6852,23 +6787,23 @@
         "effect": "Spawn Stunt Plane",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → D-Pad Up → L1 → L2 → D-Pad Down → R1 → L1 → L1 → D-Pad Left → D-Pad Left → Cross → Triangle",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "FLYINGTOSTUNT* URKQSRK",
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → D-Pad Up → Left Trigger (LT) → White → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → A → Y",
+            "platform": "PlayStation",
+            "code": "Circle → D-Pad Up → L1 → L2 → D-Pad Down → R1 → L1 → L1 → D-Pad Left → D-Pad Left → Cross → Triangle",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "B → D-Pad Up → Left Trigger (LT) → Left Bumper (LB) → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → A → Y",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "B → D-Pad Up → Left Trigger (LT) → White → D-Pad Down → Right Trigger (RT) → Left Trigger (LT) → Left Trigger (LT) → D-Pad Left → D-Pad Left → A → Y",
             "input": "button"
           }
         ],
@@ -6881,14 +6816,14 @@
         "effect": "Spawn Tanker with attached tanker trailer",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → D-Pad Up → D-Pad Left → D-Pad Right → R2 → D-Pad Up → D-Pad Right → Square → D-Pad Right → L2 → L1 → L1",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "AMOMHRER SCANDALOUSTRAILERGARY HITTHEROADJACK*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → D-Pad Up → D-Pad Left → D-Pad Right → R2 → D-Pad Up → D-Pad Right → Square → D-Pad Right → L2 → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -6910,9 +6845,9 @@
         "effect": "Spawn Trashmaster",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → R1 → Circle → R1 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
-            "input": "button"
+            "platform": "Android",
+            "code": "QPOLSVK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6920,19 +6855,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → Right Trigger (RT) → B → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
+            "platform": "PlayStation",
+            "code": "Circle → R1 → Circle → R1 → D-Pad Left → D-Pad Left → R1 → L1 → Circle → D-Pad Right",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "B → Right Trigger (RT) → B → Right Trigger (RT) → D-Pad Left → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → B → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "QPOLSVK",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -6944,23 +6874,23 @@
         "effect": "Spawn Vortex",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L2 → D-Pad Down → D-Pad Down",
-            "input": "button"
-          },
-          {
             "platform": "PC",
             "code": "KGGGDKP IWANTTOHOVER*",
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "Y → Y → X → B → A → Left Trigger (LT) → White → D-Pad Down → D-Pad Down",
+            "platform": "PlayStation",
+            "code": "Triangle → Triangle → Square → Circle → Cross → L1 → L2 → D-Pad Down → D-Pad Down",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "Y → Y → X → B → A → Left Trigger (LT) → Left Bumper (LB) → D-Pad Down → D-Pad Down",
+            "input": "button"
+          },
+          {
+            "platform": "Xbox",
+            "code": "Y → Y → X → B → A → Left Trigger (LT) → White → D-Pad Down → D-Pad Down",
             "input": "button"
           }
         ],
@@ -6973,9 +6903,9 @@
         "effect": "Speed up time",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Circle → Circle → L1 → Square → L1 → Square → Square → Square → L1 → Triangle → Circle → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "OWAKIJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -6983,19 +6913,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "B → B → Left Trigger (LT) → X → Left Trigger (LT) → X → X → X → Left Trigger (LT) → Y → B → Y",
+            "platform": "PlayStation",
+            "code": "Circle → Circle → L1 → Square → L1 → Square → Square → Square → L1 → Triangle → Circle → Triangle",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "B → B → Left Trigger (LT) → X → Left Trigger (LT) → X → X → X → Left Trigger (LT) → Y → B → Y",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "OWAKIJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7007,9 +6932,9 @@
         "effect": "Sports car traffic ( Traffic consists of Buffalos , Cheetahs , Uranuses , Euroses , Bullets , Infernuses , ZR-350s , Stratums , Elegies , Flashes , Jesters , Sultans , Clubs , Phoenixes , Hotknives , Super GTs , Banshees , Comets , and Turismos . )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → L1 → R1 → D-Pad Up → D-Pad Right → D-Pad Up → Cross → L2 → Cross → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "FRIUBIL",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -7017,8 +6942,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → L1 → R1 → D-Pad Up → D-Pad Right → D-Pad Up → Cross → L2 → Cross → L1",
             "input": "button"
           },
           {
@@ -7027,9 +6952,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "FRIUBIL",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Up → Left Trigger (LT) → Right Trigger (RT) → D-Pad Up → D-Pad Left → D-Pad Up → A → White → A → Left Trigger (LT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -7041,14 +6966,19 @@
         "effect": "Stormy weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Circle",
-            "input": "button"
+            "platform": "Android",
+            "code": "EAKILHM",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "SCOTTISHSUMMER* MGHXYRM",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Circle",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7059,11 +6989,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → B",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "EAKILHM",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7075,14 +7000,19 @@
         "effect": "Sunny weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "AAEXPPQC",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "PLEASANTLYWARM* AFZLLQLL",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → Triangle",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7093,11 +7023,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → Y",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AAEXPPQC",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7109,9 +7034,9 @@
         "effect": "Super punches (one hit kills)",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Up → D-Pad Left → Cross → Triangle → R1 → Circle → Circle → Circle → L2",
-            "input": "button"
+            "platform": "Android",
+            "code": "LRMYOJM",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -7119,8 +7044,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Up → D-Pad Left → A → Y → Right Trigger (RT) → B → B → B → White",
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Left → Cross → Triangle → R1 → Circle → Circle → Circle → L2",
             "input": "button"
           },
           {
@@ -7129,9 +7054,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "LRMYOJM",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Up → D-Pad Left → A → Y → Right Trigger (RT) → B → B → B → White",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -7167,9 +7092,9 @@
         "effect": "Traffic lights always green",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Right → R1 → D-Pad Up → L2 → L2 → D-Pad Left → R1 → L1 → R1 → R1",
-            "input": "button"
+            "platform": "Android",
+            "code": "ENQCFMA",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -7177,8 +7102,8 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → White → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT)",
+            "platform": "PlayStation",
+            "code": "D-Pad Right → R1 → D-Pad Up → L2 → L2 → D-Pad Left → R1 → L1 → R1 → R1",
             "input": "button"
           },
           {
@@ -7187,9 +7112,9 @@
             "input": "button"
           },
           {
-            "platform": "Android 2013",
-            "code": "ENQCFMA",
-            "input": "keyboard"
+            "platform": "Xbox",
+            "code": "D-Pad Left → Right Trigger (RT) → D-Pad Up → White → White → D-Pad Left → Right Trigger (RT) → Left Trigger (LT) → Right Trigger (RT) → Right Trigger (RT)",
+            "input": "button"
           }
         ],
         "verified": true,
@@ -7201,14 +7126,19 @@
         "effect": "Triad theme ( CJ is equipped with a katana and all pedestrians are replaced with groups of Triads. Traffic mostly consists of PCJ-600s , FCR-900s , and BF-400s . All vehicles spawn in all black, behaving identically to the black traffic cheat. )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "Cross → Cross → D-Pad Down → R2 → L2 → Circle → R1 → Circle → Square",
-            "input": "button"
+            "platform": "Android",
+            "code": "AAUSQP",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "NINJATOWN* AFPHULTL",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "Cross → Cross → D-Pad Down → R2 → L2 → Circle → R1 → Circle → Square",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7219,11 +7149,6 @@
             "platform": "Xbox",
             "code": "A → A → D-Pad Down → Right Bumper (RB) → Left Bumper (LB) → B → Right Trigger (RT) → B → X",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "AAUSQP",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7235,14 +7160,19 @@
         "effect": "Unlimited ammunition with no reload for all weapons",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "L1 → R1 → Square → R1 → D-Pad Left → R2 → R1 → D-Pad Left → Square → D-Pad Down → L1 → L1",
-            "input": "button"
+            "platform": "Android",
+            "code": "NECUMZ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "FULLCLIP* WANRLTW",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "L1 → R1 → Square → R1 → D-Pad Left → R2 → R1 → D-Pad Left → Square → D-Pad Down → L1 → L1",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7253,11 +7183,6 @@
             "platform": "Xbox",
             "code": "Left Trigger (LT) → Right Trigger (RT) → X → Right Trigger (RT) → D-Pad Left → Right Bumper (RB) → Right Trigger (RT) → D-Pad Left → X → D-Pad Down → Left Trigger (LT) → Left Trigger (LT)",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "NECUMZ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7269,9 +7194,9 @@
         "effect": "Unlimited health",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "D-Pad Down → Cross → D-Pad Right → D-Pad Left → D-Pad Right → R1 → D-Pad Right → D-Pad Down → D-Pad Up → Triangle",
-            "input": "button"
+            "platform": "Android",
+            "code": "BLOKKIK",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
@@ -7279,19 +7204,14 @@
             "input": "touch"
           },
           {
-            "platform": "Xbox",
-            "code": "D-Pad Down → A → D-Pad Left → D-Pad Left → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Down → D-Pad Up → Y",
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Cross → D-Pad Right → D-Pad Left → D-Pad Right → R1 → D-Pad Right → D-Pad Down → D-Pad Up → Triangle",
             "input": "button"
           },
           {
             "platform": "Xbox",
             "code": "D-Pad Down → A → D-Pad Left → D-Pad Left → D-Pad Left → Right Trigger (RT) → D-Pad Left → D-Pad Down → D-Pad Up → Y",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BLOKKIK",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7303,14 +7223,19 @@
         "effect": "Very sunny weather",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "HTRTTVJ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "TOODAMNHOT* ICIKPYH",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R2 → Cross → L1 → L1 → L2 → L2 → L2 → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7321,11 +7246,6 @@
             "platform": "Xbox",
             "code": "Right Bumper (RB) → A → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Bumper (LB) → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "HTRTTVJ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7337,14 +7257,19 @@
         "effect": "Weapons, tier 1 ( Brass Knuckles , Baseball Bat , Pistol , Shotgun , Micro SMG , AK47 , Rifle , Rocket Launcher , Molotov Cocktails , & Spray Paint )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
-            "input": "button"
+            "platform": "Android",
+            "code": "BEFWKSBQ",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "LXGIWYL POOLOWNERBRIEFCASE THUGSARMOURY*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7355,11 +7280,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "BEFWKSBQ",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7371,14 +7291,19 @@
         "effect": "Weapons, tier 2 ( Fist , Knife , Desert Eagle , Sawn-Off Shotgun , TEC 9 , M4 , Sniper Rifle , Flamethrower , Fire Extinguisher , & Grenades )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
-            "input": "button"
+            "platform": "Android",
+            "code": "SHHIHJG",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "PROFESSIONALSKIT* KJKSZPJ",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7389,11 +7314,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Left",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "SHHIHJG",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7405,14 +7325,19 @@
         "effect": "Weapons, tier 3 ( Fist , Chainsaw , Silenced 9mm , SPAS 12 , SMG , M4 , Heat-Seeking Rocket Launcher , Satchel Charges , & Detonator )",
         "codes": [
           {
-            "platform": "PlayStation",
-            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
-            "input": "button"
+            "platform": "Android",
+            "code": "GOIZSSX",
+            "input": "keyboard"
           },
           {
             "platform": "PC",
             "code": "UZUMYMW NUTTERSTOYS*",
             "input": "touch"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "R1 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
+            "input": "button"
           },
           {
             "platform": "Xbox",
@@ -7423,11 +7348,6 @@
             "platform": "Xbox",
             "code": "Right Trigger (RT) → Right Bumper (RB) → Left Trigger (LT) → Right Bumper (RB) → D-Pad Left → D-Pad Down → D-Pad Left → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Down → D-Pad Down",
             "input": "button"
-          },
-          {
-            "platform": "Android 2013",
-            "code": "GOIZSSX",
-            "input": "keyboard"
           }
         ],
         "verified": true,
@@ -7439,7 +7359,7 @@
         "effect": "Weapons, tier 4 ( Minigun , Vibrator , Random: Night Vision Goggles or Thermal Vision Goggles )",
         "codes": [
           {
-            "platform": "Android 2013",
+            "platform": "Android",
             "code": "BIEUHQY",
             "input": "keyboard"
           }

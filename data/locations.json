@@ -1,0 +1,1773 @@
+{
+  "generated": "2026-11-15T23:43:20.480Z",
+  "description": "Flat location list across all games plus a city index. parent is the containing area.",
+  "count": 144,
+  "cities": [
+    {
+      "name": "Liberty City",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        },
+        {
+          "slug": "gta-iii",
+          "title": "Grand Theft Auto III",
+          "year": 2001
+        },
+        {
+          "slug": "gta-advance",
+          "title": "Grand Theft Auto Advance",
+          "year": 2004
+        },
+        {
+          "slug": "gta-liberty-city-stories",
+          "title": "Grand Theft Auto: Liberty City Stories",
+          "year": 2005
+        },
+        {
+          "slug": "gta-iv",
+          "title": "Grand Theft Auto IV",
+          "year": 2008
+        },
+        {
+          "slug": "gta-iv-the-lost-and-damned",
+          "title": "Grand Theft Auto IV: The Lost and Damned",
+          "year": 2009
+        },
+        {
+          "slug": "gta-the-ballad-of-gay-tony",
+          "title": "Grand Theft Auto: The Ballad of Gay Tony",
+          "year": 2009
+        },
+        {
+          "slug": "gta-chinatown-wars",
+          "title": "Grand Theft Auto: Chinatown Wars",
+          "year": 2009
+        }
+      ],
+      "locations": 34
+    },
+    {
+      "name": "Vice City",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        },
+        {
+          "slug": "gta-vice-city",
+          "title": "Grand Theft Auto: Vice City",
+          "year": 2002
+        },
+        {
+          "slug": "gta-vice-city-stories",
+          "title": "Grand Theft Auto: Vice City Stories",
+          "year": 2006
+        },
+        {
+          "slug": "gta-vi",
+          "title": "Grand Theft Auto VI",
+          "year": 2026
+        }
+      ],
+      "locations": 10
+    },
+    {
+      "name": "Los Santos",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        },
+        {
+          "slug": "gta-v",
+          "title": "Grand Theft Auto V",
+          "year": 2013
+        },
+        {
+          "slug": "gta-online",
+          "title": "Grand Theft Auto Online",
+          "year": 2013
+        }
+      ],
+      "locations": 18
+    },
+    {
+      "name": "Blaine County",
+      "games": [
+        {
+          "slug": "gta-v",
+          "title": "Grand Theft Auto V",
+          "year": 2013
+        },
+        {
+          "slug": "gta-online",
+          "title": "Grand Theft Auto Online",
+          "year": 2013
+        }
+      ],
+      "locations": 7
+    },
+    {
+      "name": "London",
+      "games": [
+        {
+          "slug": "gta-london-1969",
+          "title": "Grand Theft Auto: London 1969",
+          "year": 1999
+        },
+        {
+          "slug": "gta-london-1961",
+          "title": "Grand Theft Auto: London 1961",
+          "year": 1999
+        }
+      ],
+      "locations": 5
+    },
+    {
+      "name": "Anywhere City",
+      "games": [
+        {
+          "slug": "gta-2",
+          "title": "Grand Theft Auto 2",
+          "year": 1999
+        }
+      ],
+      "locations": 4
+    },
+    {
+      "name": "Las Venturas",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        }
+      ],
+      "locations": 3
+    },
+    {
+      "name": "Leonida",
+      "games": [
+        {
+          "slug": "gta-vi",
+          "title": "Grand Theft Auto VI",
+          "year": 2026
+        }
+      ],
+      "locations": 2
+    },
+    {
+      "name": "San Andreas",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        }
+      ],
+      "locations": 1
+    },
+    {
+      "name": "San Fierro",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        }
+      ],
+      "locations": 5
+    }
+  ],
+  "items": [
+    {
+      "game": "gta",
+      "game_title": "Grand Theft Auto",
+      "year": 1997,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "New York-inspired city with three islands, one of three selectable cities.",
+      "verified": true
+    },
+    {
+      "game": "gta",
+      "game_title": "Grand Theft Auto",
+      "year": 1997,
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "City",
+      "parent": null,
+      "summary": "West-coast-inspired city in the original game (unrelated to the 2004 state).",
+      "verified": true
+    },
+    {
+      "game": "gta",
+      "game_title": "Grand Theft Auto",
+      "year": 1997,
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": null,
+      "summary": "Miami-inspired city with beach and downtown areas.",
+      "verified": true
+    },
+    {
+      "game": "gta-london-1969",
+      "game_title": "Grand Theft Auto: London 1969",
+      "year": 1999,
+      "id": "east-end",
+      "name": "East End",
+      "type": "District",
+      "parent": "London",
+      "summary": "Docks and working-class streets.",
+      "verified": false
+    },
+    {
+      "game": "gta-london-1969",
+      "game_title": "Grand Theft Auto: London 1969",
+      "year": 1999,
+      "id": "london",
+      "name": "London",
+      "type": "City",
+      "parent": null,
+      "summary": "1969 London rendered in the GTA 1 top-down engine, with period landmarks and vehicles.",
+      "verified": true
+    },
+    {
+      "game": "gta-london-1969",
+      "game_title": "Grand Theft Auto: London 1969",
+      "year": 1999,
+      "id": "soho",
+      "name": "Soho",
+      "type": "District",
+      "parent": "London",
+      "summary": "Nightlife district used in several missions.",
+      "verified": false
+    },
+    {
+      "game": "gta-london-1969",
+      "game_title": "Grand Theft Auto: London 1969",
+      "year": 1999,
+      "id": "westminster",
+      "name": "Westminster",
+      "type": "District",
+      "parent": "London",
+      "summary": "Central district with Parliament and period architecture.",
+      "verified": false
+    },
+    {
+      "game": "gta-london-1961",
+      "game_title": "Grand Theft Auto: London 1961",
+      "year": 1999,
+      "id": "london",
+      "name": "London",
+      "type": "City",
+      "parent": null,
+      "summary": "1961 London using the GTA 1 engine and the London 1969 map assets.",
+      "verified": true
+    },
+    {
+      "game": "gta-2",
+      "game_title": "Grand Theft Auto 2",
+      "year": 1999,
+      "id": "anywhere-city",
+      "name": "Anywhere City",
+      "type": "City",
+      "parent": null,
+      "summary": "Dystopian city of 2013 split into three districts by bridges and water.",
+      "verified": true
+    },
+    {
+      "game": "gta-2",
+      "game_title": "Grand Theft Auto 2",
+      "year": 1999,
+      "id": "downtown",
+      "name": "Downtown",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Corporate skyscrapers, the Zaibatsu tower and Yakuza turf.",
+      "verified": true
+    },
+    {
+      "game": "gta-2",
+      "game_title": "Grand Theft Auto 2",
+      "year": 1999,
+      "id": "industrial",
+      "name": "Industrial",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Docks, factories and the Rednecks.",
+      "verified": true
+    },
+    {
+      "game": "gta-2",
+      "game_title": "Grand Theft Auto 2",
+      "year": 1999,
+      "id": "residential",
+      "name": "Residential",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Suburban and asylum district, home to the Loonies.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "bedford-point",
+      "name": "Bedford Point",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Downtown district with the Liberty Tree offices.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "belleville-park",
+      "name": "Belleville Park",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Central park area of Staunton.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "cedar-grove",
+      "name": "Cedar Grove",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Affluent hillside district with the Cartel mansion.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad territory and the fish factory.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "cochrane-dam",
+      "name": "Cochrane Dam",
+      "type": "Landmark",
+      "parent": "Shoreside Vale",
+      "summary": "The dam where the final mission takes place.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "francis-international-airport",
+      "name": "Francis International Airport",
+      "type": "Landmark",
+      "parent": "Shoreside Vale",
+      "summary": "Airport used in A Drop in the Ocean and S.A.M.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "harwood",
+      "name": "Harwood",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Industrial area near the Callahan Bridge.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "hephurn-heights",
+      "name": "Hepburn Heights",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Diablos territory and El Burro's base.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The game's setting: three islands modelled on New York City.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "pike-creek",
+      "name": "Pike Creek",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Residential area near the dam.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial starting island with the Leone heartland and the docks.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "red-light-district",
+      "name": "Red Light District",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Luigi's Sex Club 7 and the early mission hub.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "saint-marks",
+      "name": "Saint Mark's",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Leone family stronghold and Salvatore's mansion.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island with the airport, dam and Cochrane Dam finale.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial and financial island, unlocked after Last Requests.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "torrington",
+      "name": "Torrington",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Business district and Asuka's construction site.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "trenton",
+      "name": "Trenton",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Industrial district with Marty Chonks' dog food factory.",
+      "verified": true
+    },
+    {
+      "game": "gta-iii",
+      "game_title": "Grand Theft Auto III",
+      "year": 2001,
+      "id": "wichita-gardens",
+      "name": "Wichita Gardens",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Housing projects and Red Jacks territory.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "downtown",
+      "name": "Downtown",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Skyscraper district with the stadium and Hyman Condo.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "escobar-intl-airport",
+      "name": "Escobar International Airport",
+      "type": "Landmark",
+      "parent": "Vice Mainland",
+      "summary": "Main airport, used in smuggling and escape missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "hyman-memorial-stadium",
+      "name": "Hyman Memorial Stadium",
+      "type": "Landmark",
+      "parent": "Downtown",
+      "summary": "Stadium hosting the Hotring Racer and Bloodring Banger events.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "little-cuba",
+      "name": "Little Cuba",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Cuban area around Umberto's cafe.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "little-haiti",
+      "name": "Little Haiti",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Haitian gang territory and Auntie Poulet's house.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "little-havana",
+      "name": "Little Havana",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Cuban gang territory, Sunshine Autos and the print works.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "ocean-beach",
+      "name": "Ocean Beach",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Southern tip of the beach island, home to the Ocean View Hotel.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "prairie-avenue",
+      "name": "Prairie Avenue",
+      "type": "Landmark",
+      "parent": "Vice Beach",
+      "summary": "Shopping street with Ammu-Nation and the mall.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "starfish-island",
+      "name": "Starfish Island",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Mansion island housing Diaz and later Tommy.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "the-malibu-club",
+      "name": "The Malibu Club",
+      "type": "Landmark",
+      "parent": "Vice Point",
+      "summary": "Nightclub asset that unlocks the bank heist missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-beach",
+      "name": "Vice Beach",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Eastern island with the beach, Ocean Beach and Washington Beach.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": null,
+      "summary": "1986 Miami-inspired city split into two islands.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-mainland",
+      "name": "Vice City Mainland",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Western island with Downtown, Little Haiti, Little Havana and the airport.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-city-stadium",
+      "name": "Vice City Stadium",
+      "type": "Landmark",
+      "parent": "Downtown",
+      "summary": "Stadium used for Hotring and Bloodring events.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-point",
+      "name": "Vice Point",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Northern beach neighbourhood with the Malibu Club.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "vice-port",
+      "name": "Vice Port",
+      "type": "District",
+      "parent": "Vice Mainland",
+      "summary": "Docks and warehouses on the west side.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city",
+      "game_title": "Grand Theft Auto: Vice City",
+      "year": 2002,
+      "id": "washington-beach",
+      "name": "Washington Beach",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Beach strip with the mall and Ken's office nearby.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "area-69",
+      "name": "Area 69",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Secret military base in the desert.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "bone-county",
+      "name": "Bone County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Desert region containing Area 69 and Las Barrancas.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "caligulas-palace",
+      "name": "Caligula's Palace",
+      "type": "Landmark",
+      "parent": "Las Venturas",
+      "summary": "Casino owned by the Leones and robbed in the finale of the LV act.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "chinatown-sf",
+      "name": "Chinatown",
+      "type": "Neighbourhood",
+      "parent": "San Fierro",
+      "summary": "Triad headquarters and Woozie's base.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "doherty",
+      "name": "Doherty",
+      "type": "Neighbourhood",
+      "parent": "San Fierro",
+      "summary": "Industrial district with CJ's garage.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "east-los-santos",
+      "name": "East Los Santos",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Industrial and residential area near the docks.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "easter-basin",
+      "name": "Easter Basin",
+      "type": "District",
+      "parent": "San Fierro",
+      "summary": "Docks and naval area.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "ganton",
+      "name": "Ganton",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Grove Street Families home turf and CJ's safehouse.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "glen-park",
+      "name": "Glen Park",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Contested neighbourhood during the gang war.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "idlewood",
+      "name": "Idlewood",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Ballas territory south of Ganton.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "jefferson",
+      "name": "Jefferson",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Motel district and site of Reuniting the Families.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "las-venturas",
+      "name": "Las Venturas",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Las Vegas-inspired casino city in the desert.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Los Angeles-inspired southern city and Grove Street's home.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "los-santos-international",
+      "name": "Los Santos International Airport",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Main airport, unlocked for flight.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "mount-chiliad",
+      "name": "Mount Chiliad",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Tallest mountain in the state.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "mulholland",
+      "name": "Mulholland",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Hillside district with Madd Dogg's mansion.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "pier-69",
+      "name": "Pier 69",
+      "type": "Landmark",
+      "parent": "San Fierro",
+      "summary": "Pier used for the Loco Syndicate ambush.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "Region",
+      "parent": null,
+      "summary": "The fictional state containing three cities, desert, forest and countryside.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "san-fierro",
+      "name": "San Fierro",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "San Francisco-inspired city on the western coast.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "the-strip",
+      "name": "The Strip",
+      "type": "District",
+      "parent": "Las Venturas",
+      "summary": "Main casino boulevard of Las Venturas.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "verdant-meadows",
+      "name": "Verdant Meadows",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Abandoned airstrip bought during the Toreno missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-san-andreas",
+      "game_title": "Grand Theft Auto: San Andreas",
+      "year": 2004,
+      "id": "whetstone",
+      "name": "Whetstone",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Rural south-western region where the Badlands act begins.",
+      "verified": true
+    },
+    {
+      "game": "gta-advance",
+      "game_title": "Grand Theft Auto Advance",
+      "year": 2004,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Liberty City in 2000, rendered top-down for the GBA.",
+      "verified": true
+    },
+    {
+      "game": "gta-advance",
+      "game_title": "Grand Theft Auto Advance",
+      "year": 2004,
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island.",
+      "verified": true
+    },
+    {
+      "game": "gta-advance",
+      "game_title": "Grand Theft Auto Advance",
+      "year": 2004,
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island.",
+      "verified": true
+    },
+    {
+      "game": "gta-advance",
+      "game_title": "Grand Theft Auto Advance",
+      "year": 2004,
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "atlantic-quays",
+      "name": "Atlantic Quays",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Docks where Vincenzo operates.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "belleville-park",
+      "name": "Belleville Park",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Central park and mission location.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad territory in Portland.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The 1998 version of Liberty City, three years before GTA III.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island and Leone heartland.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "red-light-district",
+      "name": "Red Light District",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Luigi's club and JD O'Toole's territory.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "saint-marks",
+      "name": "Saint Mark's",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Leone stronghold and Salvatore's mansion.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island with the airport and dam.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island with Belleville Park and Bedford Point.",
+      "verified": true
+    },
+    {
+      "game": "gta-liberty-city-stories",
+      "game_title": "Grand Theft Auto: Liberty City Stories",
+      "year": 2005,
+      "id": "torrington",
+      "name": "Torrington",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Business district.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "downtown",
+      "name": "Downtown",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Skyscraper district and empire business location.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "escobar-intl-airport",
+      "name": "Escobar International Airport",
+      "type": "Landmark",
+      "parent": "Vice Mainland",
+      "summary": "Airport used in smuggling missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "fort-baxter",
+      "name": "Fort Baxter",
+      "type": "Landmark",
+      "parent": "Vice Mainland",
+      "summary": "Military base where Victor is stationed.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "little-haiti",
+      "name": "Little Haiti",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Haitian territory and drug business sites.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "little-havana",
+      "name": "Little Havana",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Cuban territory and early gang missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "starfish-island",
+      "name": "Starfish Island",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Mansion island used by the Mendez cartel.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "trailer-park",
+      "name": "Trailer Park",
+      "type": "District",
+      "parent": "Vice Mainland",
+      "summary": "Marty Jay Williams' base of operations.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "vice-beach",
+      "name": "Vice Beach",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Beach island with Ocean Beach and Washington Beach.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": null,
+      "summary": "Vice City in 1984, two years before Tommy Vercetti's arrival.",
+      "verified": true
+    },
+    {
+      "game": "gta-vice-city-stories",
+      "game_title": "Grand Theft Auto: Vice City Stories",
+      "year": 2006,
+      "id": "vice-mainland",
+      "name": "Vice City Mainland",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Mainland with Downtown, Little Haiti, Little Havana and the airport.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "New Jersey analogue across the river, Pegorino territory.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue and the city's centre.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Bronx analogue, northern borough.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "broker",
+      "name": "Broker",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "colon-island",
+      "name": "Colony Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island with the warehouse from The Snow Storm.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "dukes",
+      "name": "Dukes",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Queens analogue with the airport and McReary territory.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "francis-international-airport",
+      "name": "Francis International Airport",
+      "type": "Landmark",
+      "parent": "Dukes",
+      "summary": "Liberty City's main airport.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "happiness-island",
+      "name": "Happiness Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Statue island in the bay, significant in the endgame.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "hove-beach",
+      "name": "Hove Beach",
+      "type": "Neighbourhood",
+      "parent": "Broker",
+      "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "libertian-museum",
+      "name": "Libertonian Museum",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Museum where the diamond deal takes place.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The HD-era Liberty City, modelled on New York and New Jersey.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv",
+      "game_title": "Grand Theft Auto IV",
+      "year": 2008,
+      "id": "north-holland",
+      "name": "North Holland",
+      "type": "Neighbourhood",
+      "parent": "Algonquin",
+      "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "acton-hill",
+      "name": "Acton Hill",
+      "type": "Neighbourhood",
+      "parent": "Alderney",
+      "summary": "Industrial area near the Lost clubhouse.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "The Lost MC clubhouse and main operating area.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue used for diamond-related missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "broker",
+      "name": "Broker",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Eastern borough visited during club business.",
+      "verified": true
+    },
+    {
+      "game": "gta-iv-the-lost-and-damned",
+      "game_title": "Grand Theft Auto IV: The Lost and Damned",
+      "year": 2009,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Same map as GTA IV, used from the Lost's Alderney base.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "Industrial state across the river.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue and the club district.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Northern borough, home turf of Luis's friends.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "hercules",
+      "name": "Hercules",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Tony's second club.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The GTA IV map, explored through nightlife and celebrity storylines.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "maisonette-9",
+      "name": "Maisonette 9",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Tony's flagship club and Luis's base.",
+      "verified": true
+    },
+    {
+      "game": "gta-the-ballad-of-gay-tony",
+      "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "year": 2009,
+      "id": "middle-park",
+      "name": "Middle Park",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Central park used in Yusuf's missions.",
+      "verified": true
+    },
+    {
+      "game": "gta-chinatown-wars",
+      "game_title": "Grand Theft Auto: Chinatown Wars",
+      "year": 2009,
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad heartland and the game's opening area.",
+      "verified": true
+    },
+    {
+      "game": "gta-chinatown-wars",
+      "game_title": "Grand Theft Auto: Chinatown Wars",
+      "year": 2009,
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Liberty City in 2009, rendered top-down with a stylised cel-shaded look.",
+      "verified": true
+    },
+    {
+      "game": "gta-chinatown-wars",
+      "game_title": "Grand Theft Auto: Chinatown Wars",
+      "year": 2009,
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island.",
+      "verified": true
+    },
+    {
+      "game": "gta-chinatown-wars",
+      "game_title": "Grand Theft Auto: Chinatown Wars",
+      "year": 2009,
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island.",
+      "verified": true
+    },
+    {
+      "game": "gta-chinatown-wars",
+      "game_title": "Grand Theft Auto: Chinatown Wars",
+      "year": 2009,
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "blaine-county",
+      "name": "Blaine County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Rural desert and mountain county north of the city.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "chamberlain-hills",
+      "name": "Chamberlain Hills",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Franklin and Lamar's home neighbourhood.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "downtown-los-santos",
+      "name": "Downtown Los Santos",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Skyscraper business district and the FIB tower.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "fort-zancudo",
+      "name": "Fort Zancudo",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Military base with restricted airspace.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "humane-labs",
+      "name": "Humane Labs and Research",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Research facility raided in Monkey Business.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Los Angeles analogue and the game's main urban area.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "mount-chiliad",
+      "name": "Mount Chiliad",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Tallest mountain in the state, tied to the mystery egg and jetpack hunt.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "paleto-bay",
+      "name": "Paleto Bay",
+      "type": "Town",
+      "parent": "Blaine County",
+      "summary": "Small northern town and bank heist location.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "rockford-hills",
+      "name": "Rockford Hills",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Affluent district and Michael's mansion.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "Region",
+      "parent": null,
+      "summary": "The state containing Los Santos and Blaine County.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "sandy-shores",
+      "name": "Sandy Shores",
+      "type": "Town",
+      "parent": "Blaine County",
+      "summary": "Desert town and Trevor's base of operations.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "union-depository",
+      "name": "Union Depository",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Target of the final heist.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "vespucci",
+      "name": "Vespucci",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Beach district and the boardwalk.",
+      "verified": true
+    },
+    {
+      "game": "gta-v",
+      "game_title": "Grand Theft Auto V",
+      "year": 2013,
+      "id": "vinewood",
+      "name": "Vinewood",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Hollywood analogue with the sign and studios.",
+      "verified": true
+    },
+    {
+      "game": "gta-online",
+      "game_title": "Grand Theft Auto Online",
+      "year": 2013,
+      "id": "blaine-county",
+      "name": "Blaine County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Desert and mountain region used for bunkers and facilities.",
+      "verified": true
+    },
+    {
+      "game": "gta-online",
+      "game_title": "Grand Theft Auto Online",
+      "year": 2013,
+      "id": "cayo-perico",
+      "name": "Cayo Perico",
+      "type": "Island",
+      "parent": null,
+      "summary": "Private Caribbean island added with the Cayo Perico Heist.",
+      "verified": true
+    },
+    {
+      "game": "gta-online",
+      "game_title": "Grand Theft Auto Online",
+      "year": 2013,
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "The shared GTA V map, plus interiors added for Online.",
+      "verified": true
+    },
+    {
+      "game": "gta-online",
+      "game_title": "Grand Theft Auto Online",
+      "year": 2013,
+      "id": "los-santos-international",
+      "name": "Los Santos International Airport",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Airport and hangar base of operations.",
+      "verified": true
+    },
+    {
+      "game": "gta-online",
+      "game_title": "Grand Theft Auto Online",
+      "year": 2013,
+      "id": "the-diamond-casino",
+      "name": "The Diamond Casino & Resort",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Casino and resort added in 2019.",
+      "verified": true
+    },
+    {
+      "game": "gta-vi",
+      "game_title": "Grand Theft Auto VI",
+      "year": 2026,
+      "id": "leonida",
+      "name": "Leonida",
+      "type": "Region",
+      "parent": null,
+      "summary": "Rockstar-confirmed state inspired by Florida, the game's setting.",
+      "verified": true
+    },
+    {
+      "game": "gta-vi",
+      "game_title": "Grand Theft Auto VI",
+      "year": 2026,
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": "Leonida",
+      "summary": "Rockstar-confirmed modern-day Vice City within Leonida.",
+      "verified": true
+    }
+  ]
+}

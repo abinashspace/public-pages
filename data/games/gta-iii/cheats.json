@@ -10,14 +10,14 @@
       "effect": "Acquire $250,000 in cash",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "IFIWEREARICHMAN",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → L1 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "IFIWEREARICHMAN",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -34,14 +34,14 @@
       "effect": "Acquire all weapons",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "GUNSGUNSGUNS",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → R2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "GUNSGUNSGUNS",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -58,14 +58,14 @@
       "effect": "Blow up/explode/destroy all vehicles , excluding police-controlled helicopters and NPC Dodo",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "BANGBANGBANG",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L2 → R2 → L1 → R1 → L2 → R2 → Triangle → Square → Circle → Triangle → L2 → L1",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "BANGBANGBANG",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -82,14 +82,14 @@
       "effect": "Decrease game speed by half, down to x0.25 normal speed",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "BOOOOORING",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → R1 → R2",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "BOOOOORING",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -106,14 +106,14 @@
       "effect": "Foggy weather",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "PEASOUP",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → R2 → R1 → L2 → Cross",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "PEASOUP",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -130,14 +130,14 @@
       "effect": "Gore mode",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "NASTYLIMBSCHEAT",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Square → L1 → Circle → D-Pad Down → L1 → R1 → Triangle → D-Pad Right → L1 → Cross",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "NASTYLIMBSCHEAT",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -154,14 +154,14 @@
       "effect": "Increase game speed by 2, up to x4 normal speed",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "TIMEFLIESWHENYOU",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Triangle → D-Pad Up → D-Pad Right → D-Pad Down → Square → L1 → L2",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "TIMEFLIESWHENYOU",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -178,14 +178,14 @@
       "effect": "Increase grip on ground, boost jump ability in all cars, disables unique stunt jumps",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "CORNERSLIKEMAD",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R1 → L1 → R2 → L1 → D-Pad Left → R1 → R1 → Triangle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "CORNERSLIKEMAD",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -202,14 +202,14 @@
       "effect": "Increase wanted level by two stars",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "MOREPOLICEPLEASE",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → R2 → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right → D-Pad Left → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "MOREPOLICEPLEASE",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -226,14 +226,14 @@
       "effect": "Light clouds",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "SKINCANCERFORME",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → R2 → R1 → L2 → Triangle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "SKINCANCERFORME",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -250,14 +250,14 @@
       "effect": "Low gravity for cars, cars control like airborne planes",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "CHITTYCHITTYBB",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "D-Pad Right → R2 → Circle → R1 → L2 → D-Pad Down → L1 → R1",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "CHITTYCHITTYBB",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -274,14 +274,14 @@
       "effect": "Only the wheels of cars are visible",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "ANICESETOFWHEELS",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L1 → Square → R2 → Triangle → L1 → Triangle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "ANICESETOFWHEELS",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -298,14 +298,14 @@
       "effect": "Overcast weather",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "ILIKESCOTLAND",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → R2 → R1 → L2 → Square",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "ILIKESCOTLAND",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -322,14 +322,14 @@
       "effect": "Pedestrian riot",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "ITSALLGOINGMAAAD",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "D-Pad Down → D-Pad Up → D-Pad Left → D-Pad Up → Cross → R1 → R2 → L2 → L1",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "ITSALLGOINGMAAAD",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -346,14 +346,14 @@
       "effect": "Pedestrians (except prostitutes and street criminals ) carry weapons",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "WEAPONSFORALL",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R1 → Triangle → Cross → L2 → L1 → D-Pad Up → D-Pad Down",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "WEAPONSFORALL",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -370,14 +370,14 @@
       "effect": "Pedestrians attack Claude",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "NOBODYLIKESME",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "D-Pad Down → D-Pad Up → D-Pad Left → D-Pad Up → Cross → R1 → R2 → L1 → L2",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "NOBODYLIKESME",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -394,14 +394,14 @@
       "effect": "Play as pedestrian",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "ILIKEDRESSINGUP",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "D-Pad Right → D-Pad Down → D-Pad Left → D-Pad Up → L1 → L2 → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "ILIKEDRESSINGUP",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -418,14 +418,14 @@
       "effect": "Remove all wanted level",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "NOPOLICEPLEASE",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → R2 → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down → D-Pad Up → D-Pad Down",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "NOPOLICEPLEASE",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -442,14 +442,14 @@
       "effect": "Replenish player armor",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "TURTOISE (1.0 version) TORTOISE (1.1 version)",
+          "input": "touch"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → L2 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "TURTOISE (1.0 version) TORTOISE (1.1 version)",
-          "input": "touch"
         },
         {
           "platform": "Xbox",
@@ -466,14 +466,14 @@
       "effect": "Replenish player health ; if driving a vehicle, its health will also be replenished",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "GESUNDHEIT",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "R2 → R2 → L1 → R1 → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → D-Pad Right → D-Pad Up",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "GESUNDHEIT",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -490,14 +490,14 @@
       "effect": "Spawn a Rhino (On Android , instead of a tank, the first time the cheat is used a Landstalker spawns, after which random cars are spawned)",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "GIVEUSATANK",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → Circle → Circle → Circle → Circle → Circle → R1 → L2 → L1 → Triangle → Circle → Triangle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "GIVEUSATANK",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -514,14 +514,14 @@
       "effect": "Speed up game clock",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "MADWEATHER",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "Circle → Circle → Circle → Square → Square → Square → Square → Square → L1 → Triangle → Circle → Triangle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "MADWEATHER",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",
@@ -538,14 +538,14 @@
       "effect": "Stormy weather",
       "codes": [
         {
+          "platform": "PC / Android",
+          "code": "ILOVESCOTLAND",
+          "input": "keyboard"
+        },
+        {
           "platform": "PlayStation",
           "code": "L1 → L2 → R1 → R2 → R2 → R1 → L2 → Circle",
           "input": "button"
-        },
-        {
-          "platform": "PC/ Android",
-          "code": "ILOVESCOTLAND",
-          "input": "keyboard"
         },
         {
           "platform": "Xbox",

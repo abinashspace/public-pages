@@ -24,13 +24,13 @@
       "effect": "5x multiplier",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "HIGHFIVE",
+          "platform": "Dreamcast",
+          "code": "BOYAKASH",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "BOYAKASH",
+          "platform": "PlayStation",
+          "code": "HIGHFIVE",
           "input": "keyboard"
         }
       ],
@@ -43,13 +43,13 @@
       "effect": "99 lives",
       "codes": [
         {
-          "platform": "PC",
-          "code": "CUTIE1",
+          "platform": "Dreamcast",
+          "code": "BIGCATS",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "BIGCATS",
+          "platform": "PC",
+          "code": "CUTIE1",
           "input": "keyboard"
         }
       ],
@@ -76,8 +76,8 @@
       "effect": "All levels unlocked",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "ITSALLUP",
+          "platform": "Dreamcast",
+          "code": "SESAME",
           "input": "keyboard"
         },
         {
@@ -86,8 +86,8 @@
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "SESAME",
+          "platform": "PlayStation",
+          "code": "ITSALLUP",
           "input": "keyboard"
         }
       ],
@@ -114,8 +114,8 @@
       "effect": "All weapons",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "NAVARONE",
+          "platform": "Dreamcast",
+          "code": "BIGGUNS",
           "input": "keyboard"
         },
         {
@@ -124,8 +124,8 @@
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "BIGGUNS",
+          "platform": "PlayStation",
+          "code": "NAVARONE",
           "input": "keyboard"
         }
       ],
@@ -180,13 +180,13 @@
       "effect": "Electro Gun with infinite ammo",
       "codes": [
         {
-          "platform": "PC",
-          "code": "VOLTFEST",
+          "platform": "Dreamcast",
+          "code": "BIGFRIES",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "BIGFRIES",
+          "platform": "PC",
+          "code": "VOLTFEST",
           "input": "keyboard"
         }
       ],
@@ -199,13 +199,13 @@
       "effect": "Flame Thrower with infinite ammo",
       "codes": [
         {
-          "platform": "PC",
-          "code": "FLAMEON",
+          "platform": "Dreamcast",
+          "code": "TOASTIES",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "TOASTIES",
+          "platform": "PC",
+          "code": "FLAMEON",
           "input": "keyboard"
         }
       ],
@@ -232,13 +232,13 @@
       "effect": "Get $10,000,000",
       "codes": [
         {
-          "platform": "PC",
-          "code": "IAMDAVEJ",
+          "platform": "Dreamcast",
+          "code": "ULTIMATE",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "ULTIMATE",
+          "platform": "PC",
+          "code": "IAMDAVEJ",
           "input": "keyboard"
         }
       ],
@@ -251,7 +251,7 @@
       "effect": "Get $500,000",
       "codes": [
         {
-          "platform": "PlayStation",
+          "platform": "Dreamcast",
           "code": "MUCHCASH",
           "input": "keyboard"
         },
@@ -261,7 +261,7 @@
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
+          "platform": "PlayStation",
           "code": "MUCHCASH",
           "input": "keyboard"
         }
@@ -289,8 +289,8 @@
       "effect": "Invincibility*",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "LIVELONG",
+          "platform": "Dreamcast",
+          "code": "INFINITY",
           "input": "keyboard"
         },
         {
@@ -299,8 +299,8 @@
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "INFINITY",
+          "platform": "PlayStation",
+          "code": "LIVELONG",
           "input": "keyboard"
         }
       ],
@@ -313,13 +313,13 @@
       "effect": "Invisibility",
       "codes": [
         {
-          "platform": "PC",
-          "code": "HUNSRUS",
+          "platform": "Dreamcast",
+          "code": "SCOOBYDO",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "SCOOBYDO",
+          "platform": "PC",
+          "code": "HUNSRUS",
           "input": "keyboard"
         }
       ],
@@ -332,13 +332,13 @@
       "effect": "Keep weapons after death",
       "codes": [
         {
-          "platform": "PC",
-          "code": "ARSESTAR",
+          "platform": "Dreamcast",
+          "code": "LOSTTOYS",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "LOSTTOYS",
+          "platform": "PC",
+          "code": "ARSESTAR",
           "input": "keyboard"
         }
       ],
@@ -351,13 +351,13 @@
       "effect": "Max respect from all gangs",
       "codes": [
         {
-          "platform": "PC",
-          "code": "MADEMAN",
+          "platform": "Dreamcast",
+          "code": "ALLFREND",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "ALLFREND",
+          "platform": "PC",
+          "code": "MADEMAN",
           "input": "keyboard"
         }
       ],
@@ -370,13 +370,13 @@
       "effect": "Maximum wanted level",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "DESIRES",
+          "platform": "Dreamcast",
+          "code": "BADBOYS",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "BADBOYS",
+          "platform": "PlayStation",
+          "code": "DESIRES",
           "input": "keyboard"
         }
       ],
@@ -389,13 +389,13 @@
       "effect": "More blood",
       "codes": [
         {
-          "platform": "PC",
-          "code": "GOREFEST",
+          "platform": "Dreamcast",
+          "code": "WOUNDED",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "WOUNDED",
+          "platform": "PC",
+          "code": "GOREFEST",
           "input": "keyboard"
         }
       ],
@@ -408,8 +408,8 @@
       "effect": "No police",
       "codes": [
         {
-          "platform": "PlayStation",
-          "code": "LOSEFEDS",
+          "platform": "Dreamcast",
+          "code": "LAWLESS",
           "input": "keyboard"
         },
         {
@@ -418,8 +418,8 @@
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "LAWLESS",
+          "platform": "PlayStation",
+          "code": "LOSEFEDS",
           "input": "keyboard"
         }
       ],
@@ -432,13 +432,13 @@
       "effect": "Only Elvis peds spawn",
       "codes": [
         {
-          "platform": "PC",
-          "code": "LASVEGAS",
+          "platform": "Dreamcast",
+          "code": "ERRHUH",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "ERRHUH",
+          "platform": "PC",
+          "code": "LASVEGAS",
           "input": "keyboard"
         }
       ],
@@ -535,13 +535,13 @@
       "effect": "Unlimited double damage",
       "codes": [
         {
-          "platform": "PC",
-          "code": "SCHURULZ",
+          "platform": "Dreamcast",
+          "code": "DBLWAMMY",
           "input": "keyboard"
         },
         {
-          "platform": "Dreamcast",
-          "code": "DBLWAMMY",
+          "platform": "PC",
+          "code": "SCHURULZ",
           "input": "keyboard"
         }
       ],

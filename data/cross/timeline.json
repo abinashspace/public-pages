@@ -1,0 +1,354 @@
+{
+  "generated": "2026-11-15T23:43:20.439Z",
+  "description": "Every GTA release in order, grouped by universe.",
+  "eras": [
+    {
+      "key": "2d",
+      "name": "2D Universe",
+      "range": "1997–1999",
+      "blurb": "Top-down games seen from an overhead camera: the original city trilogy, the two London expansions and GTA 2’s retro-futurist Anywhere City.",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997,
+          "released": "1997-10-21",
+          "type": "Main",
+          "status": "released",
+          "setting": "Three fictional US cities, top-down perspective",
+          "cities": [
+            "Liberty City",
+            "Vice City",
+            "San Andreas"
+          ],
+          "protagonists": [
+            "Player-named protagonist"
+          ],
+          "records": 211,
+          "page": "games/gta/",
+          "data": "data/games/gta.json"
+        },
+        {
+          "slug": "gta-london-1969",
+          "title": "Grand Theft Auto: London 1969",
+          "year": 1999,
+          "released": "1999-04-30",
+          "type": "Expansion",
+          "status": "released",
+          "setting": "London, 1969",
+          "cities": [
+            "London"
+          ],
+          "protagonists": [
+            "Player-named protagonist"
+          ],
+          "records": 130,
+          "page": "games/gta-london-1969/",
+          "data": "data/games/gta-london-1969.json"
+        },
+        {
+          "slug": "gta-london-1961",
+          "title": "Grand Theft Auto: London 1961",
+          "year": 1999,
+          "released": "1999-06-01",
+          "type": "Expansion",
+          "status": "released",
+          "setting": "London, 1961",
+          "cities": [
+            "London"
+          ],
+          "protagonists": [
+            "Player-named protagonist"
+          ],
+          "records": 60,
+          "page": "games/gta-london-1961/",
+          "data": "data/games/gta-london-1961.json"
+        },
+        {
+          "slug": "gta-2",
+          "title": "Grand Theft Auto 2",
+          "year": 1999,
+          "released": "1999-10-22",
+          "type": "Main",
+          "status": "released",
+          "setting": "Anywhere City, retro-futuristic 2013",
+          "cities": [
+            "Anywhere City"
+          ],
+          "protagonists": [
+            "Claude Speed"
+          ],
+          "records": 139,
+          "page": "games/gta-2/",
+          "data": "data/games/gta-2.json"
+        }
+      ]
+    },
+    {
+      "key": "3d",
+      "name": "3D Universe",
+      "range": "2001–2006",
+      "blurb": "The move to third-person 3D: Liberty City, Vice City and San Andreas, plus the handheld and Stories spin-offs that reuse those maps.",
+      "games": [
+        {
+          "slug": "gta-iii",
+          "title": "Grand Theft Auto III",
+          "year": 2001,
+          "released": "2001-10-22",
+          "type": "Main",
+          "status": "released",
+          "setting": "Liberty City, 2001",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Claude"
+          ],
+          "records": 220,
+          "page": "games/gta-iii/",
+          "data": "data/games/gta-iii.json"
+        },
+        {
+          "slug": "gta-vice-city",
+          "title": "Grand Theft Auto: Vice City",
+          "year": 2002,
+          "released": "2002-10-27",
+          "type": "Main",
+          "status": "released",
+          "setting": "Vice City, 1986",
+          "cities": [
+            "Vice City"
+          ],
+          "protagonists": [
+            "Tommy Vercetti"
+          ],
+          "records": 331,
+          "page": "games/gta-vice-city/",
+          "data": "data/games/gta-vice-city.json"
+        },
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004,
+          "released": "2004-10-26",
+          "type": "Main",
+          "status": "released",
+          "setting": "State of San Andreas, 1992",
+          "cities": [
+            "Los Santos",
+            "San Fierro",
+            "Las Venturas"
+          ],
+          "protagonists": [
+            "Carl Johnson"
+          ],
+          "records": 515,
+          "page": "games/gta-san-andreas/",
+          "data": "data/games/gta-san-andreas.json"
+        },
+        {
+          "slug": "gta-advance",
+          "title": "Grand Theft Auto Advance",
+          "year": 2004,
+          "released": "2004-10-26",
+          "type": "Spin-off",
+          "status": "released",
+          "setting": "Liberty City, 2000",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Mike"
+          ],
+          "records": 113,
+          "page": "games/gta-advance/",
+          "data": "data/games/gta-advance.json"
+        },
+        {
+          "slug": "gta-liberty-city-stories",
+          "title": "Grand Theft Auto: Liberty City Stories",
+          "year": 2005,
+          "released": "2005-10-24",
+          "type": "Spin-off",
+          "status": "released",
+          "setting": "Liberty City, 1998",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Toni Cipriani"
+          ],
+          "records": 267,
+          "page": "games/gta-liberty-city-stories/",
+          "data": "data/games/gta-liberty-city-stories.json"
+        },
+        {
+          "slug": "gta-vice-city-stories",
+          "title": "Grand Theft Auto: Vice City Stories",
+          "year": 2006,
+          "released": "2006-10-31",
+          "type": "Spin-off",
+          "status": "released",
+          "setting": "Vice City, 1984",
+          "cities": [
+            "Vice City"
+          ],
+          "protagonists": [
+            "Victor Vance"
+          ],
+          "records": 268,
+          "page": "games/gta-vice-city-stories/",
+          "data": "data/games/gta-vice-city-stories.json"
+        }
+      ]
+    },
+    {
+      "key": "hd",
+      "name": "HD Universe",
+      "range": "2008–2013",
+      "blurb": "The high-definition era: Liberty City and Los Santos in full 3D, the two Episodes from Liberty City, Chinatown Wars and the persistent world of GTA Online.",
+      "games": [
+        {
+          "slug": "gta-iv",
+          "title": "Grand Theft Auto IV",
+          "year": 2008,
+          "released": "2008-04-29",
+          "type": "Main",
+          "status": "released",
+          "setting": "Liberty City, 2008",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Niko Bellic"
+          ],
+          "records": 309,
+          "page": "games/gta-iv/",
+          "data": "data/games/gta-iv.json"
+        },
+        {
+          "slug": "gta-iv-the-lost-and-damned",
+          "title": "Grand Theft Auto IV: The Lost and Damned",
+          "year": 2009,
+          "released": "2009-02-17",
+          "type": "Expansion",
+          "status": "released",
+          "setting": "Liberty City, 2008",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Johnny Klebitz"
+          ],
+          "records": 210,
+          "page": "games/gta-iv-the-lost-and-damned/",
+          "data": "data/games/gta-iv-the-lost-and-damned.json"
+        },
+        {
+          "slug": "gta-the-ballad-of-gay-tony",
+          "title": "Grand Theft Auto: The Ballad of Gay Tony",
+          "year": 2009,
+          "released": "2009-10-29",
+          "type": "Expansion",
+          "status": "released",
+          "setting": "Liberty City, 2008",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Luis Lopez"
+          ],
+          "records": 220,
+          "page": "games/gta-the-ballad-of-gay-tony/",
+          "data": "data/games/gta-the-ballad-of-gay-tony.json"
+        },
+        {
+          "slug": "gta-chinatown-wars",
+          "title": "Grand Theft Auto: Chinatown Wars",
+          "year": 2009,
+          "released": "2009-03-17",
+          "type": "Spin-off",
+          "status": "released",
+          "setting": "Liberty City, 2009",
+          "cities": [
+            "Liberty City"
+          ],
+          "protagonists": [
+            "Huang Lee"
+          ],
+          "records": 203,
+          "page": "games/gta-chinatown-wars/",
+          "data": "data/games/gta-chinatown-wars.json"
+        },
+        {
+          "slug": "gta-v",
+          "title": "Grand Theft Auto V",
+          "year": 2013,
+          "released": "2013-09-17",
+          "type": "Main",
+          "status": "released",
+          "setting": "State of San Andreas, 2013",
+          "cities": [
+            "Los Santos",
+            "Blaine County"
+          ],
+          "protagonists": [
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Trevor Philips"
+          ],
+          "records": 515,
+          "page": "games/gta-v/",
+          "data": "data/games/gta-v.json"
+        },
+        {
+          "slug": "gta-online",
+          "title": "Grand Theft Auto Online",
+          "year": 2013,
+          "released": "2013-10-01",
+          "type": "Online",
+          "status": "live",
+          "setting": "Southern San Andreas, present day",
+          "cities": [
+            "Los Santos",
+            "Blaine County"
+          ],
+          "protagonists": [
+            "Player character"
+          ],
+          "records": 41,
+          "page": "games/gta-online/",
+          "data": "data/games/gta-online.json"
+        }
+      ]
+    },
+    {
+      "key": "upcoming",
+      "name": "Upcoming",
+      "range": "2026–",
+      "blurb": "Announced but unreleased. GTA VI is recorded here from official Rockstar material only, with empty sections left explicitly empty.",
+      "games": [
+        {
+          "slug": "gta-vi",
+          "title": "Grand Theft Auto VI",
+          "year": 2026,
+          "released": "2026-11-19",
+          "type": "Main",
+          "status": "upcoming",
+          "setting": "State of Leonida, present day",
+          "cities": [
+            "Vice City",
+            "Leonida"
+          ],
+          "protagonists": [
+            "Lucia",
+            "Jason"
+          ],
+          "records": 4,
+          "page": "games/gta-vi/",
+          "data": "data/games/gta-vi.json"
+        }
+      ]
+    }
+  ]
+}

@@ -164,8 +164,9 @@
       "effect": "All weapons with full ammo",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad *",
+          "edition": "Debug only",
           "input": "touch"
         }
       ],
@@ -192,8 +193,9 @@
       "effect": "Center camera view",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Home",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],
@@ -374,8 +376,9 @@
       "effect": "Pan camera down",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad 2",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],
@@ -388,8 +391,9 @@
       "effect": "Pan camera left",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad 4",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],
@@ -402,8 +406,9 @@
       "effect": "Pan camera right",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad 6",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],
@@ -416,8 +421,9 @@
       "effect": "Pan camera up",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad 8",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],
@@ -430,8 +436,9 @@
       "effect": "Pause and advance single frame",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "Numpad +",
+          "edition": "Debug only",
           "input": "touch"
         }
       ],
@@ -472,8 +479,9 @@
       "effect": "Restart current chapter",
       "codes": [
         {
-          "platform": "Debug Cheat (PC only)",
+          "platform": "PC",
           "code": "F12",
+          "edition": "Debug only",
           "input": "keyboard"
         }
       ],

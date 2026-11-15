@@ -6,7 +6,7 @@
   "count": 10,
   "items": [
     {
-      "id": "15000-cash",
+      "id": "15-000-cash",
       "effect": "$15,000 cash",
       "codes": [
         {
@@ -17,10 +17,10 @@
       ],
       "verified": true,
       "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
-      "image": "assets/img/cheat/gta-advance/15000-cash.svg"
+      "image": "assets/img/cheat/gta-advance/15-000-cash.svg"
     },
     {
-      "id": "activate-cheat-mode",
+      "id": "activate-cheat-mode-shows-coordinates-required-for-the",
       "effect": "Activate cheat mode (shows coordinates; required for the codes below)",
       "codes": [
         {
@@ -31,7 +31,7 @@
       ],
       "verified": true,
       "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
-      "image": "assets/img/cheat/gta-advance/activate-cheat-mode.svg"
+      "image": "assets/img/cheat/gta-advance/activate-cheat-mode-shows-coordinates-required-for-the.svg"
     },
     {
       "id": "all-weapons",
@@ -48,7 +48,7 @@
       "image": "assets/img/cheat/gta-advance/all-weapons.svg"
     },
     {
-      "id": "armor",
+      "id": "full-armor",
       "effect": "Full armor",
       "codes": [
         {
@@ -59,10 +59,10 @@
       ],
       "verified": true,
       "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
-      "image": "assets/img/cheat/gta-advance/armor.svg"
+      "image": "assets/img/cheat/gta-advance/full-armor.svg"
     },
     {
-      "id": "level-select",
+      "id": "level-select-at-the-main-menu",
       "effect": "Level select at the main menu",
       "codes": [
         {
@@ -73,7 +73,7 @@
       ],
       "verified": true,
       "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
-      "image": "assets/img/cheat/gta-advance/level-select.svg"
+      "image": "assets/img/cheat/gta-advance/level-select-at-the-main-menu.svg"
     },
     {
       "id": "lower-wanted-level",
@@ -104,7 +104,7 @@
       "image": "assets/img/cheat/gta-advance/raise-wanted-level.svg"
     },
     {
-      "id": "health",
+      "id": "restore-health",
       "effect": "Restore health",
       "codes": [
         {
@@ -115,7 +115,7 @@
       ],
       "verified": true,
       "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
-      "image": "assets/img/cheat/gta-advance/health.svg"
+      "image": "assets/img/cheat/gta-advance/restore-health.svg"
     },
     {
       "id": "toggle-gang-hostility",

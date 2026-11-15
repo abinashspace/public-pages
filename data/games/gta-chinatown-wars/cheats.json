@@ -10,18 +10,18 @@
       "effect": "Armor",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "SHELLY",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "L L R B B A A R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "L L R X X O O R",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "SHELLY",
           "input": "keyboard"
         }
       ],
@@ -34,12 +34,12 @@
       "effect": "Cloud",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT X Y L R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT TRIANGLE SQUARE L R",
           "input": "keyboard"
         }
@@ -53,18 +53,18 @@
       "effect": "Explosive eagle",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "BOOMCAN",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "L R X Y A B UP DOWN",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "L R TRIANGLE SQUARE O X UP DOWN",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "BOOMCAN",
           "input": "keyboard"
         }
       ],
@@ -77,12 +77,12 @@
       "effect": "Extra sunny",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT B X L R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT X TRIANGLE L R",
           "input": "keyboard"
         }
@@ -96,12 +96,12 @@
       "effect": "Fog",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT Y B R L",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT SQUARE X R L",
           "input": "keyboard"
         }
@@ -115,7 +115,7 @@
       "effect": "Get $10,000",
       "codes": [
         {
-          "platform": "iOS and Android",
+          "platform": "iOS / Android",
           "code": "CASHIN",
           "input": "keyboard"
         }
@@ -129,18 +129,18 @@
       "effect": "Health",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "LIFEUP",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "L L R A A B B R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "L L R O O X X R",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "LIFEUP",
           "input": "keyboard"
         }
       ],
@@ -153,12 +153,12 @@
       "effect": "Heavy rain",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT A X R L",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT O TRIANGLE R L",
           "input": "keyboard"
         }
@@ -172,7 +172,7 @@
       "effect": "Jump 1 day",
       "codes": [
         {
-          "platform": "iOS and Android",
+          "platform": "iOS / Android",
           "code": "JUMPDAY",
           "input": "keyboard"
         }
@@ -186,7 +186,7 @@
       "effect": "Jump 1 hour",
       "codes": [
         {
-          "platform": "iOS and Android",
+          "platform": "iOS / Android",
           "code": "JUMPHR",
           "input": "keyboard"
         }
@@ -200,7 +200,7 @@
       "effect": "Jump 6 hours",
       "codes": [
         {
-          "platform": "iOS and Android",
+          "platform": "iOS / Android",
           "code": "JUMPHRS",
           "input": "keyboard"
         }
@@ -214,12 +214,12 @@
       "effect": "Rain",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT Y A L R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT SQUARE O L R",
           "input": "keyboard"
         }
@@ -233,12 +233,12 @@
       "effect": "Storm",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT B Y R L",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT X SQUARE R L",
           "input": "keyboard"
         }
@@ -252,12 +252,12 @@
       "effect": "Sunny",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "Nintendo DS",
           "code": "UP DOWN LEFT RIGHT A B L R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "UP DOWN LEFT RIGHT O X L R",
           "input": "keyboard"
         }
@@ -271,19 +271,19 @@
       "effect": "Wanted level down",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "COPOUT",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "R X X Y Y R L L",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "L L R TRIANGLE TRIANGLE SQUARE SQUARE R L L",
           "input": "touch"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "COPOUT",
-          "input": "keyboard"
         }
       ],
       "verified": true,
@@ -295,18 +295,18 @@
       "effect": "Wanted level up",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "COPIN",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "L L R Y Y X X R",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "L L R SQUARE SQUARE TRIANGLE TRIANGLE R",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "COPIN",
           "input": "keyboard"
         }
       ],
@@ -319,18 +319,18 @@
       "effect": "Weapon pack 1",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "LOADOA",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "R UP B DOWN LEFT R B RIGHT",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "R UP X DOWN LEFT R X RIGHT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "LOADOA",
           "input": "keyboard"
         }
       ],
@@ -343,18 +343,18 @@
       "effect": "Weapon pack 2",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "LOADOB",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "R UP A DOWN LEFT R A RIGHT",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "R UP O DOWN LEFT R O RIGHT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "LOADOB",
           "input": "keyboard"
         }
       ],
@@ -367,18 +367,18 @@
       "effect": "Weapon pack 3",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "LOADOC",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "R UP Y DOWN LEFT R Y RIGHT",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "R UP SQUARE DOWN LEFT R SQUARE RIGHT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "LOADOC",
           "input": "keyboard"
         }
       ],
@@ -391,18 +391,18 @@
       "effect": "Weapon pack 4",
       "codes": [
         {
-          "platform": "DS Version",
+          "platform": "iOS / Android",
+          "code": "LOADOD",
+          "input": "keyboard"
+        },
+        {
+          "platform": "Nintendo DS",
           "code": "R UP X DOWN LEFT R X RIGHT",
           "input": "keyboard"
         },
         {
-          "platform": "PSP Version",
+          "platform": "PlayStation Portable",
           "code": "R UP TRIANGLE DOWN LEFT R TRIANGLE RIGHT",
-          "input": "keyboard"
-        },
-        {
-          "platform": "iOS and Android",
-          "code": "LOADOD",
           "input": "keyboard"
         }
       ],

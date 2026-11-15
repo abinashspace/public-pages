@@ -1,0 +1,1089 @@
+{
+  "generated": "2026-11-15T23:43:20.448Z",
+  "description": "Record counts per game and section, with section leaders and shared cities.",
+  "sections": [
+    {
+      "key": "characters",
+      "title": "Characters"
+    },
+    {
+      "key": "missions",
+      "title": "Missions"
+    },
+    {
+      "key": "vehicles",
+      "title": "Vehicles"
+    },
+    {
+      "key": "weapons",
+      "title": "Weapons"
+    },
+    {
+      "key": "cheats",
+      "title": "Cheat codes"
+    },
+    {
+      "key": "locations",
+      "title": "Locations"
+    },
+    {
+      "key": "collectibles",
+      "title": "Collectibles"
+    }
+  ],
+  "games": [
+    {
+      "slug": "gta",
+      "order": 1,
+      "title": "Grand Theft Auto",
+      "short_title": "GTA",
+      "year": 1997,
+      "released": "1997-10-21",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "2d",
+      "era": "2D Universe",
+      "setting": "Three fictional US cities, top-down perspective",
+      "cities": [
+        "Liberty City",
+        "Vice City",
+        "San Andreas"
+      ],
+      "protagonists": [
+        "Player-named protagonist"
+      ],
+      "platforms": [
+        "MS-DOS",
+        "Windows",
+        "PlayStation",
+        "Game Boy Color"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 4,
+        "missions": 100,
+        "vehicles": 60,
+        "weapons": 8,
+        "cheats": 35,
+        "locations": 3,
+        "collectibles": 1
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "limited"
+      },
+      "records": 211
+    },
+    {
+      "slug": "gta-london-1969",
+      "order": 2,
+      "title": "Grand Theft Auto: London 1969",
+      "short_title": "London 1969",
+      "year": 1999,
+      "released": "1999-04-30",
+      "type": "Expansion",
+      "status": "released",
+      "eraKey": "2d",
+      "era": "2D Universe",
+      "setting": "London, 1969",
+      "cities": [
+        "London"
+      ],
+      "protagonists": [
+        "Player-named protagonist"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows",
+        "MS-DOS"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 3,
+        "missions": 47,
+        "vehicles": 42,
+        "weapons": 6,
+        "cheats": 28,
+        "locations": 4,
+        "collectibles": 0
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "empty"
+      },
+      "records": 130
+    },
+    {
+      "slug": "gta-london-1961",
+      "order": 3,
+      "title": "Grand Theft Auto: London 1961",
+      "short_title": "London 1961",
+      "year": 1999,
+      "released": "1999-06-01",
+      "type": "Expansion",
+      "status": "released",
+      "eraKey": "2d",
+      "era": "2D Universe",
+      "setting": "London, 1961",
+      "cities": [
+        "London"
+      ],
+      "protagonists": [
+        "Player-named protagonist"
+      ],
+      "platforms": [
+        "Windows",
+        "MS-DOS"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 2,
+        "missions": 9,
+        "vehicles": 41,
+        "weapons": 6,
+        "cheats": 1,
+        "locations": 1,
+        "collectibles": 0
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "limited",
+        "locations": "partial",
+        "collectibles": "empty"
+      },
+      "records": 60
+    },
+    {
+      "slug": "gta-2",
+      "order": 4,
+      "title": "Grand Theft Auto 2",
+      "short_title": "GTA 2",
+      "year": 1999,
+      "released": "1999-10-22",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "2d",
+      "era": "2D Universe",
+      "setting": "Anywhere City, retro-futuristic 2013",
+      "cities": [
+        "Anywhere City"
+      ],
+      "protagonists": [
+        "Claude Speed"
+      ],
+      "platforms": [
+        "Windows",
+        "PlayStation",
+        "Dreamcast",
+        "Game Boy Color"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 9,
+        "missions": 4,
+        "vehicles": 68,
+        "weapons": 20,
+        "cheats": 33,
+        "locations": 4,
+        "collectibles": 1
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "limited",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "limited"
+      },
+      "records": 139
+    },
+    {
+      "slug": "gta-iii",
+      "order": 5,
+      "title": "Grand Theft Auto III",
+      "short_title": "GTA III",
+      "year": 2001,
+      "released": "2001-10-22",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "Liberty City, 2001",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Claude"
+      ],
+      "platforms": [
+        "PlayStation 2",
+        "Windows",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 19,
+        "missions": 68,
+        "vehicles": 63,
+        "weapons": 26,
+        "cheats": 23,
+        "locations": 18,
+        "collectibles": 3
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 220
+    },
+    {
+      "slug": "gta-vice-city",
+      "order": 6,
+      "title": "Grand Theft Auto: Vice City",
+      "short_title": "Vice City",
+      "year": 2002,
+      "released": "2002-10-27",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "Vice City, 1986",
+      "cities": [
+        "Vice City"
+      ],
+      "protagonists": [
+        "Tommy Vercetti"
+      ],
+      "platforms": [
+        "PlayStation 2",
+        "Windows",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 24,
+        "missions": 61,
+        "vehicles": 107,
+        "weapons": 59,
+        "cheats": 59,
+        "locations": 17,
+        "collectibles": 4
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 331
+    },
+    {
+      "slug": "gta-san-andreas",
+      "order": 7,
+      "title": "Grand Theft Auto: San Andreas",
+      "short_title": "San Andreas",
+      "year": 2004,
+      "released": "2004-10-26",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "State of San Andreas, 1992",
+      "cities": [
+        "Los Santos",
+        "San Fierro",
+        "Las Venturas"
+      ],
+      "protagonists": [
+        "Carl Johnson"
+      ],
+      "platforms": [
+        "PlayStation 2",
+        "Windows",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 24,
+        "missions": 101,
+        "vehicles": 171,
+        "weapons": 90,
+        "cheats": 101,
+        "locations": 22,
+        "collectibles": 6
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 515
+    },
+    {
+      "slug": "gta-advance",
+      "order": 8,
+      "title": "Grand Theft Auto Advance",
+      "short_title": "GTA Advance",
+      "year": 2004,
+      "released": "2004-10-26",
+      "type": "Spin-off",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "Liberty City, 2000",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Mike"
+      ],
+      "platforms": [
+        "Game Boy Advance"
+      ],
+      "cheats": "limited",
+      "counts": {
+        "characters": 7,
+        "missions": 41,
+        "vehicles": 31,
+        "weapons": 18,
+        "cheats": 10,
+        "locations": 4,
+        "collectibles": 2
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 113
+    },
+    {
+      "slug": "gta-liberty-city-stories",
+      "order": 9,
+      "title": "Grand Theft Auto: Liberty City Stories",
+      "short_title": "LCS",
+      "year": 2005,
+      "released": "2005-10-24",
+      "type": "Spin-off",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "Liberty City, 1998",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Toni Cipriani"
+      ],
+      "platforms": [
+        "PlayStation Portable",
+        "PlayStation 2",
+        "iOS",
+        "Android"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 17,
+        "missions": 71,
+        "vehicles": 81,
+        "weapons": 40,
+        "cheats": 43,
+        "locations": 10,
+        "collectibles": 5
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 267
+    },
+    {
+      "slug": "gta-vice-city-stories",
+      "order": 10,
+      "title": "Grand Theft Auto: Vice City Stories",
+      "short_title": "VCS",
+      "year": 2006,
+      "released": "2006-10-31",
+      "type": "Spin-off",
+      "status": "released",
+      "eraKey": "3d",
+      "era": "3D Universe",
+      "setting": "Vice City, 1984",
+      "cities": [
+        "Vice City"
+      ],
+      "protagonists": [
+        "Victor Vance"
+      ],
+      "platforms": [
+        "PlayStation Portable",
+        "PlayStation 2"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 15,
+        "missions": 59,
+        "vehicles": 106,
+        "weapons": 42,
+        "cheats": 31,
+        "locations": 10,
+        "collectibles": 5
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 268
+    },
+    {
+      "slug": "gta-iv",
+      "order": 11,
+      "title": "Grand Theft Auto IV",
+      "short_title": "GTA IV",
+      "year": 2008,
+      "released": "2008-04-29",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "Liberty City, 2008",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Niko Bellic"
+      ],
+      "platforms": [
+        "PlayStation 3",
+        "Xbox 360",
+        "Windows"
+      ],
+      "cheats": "phone",
+      "counts": {
+        "characters": 26,
+        "missions": 90,
+        "vehicles": 122,
+        "weapons": 23,
+        "cheats": 32,
+        "locations": 12,
+        "collectibles": 4
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 309
+    },
+    {
+      "slug": "gta-iv-the-lost-and-damned",
+      "order": 12,
+      "title": "Grand Theft Auto IV: The Lost and Damned",
+      "short_title": "TLAD",
+      "year": 2009,
+      "released": "2009-02-17",
+      "type": "Expansion",
+      "status": "released",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "Liberty City, 2008",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Johnny Klebitz"
+      ],
+      "platforms": [
+        "Xbox 360",
+        "PlayStation 3",
+        "Windows"
+      ],
+      "cheats": "phone",
+      "counts": {
+        "characters": 12,
+        "missions": 22,
+        "vehicles": 143,
+        "weapons": 24,
+        "cheats": 0,
+        "locations": 6,
+        "collectibles": 3
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "empty",
+        "locations": "partial",
+        "collectibles": "partial"
+      },
+      "records": 210
+    },
+    {
+      "slug": "gta-the-ballad-of-gay-tony",
+      "order": 13,
+      "title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "short_title": "TBoGT",
+      "year": 2009,
+      "released": "2009-10-29",
+      "type": "Expansion",
+      "status": "released",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "Liberty City, 2008",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Luis Lopez"
+      ],
+      "platforms": [
+        "Xbox 360",
+        "PlayStation 3",
+        "Windows"
+      ],
+      "cheats": "phone",
+      "counts": {
+        "characters": 12,
+        "missions": 26,
+        "vehicles": 144,
+        "weapons": 27,
+        "cheats": 0,
+        "locations": 7,
+        "collectibles": 4
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "empty",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 220
+    },
+    {
+      "slug": "gta-chinatown-wars",
+      "order": 14,
+      "title": "Grand Theft Auto: Chinatown Wars",
+      "short_title": "Chinatown Wars",
+      "year": 2009,
+      "released": "2009-03-17",
+      "type": "Spin-off",
+      "status": "released",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "Liberty City, 2009",
+      "cities": [
+        "Liberty City"
+      ],
+      "protagonists": [
+        "Huang Lee"
+      ],
+      "platforms": [
+        "Nintendo DS",
+        "PlayStation Portable",
+        "iOS",
+        "Android"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 10,
+        "missions": 58,
+        "vehicles": 75,
+        "weapons": 33,
+        "cheats": 20,
+        "locations": 5,
+        "collectibles": 2
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "partial"
+      },
+      "records": 203
+    },
+    {
+      "slug": "gta-v",
+      "order": 15,
+      "title": "Grand Theft Auto V",
+      "short_title": "GTA V",
+      "year": 2013,
+      "released": "2013-09-17",
+      "type": "Main",
+      "status": "released",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "State of San Andreas, 2013",
+      "cities": [
+        "Los Santos",
+        "Blaine County"
+      ],
+      "protagonists": [
+        "Michael De Santa",
+        "Franklin Clinton",
+        "Trevor Philips"
+      ],
+      "platforms": [
+        "PlayStation 3",
+        "Xbox 360",
+        "PlayStation 4",
+        "Xbox One",
+        "Windows",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "cheats": "full",
+      "counts": {
+        "characters": 24,
+        "missions": 75,
+        "vehicles": 298,
+        "weapons": 62,
+        "cheats": 36,
+        "locations": 14,
+        "collectibles": 6
+      },
+      "coverage": {
+        "characters": "partial",
+        "missions": "complete",
+        "vehicles": "complete",
+        "weapons": "complete",
+        "cheats": "complete",
+        "locations": "partial",
+        "collectibles": "complete"
+      },
+      "records": 515
+    },
+    {
+      "slug": "gta-online",
+      "order": 16,
+      "title": "Grand Theft Auto Online",
+      "short_title": "GTA Online",
+      "year": 2013,
+      "released": "2013-10-01",
+      "type": "Online",
+      "status": "live",
+      "eraKey": "hd",
+      "era": "HD Universe",
+      "setting": "Southern San Andreas, present day",
+      "cities": [
+        "Los Santos",
+        "Blaine County"
+      ],
+      "protagonists": [
+        "Player character"
+      ],
+      "platforms": [
+        "PlayStation 3",
+        "Xbox 360",
+        "PlayStation 4",
+        "Xbox One",
+        "Windows",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "cheats": "none",
+      "counts": {
+        "characters": 11,
+        "missions": 8,
+        "vehicles": 8,
+        "weapons": 6,
+        "cheats": 0,
+        "locations": 5,
+        "collectibles": 3
+      },
+      "coverage": {
+        "characters": "limited",
+        "missions": "limited",
+        "vehicles": "limited",
+        "weapons": "limited",
+        "cheats": "empty",
+        "locations": "partial",
+        "collectibles": "limited"
+      },
+      "records": 41
+    },
+    {
+      "slug": "gta-vi",
+      "order": 17,
+      "title": "Grand Theft Auto VI",
+      "short_title": "GTA VI",
+      "year": 2026,
+      "released": "2026-11-19",
+      "type": "Main",
+      "status": "upcoming",
+      "eraKey": "upcoming",
+      "era": "Upcoming",
+      "setting": "State of Leonida, present day",
+      "cities": [
+        "Vice City",
+        "Leonida"
+      ],
+      "protagonists": [
+        "Lucia",
+        "Jason"
+      ],
+      "platforms": [
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ],
+      "cheats": "none-yet",
+      "counts": {
+        "characters": 2,
+        "missions": 0,
+        "vehicles": 0,
+        "weapons": 0,
+        "cheats": 0,
+        "locations": 2,
+        "collectibles": 0
+      },
+      "coverage": {
+        "characters": "official-only",
+        "missions": "empty",
+        "vehicles": "empty",
+        "weapons": "empty",
+        "cheats": "empty",
+        "locations": "official-only",
+        "collectibles": "empty"
+      },
+      "records": 4
+    }
+  ],
+  "leaders": [
+    {
+      "section": "characters",
+      "title": "Characters",
+      "leader": {
+        "slug": "gta-iv",
+        "title": "Grand Theft Auto IV",
+        "count": 26
+      },
+      "runner_up": {
+        "slug": "gta-vice-city",
+        "title": "Grand Theft Auto: Vice City",
+        "count": 24
+      }
+    },
+    {
+      "section": "missions",
+      "title": "Missions",
+      "leader": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 101
+      },
+      "runner_up": {
+        "slug": "gta",
+        "title": "Grand Theft Auto",
+        "count": 100
+      }
+    },
+    {
+      "section": "vehicles",
+      "title": "Vehicles",
+      "leader": {
+        "slug": "gta-v",
+        "title": "Grand Theft Auto V",
+        "count": 298
+      },
+      "runner_up": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 171
+      }
+    },
+    {
+      "section": "weapons",
+      "title": "Weapons",
+      "leader": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 90
+      },
+      "runner_up": {
+        "slug": "gta-v",
+        "title": "Grand Theft Auto V",
+        "count": 62
+      }
+    },
+    {
+      "section": "cheats",
+      "title": "Cheat codes",
+      "leader": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 101
+      },
+      "runner_up": {
+        "slug": "gta-vice-city",
+        "title": "Grand Theft Auto: Vice City",
+        "count": 59
+      }
+    },
+    {
+      "section": "locations",
+      "title": "Locations",
+      "leader": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 22
+      },
+      "runner_up": {
+        "slug": "gta-iii",
+        "title": "Grand Theft Auto III",
+        "count": 18
+      }
+    },
+    {
+      "section": "collectibles",
+      "title": "Collectibles",
+      "leader": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 6
+      },
+      "runner_up": {
+        "slug": "gta-v",
+        "title": "Grand Theft Auto V",
+        "count": 6
+      }
+    }
+  ],
+  "cities": [
+    {
+      "name": "Liberty City",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        },
+        {
+          "slug": "gta-iii",
+          "title": "Grand Theft Auto III",
+          "year": 2001
+        },
+        {
+          "slug": "gta-advance",
+          "title": "Grand Theft Auto Advance",
+          "year": 2004
+        },
+        {
+          "slug": "gta-liberty-city-stories",
+          "title": "Grand Theft Auto: Liberty City Stories",
+          "year": 2005
+        },
+        {
+          "slug": "gta-iv",
+          "title": "Grand Theft Auto IV",
+          "year": 2008
+        },
+        {
+          "slug": "gta-iv-the-lost-and-damned",
+          "title": "Grand Theft Auto IV: The Lost and Damned",
+          "year": 2009
+        },
+        {
+          "slug": "gta-the-ballad-of-gay-tony",
+          "title": "Grand Theft Auto: The Ballad of Gay Tony",
+          "year": 2009
+        },
+        {
+          "slug": "gta-chinatown-wars",
+          "title": "Grand Theft Auto: Chinatown Wars",
+          "year": 2009
+        }
+      ],
+      "locations": 34
+    },
+    {
+      "name": "Vice City",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        },
+        {
+          "slug": "gta-vice-city",
+          "title": "Grand Theft Auto: Vice City",
+          "year": 2002
+        },
+        {
+          "slug": "gta-vice-city-stories",
+          "title": "Grand Theft Auto: Vice City Stories",
+          "year": 2006
+        },
+        {
+          "slug": "gta-vi",
+          "title": "Grand Theft Auto VI",
+          "year": 2026
+        }
+      ],
+      "locations": 10
+    },
+    {
+      "name": "Los Santos",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        },
+        {
+          "slug": "gta-v",
+          "title": "Grand Theft Auto V",
+          "year": 2013
+        },
+        {
+          "slug": "gta-online",
+          "title": "Grand Theft Auto Online",
+          "year": 2013
+        }
+      ],
+      "locations": 18
+    },
+    {
+      "name": "Blaine County",
+      "games": [
+        {
+          "slug": "gta-v",
+          "title": "Grand Theft Auto V",
+          "year": 2013
+        },
+        {
+          "slug": "gta-online",
+          "title": "Grand Theft Auto Online",
+          "year": 2013
+        }
+      ],
+      "locations": 7
+    },
+    {
+      "name": "London",
+      "games": [
+        {
+          "slug": "gta-london-1969",
+          "title": "Grand Theft Auto: London 1969",
+          "year": 1999
+        },
+        {
+          "slug": "gta-london-1961",
+          "title": "Grand Theft Auto: London 1961",
+          "year": 1999
+        }
+      ],
+      "locations": 5
+    },
+    {
+      "name": "Anywhere City",
+      "games": [
+        {
+          "slug": "gta-2",
+          "title": "Grand Theft Auto 2",
+          "year": 1999
+        }
+      ],
+      "locations": 4
+    },
+    {
+      "name": "Las Venturas",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        }
+      ],
+      "locations": 3
+    },
+    {
+      "name": "Leonida",
+      "games": [
+        {
+          "slug": "gta-vi",
+          "title": "Grand Theft Auto VI",
+          "year": 2026
+        }
+      ],
+      "locations": 2
+    },
+    {
+      "name": "San Andreas",
+      "games": [
+        {
+          "slug": "gta",
+          "title": "Grand Theft Auto",
+          "year": 1997
+        }
+      ],
+      "locations": 1
+    },
+    {
+      "name": "San Fierro",
+      "games": [
+        {
+          "slug": "gta-san-andreas",
+          "title": "Grand Theft Auto: San Andreas",
+          "year": 2004
+        }
+      ],
+      "locations": 5
+    }
+  ]
+}

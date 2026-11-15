@@ -26,7 +26,7 @@
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
   <a class="brand" href="../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
-  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../data/">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
+  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../timeline/">Timeline</a></li><li><a href="../compare/">Compare</a></li><li><a href="../cheats/">Cheats</a></li><li><a href="../locations/">Locations</a></li><li><a href="../data/">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../">Games</a></li><li><span aria-current="page">Data</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -46,6 +46,10 @@
 <tr><td><a href="search-index.json"><code>/data/search-index.json</code></a></td><td>Corpus</td><td>One object per record; powers /search/</td></tr>
 <tr><td><a href="images.json"><code>/data/images.json</code></a></td><td>Manifest</td><td>Every image path, dimension and status</td></tr>
 <tr><td><a href="status.json"><code>/data/status.json</code></a></td><td>Status</td><td>Per-game coverage and totals</td></tr>
+<tr><td><a href="cheats.json"><code>/data/cheats.json</code></a></td><td>Cross-game</td><td>Every cheat code flattened, with game, platform and input type</td></tr>
+<tr><td><a href="locations.json"><code>/data/locations.json</code></a></td><td>Cross-game</td><td>Every location flattened, plus a city index</td></tr>
+<tr><td><a href="cross/timeline.json"><code>/data/cross/timeline.json</code></a></td><td>Cross-game</td><td>All releases grouped by 2D, 3D and HD universe</td></tr>
+<tr><td><a href="cross/compare.json"><code>/data/cross/compare.json</code></a></td><td>Cross-game</td><td>Record counts per game and section, leaders, shared cities</td></tr>
 <tr><td><a href="games/gta-iii.json"><code>/data/games/&lt;slug&gt;.json</code></a></td><td>Bundle</td><td>All seven sections for one game</td></tr>
 <tr><td><a href="games/gta-iii/characters.json"><code>/data/games/&lt;slug&gt;/&lt;section&gt;.json</code></a></td><td>Collection</td><td>One section, sorted, with coverage metadata</td></tr>
 </tbody></table></div>
