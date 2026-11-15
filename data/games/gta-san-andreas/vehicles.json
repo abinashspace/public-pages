@@ -2,9 +2,17 @@
   "game": "gta-san-andreas",
   "game_title": "Grand Theft Auto: San Andreas",
   "section": "vehicles",
-  "coverage": "partial",
-  "count": 54,
+  "coverage": "complete",
+  "count": 171,
   "items": [
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/alpha.svg"
+    },
     {
       "id": "ambulance",
       "name": "Ambulance",
@@ -16,13 +24,54 @@
       "image": "assets/img/vehicle/gta-san-andreas/ambulance.svg"
     },
     {
+      "id": "andromada",
+      "name": "Andromada",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/andromada.svg"
+    },
+    {
+      "id": "articulated-trailer",
+      "name": "Articulated Trailer",
+      "category": "Trailers",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/articulated-trailer.svg"
+    },
+    {
+      "id": "at-400",
+      "name": "AT-400",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/at-400.svg"
+    },
+    {
+      "id": "baggage",
+      "name": "Baggage",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/baggage.svg"
+    },
+    {
+      "id": "baggage-box",
+      "name": "Baggage Box",
+      "category": "Trailers",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/baggage-box.svg"
+    },
+    {
       "id": "bandito",
       "name": "Bandito",
-      "category": "Car",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Buggy",
       "top_speed_kph": 175,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/bandito.svg"
     },
     {
@@ -36,6 +85,22 @@
       "image": "assets/img/vehicle/gta-san-andreas/banshee.svg"
     },
     {
+      "id": "beagle",
+      "name": "Beagle",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/beagle.svg"
+    },
+    {
+      "id": "berkleys-rc-van",
+      "name": "Berkley's RC Van",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/berkleys-rc-van.svg"
+    },
+    {
       "id": "bf-injection",
       "name": "BF Injection",
       "category": "Car",
@@ -46,14 +111,47 @@
       "image": "assets/img/vehicle/gta-san-andreas/bf-injection.svg"
     },
     {
+      "id": "bf-400",
+      "name": "BF-400",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/bf-400.svg"
+    },
+    {
+      "id": "bike",
+      "name": "Bike",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/bike.svg"
+    },
+    {
       "id": "blade",
       "name": "Blade",
-      "category": "Car",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Lowrider",
       "top_speed_kph": 190,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/blade.svg"
+    },
+    {
+      "id": "bloodring-banger",
+      "name": "Bloodring Banger",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/bloodring-banger.svg"
+    },
+    {
+      "id": "bmx",
+      "name": "BMX",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/bmx.svg"
     },
     {
       "id": "bobcat",
@@ -66,24 +164,114 @@
       "image": "assets/img/vehicle/gta-san-andreas/bobcat.svg"
     },
     {
+      "id": "boxburg",
+      "name": "BoxBurg",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/boxburg.svg"
+    },
+    {
+      "id": "bravura",
+      "name": "Bravura",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/bravura.svg"
+    },
+    {
+      "id": "broadway",
+      "name": "Broadway",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/broadway.svg"
+    },
+    {
+      "id": "brown-streak",
+      "name": "Brown Streak",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/brown-streak.svg"
+    },
+    {
+      "id": "buccaneer",
+      "name": "Buccaneer",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/buccaneer.svg"
+    },
+    {
       "id": "buffalo",
       "name": "Buffalo",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Muscle",
       "top_speed_kph": 205,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/buffalo.svg"
     },
     {
       "id": "bullet",
       "name": "Bullet",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Super",
       "top_speed_kph": 250,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/bullet.svg"
+    },
+    {
+      "id": "cabbie",
+      "name": "Cabbie",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/cabbie.svg"
+    },
+    {
+      "id": "caddy",
+      "name": "Caddy",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/caddy.svg"
+    },
+    {
+      "id": "cadrona",
+      "name": "Cadrona",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/cadrona.svg"
+    },
+    {
+      "id": "camper",
+      "name": "Camper",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/camper.svg"
+    },
+    {
+      "id": "cargobob",
+      "name": "Cargobob",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/cargobob.svg"
+    },
+    {
+      "id": "cement-truck",
+      "name": "Cement Truck",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/cement-truck.svg"
     },
     {
       "id": "cheetah",
@@ -96,24 +284,154 @@
       "image": "assets/img/vehicle/gta-san-andreas/cheetah.svg"
     },
     {
+      "id": "clover",
+      "name": "Clover",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/clover.svg"
+    },
+    {
+      "id": "club",
+      "name": "Club",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/club.svg"
+    },
+    {
+      "id": "coach",
+      "name": "Coach",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/coach.svg"
+    },
+    {
       "id": "coastguard",
-      "name": "Coast Guard",
-      "category": "Boat",
+      "name": "Coastguard",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Patrol boat",
       "top_speed_kph": 100,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/coastguard.svg"
+    },
+    {
+      "id": "combine-harvester",
+      "name": "Combine Harvester",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/combine-harvester.svg"
+    },
+    {
+      "id": "cropduster",
+      "name": "Cropduster",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/cropduster.svg"
+    },
+    {
+      "id": "dft-30",
+      "name": "DFT-30",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dft-30.svg"
+    },
+    {
+      "id": "dinghy",
+      "name": "Dinghy",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dinghy.svg"
+    },
+    {
+      "id": "dodo",
+      "name": "Dodo",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dodo.svg"
+    },
+    {
+      "id": "dozer",
+      "name": "Dozer",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dozer.svg"
+    },
+    {
+      "id": "dumper",
+      "name": "Dumper",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dumper.svg"
+    },
+    {
+      "id": "dune",
+      "name": "Dune",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/dune.svg"
+    },
+    {
+      "id": "elegant",
+      "name": "Elegant",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/elegant.svg"
     },
     {
       "id": "elegy",
       "name": "Elegy",
-      "category": "Car",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 215,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/elegy.svg"
+    },
+    {
+      "id": "emperor",
+      "name": "Emperor",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/emperor.svg"
+    },
+    {
+      "id": "euros",
+      "name": "Euros",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/euros.svg"
+    },
+    {
+      "id": "farm-trailer",
+      "name": "Farm Trailer",
+      "category": "Trailers",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/farm-trailer.svg"
+    },
+    {
+      "id": "fbi-rancher",
+      "name": "FBI Rancher",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/fbi-rancher.svg"
     },
     {
       "id": "fbi-truck",
@@ -128,22 +446,56 @@
     {
       "id": "fcr-900",
       "name": "FCR-900",
-      "category": "Motorcycle",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sport bike",
       "top_speed_kph": 220,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/fcr-900.svg"
+    },
+    {
+      "id": "feltzer",
+      "name": "Feltzer",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/feltzer.svg"
     },
     {
       "id": "fire-truck",
       "name": "Fire Truck",
-      "category": "Emergency",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Fire",
       "top_speed_kph": 125,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/fire-truck.svg"
+    },
+    {
+      "id": "flash",
+      "name": "Flash",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/flash.svg"
+    },
+    {
+      "id": "forklift",
+      "name": "Forklift",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/forklift.svg"
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/fortune.svg"
     },
     {
       "id": "freeway",
@@ -156,33 +508,92 @@
       "image": "assets/img/vehicle/gta-san-andreas/freeway.svg"
     },
     {
+      "id": "freight",
+      "name": "Freight",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/freight.svg"
+    },
+    {
+      "id": "glendale",
+      "name": "Glendale",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/glendale.svg"
+    },
+    {
+      "id": "hotdog",
+      "name": "Hotdog",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/hotdog.svg"
+    },
+    {
+      "id": "hotknife",
+      "name": "Hotknife",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/hotknife.svg"
+    },
+    {
+      "id": "hotring-racer",
+      "name": "Hotring Racer",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/hotring-racer.svg"
+    },
+    {
+      "id": "hpv1000",
+      "name": "HPV1000",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/hpv1000.svg"
+    },
+    {
       "id": "hunter",
       "name": "Hunter",
-      "category": "Aircraft",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Attack helicopter",
       "top_speed_kph": 220,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/hunter.svg"
     },
     {
       "id": "huntley",
       "name": "Huntley",
-      "category": "Car",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "SUV",
       "top_speed_kph": 175,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/huntley.svg"
+    },
+    {
+      "id": "hustler",
+      "name": "Hustler",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/hustler.svg"
     },
     {
       "id": "hydra",
       "name": "Hydra",
-      "category": "Aircraft",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Jump jet",
       "top_speed_kph": 400,
       "seats": 1,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/hydra.svg"
     },
     {
@@ -196,54 +607,123 @@
       "image": "assets/img/vehicle/gta-san-andreas/infernus.svg"
     },
     {
+      "id": "intruder",
+      "name": "Intruder",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/intruder.svg"
+    },
+    {
       "id": "jester",
       "name": "Jester",
-      "category": "Car",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 215,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/jester.svg"
     },
     {
       "id": "jetmax",
       "name": "Jetmax",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Speedboat",
       "top_speed_kph": 115,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/jetmax.svg"
+    },
+    {
+      "id": "journey",
+      "name": "Journey",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/journey.svg"
+    },
+    {
+      "id": "kart",
+      "name": "Kart",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/kart.svg"
+    },
+    {
+      "id": "launch",
+      "name": "Launch",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/launch.svg"
     },
     {
       "id": "leviathan",
       "name": "Leviathan",
-      "category": "Aircraft",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Helicopter",
       "top_speed_kph": 180,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/leviathan.svg"
+    },
+    {
+      "id": "linerunner",
+      "name": "Linerunner",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/linerunner.svg"
+    },
+    {
+      "id": "majestic",
+      "name": "Majestic",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/majestic.svg"
+    },
+    {
+      "id": "manana",
+      "name": "Manana",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/manana.svg"
     },
     {
       "id": "marquis",
       "name": "Marquis",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Yacht",
       "top_speed_kph": 60,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/marquis.svg"
     },
     {
       "id": "maverick",
       "name": "Maverick",
-      "category": "Aircraft",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Helicopter",
       "top_speed_kph": 200,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/maverick.svg"
+    },
+    {
+      "id": "merit",
+      "name": "Merit",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/merit.svg"
     },
     {
       "id": "mesa",
@@ -258,32 +738,91 @@
     {
       "id": "monster",
       "name": "Monster",
-      "category": "Car",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Monster truck",
       "top_speed_kph": 150,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/monster.svg"
+    },
+    {
+      "id": "mountain-bike",
+      "name": "Mountain Bike",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/mountain-bike.svg"
+    },
+    {
+      "id": "mower",
+      "name": "Mower",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/mower.svg"
+    },
+    {
+      "id": "mr-whoopee",
+      "name": "Mr Whoopee",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/mr-whoopee.svg"
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/nebula.svg"
     },
     {
       "id": "nevada",
       "name": "Nevada",
-      "category": "Aircraft",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Cargo plane",
       "top_speed_kph": 280,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/nevada.svg"
+    },
+    {
+      "id": "news-chopper",
+      "name": "News Chopper",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/news-chopper.svg"
+    },
+    {
+      "id": "newsvan",
+      "name": "Newsvan",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/newsvan.svg"
     },
     {
       "id": "nrg-500",
       "name": "NRG-500",
-      "category": "Motorcycle",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sport bike",
       "top_speed_kph": 230,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/nrg-500.svg"
+    },
+    {
+      "id": "oceanic",
+      "name": "Oceanic",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/oceanic.svg"
     },
     {
       "id": "patriot",
@@ -306,6 +845,14 @@
       "image": "assets/img/vehicle/gta-san-andreas/pcj-600.svg"
     },
     {
+      "id": "petrol-truck",
+      "name": "Petrol Truck",
+      "category": "Trailers",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/petrol-truck.svg"
+    },
+    {
       "id": "phoenix",
       "name": "Phoenix",
       "category": "Car",
@@ -314,6 +861,22 @@
       "seats": 2,
       "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/phoenix.svg"
+    },
+    {
+      "id": "picador",
+      "name": "Picador",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/picador.svg"
+    },
+    {
+      "id": "police",
+      "name": "Police",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/police.svg"
     },
     {
       "id": "police-car",
@@ -326,33 +889,148 @@
       "image": "assets/img/vehicle/gta-san-andreas/police-car.svg"
     },
     {
+      "id": "police-maverick",
+      "name": "Police Maverick",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/police-maverick.svg"
+    },
+    {
+      "id": "pony",
+      "name": "Pony",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/pony.svg"
+    },
+    {
       "id": "predator",
       "name": "Predator",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Police boat",
       "top_speed_kph": 95,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/predator.svg"
+    },
+    {
+      "id": "premier",
+      "name": "Premier",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/premier.svg"
+    },
+    {
+      "id": "previon",
+      "name": "Previon",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/previon.svg"
+    },
+    {
+      "id": "primo",
+      "name": "Primo",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/primo.svg"
+    },
+    {
+      "id": "quadbike",
+      "name": "Quadbike",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/quadbike.svg"
+    },
+    {
+      "id": "raindance",
+      "name": "Raindance",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/raindance.svg"
     },
     {
       "id": "rancher",
       "name": "Rancher",
-      "category": "Car",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "SUV",
       "top_speed_kph": 165,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/rancher.svg"
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/ranger.svg"
+    },
+    {
+      "id": "rc-bandit",
+      "name": "RC Bandit",
+      "category": "RC Vehicles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rc-bandit.svg"
+    },
+    {
+      "id": "rc-baron",
+      "name": "RC Baron",
+      "category": "RC Vehicles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rc-baron.svg"
+    },
+    {
+      "id": "rc-goblin",
+      "name": "RC Goblin",
+      "category": "RC Vehicles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rc-goblin.svg"
+    },
+    {
+      "id": "rc-raider",
+      "name": "RC Raider",
+      "category": "RC Vehicles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rc-raider.svg"
+    },
+    {
+      "id": "rc-tiger",
+      "name": "RC Tiger",
+      "category": "RC Vehicles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rc-tiger.svg"
+    },
+    {
+      "id": "reefer",
+      "name": "Reefer",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/reefer.svg"
     },
     {
       "id": "remington",
       "name": "Remington",
-      "category": "Car",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Lowrider",
       "top_speed_kph": 180,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/remington.svg"
     },
     {
@@ -366,14 +1044,47 @@
       "image": "assets/img/vehicle/gta-san-andreas/rhino.svg"
     },
     {
+      "id": "roadtrain",
+      "name": "Roadtrain",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/roadtrain.svg"
+    },
+    {
+      "id": "romero",
+      "name": "Romero",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/romero.svg"
+    },
+    {
+      "id": "rumpo",
+      "name": "Rumpo",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/rumpo.svg"
+    },
+    {
       "id": "rustler",
       "name": "Rustler",
-      "category": "Aircraft",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Prop plane",
       "top_speed_kph": 300,
       "seats": 1,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/rustler.svg"
+    },
+    {
+      "id": "swat",
+      "name": "S.W.A.T.",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/swat.svg"
     },
     {
       "id": "sabre",
@@ -384,6 +1095,14 @@
       "seats": 2,
       "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/sabre.svg"
+    },
+    {
+      "id": "sadler",
+      "name": "Sadler",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/sadler.svg"
     },
     {
       "id": "sanchez",
@@ -398,21 +1117,23 @@
     {
       "id": "sandking",
       "name": "Sandking",
-      "category": "Car",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Off-road",
       "top_speed_kph": 170,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/sandking.svg"
     },
     {
       "id": "savanna",
       "name": "Savanna",
-      "category": "Car",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Lowrider",
       "top_speed_kph": 185,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/savanna.svg"
     },
     {
@@ -426,64 +1147,150 @@
       "image": "assets/img/vehicle/gta-san-andreas/sea-sparrow.svg"
     },
     {
+      "id": "seasparrow",
+      "name": "Seasparrow",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/seasparrow.svg"
+    },
+    {
       "id": "shamal",
       "name": "Shamal",
-      "category": "Aircraft",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Private jet",
       "top_speed_kph": 350,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/shamal.svg"
+    },
+    {
+      "id": "skimmer",
+      "name": "Skimmer",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/skimmer.svg"
     },
     {
       "id": "slamvan",
       "name": "Slamvan",
-      "category": "Car",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Lowrider",
       "top_speed_kph": 175,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/slamvan.svg"
+    },
+    {
+      "id": "solair",
+      "name": "Solair",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/solair.svg"
+    },
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "category": "Helicopters",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/sparrow.svg"
+    },
+    {
+      "id": "speeder",
+      "name": "Speeder",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/speeder.svg"
     },
     {
       "id": "squalo",
       "name": "Squalo",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Speedboat",
       "top_speed_kph": 110,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/squalo.svg"
+    },
+    {
+      "id": "stafford",
+      "name": "Stafford",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/stafford.svg"
     },
     {
       "id": "stallion",
       "name": "Stallion",
-      "category": "Car",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Muscle",
       "top_speed_kph": 195,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/stallion.svg"
+    },
+    {
+      "id": "stratum",
+      "name": "Stratum",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/stratum.svg"
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/stretch.svg"
     },
     {
       "id": "stuntplane",
       "name": "Stuntplane",
-      "category": "Aircraft",
+      "category": "Planes",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Prop plane",
       "top_speed_kph": 250,
       "seats": 1,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/stuntplane.svg"
     },
     {
       "id": "sultan",
       "name": "Sultan",
-      "category": "Car",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports sedan",
       "top_speed_kph": 210,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/sultan.svg"
+    },
+    {
+      "id": "sunrise",
+      "name": "Sunrise",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/sunrise.svg"
+    },
+    {
+      "id": "super-gt",
+      "name": "Super GT",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/super-gt.svg"
     },
     {
       "id": "swat-tank",
@@ -496,53 +1303,218 @@
       "image": "assets/img/vehicle/gta-san-andreas/swat-tank.svg"
     },
     {
+      "id": "sweeper",
+      "name": "Sweeper",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/sweeper.svg"
+    },
+    {
+      "id": "tahoma",
+      "name": "Tahoma",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tahoma.svg"
+    },
+    {
+      "id": "tampa",
+      "name": "Tampa",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tampa.svg"
+    },
+    {
+      "id": "tanker",
+      "name": "Tanker",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tanker.svg"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "category": "Lowriders",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tornado.svg"
+    },
+    {
+      "id": "tow-truck",
+      "name": "Tow Truck",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tow-truck.svg"
+    },
+    {
+      "id": "tractor",
+      "name": "Tractor",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tractor.svg"
+    },
+    {
+      "id": "tram",
+      "name": "Tram",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tram.svg"
+    },
+    {
+      "id": "trashmaster",
+      "name": "Trashmaster",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/trashmaster.svg"
+    },
+    {
       "id": "tropic",
       "name": "Tropic",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Boat",
       "top_speed_kph": 90,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/tropic.svg"
+    },
+    {
+      "id": "tug",
+      "name": "Tug",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tug.svg"
+    },
+    {
+      "id": "tug-stairs",
+      "name": "Tug Stairs",
+      "category": "Trailers",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/tug-stairs.svg"
     },
     {
       "id": "turismo",
       "name": "Turismo",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 235,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/turismo.svg"
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "category": "Tuners",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/uranus.svg"
+    },
+    {
+      "id": "utility-van",
+      "name": "Utility Van",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/utility-van.svg"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/vincent.svg"
     },
     {
       "id": "vortex",
       "name": "Vortex",
-      "category": "Hovercraft",
+      "category": "Novelty",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Hovercraft",
       "top_speed_kph": 140,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/vortex.svg"
+    },
+    {
+      "id": "walton",
+      "name": "Walton",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/walton.svg"
+    },
+    {
+      "id": "washington",
+      "name": "Washington",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/washington.svg"
     },
     {
       "id": "wayfarer",
       "name": "Wayfarer",
-      "category": "Motorcycle",
+      "category": "Motorcycles & bicycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Cruiser",
       "top_speed_kph": 180,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/wayfarer.svg"
+    },
+    {
+      "id": "willard",
+      "name": "Willard",
+      "category": "Sedans & station wagons",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/willard.svg"
+    },
+    {
+      "id": "windsor",
+      "name": "Windsor",
+      "category": "Coupes & compact cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/windsor.svg"
+    },
+    {
+      "id": "yankee",
+      "name": "Yankee",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/yankee.svg"
+    },
+    {
+      "id": "yosemite",
+      "name": "Yosemite",
+      "category": "SUVs & pickup trucks",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-san-andreas/yosemite.svg"
     },
     {
       "id": "zr-350",
       "name": "ZR-350",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 225,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-san-andreas/zr-350.svg"
     }
   ]

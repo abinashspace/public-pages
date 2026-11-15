@@ -24,77 +24,77 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto (1997, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta.json
-- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 159
+- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 210
 
 ### Grand Theft Auto: London 1969 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1969/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-london-1969.json
-- Cities: London · Status: released · Records: 93
+- Cities: London · Status: released · Records: 129
 
 ### Grand Theft Auto: London 1961 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1961/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-london-1961.json
-- Cities: London · Status: released · Records: 22
+- Cities: London · Status: released · Records: 58
 
 ### Grand Theft Auto 2 (1999, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-2/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-2.json
-- Cities: Anywhere City · Status: released · Records: 67
+- Cities: Anywhere City · Status: released · Records: 126
 
 ### Grand Theft Auto III (2001, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iii/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iii.json
-- Cities: Liberty City · Status: released · Records: 193
+- Cities: Liberty City · Status: released · Records: 206
 
 ### Grand Theft Auto: Vice City (2002, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city.json
-- Cities: Vice City · Status: released · Records: 232
+- Cities: Vice City · Status: released · Records: 288
 
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-san-andreas.json
-- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 328
+- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 445
 
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-advance.json
-- Cities: Liberty City · Status: released · Records: 66
+- Cities: Liberty City · Status: released · Records: 101
 
 ### Grand Theft Auto: Liberty City Stories (2005, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-liberty-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-liberty-city-stories.json
-- Cities: Liberty City · Status: released · Records: 171
+- Cities: Liberty City · Status: released · Records: 236
 
 ### Grand Theft Auto: Vice City Stories (2006, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city-stories.json
-- Cities: Vice City · Status: released · Records: 150
+- Cities: Vice City · Status: released · Records: 237
 
 ### Grand Theft Auto IV (2008, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv.json
-- Cities: Liberty City · Status: released · Records: 208
+- Cities: Liberty City · Status: released · Records: 292
 
 ### Grand Theft Auto IV: The Lost and Damned (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv-the-lost-and-damned.json
-- Cities: Liberty City · Status: released · Records: 65
+- Cities: Liberty City · Status: released · Records: 194
 
 ### Grand Theft Auto: The Ballad of Gay Tony (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-the-ballad-of-gay-tony/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-the-ballad-of-gay-tony.json
-- Cities: Liberty City · Status: released · Records: 69
+- Cities: Liberty City · Status: released · Records: 201
 
 ### Grand Theft Auto: Chinatown Wars (2009, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-chinatown-wars/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-chinatown-wars.json
-- Cities: Liberty City · Status: released · Records: 115
+- Cities: Liberty City · Status: released · Records: 180
 
 ### Grand Theft Auto V (2013, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-v/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-v.json
-- Cities: Los Santos, Blaine County · Status: released · Records: 207
+- Cities: Los Santos, Blaine County · Status: released · Records: 470
 
 ### Grand Theft Auto Online (2013, Online)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-online/

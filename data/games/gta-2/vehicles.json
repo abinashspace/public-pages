@@ -2,9 +2,17 @@
   "game": "gta-2",
   "game_title": "Grand Theft Auto 2",
   "section": "vehicles",
-  "coverage": "limited",
-  "count": 9,
+  "coverage": "complete",
+  "count": 68,
   "items": [
+    {
+      "id": "a-type",
+      "name": "A-Type",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/a-type.svg"
+    },
     {
       "id": "ambulance",
       "name": "Ambulance",
@@ -14,6 +22,38 @@
       "seats": 2,
       "verified": true,
       "image": "assets/img/vehicle/gta-2/ambulance.svg"
+    },
+    {
+      "id": "aniston-bd4",
+      "name": "Aniston BD4",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/aniston-bd4.svg"
+    },
+    {
+      "id": "arachnid",
+      "name": "Arachnid",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/arachnid.svg"
+    },
+    {
+      "id": "armed-land-roamer",
+      "name": "Armed Land Roamer",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/armed-land-roamer.svg"
+    },
+    {
+      "id": "b-type",
+      "name": "B-Type",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/b-type.svg"
     },
     {
       "id": "banshee",
@@ -26,44 +66,284 @@
       "image": "assets/img/vehicle/gta-2/banshee.svg"
     },
     {
+      "id": "beamer",
+      "name": "Beamer",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/beamer.svg"
+    },
+    {
+      "id": "benson",
+      "name": "Benson",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/benson.svg"
+    },
+    {
+      "id": "big-bug",
+      "name": "Big Bug",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/big-bug.svg"
+    },
+    {
+      "id": "box-car-boxcar-s",
+      "name": "Box Car (boxcar(s))",
+      "category": "Public Service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/box-car-boxcar-s.svg"
+    },
+    {
+      "id": "box-truck",
+      "name": "Box Truck",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/box-truck.svg"
+    },
+    {
+      "id": "bug",
+      "name": "Bug",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/bug.svg"
+    },
+    {
+      "id": "bulwark",
+      "name": "Bulwark",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/bulwark.svg"
+    },
+    {
       "id": "bus",
       "name": "Bus",
-      "category": "Industrial",
-      "class": "Bus",
-      "top_speed_kph": null,
-      "seats": 4,
+      "category": "Public Service",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Bus",
+      "seats": 4,
       "image": "assets/img/vehicle/gta-2/bus.svg"
+    },
+    {
+      "id": "cop-car",
+      "name": "Cop Car",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/cop-car.svg"
+    },
+    {
+      "id": "dementia",
+      "name": "Dementia",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/dementia.svg"
+    },
+    {
+      "id": "dementia-limousine",
+      "name": "Dementia Limousine",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/dementia-limousine.svg"
+    },
+    {
+      "id": "eddy",
+      "name": "Eddy",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/eddy.svg"
     },
     {
       "id": "fire-truck",
       "name": "Fire Truck",
-      "category": "Emergency",
-      "class": "Fire",
-      "top_speed_kph": null,
-      "seats": 2,
+      "category": "Government and Emergency",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Fire",
+      "seats": 2,
       "image": "assets/img/vehicle/gta-2/fire-truck.svg"
+    },
+    {
+      "id": "furore-gt",
+      "name": "Furore GT",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/furore-gt.svg"
+    },
+    {
+      "id": "g4-bank-van",
+      "name": "G4 Bank Van",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/g4-bank-van.svg"
     },
     {
       "id": "garbage-truck",
       "name": "Garbage Truck",
-      "category": "Industrial",
-      "class": "Truck",
-      "top_speed_kph": null,
-      "seats": 2,
+      "category": "Trucks and Vans",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Truck",
+      "seats": 2,
       "image": "assets/img/vehicle/gta-2/garbage-truck.svg"
     },
     {
-      "id": "ice-cream-van",
-      "name": "Ice Cream Van",
-      "category": "Van",
-      "class": "Special",
-      "top_speed_kph": null,
-      "seats": 2,
+      "id": "gt-a1",
+      "name": "GT-A1",
+      "category": "Miscellaneous",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/gt-a1.svg"
+    },
+    {
+      "id": "hachura",
+      "name": "Hachura",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/hachura.svg"
+    },
+    {
+      "id": "hot-dog-van",
+      "name": "Hot Dog Van",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/hot-dog-van.svg"
+    },
+    {
+      "id": "ice-cream-van",
+      "name": "Ice-Cream Van",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Special",
+      "seats": 2,
       "image": "assets/img/vehicle/gta-2/ice-cream-van.svg"
+    },
+    {
+      "id": "jagular-xk",
+      "name": "Jagular XK",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/jagular-xk.svg"
+    },
+    {
+      "id": "jefferson",
+      "name": "Jefferson",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/jefferson.svg"
+    },
+    {
+      "id": "karma-bus",
+      "name": "Karma Bus",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/karma-bus.svg"
+    },
+    {
+      "id": "land-roamer",
+      "name": "Land Roamer",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/land-roamer.svg"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/maurice.svg"
+    },
+    {
+      "id": "medicar",
+      "name": "Medicar",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/medicar.svg"
+    },
+    {
+      "id": "meteor-turbo",
+      "name": "Meteor (turbo)",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/meteor-turbo.svg"
+    },
+    {
+      "id": "miara",
+      "name": "Miara",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/miara.svg"
+    },
+    {
+      "id": "michelli-roadster",
+      "name": "Michelli Roadster",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/michelli-roadster.svg"
+    },
+    {
+      "id": "minx",
+      "name": "Minx",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/minx.svg"
+    },
+    {
+      "id": "morton",
+      "name": "Morton",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/morton.svg"
+    },
+    {
+      "id": "pacifier",
+      "name": "Pacifier",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/pacifier.svg"
+    },
+    {
+      "id": "panto",
+      "name": "Panto",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/panto.svg"
+    },
+    {
+      "id": "pickup",
+      "name": "Pickup",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/pickup.svg"
     },
     {
       "id": "police-car",
@@ -76,24 +356,216 @@
       "image": "assets/img/vehicle/gta-2/police-car.svg"
     },
     {
+      "id": "romero",
+      "name": "Romero",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/romero.svg"
+    },
+    {
+      "id": "rumbler",
+      "name": "Rumbler",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/rumbler.svg"
+    },
+    {
+      "id": "schmidt",
+      "name": "Schmidt",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/schmidt.svg"
+    },
+    {
+      "id": "shark",
+      "name": "Shark",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/shark.svg"
+    },
+    {
+      "id": "special-agent-car",
+      "name": "Special Agent Car",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/special-agent-car.svg"
+    },
+    {
+      "id": "sports-limousine",
+      "name": "Sports Limousine",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/sports-limousine.svg"
+    },
+    {
+      "id": "spritzer",
+      "name": "Spritzer",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/spritzer.svg"
+    },
+    {
+      "id": "stinger",
+      "name": "Stinger",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/stinger.svg"
+    },
+    {
+      "id": "stretch-limousine",
+      "name": "Stretch Limousine",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/stretch-limousine.svg"
+    },
+    {
+      "id": "swat-van",
+      "name": "Swat Van",
+      "category": "Government and Emergency",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/swat-van.svg"
+    },
+    {
+      "id": "t-rex",
+      "name": "T-Rex",
+      "category": "Standard Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/t-rex.svg"
+    },
+    {
+      "id": "tv-van",
+      "name": "T.V. Van",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/tv-van.svg"
+    },
+    {
       "id": "tank",
       "name": "Tank",
-      "category": "Military",
-      "class": "Tank",
-      "top_speed_kph": null,
-      "seats": 1,
+      "category": "Government and Emergency",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Tank",
+      "seats": 1,
       "image": "assets/img/vehicle/gta-2/tank.svg"
     },
     {
       "id": "taxi",
       "name": "Taxi",
-      "category": "Car",
-      "class": "Taxi",
-      "top_speed_kph": null,
-      "seats": 4,
+      "category": "Public Service",
       "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "class": "Taxi",
+      "seats": 4,
       "image": "assets/img/vehicle/gta-2/taxi.svg"
+    },
+    {
+      "id": "taxi-xpress",
+      "name": "Taxi Xpress",
+      "category": "Public Service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/taxi-xpress.svg"
+    },
+    {
+      "id": "tow-truck",
+      "name": "Tow Truck",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/tow-truck.svg"
+    },
+    {
+      "id": "train-locomotive",
+      "name": "Train (locomotive)",
+      "category": "Public Service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/train-locomotive.svg"
+    },
+    {
+      "id": "train-cab-coach",
+      "name": "Train Cab (coach)",
+      "category": "Public Service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/train-cab-coach.svg"
+    },
+    {
+      "id": "train-fb-flatbed",
+      "name": "Train FB (flatbed)",
+      "category": "Public Service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/train-fb-flatbed.svg"
+    },
+    {
+      "id": "trance-am",
+      "name": "Trance-AM",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/trance-am.svg"
+    },
+    {
+      "id": "truck-cab",
+      "name": "Truck Cab",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/truck-cab.svg"
+    },
+    {
+      "id": "truck-cab-sx",
+      "name": "Truck Cab SX",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/truck-cab-sx.svg"
+    },
+    {
+      "id": "u-jerk-truck",
+      "name": "U-Jerk Truck",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/u-jerk-truck.svg"
+    },
+    {
+      "id": "van",
+      "name": "Van",
+      "category": "Trucks and Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/van.svg"
+    },
+    {
+      "id": "wellard",
+      "name": "Wellard",
+      "category": "Sports and Muscle Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/wellard.svg"
+    },
+    {
+      "id": "z-type",
+      "name": "Z-Type",
+      "category": "Gang Cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-2/z-type.svg"
     }
   ]
 }

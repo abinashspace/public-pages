@@ -2,88 +2,464 @@
   "game": "gta-liberty-city-stories",
   "game_title": "Grand Theft Auto: Liberty City Stories",
   "section": "vehicles",
-  "coverage": "partial",
-  "count": 16,
+  "coverage": "complete",
+  "count": 81,
   "items": [
+    {
+      "id": "aeroplane",
+      "name": "Aeroplane",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/aeroplane.svg"
+    },
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/ambulance.svg"
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/angel.svg"
+    },
+    {
+      "id": "avenger",
+      "name": "Avenger",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/avenger.svg"
+    },
+    {
+      "id": "ballot-van",
+      "name": "Ballot Van",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/ballot-van.svg"
+    },
     {
       "id": "banshee",
       "name": "Banshee",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 210,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/banshee.svg"
+    },
+    {
+      "id": "barracks-ol",
+      "name": "Barracks OL",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol.svg"
+    },
+    {
+      "id": "barracks-ol-ammo",
+      "name": "Barracks OL (ammo)",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol-ammo.svg"
+    },
+    {
+      "id": "bf-injection",
+      "name": "BF Injection",
+      "category": "4WD and utility",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/bf-injection.svg"
+    },
+    {
+      "id": "bickle76",
+      "name": "Bickle'76",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/bickle76.svg"
+    },
+    {
+      "id": "blista",
+      "name": "Blista",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/blista.svg"
+    },
+    {
+      "id": "bobcat",
+      "name": "Bobcat",
+      "category": "4WD and utility",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/bobcat.svg"
+    },
+    {
+      "id": "cabbie",
+      "name": "Cabbie",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/cabbie.svg"
+    },
+    {
+      "id": "campaign-rumpo",
+      "name": "Campaign Rumpo",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/campaign-rumpo.svg"
+    },
+    {
+      "id": "cartel-cruiser",
+      "name": "Cartel Cruiser",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/cartel-cruiser.svg"
     },
     {
       "id": "cheetah",
       "name": "Cheetah",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 225,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/cheetah.svg"
+    },
+    {
+      "id": "coach",
+      "name": "Coach",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/coach.svg"
+    },
+    {
+      "id": "deimos-sp",
+      "name": "Deimos SP",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/deimos-sp.svg"
+    },
+    {
+      "id": "diablo-stallion",
+      "name": "Diablo Stallion",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/diablo-stallion.svg"
+    },
+    {
+      "id": "enforcer",
+      "name": "Enforcer",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/enforcer.svg"
+    },
+    {
+      "id": "esperanto",
+      "name": "Esperanto",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/esperanto.svg"
+    },
+    {
+      "id": "faggio",
+      "name": "Faggio",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/faggio.svg"
+    },
+    {
+      "id": "fbi-cruiser",
+      "name": "FBI Cruiser",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/fbi-cruiser.svg"
+    },
+    {
+      "id": "ferry",
+      "name": "Ferry",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/ferry.svg"
+    },
+    {
+      "id": "firetruck",
+      "name": "Firetruck",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/firetruck.svg"
+    },
+    {
+      "id": "flatbed",
+      "name": "Flatbed",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/flatbed.svg"
+    },
+    {
+      "id": "forelli-exsess",
+      "name": "Forelli ExSess",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/forelli-exsess.svg"
     },
     {
       "id": "freeway",
       "name": "Freeway",
-      "category": "Motorcycle",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Cruiser",
       "top_speed_kph": 180,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/freeway.svg"
+    },
+    {
+      "id": "hearse",
+      "name": "Hearse",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/hearse.svg"
+    },
+    {
+      "id": "helicopter",
+      "name": "Helicopter",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/helicopter.svg"
+    },
+    {
+      "id": "hellenbach-gt",
+      "name": "Hellenbach GT",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/hellenbach-gt.svg"
+    },
+    {
+      "id": "hoods-rumpo-xl",
+      "name": "Hoods Rumpo XL",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/hoods-rumpo-xl.svg"
+    },
+    {
+      "id": "hunter",
+      "name": "Hunter",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/hunter.svg"
+    },
+    {
+      "id": "idaho",
+      "name": "Idaho",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/idaho.svg"
     },
     {
       "id": "infernus",
       "name": "Infernus",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 220,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/infernus.svg"
     },
     {
       "id": "kuruma",
       "name": "Kuruma",
-      "category": "Car",
+      "category": "Four-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sedan",
       "top_speed_kph": 170,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/kuruma.svg"
+    },
+    {
+      "id": "landstalker",
+      "name": "Landstalker",
+      "category": "4WD and utility",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/landstalker.svg"
+    },
+    {
+      "id": "leone-sentinel",
+      "name": "Leone Sentinel",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/leone-sentinel.svg"
+    },
+    {
+      "id": "linerunner",
+      "name": "Linerunner",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/linerunner.svg"
+    },
+    {
+      "id": "manana",
+      "name": "Manana",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/manana.svg"
+    },
+    {
+      "id": "manchez",
+      "name": "Manchez",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/manchez.svg"
     },
     {
       "id": "maverick",
       "name": "Maverick",
-      "category": "Aircraft",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Helicopter",
       "top_speed_kph": 200,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/maverick.svg"
+    },
+    {
+      "id": "moonbeam",
+      "name": "Moonbeam",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/moonbeam.svg"
+    },
+    {
+      "id": "mr-whoopee",
+      "name": "Mr Whoopee",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/mr-whoopee.svg"
+    },
+    {
+      "id": "mr-wongs",
+      "name": "Mr. Wongs",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/mr-wongs.svg"
+    },
+    {
+      "id": "mule",
+      "name": "Mule",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/mule.svg"
+    },
+    {
+      "id": "noodleboy",
+      "name": "Noodleboy",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/noodleboy.svg"
+    },
+    {
+      "id": "panlantic",
+      "name": "Panlantic",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/panlantic.svg"
     },
     {
       "id": "patriot",
       "name": "Patriot",
-      "category": "Car",
+      "category": "4WD and utility",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "SUV",
       "top_speed_kph": 175,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/patriot.svg"
     },
     {
       "id": "pcj-600",
       "name": "PCJ-600",
-      "category": "Motorcycle",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sport bike",
       "top_speed_kph": 200,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/pcj-600.svg"
+    },
+    {
+      "id": "perennial",
+      "name": "Perennial",
+      "category": "Four-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/perennial.svg"
+    },
+    {
+      "id": "phobos-vt",
+      "name": "Phobos VT",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/phobos-vt.svg"
+    },
+    {
+      "id": "pizzaboy",
+      "name": "Pizzaboy",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/pizzaboy.svg"
+    },
+    {
+      "id": "police",
+      "name": "Police",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/police.svg"
     },
     {
       "id": "police-maverick",
@@ -96,74 +472,233 @@
       "image": "assets/img/vehicle/gta-liberty-city-stories/police-maverick.svg"
     },
     {
+      "id": "pony",
+      "name": "Pony",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/pony.svg"
+    },
+    {
       "id": "predator",
       "name": "Predator",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Police boat",
       "top_speed_kph": 95,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/predator.svg"
+    },
+    {
+      "id": "ps2",
+      "name": "PS2",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/ps2.svg"
+    },
+    {
+      "id": "psp",
+      "name": "PSP",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/psp.svg"
+    },
+    {
+      "id": "rc-bandit",
+      "name": "RC Bandit",
+      "category": "Miscellaneous",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/rc-bandit.svg"
+    },
+    {
+      "id": "reefer",
+      "name": "Reefer",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/reefer.svg"
     },
     {
       "id": "rhino",
       "name": "Rhino",
-      "category": "Military",
+      "category": "Emergency, rescue & government",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Tank",
       "top_speed_kph": 60,
       "seats": 1,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/rhino.svg"
+    },
+    {
+      "id": "rumpo",
+      "name": "Rumpo",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/rumpo.svg"
     },
     {
       "id": "sanchez",
       "name": "Sanchez",
-      "category": "Motorcycle",
+      "category": "Motorcycles",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Dirt bike",
       "top_speed_kph": 170,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/sanchez.svg"
+    },
+    {
+      "id": "securicar",
+      "name": "Securicar",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/securicar.svg"
     },
     {
       "id": "sentinel",
       "name": "Sentinel",
-      "category": "Car",
+      "category": "Four-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sedan",
       "top_speed_kph": 175,
       "seats": 4,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/sentinel.svg"
+    },
+    {
+      "id": "sindacco-argento",
+      "name": "Sindacco Argento",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/sindacco-argento.svg"
     },
     {
       "id": "speeder",
       "name": "Speeder",
-      "category": "Boat",
+      "category": "Boats",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Speedboat",
       "top_speed_kph": 105,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/speeder.svg"
     },
     {
       "id": "stallion",
       "name": "Stallion",
-      "category": "Car",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Muscle",
       "top_speed_kph": 190,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/stallion.svg"
     },
     {
       "id": "stinger",
       "name": "Stinger",
-      "category": "Car",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "top_speed_kph": 205,
       "seats": 2,
-      "verified": true,
       "image": "assets/img/vehicle/gta-liberty-city-stories/stinger.svg"
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch",
+      "category": "Four-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/stretch.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/taxi.svg"
+    },
+    {
+      "id": "thunder-rodd",
+      "name": "Thunder-Rodd",
+      "category": "Two-door cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/thunder-rodd.svg"
+    },
+    {
+      "id": "toyz",
+      "name": "TOYZ",
+      "category": "Vans",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/toyz.svg"
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "category": "Public service",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/train.svg"
+    },
+    {
+      "id": "trashmaster",
+      "name": "Trashmaster",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/trashmaster.svg"
+    },
+    {
+      "id": "triad-fish-van",
+      "name": "Triad Fish Van",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/triad-fish-van.svg"
+    },
+    {
+      "id": "v8-ghost",
+      "name": "V8 Ghost",
+      "category": "Sports & supercars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/v8-ghost.svg"
+    },
+    {
+      "id": "yakuza-stinger",
+      "name": "Yakuza Stinger",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/yakuza-stinger.svg"
+    },
+    {
+      "id": "yankee",
+      "name": "Yankee",
+      "category": "Commercial & industrial",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/yankee.svg"
+    },
+    {
+      "id": "yardie-lobo",
+      "name": "Yardie Lobo",
+      "category": "Gang cars",
+      "verified": true,
+      "source": "GTA Wiki vehicle list (model names and class grouping)",
+      "image": "assets/img/vehicle/gta-liberty-city-stories/yardie-lobo.svg"
     }
   ]
 }

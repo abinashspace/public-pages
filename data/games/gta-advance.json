@@ -5,25 +5,25 @@
     "year": 2004,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:39:16.848Z",
+    "generated": "2026-11-15T16:50:12.306Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "complete",
-      "vehicles": "limited",
+      "vehicles": "complete",
       "weapons": "limited",
-      "cheats": "limited",
+      "cheats": "complete",
       "locations": "partial",
-      "collectibles": "empty"
+      "collectibles": "complete"
     },
     "counts": {
       "characters": 7,
       "missions": 41,
-      "vehicles": 8,
+      "vehicles": 31,
       "weapons": 6,
-      "cheats": 0,
+      "cheats": 10,
       "locations": 4,
-      "collectibles": 0
+      "collectibles": 2
     },
     "images": {
       "cover": "assets/img/cover/gta-advance/cover.svg",
@@ -666,27 +666,67 @@
     ]
   },
   "vehicles": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
       {
         "id": "ambulance",
         "name": "Ambulance",
         "category": "Emergency",
-        "class": "Medical",
-        "top_speed_kph": null,
-        "seats": 2,
         "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Medical",
+        "seats": 2,
         "image": "assets/img/vehicle/gta-advance/ambulance.svg"
       },
       {
         "id": "banshee",
         "name": "Banshee",
-        "category": "Car",
-        "class": "Sports",
-        "top_speed_kph": null,
-        "seats": 2,
+        "category": "Cars",
         "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "seats": 2,
         "image": "assets/img/vehicle/gta-advance/banshee.svg"
+      },
+      {
+        "id": "barracks",
+        "name": "Barracks",
+        "category": "Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/barracks.svg"
+      },
+      {
+        "id": "belly",
+        "name": "Belly",
+        "category": "Vans & Trucks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/belly.svg"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/bf-injection.svg"
+      },
+      {
+        "id": "borgnine",
+        "name": "Borgnine",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/borgnine.svg"
+      },
+      {
+        "id": "brit",
+        "name": "Brit",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/brit.svg"
       },
       {
         "id": "cheetah",
@@ -699,6 +739,70 @@
         "image": "assets/img/vehicle/gta-advance/cheetah.svg"
       },
       {
+        "id": "coach",
+        "name": "Coach",
+        "category": "Vans & Trucks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/coach.svg"
+      },
+      {
+        "id": "diablo",
+        "name": "Diablo",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/diablo.svg"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/esperanto.svg"
+      },
+      {
+        "id": "f1",
+        "name": "F1",
+        "category": "Misc",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/f1.svg"
+      },
+      {
+        "id": "fbi-car",
+        "name": "FBI Car",
+        "category": "Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/fbi-car.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/fire-truck.svg"
+      },
+      {
+        "id": "hoods",
+        "name": "Hoods",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/hoods.svg"
+      },
+      {
+        "id": "idaho",
+        "name": "Idaho",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/idaho.svg"
+      },
+      {
         "id": "kuruma",
         "name": "Kuruma",
         "category": "Car",
@@ -709,13 +813,29 @@
         "image": "assets/img/vehicle/gta-advance/kuruma.svg"
       },
       {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/manana.svg"
+      },
+      {
+        "id": "monster-truck",
+        "name": "Monster Truck",
+        "category": "Vans & Trucks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/monster-truck.svg"
+      },
+      {
         "id": "police-car",
         "name": "Police Car",
         "category": "Emergency",
-        "class": "Police",
-        "top_speed_kph": null,
-        "seats": 4,
         "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Police",
+        "seats": 4,
         "image": "assets/img/vehicle/gta-advance/police-car.svg"
       },
       {
@@ -729,24 +849,88 @@
         "image": "assets/img/vehicle/gta-advance/rhino.svg"
       },
       {
+        "id": "rumpo",
+        "name": "Rumpo",
+        "category": "Vans & Trucks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/rumpo.svg"
+      },
+      {
         "id": "sentinel",
         "name": "Sentinel",
-        "category": "Car",
-        "class": "Sedan",
-        "top_speed_kph": null,
-        "seats": 4,
+        "category": "Gang Cars",
         "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "seats": 4,
         "image": "assets/img/vehicle/gta-advance/sentinel.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/stretch.svg"
+      },
+      {
+        "id": "swat-van",
+        "name": "SWAT Van",
+        "category": "Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/swat-van.svg"
+      },
+      {
+        "id": "tank",
+        "name": "Tank",
+        "category": "Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/tank.svg"
       },
       {
         "id": "taxi",
         "name": "Taxi",
-        "category": "Car",
-        "class": "Taxi",
-        "top_speed_kph": null,
-        "seats": 4,
+        "category": "Cars",
         "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Taxi",
+        "seats": 4,
         "image": "assets/img/vehicle/gta-advance/taxi.svg"
+      },
+      {
+        "id": "wong",
+        "name": "Wong",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/wong.svg"
+      },
+      {
+        "id": "yakuza",
+        "name": "Yakuza",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/yakuza.svg"
+      },
+      {
+        "id": "yakuza-asuka",
+        "name": "Yakuza (Asuka)",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/yakuza-asuka.svg"
+      },
+      {
+        "id": "yardie",
+        "name": "Yardie",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-advance/yardie.svg"
       }
     ]
   },
@@ -822,8 +1006,149 @@
     ]
   },
   "cheats": {
-    "coverage": "limited",
-    "items": []
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "15000-cash",
+        "effect": "$15,000 cash",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → L → L",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/15000-cash.svg"
+      },
+      {
+        "id": "activate-cheat-mode",
+        "effect": "Activate cheat mode (shows coordinates; required for the codes below)",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "A + B + Start",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/activate-cheat-mode.svg"
+      },
+      {
+        "id": "all-weapons",
+        "effect": "All weapons",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → A → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/all-weapons.svg"
+      },
+      {
+        "id": "armor",
+        "effect": "Full armor",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → A → L",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/armor.svg"
+      },
+      {
+        "id": "level-select",
+        "effect": "Level select at the main menu",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → L → R → hold Start while pressing A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/level-select.svg"
+      },
+      {
+        "id": "lower-wanted-level",
+        "effect": "Lower wanted level",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → A → R",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/lower-wanted-level.svg"
+      },
+      {
+        "id": "raise-wanted-level",
+        "effect": "Raise wanted level",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → R → A",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/raise-wanted-level.svg"
+      },
+      {
+        "id": "health",
+        "effect": "Restore health",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → B → B",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/health.svg"
+      },
+      {
+        "id": "toggle-gang-hostility",
+        "effect": "Toggle gang hostility",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → B → R",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/toggle-gang-hostility.svg"
+      },
+      {
+        "id": "wanted-level-max-or-zero",
+        "effect": "Wanted level max or zero",
+        "codes": [
+          {
+            "platform": "Game Boy Advance",
+            "code": "Left → Right → Up → Down → R → R",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/cheat/gta-advance/wanted-level-max-or-zero.svg"
+      }
+    ]
   },
   "locations": {
     "coverage": "partial",
@@ -867,7 +1192,28 @@
     ]
   },
   "collectibles": {
-    "coverage": "empty",
-    "items": []
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "hidden-packages",
+        "name": "Hidden packages",
+        "type": "Hidden package",
+        "total": 100,
+        "reward": "Weapons delivered to the hideout: handgun at 10, Unzi at 20, body armor at 30, shotgun at 40, grenades at 50, molotovs at 60, assault rifle at 70, minigun at 80, rocket launcher at 90, $1,000,000 at 100",
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/collectible/gta-advance/hidden-packages.svg"
+      },
+      {
+        "id": "police-bribes",
+        "name": "Police bribes at the hideout",
+        "type": "Unlockable pickup",
+        "total": 0,
+        "reward": "One bribe at the hideout for 10 vigilante missions; six for 20 on each island",
+        "verified": true,
+        "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+        "image": "assets/img/collectible/gta-advance/police-bribes.svg"
+      }
+    ]
   }
 }

@@ -5,12 +5,12 @@
     "year": 2009,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:39:16.946Z",
+    "generated": "2026-11-15T16:50:12.410Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
-      "vehicles": "partial",
+      "vehicles": "complete",
       "weapons": "partial",
       "cheats": "empty",
       "locations": "partial",
@@ -19,7 +19,7 @@
     "counts": {
       "characters": 12,
       "missions": 26,
-      "vehicles": 12,
+      "vehicles": 144,
       "weapons": 8,
       "cheats": 0,
       "locations": 7,
@@ -596,16 +596,65 @@
     ]
   },
   "vehicles": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/admiral.svg"
+      },
+      {
+        "id": "airtug",
+        "name": "Airtug",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/airtug.svg"
+      },
+      {
+        "id": "akuma",
+        "name": "Akuma",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/akuma.svg"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/ambulance.svg"
+      },
+      {
+        "id": "annihilator",
+        "name": "Annihilator",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/annihilator.svg"
+      },
+      {
+        "id": "apc",
+        "name": "APC",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/apc.svg"
+      },
       {
         "id": "banshee",
         "name": "Banshee",
-        "category": "Car",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 255,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/banshee.svg"
       },
       {
@@ -619,104 +668,1122 @@
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bati-800.svg"
       },
       {
+        "id": "bati-custom",
+        "name": "Bati Custom",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bati-custom.svg"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/benson.svg"
+      },
+      {
+        "id": "biff",
+        "name": "Biff",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/biff.svg"
+      },
+      {
+        "id": "blade",
+        "name": "Blade",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/blade.svg"
+      },
+      {
+        "id": "blista-compact",
+        "name": "Blista Compact",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/blista-compact.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bobcat.svg"
+      },
+      {
+        "id": "boxville",
+        "name": "Boxville",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/boxville.svg"
+      },
+      {
+        "id": "bucanneer",
+        "name": "Bucanneer",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bucanneer.svg"
+      },
+      {
+        "id": "buffalo",
+        "name": "Buffalo",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/buffalo.svg"
+      },
+      {
+        "id": "bullet-gt",
+        "name": "Bullet GT",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bullet-gt.svg"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/burrito.svg"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bus.svg"
+      },
+      {
         "id": "buzzard",
         "name": "Buzzard",
-        "category": "Aircraft",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Attack helicopter",
         "top_speed_kph": 250,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/buzzard.svg"
+      },
+      {
+        "id": "cabby",
+        "name": "Cabby",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cabby.svg"
+      },
+      {
+        "id": "cablecar",
+        "name": "Cablecar",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cablecar.svg"
+      },
+      {
+        "id": "caddy",
+        "name": "Caddy",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/caddy.svg"
+      },
+      {
+        "id": "cavalcade",
+        "name": "Cavalcade",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cavalcade.svg"
+      },
+      {
+        "id": "cavalcade-fxt",
+        "name": "Cavalcade FXT",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cavalcade-fxt.svg"
+      },
+      {
+        "id": "cavalvade",
+        "name": "Cavalvade",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cavalvade.svg"
+      },
+      {
+        "id": "chavos",
+        "name": "Chavos",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/chavos.svg"
+      },
+      {
+        "id": "cognoscenti",
+        "name": "Cognoscenti",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/cognoscenti.svg"
       },
       {
         "id": "comet",
         "name": "Comet",
-        "category": "Car",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 250,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/comet.svg"
+      },
+      {
+        "id": "contender",
+        "name": "Contender",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/contender.svg"
+      },
+      {
+        "id": "coquette",
+        "name": "Coquette",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/coquette.svg"
+      },
+      {
+        "id": "df8-90",
+        "name": "DF8-90",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/df8-90.svg"
+      },
+      {
+        "id": "dilettante",
+        "name": "Dilettante",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/dilettante.svg"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/dinghy.svg"
+      },
+      {
+        "id": "double-t",
+        "name": "Double T",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/double-t.svg"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/dukes.svg"
+      },
+      {
+        "id": "emperor",
+        "name": "Emperor",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/emperor.svg"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/enforcer.svg"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/esperanto.svg"
+      },
+      {
+        "id": "f620",
+        "name": "F620",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/f620.svg"
+      },
+      {
+        "id": "faction",
+        "name": "Faction",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/faction.svg"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/faggio.svg"
+      },
+      {
+        "id": "feltzer",
+        "name": "Feltzer",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/feltzer.svg"
+      },
+      {
+        "id": "feroci",
+        "name": "Feroci",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/feroci.svg"
+      },
+      {
+        "id": "fib-buffalo",
+        "name": "FIB Buffalo",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/fib-buffalo.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/fire-truck.svg"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/flatbed.svg"
+      },
+      {
+        "id": "floater",
+        "name": "Floater",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/floater.svg"
+      },
+      {
+        "id": "forklift",
+        "name": "Forklift",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/forklift.svg"
+      },
+      {
+        "id": "fortune",
+        "name": "Fortune",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/fortune.svg"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/freeway.svg"
+      },
+      {
+        "id": "futo",
+        "name": "Futo",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/futo.svg"
+      },
+      {
+        "id": "habanero",
+        "name": "Habanero",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/habanero.svg"
+      },
+      {
+        "id": "hakuchou",
+        "name": "Hakuchou",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/hakuchou.svg"
+      },
+      {
+        "id": "hakumai",
+        "name": "Hakumai",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/hakumai.svg"
+      },
+      {
+        "id": "helitours-maverick",
+        "name": "Helitours Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/helitours-maverick.svg"
+      },
+      {
+        "id": "hellfury",
+        "name": "Hellfury",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/hellfury.svg"
+      },
+      {
+        "id": "hexer",
+        "name": "Hexer",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/hexer.svg"
+      },
+      {
+        "id": "huntley-sport",
+        "name": "Huntley Sport",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/huntley-sport.svg"
       },
       {
         "id": "infernus",
         "name": "Infernus",
-        "category": "Car",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Super",
         "top_speed_kph": 290,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/infernus.svg"
+      },
+      {
+        "id": "ingot",
+        "name": "Ingot",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/ingot.svg"
+      },
+      {
+        "id": "intruder",
+        "name": "Intruder",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/intruder.svg"
       },
       {
         "id": "jetmax",
         "name": "Jetmax",
-        "category": "Boat",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Speedboat",
         "top_speed_kph": 130,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/jetmax.svg"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/landstalker.svg"
+      },
+      {
+        "id": "lokus",
+        "name": "Lokus",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/lokus.svg"
+      },
+      {
+        "id": "lost-slamvan",
+        "name": "Lost Slamvan",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/lost-slamvan.svg"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/manana.svg"
+      },
+      {
+        "id": "marbelle",
+        "name": "Marbelle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/marbelle.svg"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/marquis.svg"
       },
       {
         "id": "maverick",
         "name": "Maverick",
-        "category": "Aircraft",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Helicopter",
         "top_speed_kph": 230,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/maverick.svg"
       },
       {
+        "id": "merit",
+        "name": "Merit",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/merit.svg"
+      },
+      {
+        "id": "minivan",
+        "name": "Minivan",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/minivan.svg"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/moonbeam.svg"
+      },
+      {
+        "id": "mr-tasty",
+        "name": "Mr Tasty",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/mr-tasty.svg"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/mule.svg"
+      },
+      {
+        "id": "noose-cruiser",
+        "name": "NOOSE Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/noose-cruiser.svg"
+      },
+      {
+        "id": "noose-patriot",
+        "name": "NOOSE Patriot",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/noose-patriot.svg"
+      },
+      {
         "id": "nrg-900",
-        "name": "NRG-900",
-        "category": "Motorcycle",
+        "name": "NRG 900",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sport bike",
         "top_speed_kph": 260,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/nrg-900.svg"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/oracle.svg"
+      },
+      {
+        "id": "packer",
+        "name": "Packer",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/packer.svg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/patriot.svg"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ 600",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/pcj-600.svg"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/perennial.svg"
+      },
+      {
+        "id": "peyote",
+        "name": "Peyote",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/peyote.svg"
+      },
+      {
+        "id": "phantom",
+        "name": "Phantom",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/phantom.svg"
+      },
+      {
+        "id": "pinnacle",
+        "name": "Pinnacle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/pinnacle.svg"
+      },
+      {
+        "id": "pmp-600",
+        "name": "PMP 600",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/pmp-600.svg"
+      },
+      {
+        "id": "police-bike",
+        "name": "Police Bike",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-bike.svg"
       },
       {
         "id": "police-cruiser",
         "name": "Police Cruiser",
-        "category": "Emergency",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Police",
         "top_speed_kph": 225,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-cruiser.svg"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-maverick.svg"
+      },
+      {
+        "id": "police-patrol",
+        "name": "Police Patrol",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-patrol.svg"
+      },
+      {
+        "id": "police-predator",
+        "name": "Police Predator",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-predator.svg"
+      },
+      {
+        "id": "police-stinger",
+        "name": "Police Stinger",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-stinger.svg"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/pony.svg"
+      },
+      {
+        "id": "premier",
+        "name": "Premier",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/premier.svg"
+      },
+      {
+        "id": "presidente",
+        "name": "Presidente",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/presidente.svg"
+      },
+      {
+        "id": "primo",
+        "name": "Primo",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/primo.svg"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/rancher.svg"
+      },
+      {
+        "id": "rebla",
+        "name": "Rebla",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/rebla.svg"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/reefer.svg"
+      },
+      {
+        "id": "ripley",
+        "name": "Ripley",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/ripley.svg"
+      },
+      {
+        "id": "ruiner",
+        "name": "Ruiner",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/ruiner.svg"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sabre.svg"
+      },
+      {
+        "id": "sabre-gt",
+        "name": "Sabre GT",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sabre-gt.svg"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sanchez.svg"
       },
       {
         "id": "schafter",
         "name": "Schafter",
-        "category": "Car",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sedan",
         "top_speed_kph": 220,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/schafter.svg"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/securicar.svg"
       },
       {
         "id": "sentinel",
         "name": "Sentinel",
-        "category": "Car",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sedan",
         "top_speed_kph": 215,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sentinel.svg"
+      },
+      {
+        "id": "serrano",
+        "name": "Serrano",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/serrano.svg"
+      },
+      {
+        "id": "skylift",
+        "name": "Skylift",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/skylift.svg"
+      },
+      {
+        "id": "smuggler",
+        "name": "Smuggler",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/smuggler.svg"
+      },
+      {
+        "id": "solair",
+        "name": "Solair",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/solair.svg"
+      },
+      {
+        "id": "speedo",
+        "name": "Speedo",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/speedo.svg"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/squalo.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/stallion.svg"
+      },
+      {
+        "id": "steed",
+        "name": "Steed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/steed.svg"
+      },
+      {
+        "id": "stratum",
+        "name": "Stratum",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/stratum.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/stretch.svg"
+      },
+      {
+        "id": "stretch-e",
+        "name": "Stretch E",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/stretch-e.svg"
+      },
+      {
+        "id": "subway",
+        "name": "Subway",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/subway.svg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sultan.svg"
+      },
+      {
+        "id": "sultan-rs",
+        "name": "Sultan RS",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sultan-rs.svg"
+      },
+      {
+        "id": "super-diamond",
+        "name": "Super Diamond",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/super-diamond.svg"
+      },
+      {
+        "id": "super-drop-diamond",
+        "name": "Super Drop Diamond",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/super-drop-diamond.svg"
+      },
+      {
+        "id": "supergt",
+        "name": "SuperGT",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/supergt.svg"
+      },
+      {
+        "id": "swift",
+        "name": "Swift",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/swift.svg"
+      },
+      {
+        "id": "tampa",
+        "name": "Tampa",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/tampa.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/taxi.svg"
+      },
+      {
+        "id": "the-ballad-of-gay-tony",
+        "name": "The Ballad of Gay Tony",
+        "category": "References",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/the-ballad-of-gay-tony.svg"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/trashmaster.svg"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/tropic.svg"
+      },
+      {
+        "id": "tug",
+        "name": "Tug",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/tug.svg"
       },
       {
         "id": "turismo",
         "name": "Turismo",
-        "category": "Car",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Super",
         "top_speed_kph": 285,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/turismo.svg"
+      },
+      {
+        "id": "uranus",
+        "name": "Uranus",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/uranus.svg"
+      },
+      {
+        "id": "vader",
+        "name": "Vader",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/vader.svg"
+      },
+      {
+        "id": "vigero",
+        "name": "Vigero",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/vigero.svg"
+      },
+      {
+        "id": "vincent",
+        "name": "Vincent",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/vincent.svg"
+      },
+      {
+        "id": "virgo",
+        "name": "Virgo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/virgo.svg"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/voodoo.svg"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/washington.svg"
+      },
+      {
+        "id": "willard",
+        "name": "Willard",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/willard.svg"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/yankee.svg"
+      },
+      {
+        "id": "zombie",
+        "name": "Zombie",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/zombie.svg"
       }
     ]
   },

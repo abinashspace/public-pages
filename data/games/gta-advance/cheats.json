@@ -2,7 +2,148 @@
   "game": "gta-advance",
   "game_title": "Grand Theft Auto Advance",
   "section": "cheats",
-  "coverage": "limited",
-  "count": 0,
-  "items": []
+  "coverage": "complete",
+  "count": 10,
+  "items": [
+    {
+      "id": "15000-cash",
+      "effect": "$15,000 cash",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → L → L",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/15000-cash.svg"
+    },
+    {
+      "id": "activate-cheat-mode",
+      "effect": "Activate cheat mode (shows coordinates; required for the codes below)",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "A + B + Start",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/activate-cheat-mode.svg"
+    },
+    {
+      "id": "all-weapons",
+      "effect": "All weapons",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → A → A",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/all-weapons.svg"
+    },
+    {
+      "id": "armor",
+      "effect": "Full armor",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → A → L",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/armor.svg"
+    },
+    {
+      "id": "level-select",
+      "effect": "Level select at the main menu",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → L → R → hold Start while pressing A",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/level-select.svg"
+    },
+    {
+      "id": "lower-wanted-level",
+      "effect": "Lower wanted level",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → A → R",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/lower-wanted-level.svg"
+    },
+    {
+      "id": "raise-wanted-level",
+      "effect": "Raise wanted level",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → R → A",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/raise-wanted-level.svg"
+    },
+    {
+      "id": "health",
+      "effect": "Restore health",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → B → B",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/health.svg"
+    },
+    {
+      "id": "toggle-gang-hostility",
+      "effect": "Toggle gang hostility",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → B → R",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/toggle-gang-hostility.svg"
+    },
+    {
+      "id": "wanted-level-max-or-zero",
+      "effect": "Wanted level max or zero",
+      "codes": [
+        {
+          "platform": "Game Boy Advance",
+          "code": "Left → Right → Up → Down → R → R",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/cheat/gta-advance/wanted-level-max-or-zero.svg"
+    }
+  ]
 }

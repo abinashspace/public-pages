@@ -2,7 +2,28 @@
   "game": "gta-advance",
   "game_title": "Grand Theft Auto Advance",
   "section": "collectibles",
-  "coverage": "empty",
-  "count": 0,
-  "items": []
+  "coverage": "complete",
+  "count": 2,
+  "items": [
+    {
+      "id": "hidden-packages",
+      "name": "Hidden packages",
+      "type": "Hidden package",
+      "total": 100,
+      "reward": "Weapons delivered to the hideout: handgun at 10, Unzi at 20, body armor at 30, shotgun at 40, grenades at 50, molotovs at 60, assault rifle at 70, minigun at 80, rocket launcher at 90, $1,000,000 at 100",
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/collectible/gta-advance/hidden-packages.svg"
+    },
+    {
+      "id": "police-bribes",
+      "name": "Police bribes at the hideout",
+      "type": "Unlockable pickup",
+      "total": 0,
+      "reward": "One bribe at the hideout for 10 vigilante missions; six for 20 on each island",
+      "verified": true,
+      "source": "GameFAQs cheat and unlockables list for GTA Advance (Game Boy Advance)",
+      "image": "assets/img/collectible/gta-advance/police-bribes.svg"
+    }
+  ]
 }

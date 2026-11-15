@@ -5,12 +5,12 @@
     "year": 2006,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:39:16.888Z",
+    "generated": "2026-11-15T16:50:12.347Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
-      "vehicles": "partial",
+      "vehicles": "complete",
       "weapons": "partial",
       "cheats": "complete",
       "locations": "partial",
@@ -19,7 +19,7 @@
     "counts": {
       "characters": 13,
       "missions": 59,
-      "vehicles": 19,
+      "vehicles": 106,
       "weapons": 13,
       "cheats": 31,
       "locations": 10,
@@ -1093,107 +1093,573 @@
     ]
   },
   "vehicles": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/admiral.svg"
+      },
+      {
+        "id": "aeroplane",
+        "name": "Aeroplane",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/aeroplane.svg"
+      },
+      {
+        "id": "air-ambulance",
+        "name": "Air Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/air-ambulance.svg"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/ambulance.svg"
+      },
+      {
+        "id": "armadillo",
+        "name": "Armadillo",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/armadillo.svg"
+      },
+      {
+        "id": "baggage-handler",
+        "name": "Baggage Handler",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/baggage-handler.svg"
+      },
       {
         "id": "banshee",
         "name": "Banshee",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 215,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/banshee.svg"
+      },
+      {
+        "id": "barracks-ol",
+        "name": "Barracks OL",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/barracks-ol.svg"
+      },
+      {
+        "id": "barracks-ol-ammo",
+        "name": "Barracks OL (ammo)",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/barracks-ol-ammo.svg"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/benson.svg"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bf-injection.svg"
+      },
+      {
+        "id": "biker-angel",
+        "name": "Biker Angel",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/biker-angel.svg"
+      },
+      {
+        "id": "biplane",
+        "name": "Biplane",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/biplane.svg"
+      },
+      {
+        "id": "blista-compact",
+        "name": "Blista Compact",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/blista-compact.svg"
+      },
+      {
+        "id": "bmx",
+        "name": "BMX",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bmx.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bobcat.svg"
+      },
+      {
+        "id": "bovver64",
+        "name": "Bovver'64",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bovver64.svg"
+      },
+      {
+        "id": "boxville",
+        "name": "Boxville",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/boxville.svg"
+      },
+      {
+        "id": "bulldozer",
+        "name": "Bulldozer",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bulldozer.svg"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/burrito.svg"
+      },
+      {
+        "id": "cabbie",
+        "name": "Cabbie",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cabbie.svg"
+      },
+      {
+        "id": "caddy",
+        "name": "Caddy",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/caddy.svg"
       },
       {
         "id": "cheetah",
         "name": "Cheetah",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 225,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/cheetah.svg"
+      },
+      {
+        "id": "cholo-sabre",
+        "name": "Cholo Sabre",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cholo-sabre.svg"
+      },
+      {
+        "id": "coach",
+        "name": "Coach",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/coach.svg"
+      },
+      {
+        "id": "coast-guard",
+        "name": "Coast Guard",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/coast-guard.svg"
       },
       {
         "id": "comet",
         "name": "Comet",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 205,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/comet.svg"
+      },
+      {
+        "id": "cuban-hermes",
+        "name": "Cuban Hermes",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cuban-hermes.svg"
+      },
+      {
+        "id": "deluxo",
+        "name": "Deluxo",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/deluxo.svg"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/dinghy.svg"
+      },
+      {
+        "id": "domestobot",
+        "name": "Domestobot",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/domestobot.svg"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/enforcer.svg"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/esperanto.svg"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/faggio.svg"
+      },
+      {
+        "id": "fbi-washington",
+        "name": "FBI Washington",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/fbi-washington.svg"
+      },
+      {
+        "id": "firetruck",
+        "name": "Firetruck",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/firetruck.svg"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/flatbed.svg"
+      },
+      {
+        "id": "forklift",
+        "name": "Forklift",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/forklift.svg"
       },
       {
         "id": "freeway",
         "name": "Freeway",
-        "category": "Motorcycle",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Cruiser",
         "top_speed_kph": 180,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/freeway.svg"
+      },
+      {
+        "id": "gang-rancher",
+        "name": "Gang Rancher",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/gang-rancher.svg"
+      },
+      {
+        "id": "glendale",
+        "name": "Glendale",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/glendale.svg"
+      },
+      {
+        "id": "greenwood",
+        "name": "Greenwood",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/greenwood.svg"
+      },
+      {
+        "id": "hermes",
+        "name": "Hermes",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/hermes.svg"
+      },
+      {
+        "id": "hunter",
+        "name": "Hunter",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/hunter.svg"
+      },
+      {
+        "id": "idaho",
+        "name": "Idaho",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/idaho.svg"
       },
       {
         "id": "infernus",
         "name": "Infernus",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 225,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/infernus.svg"
       },
       {
         "id": "jetmax",
         "name": "Jetmax",
-        "category": "Boat",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Speedboat",
         "top_speed_kph": 115,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/jetmax.svg"
+      },
+      {
+        "id": "jetski",
+        "name": "JetSki",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/jetski.svg"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/landstalker.svg"
+      },
+      {
+        "id": "linerunner",
+        "name": "Linerunner",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/linerunner.svg"
+      },
+      {
+        "id": "little-willie",
+        "name": "Little Willie",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/little-willie.svg"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/manana.svg"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/marquis.svg"
       },
       {
         "id": "maverick",
         "name": "Maverick",
         "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Helicopter",
         "top_speed_kph": 200,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/maverick.svg"
+      },
+      {
+        "id": "mesa-grande",
+        "name": "Mesa Grande",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mesa-grande.svg"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/moonbeam.svg"
+      },
+      {
+        "id": "mr-whoopee",
+        "name": "Mr Whoopee",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mr-whoopee.svg"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mule.svg"
+      },
+      {
+        "id": "oceanic",
+        "name": "Oceanic",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/oceanic.svg"
       },
       {
         "id": "patriot",
         "name": "Patriot",
-        "category": "Car",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "SUV",
         "top_speed_kph": 175,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/patriot.svg"
       },
       {
         "id": "pcj-600",
         "name": "PCJ-600",
-        "category": "Motorcycle",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sport bike",
         "top_speed_kph": 200,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/pcj-600.svg"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/perennial.svg"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/phoenix.svg"
+      },
+      {
+        "id": "polaris-v8",
+        "name": "Polaris V8",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/polaris-v8.svg"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/pony.svg"
       },
       {
         "id": "predator",
         "name": "Predator",
-        "category": "Boat",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Police boat",
         "top_speed_kph": 95,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/predator.svg"
+      },
+      {
+        "id": "quad",
+        "name": "Quad",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/quad.svg"
       },
       {
         "id": "rancher",
@@ -1206,84 +1672,332 @@
         "image": "assets/img/vehicle/gta-vice-city-stories/rancher.svg"
       },
       {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/reefer.svg"
+      },
+      {
+        "id": "regina",
+        "name": "Regina",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/regina.svg"
+      },
+      {
         "id": "rhino",
         "name": "Rhino",
-        "category": "Military",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Tank",
         "top_speed_kph": 60,
         "seats": 1,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/rhino.svg"
+      },
+      {
+        "id": "rio",
+        "name": "Rio",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/rio.svg"
+      },
+      {
+        "id": "rumpo",
+        "name": "Rumpo",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/rumpo.svg"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sabre.svg"
       },
       {
         "id": "sabre-turbo",
         "name": "Sabre Turbo",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Muscle",
         "top_speed_kph": 205,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/sabre-turbo.svg"
       },
       {
         "id": "sanchez",
         "name": "Sanchez",
-        "category": "Motorcycle",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Dirt bike",
         "top_speed_kph": 170,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/sanchez.svg"
+      },
+      {
+        "id": "sandking",
+        "name": "Sandking",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sandking.svg"
       },
       {
         "id": "sea-sparrow",
         "name": "Sea Sparrow",
         "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Helicopter",
         "top_speed_kph": 190,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/sea-sparrow.svg"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/securicar.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sentinel.svg"
       },
       {
         "id": "sentinel-xs",
         "name": "Sentinel XS",
-        "category": "Car",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sedan",
         "top_speed_kph": 190,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/sentinel-xs.svg"
+      },
+      {
+        "id": "skimmer",
+        "name": "Skimmer",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/skimmer.svg"
+      },
+      {
+        "id": "sparrow",
+        "name": "Sparrow",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sparrow.svg"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/speeder.svg"
+      },
+      {
+        "id": "splitz-6-atv",
+        "name": "Splitz-6 ATV",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/splitz-6-atv.svg"
       },
       {
         "id": "squalo",
         "name": "Squalo",
-        "category": "Boat",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Speedboat",
         "top_speed_kph": 110,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/squalo.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/stallion.svg"
       },
       {
         "id": "stinger",
         "name": "Stinger",
-        "category": "Car",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "top_speed_kph": 210,
         "seats": 2,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/stinger.svg"
+      },
+      {
+        "id": "streetfighter",
+        "name": "Streetfighter",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/streetfighter.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/stretch.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/taxi.svg"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/trashmaster.svg"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/tropic.svg"
+      },
+      {
+        "id": "vcpd-cheetah",
+        "name": "VCPD Cheetah",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-cheetah.svg"
+      },
+      {
+        "id": "vcpd-cruiser",
+        "name": "VCPD Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-cruiser.svg"
+      },
+      {
+        "id": "vcpd-maverick",
+        "name": "VCPD Maverick",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-maverick.svg"
+      },
+      {
+        "id": "vcpd-wintergreen",
+        "name": "VCPD WinterGreen",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-wintergreen.svg"
+      },
+      {
+        "id": "ventoso",
+        "name": "Ventoso",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/ventoso.svg"
+      },
+      {
+        "id": "violator",
+        "name": "Violator",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/violator.svg"
+      },
+      {
+        "id": "virgo",
+        "name": "Virgo",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/virgo.svg"
       },
       {
         "id": "voodoo",
         "name": "Voodoo",
-        "category": "Car",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Lowrider",
         "top_speed_kph": 180,
         "seats": 4,
-        "verified": true,
         "image": "assets/img/vehicle/gta-vice-city-stories/voodoo.svg"
+      },
+      {
+        "id": "walton",
+        "name": "Walton",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/walton.svg"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/washington.svg"
+      },
+      {
+        "id": "wintergreen",
+        "name": "WinterGreen",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/wintergreen.svg"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/yankee.svg"
+      },
+      {
+        "id": "yola",
+        "name": "Yola",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/yola.svg"
       }
     ]
   },
