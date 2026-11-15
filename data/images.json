@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T15:53:40.388Z",
+  "generated": "2026-11-15T16:09:57.399Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -4976,32 +4976,22 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "sweets-girl",
-      "path": "assets/img/mission/gta-san-andreas/sweets-girl.svg",
+      "id": "sweet-and-kendl",
+      "path": "assets/img/mission/gta-san-andreas/sweet-and-kendl.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Sweet's Girl"
+      "alt": "Sweet & Kendl"
     },
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "cesar-vialpando",
-      "path": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg",
+      "id": "ryder",
+      "path": "assets/img/mission/gta-san-andreas/ryder.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Cesar Vialpando"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
-      "id": "robbing-uncle-sam",
-      "path": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Robbing Uncle Sam"
+      "alt": "Ryder"
     },
     {
       "kind": "mission",
@@ -5056,12 +5046,152 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "sweet-girl",
-      "path": "assets/img/mission/gta-san-andreas/sweet-girl.svg",
+      "id": "sweets-girl",
+      "path": "assets/img/mission/gta-san-andreas/sweets-girl.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Sweet's Girl"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "cesar-vialpando",
+      "path": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cesar Vialpando"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "home-invasion",
+      "path": "assets/img/mission/gta-san-andreas/home-invasion.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Home Invasion"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "catalyst",
+      "path": "assets/img/mission/gta-san-andreas/catalyst.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Catalyst"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "robbing-uncle-sam",
+      "path": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Robbing Uncle Sam"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "og-loc",
+      "path": "assets/img/mission/gta-san-andreas/og-loc.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "OG Loc"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "running-dog",
+      "path": "assets/img/mission/gta-san-andreas/running-dog.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Running Dog"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "wrong-side-of-the-tracks",
+      "path": "assets/img/mission/gta-san-andreas/wrong-side-of-the-tracks.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Wrong Side of the Tracks"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "just-business",
+      "path": "assets/img/mission/gta-san-andreas/just-business.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Just Business"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "lifes-a-beach",
+      "path": "assets/img/mission/gta-san-andreas/lifes-a-beach.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Life's a Beach"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "madd-doggs-rhymes",
+      "path": "assets/img/mission/gta-san-andreas/madd-doggs-rhymes.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Madd Dogg's Rhymes"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "management-issues",
+      "path": "assets/img/mission/gta-san-andreas/management-issues.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Management Issues"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "house-party",
+      "path": "assets/img/mission/gta-san-andreas/house-party.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "House Party"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "burning-desire",
+      "path": "assets/img/mission/gta-san-andreas/burning-desire.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Burning Desire"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "gray-imports",
+      "path": "assets/img/mission/gta-san-andreas/gray-imports.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Gray Imports"
     },
     {
       "kind": "mission",
@@ -5086,12 +5216,12 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "house-party",
-      "path": "assets/img/mission/gta-san-andreas/house-party.svg",
+      "id": "high-stakes-low-rider",
+      "path": "assets/img/mission/gta-san-andreas/high-stakes-low-rider.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "House Party"
+      "alt": "High Stakes, Low-Rider"
     },
     {
       "kind": "mission",
@@ -5126,42 +5256,12 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "tanker-commander",
-      "path": "assets/img/mission/gta-san-andreas/tanker-commander.svg",
+      "id": "first-date-then-tanker-commander",
+      "path": "assets/img/mission/gta-san-andreas/first-date-then-tanker-commander.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Tanker Commander"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
-      "id": "against-all-odds",
-      "path": "assets/img/mission/gta-san-andreas/against-all-odds.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Against All Odds"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
-      "id": "local-liquor-store",
-      "path": "assets/img/mission/gta-san-andreas/local-liquor-store.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Local Liquor Store"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
-      "id": "small-town-bank",
-      "path": "assets/img/mission/gta-san-andreas/small-town-bank.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Small Town Bank"
+      "alt": "First Date then Tanker Commander"
     },
     {
       "kind": "mission",
@@ -5176,22 +5276,42 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "first-date",
-      "path": "assets/img/mission/gta-san-andreas/first-date.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "First Date"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
       "id": "king-in-exile",
       "path": "assets/img/mission/gta-san-andreas/king-in-exile.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "King in Exile"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "first-base-then-local-liquor-store",
+      "path": "assets/img/mission/gta-san-andreas/first-base-then-local-liquor-store.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "First Base then Local Liquor Store"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "gone-courting-then-against-all-odds",
+      "path": "assets/img/mission/gta-san-andreas/gone-courting-then-against-all-odds.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Gone Courting then Against All Odds"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "made-in-heaven-then-small-town-bank",
+      "path": "assets/img/mission/gta-san-andreas/made-in-heaven-then-small-town-bank.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Made in Heaven then Small Town Bank"
     },
     {
       "kind": "mission",
@@ -5241,7 +5361,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "555 WE TIP"
+      "alt": "555 We Tip"
     },
     {
       "kind": "mission",
@@ -5276,6 +5396,56 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
+      "id": "air-raid",
+      "path": "assets/img/mission/gta-san-andreas/air-raid.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Air Raid"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "supply-lines",
+      "path": "assets/img/mission/gta-san-andreas/supply-lines.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Supply Lines..."
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "new-model-army",
+      "path": "assets/img/mission/gta-san-andreas/new-model-army.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "New Model Army"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "t-bone-mendez",
+      "path": "assets/img/mission/gta-san-andreas/t-bone-mendez.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "T-Bone Mendez"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "mike-toreno",
+      "path": "assets/img/mission/gta-san-andreas/mike-toreno.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mike Toreno"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
       "id": "outrider",
       "path": "assets/img/mission/gta-san-andreas/outrider.svg",
       "width": 1280,
@@ -5286,12 +5456,32 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
+      "id": "snail-trail",
+      "path": "assets/img/mission/gta-san-andreas/snail-trail.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Snail Trail"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
       "id": "ice-cold-killa",
       "path": "assets/img/mission/gta-san-andreas/ice-cold-killa.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Ice Cold Killa"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "back-to-school",
+      "path": "assets/img/mission/gta-san-andreas/back-to-school.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Back to School"
     },
     {
       "kind": "mission",
@@ -5366,6 +5556,56 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
+      "id": "yay-ka-boom-boom",
+      "path": "assets/img/mission/gta-san-andreas/yay-ka-boom-boom.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Yay Ka-Boom-Boom"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "zeroing-in",
+      "path": "assets/img/mission/gta-san-andreas/zeroing-in.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Zeroing In"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "test-drive",
+      "path": "assets/img/mission/gta-san-andreas/test-drive.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Test Drive"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "customs-fast-track",
+      "path": "assets/img/mission/gta-san-andreas/customs-fast-track.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Customs Fast Track"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "puncture-wounds",
+      "path": "assets/img/mission/gta-san-andreas/puncture-wounds.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Puncture Wounds"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
       "id": "monster",
       "path": "assets/img/mission/gta-san-andreas/monster.svg",
       "width": 1280,
@@ -5416,8 +5656,8 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "n-o-e",
-      "path": "assets/img/mission/gta-san-andreas/n-o-e.svg",
+      "id": "noe",
+      "path": "assets/img/mission/gta-san-andreas/noe.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
@@ -5546,6 +5786,86 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
+      "id": "intensive-care",
+      "path": "assets/img/mission/gta-san-andreas/intensive-care.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Intensive Care"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "the-meat-business",
+      "path": "assets/img/mission/gta-san-andreas/the-meat-business.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Meat Business"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "madd-dogg",
+      "path": "assets/img/mission/gta-san-andreas/madd-dogg.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Madd Dogg"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "fish-in-a-barrel",
+      "path": "assets/img/mission/gta-san-andreas/fish-in-a-barrel.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Fish in a Barrel"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "misappropriation",
+      "path": "assets/img/mission/gta-san-andreas/misappropriation.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Misappropriation"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "freefall",
+      "path": "assets/img/mission/gta-san-andreas/freefall.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Freefall"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "high-noon",
+      "path": "assets/img/mission/gta-san-andreas/high-noon.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "High Noon"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "saint-marks-bistro",
+      "path": "assets/img/mission/gta-san-andreas/saint-marks-bistro.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Saint Mark's Bistro"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
       "id": "breaking-the-bank-at-caligulas",
       "path": "assets/img/mission/gta-san-andreas/breaking-the-bank-at-caligulas.svg",
       "width": 1280,
@@ -5586,22 +5906,22 @@
     {
       "kind": "mission",
       "game": "gta-san-andreas",
-      "id": "cut-throat-business",
-      "path": "assets/img/mission/gta-san-andreas/cut-throat-business.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Cut Throat Business"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-san-andreas",
       "id": "beat-down-on-b-dup",
       "path": "assets/img/mission/gta-san-andreas/beat-down-on-b-dup.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Beat Down on B Dup"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-san-andreas",
+      "id": "cut-throat-business",
+      "path": "assets/img/mission/gta-san-andreas/cut-throat-business.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cut Throat Business"
     },
     {
       "kind": "mission",
@@ -8996,6 +9316,16 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "first-date",
+      "path": "assets/img/mission/gta-iv/first-date.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "First Date"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "bleed-out",
       "path": "assets/img/mission/gta-iv/bleed-out.svg",
       "width": 1280,
@@ -9012,6 +9342,26 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Easy Fare"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "jamaican-heat",
+      "path": "assets/img/mission/gta-iv/jamaican-heat.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Jamaican Heat"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "concrete-jungle",
+      "path": "assets/img/mission/gta-iv/concrete-jungle.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Concrete Jungle"
     },
     {
       "kind": "mission",
@@ -9052,16 +9402,6 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Ivan the Not So Terrible"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iv",
-      "id": "concrete-jungle",
-      "path": "assets/img/mission/gta-iv/concrete-jungle.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Concrete Jungle"
     },
     {
       "kind": "mission",
@@ -9126,6 +9466,46 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "shadow",
+      "path": "assets/img/mission/gta-iv/shadow.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shadow"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "logging-on",
+      "path": "assets/img/mission/gta-iv/logging-on.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Logging On"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "search-and-delete",
+      "path": "assets/img/mission/gta-iv/search-and-delete.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Search and Delete"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "easy-as-can-be",
+      "path": "assets/img/mission/gta-iv/easy-as-can-be.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Easy as Can Be"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "the-master-and-the-molotov",
       "path": "assets/img/mission/gta-iv/the-master-and-the-molotov.svg",
       "width": 1280,
@@ -9156,22 +9536,22 @@
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "shadow",
-      "path": "assets/img/mission/gta-iv/shadow.svg",
+      "id": "out-of-the-closet",
+      "path": "assets/img/mission/gta-iv/out-of-the-closet.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Shadow"
+      "alt": "Out of the Closet"
     },
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "jamaican-heat",
-      "path": "assets/img/mission/gta-iv/jamaican-heat.svg",
+      "id": "no-1",
+      "path": "assets/img/mission/gta-iv/no-1.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Jamaican Heat"
+      "alt": "No. 1"
     },
     {
       "kind": "mission",
@@ -9216,6 +9596,56 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "the-holland-play",
+      "path": "assets/img/mission/gta-iv/the-holland-play.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Holland Play"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "ruff-rider",
+      "path": "assets/img/mission/gta-iv/ruff-rider.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ruff Rider"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "undress-to-kill",
+      "path": "assets/img/mission/gta-iv/undress-to-kill.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Undress to Kill"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "call-and-collect",
+      "path": "assets/img/mission/gta-iv/call-and-collect.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Call and Collect"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "the-puerto-rican-connection",
+      "path": "assets/img/mission/gta-iv/the-puerto-rican-connection.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Puerto Rican Connection"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "the-snow-storm",
       "path": "assets/img/mission/gta-iv/the-snow-storm.svg",
       "width": 1280,
@@ -9232,6 +9662,56 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Have a Heart"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "final-interview",
+      "path": "assets/img/mission/gta-iv/final-interview.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Final Interview"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "holland-nights",
+      "path": "assets/img/mission/gta-iv/holland-nights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Holland Nights"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "lure",
+      "path": "assets/img/mission/gta-iv/lure.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Lure"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "harboring-a-grudge",
+      "path": "assets/img/mission/gta-iv/harboring-a-grudge.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Harboring a Grudge"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "waste-not-want-knots",
+      "path": "assets/img/mission/gta-iv/waste-not-want-knots.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Waste Not Want Knots"
     },
     {
       "kind": "mission",
@@ -9256,32 +9736,52 @@
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "hostile-negotiation",
-      "path": "assets/img/mission/gta-iv/hostile-negotiation.svg",
+      "id": "i-need-your-clothes-your-boots-and-your-motorcycle",
+      "path": "assets/img/mission/gta-iv/i-need-your-clothes-your-boots-and-your-motorcycle.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Hostile Negotiation"
+      "alt": "I Need Your Clothes, Your Boots, and Your Motorcycle"
     },
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "the-holland-play",
-      "path": "assets/img/mission/gta-iv/the-holland-play.svg",
+      "id": "smackdown",
+      "path": "assets/img/mission/gta-iv/smackdown.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Holland Play"
+      "alt": "Smackdown"
     },
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "diamonds-are-a-girls-best-friend",
-      "path": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.svg",
+      "id": "a-long-way-to-fall",
+      "path": "assets/img/mission/gta-iv/a-long-way-to-fall.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Diamonds Are a Girl's Best Friend"
+      "alt": "A Long Way to Fall"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "taking-in-the-trash",
+      "path": "assets/img/mission/gta-iv/taking-in-the-trash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taking in the Trash"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "meltdown",
+      "path": "assets/img/mission/gta-iv/meltdown.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Meltdown"
     },
     {
       "kind": "mission",
@@ -9302,6 +9802,56 @@
       "height": 720,
       "status": "placeholder",
       "alt": "No Way on the Subway"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "babysitting",
+      "path": "assets/img/mission/gta-iv/babysitting.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Babysitting"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "tunnel-of-death",
+      "path": "assets/img/mission/gta-iv/tunnel-of-death.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Tunnel of Death"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "blood-brothers",
+      "path": "assets/img/mission/gta-iv/blood-brothers.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Blood Brothers"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "undertaker",
+      "path": "assets/img/mission/gta-iv/undertaker.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Undertaker"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "ill-take-her",
+      "path": "assets/img/mission/gta-iv/ill-take-her.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "I'll Take Her"
     },
     {
       "kind": "mission",
@@ -9356,6 +9906,16 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "flatline",
+      "path": "assets/img/mission/gta-iv/flatline.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Flatline"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "trespass",
       "path": "assets/img/mission/gta-iv/trespass.svg",
       "width": 1280,
@@ -9376,12 +9936,112 @@
     {
       "kind": "mission",
       "game": "gta-iv",
-      "id": "flatline",
-      "path": "assets/img/mission/gta-iv/flatline.svg",
+      "id": "deconstruction-for-beginners",
+      "path": "assets/img/mission/gta-iv/deconstruction-for-beginners.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Flatline"
+      "alt": "Deconstruction for Beginners"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "photo-shoot",
+      "path": "assets/img/mission/gta-iv/photo-shoot.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Photo Shoot"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "hostile-negotiation",
+      "path": "assets/img/mission/gta-iv/hostile-negotiation.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hostile Negotiation"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "wrong-is-right",
+      "path": "assets/img/mission/gta-iv/wrong-is-right.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Wrong is Right"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "portrait-of-a-killer",
+      "path": "assets/img/mission/gta-iv/portrait-of-a-killer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Portrait of a Killer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "dust-off",
+      "path": "assets/img/mission/gta-iv/dust-off.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dust Off"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "paper-trail",
+      "path": "assets/img/mission/gta-iv/paper-trail.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Paper Trail"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "ransom",
+      "path": "assets/img/mission/gta-iv/ransom.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ransom"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "weekend-at-florians",
+      "path": "assets/img/mission/gta-iv/weekend-at-florians.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Weekend at Florian's"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "shes-a-keeper",
+      "path": "assets/img/mission/gta-iv/shes-a-keeper.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "She's a Keeper"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "diamonds-are-a-girls-best-friend",
+      "path": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Diamonds Are a Girl's Best Friend"
     },
     {
       "kind": "mission",
@@ -9392,6 +10052,36 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Pest Control"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "hating-the-haters",
+      "path": "assets/img/mission/gta-iv/hating-the-haters.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hating the Haters"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "union-drive",
+      "path": "assets/img/mission/gta-iv/union-drive.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Union Drive"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "buoys-ahoy",
+      "path": "assets/img/mission/gta-iv/buoys-ahoy.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Buoys Ahoy"
     },
     {
       "kind": "mission",
@@ -9426,6 +10116,26 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "that-special-someone",
+      "path": "assets/img/mission/gta-iv/that-special-someone.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "That Special Someone"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "one-last-thing",
+      "path": "assets/img/mission/gta-iv/one-last-thing.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "One Last Thing"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "if-the-price-is-right",
       "path": "assets/img/mission/gta-iv/if-the-price-is-right.svg",
       "width": 1280,
@@ -9436,22 +10146,22 @@
     {
       "kind": "mission",
       "game": "gta-iv",
+      "id": "a-dish-served-cold",
+      "path": "assets/img/mission/gta-iv/a-dish-served-cold.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "A Dish Served Cold"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
       "id": "mr-and-mrs-bellic",
       "path": "assets/img/mission/gta-iv/mr-and-mrs-bellic.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Mr. and Mrs. Bellic"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iv",
-      "id": "out-of-commission",
-      "path": "assets/img/mission/gta-iv/out-of-commission.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Out of Commission"
+      "alt": "Mr. & Mrs. Bellic"
     },
     {
       "kind": "mission",
@@ -9462,6 +10172,16 @@
       "height": 720,
       "status": "placeholder",
       "alt": "A Revenger's Tragedy"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv",
+      "id": "out-of-commission",
+      "path": "assets/img/mission/gta-iv/out-of-commission.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Out of Commission"
     },
     {
       "kind": "vehicle",
@@ -12156,6 +12876,16 @@
     {
       "kind": "mission",
       "game": "gta-v",
+      "id": "prologue",
+      "path": "assets/img/mission/gta-v/prologue.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Prologue"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
       "id": "franklin-and-lamar",
       "path": "assets/img/mission/gta-v/franklin-and-lamar.svg",
       "width": 1280,
@@ -12186,22 +12916,22 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "chop",
-      "path": "assets/img/mission/gta-v/chop.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Chop"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-v",
       "id": "father-son",
       "path": "assets/img/mission/gta-v/father-son.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Father/Son"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "chop",
+      "path": "assets/img/mission/gta-v/chop.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Chop"
     },
     {
       "kind": "mission",
@@ -12246,6 +12976,16 @@
     {
       "kind": "mission",
       "game": "gta-v",
+      "id": "the-good-husband",
+      "path": "assets/img/mission/gta-v/the-good-husband.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Good Husband"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
       "id": "casing-the-jewel-store",
       "path": "assets/img/mission/gta-v/casing-the-jewel-store.svg",
       "width": 1280,
@@ -12266,12 +13006,22 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "bugstars",
-      "path": "assets/img/mission/gta-v/bugstars.svg",
+      "id": "bugstars-equipment",
+      "path": "assets/img/mission/gta-v/bugstars-equipment.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Bugstars"
+      "alt": "Bugstars Equipment"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "bz-gas-grenades",
+      "path": "assets/img/mission/gta-v/bz-gas-grenades.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "BZ Gas Grenades"
     },
     {
       "kind": "mission",
@@ -12356,16 +13106,6 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "did-somebody-say-yoga",
-      "path": "assets/img/mission/gta-v/did-somebody-say-yoga.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Did Somebody Say Yoga?"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-v",
       "id": "threes-company",
       "path": "assets/img/mission/gta-v/threes-company.svg",
       "width": 1280,
@@ -12386,12 +13126,142 @@
     {
       "kind": "mission",
       "game": "gta-v",
+      "id": "hood-safari",
+      "path": "assets/img/mission/gta-v/hood-safari.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hood Safari"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "did-somebody-say-yoga",
+      "path": "assets/img/mission/gta-v/did-somebody-say-yoga.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Did Somebody Say Yoga?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "scouting-the-port",
+      "path": "assets/img/mission/gta-v/scouting-the-port.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Scouting the Port"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "minisub",
+      "path": "assets/img/mission/gta-v/minisub.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Minisub"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "cargobob",
+      "path": "assets/img/mission/gta-v/cargobob.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cargobob"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "the-merryweather-heist",
+      "path": "assets/img/mission/gta-v/the-merryweather-heist.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Merryweather Heist"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "the-hotel-assassination",
+      "path": "assets/img/mission/gta-v/the-hotel-assassination.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Hotel Assassination"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "boiler-suits",
+      "path": "assets/img/mission/gta-v/boiler-suits.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Boiler Suits"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "masks",
+      "path": "assets/img/mission/gta-v/masks.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Masks"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "trash-truck",
+      "path": "assets/img/mission/gta-v/trash-truck.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Trash Truck"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "tow-truck",
+      "path": "assets/img/mission/gta-v/tow-truck.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Tow Truck"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
       "id": "blitz-play",
       "path": "assets/img/mission/gta-v/blitz-play.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Blitz Play"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "i-fought-the-law",
+      "path": "assets/img/mission/gta-v/i-fought-the-law.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "I Fought the Law..."
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "eye-in-the-sky",
+      "path": "assets/img/mission/gta-v/eye-in-the-sky.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Eye in the Sky"
     },
     {
       "kind": "mission",
@@ -12406,22 +13276,12 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "i-fought-the-law",
-      "path": "assets/img/mission/gta-v/i-fought-the-law.svg",
+      "id": "caida-libre",
+      "path": "assets/img/mission/gta-v/caida-libre.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "I Fought the Law"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-v",
-      "id": "eye-in-the-sky",
-      "path": "assets/img/mission/gta-v/eye-in-the-sky.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Eye in the Sky"
+      "alt": "Caida Libre"
     },
     {
       "kind": "mission",
@@ -12442,6 +13302,36 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Minor Turbulence"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "paleto-score-setup",
+      "path": "assets/img/mission/gta-v/paleto-score-setup.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Paleto Score Setup"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "predator",
+      "path": "assets/img/mission/gta-v/predator.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Predator"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "military-hardware",
+      "path": "assets/img/mission/gta-v/military-hardware.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Military Hardware"
     },
     {
       "kind": "mission",
@@ -12476,12 +13366,12 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "predator",
-      "path": "assets/img/mission/gta-v/predator.svg",
+      "id": "hang-ten",
+      "path": "assets/img/mission/gta-v/hang-ten.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Predator"
+      "alt": "Hang Ten"
     },
     {
       "kind": "mission",
@@ -12526,12 +13416,92 @@
     {
       "kind": "mission",
       "game": "gta-v",
+      "id": "the-ballad-of-rocco",
+      "path": "assets/img/mission/gta-v/the-ballad-of-rocco.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Ballad of Rocco"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "cleaning-out-the-bureau",
+      "path": "assets/img/mission/gta-v/cleaning-out-the-bureau.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cleaning out the Bureau"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "architects-plans",
+      "path": "assets/img/mission/gta-v/architects-plans.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Architect's Plans"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "fire-truck",
+      "path": "assets/img/mission/gta-v/fire-truck.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Fire Truck"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "the-bureau-raid",
+      "path": "assets/img/mission/gta-v/the-bureau-raid.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Bureau Raid"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
       "id": "the-wrap-up",
       "path": "assets/img/mission/gta-v/the-wrap-up.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "The Wrap Up"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "reuniting-the-family",
+      "path": "assets/img/mission/gta-v/reuniting-the-family.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Reuniting the Family"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "doting-dad",
+      "path": "assets/img/mission/gta-v/doting-dad.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Doting Dad"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "legal-trouble",
+      "path": "assets/img/mission/gta-v/legal-trouble.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Legal Trouble"
     },
     {
       "kind": "mission",
@@ -12556,12 +13526,72 @@
     {
       "kind": "mission",
       "game": "gta-v",
-      "id": "the-third-way",
-      "path": "assets/img/mission/gta-v/the-third-way.svg",
+      "id": "parenting-101",
+      "path": "assets/img/mission/gta-v/parenting-101.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Third Way"
+      "alt": "Parenting 101"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "planning-the-big-score",
+      "path": "assets/img/mission/gta-v/planning-the-big-score.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Planning the Big Score"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "stingers",
+      "path": "assets/img/mission/gta-v/stingers.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Stingers"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "sidetracked",
+      "path": "assets/img/mission/gta-v/sidetracked.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sidetracked"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "gauntlet",
+      "path": "assets/img/mission/gta-v/gauntlet.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Gauntlet"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "driller",
+      "path": "assets/img/mission/gta-v/driller.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Driller"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "the-big-score",
+      "path": "assets/img/mission/gta-v/the-big-score.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Big Score"
     },
     {
       "kind": "mission",
@@ -12582,6 +13612,16 @@
       "height": 720,
       "status": "placeholder",
       "alt": "The Time's Come"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-v",
+      "id": "the-third-way",
+      "path": "assets/img/mission/gta-v/the-third-way.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Third Way"
     },
     {
       "kind": "vehicle",

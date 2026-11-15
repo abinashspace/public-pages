@@ -54,7 +54,7 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-san-andreas.json
-- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 220
+- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 252
 
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
@@ -74,7 +74,7 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto IV (2008, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv.json
-- Cities: Liberty City · Status: released · Records: 148
+- Cities: Liberty City · Status: released · Records: 188
 
 ### Grand Theft Auto IV: The Lost and Damned (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/
@@ -94,7 +94,7 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto V (2013, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-v/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-v.json
-- Cities: Los Santos, Blaine County · Status: released · Records: 151
+- Cities: Los Santos, Blaine County · Status: released · Records: 183
 
 ### Grand Theft Auto Online (2013, Online)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-online/

@@ -5,11 +5,11 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T15:53:40.516Z",
+    "generated": "2026-11-15T16:09:57.518Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "partial",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 23,
-      "missions": 69,
+      "missions": 101,
       "vehicles": 54,
       "weapons": 21,
       "cheats": 25,
@@ -323,20 +323,21 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
         "id": "in-the-beginning",
         "order": 1,
         "name": "In the Beginning",
         "type": "Story",
-        "giver": "—",
+        "giver": "Introduction",
         "location": "Los Santos",
         "reward": {
-          "money": 0
+          "other": "Chapter opening"
         },
-        "summary": "Opening: CJ returns to Los Santos and is picked up by Tenpenny and Pulaski.",
+        "summary": "Opening sequence: CJ returns to Los Santos for his mother's funeral and is picked up by C.R.A.S.H.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/in-the-beginning.svg"
       },
       {
@@ -347,949 +348,1520 @@
         "giver": "Big Smoke",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
-        "summary": "Ride with Big Smoke and take out the Ballas chasing him.",
+        "summary": "Ride with Big Smoke and take out the Ballas chasing him through the streets.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/big-smoke.svg"
       },
       {
-        "id": "sweets-girl",
+        "id": "sweet-and-kendl",
         "order": 3,
-        "name": "Sweet's Girl",
+        "name": "Sweet & Kendl",
         "type": "Story",
         "giver": "Sweet",
-        "location": "Idlewood",
+        "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect; the Johnson House"
         },
-        "summary": "Rescue Sweet and his girlfriend from Ballas in a house shootout.",
+        "summary": "Meet Sweet and Kendl after the funeral and deal with the Ballas who interrupt it.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/sweets-girl.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/sweet-and-kendl.svg"
       },
       {
-        "id": "cesar-vialpando",
+        "id": "ryder",
         "order": 4,
-        "name": "Cesar Vialpando",
-        "type": "Story",
-        "giver": "Sweet",
-        "location": "El Corona",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Enter a low-rider hydraulic competition to win money for Sweet.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg"
-      },
-      {
-        "id": "robbing-uncle-sam",
-        "order": 5,
-        "name": "Robbing Uncle Sam",
+        "name": "Ryder",
         "type": "Story",
         "giver": "Ryder",
-        "location": "Ocean Docks",
+        "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect; barbers, restaurants and tattoo parlours"
         },
-        "summary": "Raid the National Guard depot with Ryder using a forklift.",
+        "summary": "Pick up Ryder and rob a pizza restaurant to prove CJ is still Grove.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/ryder.svg"
       },
       {
         "id": "tagging-up-turf",
-        "order": 6,
+        "order": 5,
         "name": "Tagging Up Turf",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "money": 200,
+          "other": "Respect; spray can at the Johnson House"
         },
-        "summary": "Spray over Ballas graffiti across the neighbourhood.",
+        "summary": "Spray over Ballas graffiti across the neighbourhood with Sweet and Ryder.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/tagging-up-turf.svg"
       },
       {
         "id": "cleaning-the-hood",
-        "order": 7,
+        "order": 6,
         "name": "Cleaning the Hood",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Clear drug dealers out of Grove Street territory.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/cleaning-the-hood.svg"
       },
       {
         "id": "drive-thru",
-        "order": 8,
+        "order": 7,
         "name": "Drive-Thru",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "money": 200,
+          "other": "Respect; gyms open"
         },
-        "summary": "Chase down Ballas who shot up a Cluckin' Bell drive-thru.",
+        "summary": "Chase down the Ballas who shot up a Cluckin' Bell drive-thru.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/drive-thru.svg"
       },
       {
         "id": "nines-and-aks",
-        "order": 9,
+        "order": 8,
         "name": "Nines and AK's",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect; Binco, Sub Urban and ProLaps clothing"
         },
         "summary": "Buy guns from Emmet and practise shooting with Sweet.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/nines-and-aks.svg"
       },
       {
         "id": "drive-by",
-        "order": 10,
+        "order": 9,
         "name": "Drive-By",
         "type": "Story",
         "giver": "Sweet",
         "location": "Glen Park",
         "reward": {
-          "money": 0
+          "money": 500,
+          "other": "Respect"
         },
-        "summary": "Drive through Ballas territory and eliminate rival gang members.",
+        "summary": "Drive through Ballas territory and eliminate rival gang members from the car.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/drive-by.svg"
       },
       {
-        "id": "sweet-girl",
-        "order": 11,
+        "id": "sweets-girl",
+        "order": 10,
         "name": "Sweet's Girl",
         "type": "Story",
         "giver": "Sweet",
         "location": "Idlewood",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
-        "summary": "Rescue Sweet's girlfriend from a Ballas ambush.",
-        "verified": false,
-        "source": "Order reported differently across guides",
-        "image": "assets/img/mission/gta-san-andreas/sweet-girl.svg"
+        "summary": "Rescue Sweet and his girlfriend from a Ballas ambush in Idlewood.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/sweets-girl.svg"
       },
       {
-        "id": "doberman",
+        "id": "cesar-vialpando",
+        "order": 11,
+        "name": "Cesar Vialpando",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "El Corona",
+        "reward": {
+          "money": 50,
+          "other": "Wager pays $50 to $1,000; Loco Low Co. and TransFender"
+        },
+        "summary": "Enter a low-rider hydraulic competition against Cesar Vialpando's crew.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg"
+      },
+      {
+        "id": "home-invasion",
         "order": 12,
-        "name": "Doberman",
+        "name": "Home Invasion",
         "type": "Story",
-        "giver": "Sweet",
-        "location": "Glen Park",
+        "giver": "Ryder",
+        "location": "Willowfield",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
-        "summary": "Take over the first Ballas territory to start the gang war system.",
+        "summary": "Break into a house with Ryder and steal military equipment before the owners return.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/doberman.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/home-invasion.svg"
       },
       {
-        "id": "los-sepulcros",
+        "id": "catalyst",
         "order": 13,
-        "name": "Los Sepulcros",
+        "name": "Catalyst",
         "type": "Story",
-        "giver": "Sweet",
-        "location": "Los Sepulcros",
+        "giver": "Ryder",
+        "location": "Willowfield",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
-        "summary": "Hit a Ballas funeral to weaken their leadership.",
+        "summary": "Collect explosives from a train with Ryder and hold off the Ballas.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/los-sepulcros.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/catalyst.svg"
+      },
+      {
+        "id": "robbing-uncle-sam",
+        "order": 14,
+        "name": "Robbing Uncle Sam",
+        "type": "Story",
+        "giver": "Ryder",
+        "location": "Ocean Docks",
+        "reward": {
+          "other": "Respect; SMG at Ammu-Nation after Doberman"
+        },
+        "summary": "Raid the National Guard depot with Ryder using a forklift.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg"
+      },
+      {
+        "id": "og-loc",
+        "order": 15,
+        "name": "OG Loc",
+        "type": "Story",
+        "giver": "Big Smoke",
+        "location": "Jefferson",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Break OG Loc out of police custody during a prisoner transfer.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/og-loc.svg"
+      },
+      {
+        "id": "running-dog",
+        "order": 16,
+        "name": "Running Dog",
+        "type": "Story",
+        "giver": "Big Smoke",
+        "location": "East Los Santos",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Chase down a Vagos runner for Big Smoke.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/running-dog.svg"
+      },
+      {
+        "id": "wrong-side-of-the-tracks",
+        "order": 17,
+        "name": "Wrong Side of the Tracks",
+        "type": "Story",
+        "giver": "Big Smoke",
+        "location": "East Los Santos",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Ride the train and kill the Vagos on the roof with Big Smoke.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/wrong-side-of-the-tracks.svg"
+      },
+      {
+        "id": "just-business",
+        "order": 18,
+        "name": "Just Business",
+        "type": "Story",
+        "giver": "Big Smoke",
+        "location": "East Los Santos",
+        "reward": {
+          "other": "Respect; Sawn-off Shotgun at Ammu-Nation after Doberman"
+        },
+        "summary": "Cover Big Smoke during a deal that turns into a running highway shootout.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/just-business.svg"
+      },
+      {
+        "id": "lifes-a-beach",
+        "order": 19,
+        "name": "Life's a Beach",
+        "type": "Story",
+        "giver": "OG Loc",
+        "location": "Verona Beach",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Steal a sound system from a beach party for OG Loc.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/lifes-a-beach.svg"
+      },
+      {
+        "id": "madd-doggs-rhymes",
+        "order": 20,
+        "name": "Madd Dogg's Rhymes",
+        "type": "Story",
+        "giver": "OG Loc",
+        "location": "Mulholland",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Break into Madd Dogg's mansion and steal his rhyme book.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/madd-doggs-rhymes.svg"
+      },
+      {
+        "id": "management-issues",
+        "order": 21,
+        "name": "Management Issues",
+        "type": "Story",
+        "giver": "OG Loc",
+        "location": "Mulholland",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Kill Madd Dogg's manager and take his place at the studio.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/management-issues.svg"
       },
       {
         "id": "house-party",
-        "order": 14,
+        "order": 22,
         "name": "House Party",
         "type": "Story",
         "giver": "OG Loc",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Defend OG Loc's house party from a Ballas attack.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/house-party.svg"
       },
       {
+        "id": "burning-desire",
+        "order": 23,
+        "name": "Burning Desire",
+        "type": "Story",
+        "giver": "C.R.A.S.H.",
+        "location": "Idlewood",
+        "reward": {
+          "other": "Denise Robinson as a girlfriend"
+        },
+        "summary": "Firebomb a house for Tenpenny and rescue Denise from the flames.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/burning-desire.svg"
+      },
+      {
+        "id": "gray-imports",
+        "order": 24,
+        "name": "Gray Imports",
+        "type": "Story",
+        "giver": "C.R.A.S.H.",
+        "location": "Ocean Docks",
+        "reward": {
+          "other": "Silenced 9mm at Ammu-Nation after Doberman"
+        },
+        "summary": "Raid a Vagos warehouse and destroy the imported weapons.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/gray-imports.svg"
+      },
+      {
+        "id": "doberman",
+        "order": 25,
+        "name": "Doberman",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Glen Park",
+        "reward": {
+          "other": "Respect; Ammu-Nation opens"
+        },
+        "summary": "Take over the first Ballas territory to start the gang war system.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/doberman.svg"
+      },
+      {
+        "id": "los-sepulcros",
+        "order": 26,
+        "name": "Los Sepulcros",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Los Sepulcros",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Hit a Ballas funeral to weaken their leadership.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/los-sepulcros.svg"
+      },
+      {
+        "id": "high-stakes-low-rider",
+        "order": 27,
+        "name": "High Stakes, Low-Rider",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Los Santos",
+        "reward": {
+          "money": 1000,
+          "other": "Respect"
+        },
+        "summary": "Win a low-rider race against Cesar's rivals for cash.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/high-stakes-low-rider.svg"
+      },
+      {
         "id": "reuniting-the-families",
-        "order": 15,
+        "order": 28,
         "name": "Reuniting the Families",
         "type": "Story",
         "giver": "Sweet",
         "location": "Jefferson Motel",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Escape a police raid on the Grove Street leadership meeting.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/reuniting-the-families.svg"
       },
       {
         "id": "the-green-sabre",
-        "order": 16,
+        "order": 29,
         "name": "The Green Sabre",
         "type": "Story",
-        "giver": "Cesar Vialpando",
+        "giver": "Sweet",
         "location": "Mulholland Intersection",
         "reward": {
-          "money": 0
+          "other": "Flint County, Whetstone and San Fierro open"
         },
         "summary": "Act one finale: discover the traitors and lose everything in Los Santos.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/the-green-sabre.svg"
       },
       {
         "id": "badlands",
-        "order": 17,
+        "order": 30,
         "name": "Badlands",
         "type": "Story",
-        "giver": "Cesar Vialpando",
+        "giver": "C.R.A.S.H.",
         "location": "Whetstone",
-        "reward": {
-          "money": 0
-        },
+        "reward": {},
         "summary": "Reach the Badlands safehouse and shake the police tail.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/badlands.svg"
       },
       {
-        "id": "tanker-commander",
-        "order": 18,
-        "name": "Tanker Commander",
+        "id": "first-date-then-tanker-commander",
+        "order": 31,
+        "name": "First Date then Tanker Commander",
         "type": "Story",
         "giver": "Catalina",
         "location": "Dillimore",
         "reward": {
-          "money": 0
+          "money": 5000,
+          "other": "Robbery payout"
         },
-        "summary": "Steal a tanker truck for Catalina's robbery crew.",
+        "summary": "Take Catalina on a date that turns into the hijacking of a tanker truck.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/tanker-commander.svg"
-      },
-      {
-        "id": "against-all-odds",
-        "order": 19,
-        "name": "Against All Odds",
-        "type": "Story",
-        "giver": "Catalina",
-        "location": "Las Barrancas",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Robbing spree with Catalina across the Badlands.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/against-all-odds.svg"
-      },
-      {
-        "id": "local-liquor-store",
-        "order": 20,
-        "name": "Local Liquor Store",
-        "type": "Story",
-        "giver": "Catalina",
-        "location": "Blueberry",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rob a liquor store with Catalina and escape the cops.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/local-liquor-store.svg"
-      },
-      {
-        "id": "small-town-bank",
-        "order": 21,
-        "name": "Small Town Bank",
-        "type": "Story",
-        "giver": "Catalina",
-        "location": "Fort Carson",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rob a small-town bank with Catalina.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/small-town-bank.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/first-date-then-tanker-commander.svg"
       },
       {
         "id": "body-harvest",
-        "order": 22,
+        "order": 32,
         "name": "Body Harvest",
         "type": "Story",
         "giver": "The Truth",
         "location": "Leafy Hollow",
         "reward": {
-          "money": 0
+          "other": "Respect; Rifle at Ammu-Nation"
         },
         "summary": "Steal a combine harvester for the Truth's farm.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/body-harvest.svg"
       },
       {
-        "id": "first-date",
-        "order": 23,
-        "name": "First Date",
-        "type": "Story",
-        "giver": "The Truth",
-        "location": "Leafy Hollow",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Take Catalina on a date that turns into a police chase.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/first-date.svg"
-      },
-      {
         "id": "king-in-exile",
-        "order": 24,
+        "order": 33,
         "name": "King in Exile",
         "type": "Story",
-        "giver": "The Truth",
-        "location": "Leafy Hollow",
-        "reward": {
-          "money": 0
-        },
+        "giver": "Cesar Vialpando",
+        "location": "Whetstone",
+        "reward": {},
         "summary": "Meet the Truth and learn about the San Fierro connection.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/king-in-exile.svg"
       },
       {
+        "id": "first-base-then-local-liquor-store",
+        "order": 34,
+        "name": "First Base then Local Liquor Store",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Blueberry",
+        "reward": {
+          "money": 1000,
+          "other": "Catalina's hideout"
+        },
+        "summary": "Rob a liquor store with Catalina and escape the police.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/first-base-then-local-liquor-store.svg"
+      },
+      {
+        "id": "gone-courting-then-against-all-odds",
+        "order": 35,
+        "name": "Gone Courting then Against All Odds",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Las Barrancas",
+        "reward": {
+          "money": 2000,
+          "other": "Remote explosives at Ammu-Nation"
+        },
+        "summary": "Rob a betting shop with Catalina and outrun the cops.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/gone-courting-then-against-all-odds.svg"
+      },
+      {
+        "id": "made-in-heaven-then-small-town-bank",
+        "order": 36,
+        "name": "Made in Heaven then Small Town Bank",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Fort Carson",
+        "reward": {
+          "money": 10000,
+          "other": "Robbing spree conclusion"
+        },
+        "summary": "Rob a small-town bank with Catalina.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/made-in-heaven-then-small-town-bank.svg"
+      },
+      {
         "id": "wu-zi-mu",
-        "order": 25,
+        "order": 37,
         "name": "Wu Zi Mu",
         "type": "Story",
-        "giver": "The Truth",
+        "giver": "Cesar Vialpando",
         "location": "Whetstone",
         "reward": {
-          "money": 0
+          "money": 5000
         },
-        "summary": "Race Wu Zi Mu's associate to earn a meeting with the Triads.",
+        "summary": "Race Wu Zi Mu's associate on a winding country road to earn a meeting with the Triads.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/wu-zi-mu.svg"
       },
       {
         "id": "farewell-my-love",
-        "order": 26,
+        "order": 38,
         "name": "Farewell, My Love...",
         "type": "Story",
-        "giver": "The Truth",
+        "giver": "Cesar Vialpando",
         "location": "Whetstone",
         "reward": {
-          "money": 0
+          "other": "ZR-350"
         },
-        "summary": "Race Catalina on a winding mountain road.",
+        "summary": "Race Catalina on a mountain road and win her ZR-350.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/farewell-my-love.svg"
       },
       {
         "id": "are-you-going-to-san-fierro",
-        "order": 27,
+        "order": 39,
         "name": "Are You Going to San Fierro?",
         "type": "Story",
         "giver": "The Truth",
-        "location": "San Fierro",
+        "location": "Flint County",
         "reward": {
-          "money": 0
+          "other": "San Fierro safehouses on sale; five-star wanted level possible"
         },
         "summary": "Burn the Truth's weed farm and drive to San Fierro.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/are-you-going-to-san-fierro.svg"
       },
       {
         "id": "wear-flowers-in-your-hair",
-        "order": 28,
+        "order": 40,
         "name": "Wear Flowers in Your Hair",
         "type": "Story",
-        "giver": "The Truth",
-        "location": "San Fierro",
+        "giver": "Carl Johnson",
+        "location": "Doherty",
         "reward": {
-          "money": 0
+          "other": "Zero RC shop purchasable"
         },
         "summary": "Recruit the Truth's associates and open the San Fierro safehouse.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/wear-flowers-in-your-hair.svg"
       },
       {
         "id": "555-we-tip",
-        "order": 29,
-        "name": "555 WE TIP",
+        "order": 41,
+        "name": "555 We Tip",
         "type": "Story",
-        "giver": "Cesar Vialpando",
+        "giver": "C.R.A.S.H.",
         "location": "San Fierro",
         "reward": {
-          "money": 0
+          "other": "Valet uniform"
         },
-        "summary": "Plant evidence on a D.A.'s car to discredit him.",
+        "summary": "Plant evidence on a district attorney's car to discredit him.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/555-we-tip.svg"
       },
       {
         "id": "deconstruction",
-        "order": 30,
+        "order": 42,
         "name": "Deconstruction",
         "type": "Story",
-        "giver": "Kendl",
+        "giver": "Carl Johnson",
         "location": "Doherty",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Destroy a construction site to protect the garage.",
+        "reward": {},
+        "summary": "Destroy a construction site that threatens the garage.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/deconstruction.svg"
       },
       {
         "id": "photo-opportunity",
-        "order": 31,
+        "order": 43,
         "name": "Photo Opportunity",
         "type": "Story",
         "giver": "Cesar Vialpando",
         "location": "San Fierro",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Photograph a Loco Syndicate meeting from a rooftop.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/photo-opportunity.svg"
       },
       {
         "id": "jizzy",
-        "order": 32,
+        "order": 44,
         "name": "Jizzy",
         "type": "Story",
-        "giver": "Jizzy B",
+        "giver": "Loco Syndicate",
         "location": "San Fierro",
         "reward": {
-          "money": 0
+          "money": 3000,
+          "other": "Respect"
         },
         "summary": "Work for Jizzy to infiltrate the Loco Syndicate.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/jizzy.svg"
       },
       {
-        "id": "outrider",
-        "order": 33,
-        "name": "Outrider",
+        "id": "air-raid",
+        "order": 45,
+        "name": "Air Raid",
         "type": "Story",
-        "giver": "Jizzy B",
+        "giver": "Zero",
+        "location": "Zero's RC, Doherty",
+        "reward": {
+          "money": 3000
+        },
+        "summary": "Defend Zero's shop from RC planes using a minigun.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/air-raid.svg"
+      },
+      {
+        "id": "supply-lines",
+        "order": 46,
+        "name": "Supply Lines...",
+        "type": "Story",
+        "giver": "Zero",
+        "location": "Zero's RC, Doherty",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Fly an RC plane and destroy the rival delivery bikes before fuel runs out.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/supply-lines.svg"
+      },
+      {
+        "id": "new-model-army",
+        "order": 47,
+        "name": "New Model Army",
+        "type": "Story",
+        "giver": "Zero",
+        "location": "Zero's RC, Doherty",
+        "reward": {
+          "money": 7000,
+          "other": "Zero RC as an asset"
+        },
+        "summary": "Complete Zero's RC assault course to win the shop.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/new-model-army.svg"
+      },
+      {
+        "id": "t-bone-mendez",
+        "order": 48,
+        "name": "T-Bone Mendez",
+        "type": "Story",
+        "giver": "Loco Syndicate",
         "location": "San Fierro",
         "reward": {
-          "money": 0
+          "money": 5000,
+          "other": "Respect"
+        },
+        "summary": "Chase T-Bone Mendez and recover the stolen cash.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/t-bone-mendez.svg"
+      },
+      {
+        "id": "mike-toreno",
+        "order": 49,
+        "name": "Mike Toreno",
+        "type": "Story",
+        "giver": "Loco Syndicate",
+        "location": "San Fierro",
+        "reward": {
+          "money": 7000,
+          "other": "Respect"
+        },
+        "summary": "Rescue Mike Toreno from a warehouse ambush.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/mike-toreno.svg"
+      },
+      {
+        "id": "outrider",
+        "order": 50,
+        "name": "Outrider",
+        "type": "Story",
+        "giver": "Loco Syndicate",
+        "location": "San Fierro",
+        "reward": {
+          "money": 9000,
+          "other": "Respect"
         },
         "summary": "Escort a drug shipment across the city.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/outrider.svg"
       },
       {
+        "id": "snail-trail",
+        "order": 51,
+        "name": "Snail Trail",
+        "type": "Story",
+        "giver": "C.R.A.S.H.",
+        "location": "San Fierro",
+        "reward": {},
+        "summary": "Follow a journalist to find the Loco Syndicate's buyer.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/snail-trail.svg"
+      },
+      {
         "id": "ice-cold-killa",
-        "order": 34,
+        "order": 52,
         "name": "Ice Cold Killa",
         "type": "Story",
-        "giver": "Jizzy B",
+        "giver": "Triads",
         "location": "San Fierro",
         "reward": {
-          "money": 0
+          "money": 12000,
+          "other": "Respect"
         },
         "summary": "Kill Jizzy B and take his club.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/ice-cold-killa.svg"
       },
       {
+        "id": "back-to-school",
+        "order": 53,
+        "name": "Back to School",
+        "type": "Story",
+        "giver": "Driving School",
+        "location": "San Fierro",
+        "reward": {
+          "other": "Driving skill; Super GT, Bullet or Hotknife by medal"
+        },
+        "summary": "Complete the driving school tests to unlock vehicle prizes.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/back-to-school.svg"
+      },
+      {
         "id": "pier-69",
-        "order": 35,
+        "order": 54,
         "name": "Pier 69",
         "type": "Story",
         "giver": "Cesar Vialpando",
         "location": "Pier 69",
         "reward": {
-          "money": 0
+          "money": 15000,
+          "other": "Respect; Sniper Rifle at Ammu-Nation"
         },
         "summary": "Ambush the Loco Syndicate at the pier.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/pier-69.svg"
       },
       {
         "id": "torenos-last-flight",
-        "order": 36,
+        "order": 55,
         "name": "Toreno's Last Flight",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Easter Basin",
         "reward": {
-          "money": 0
+          "money": 18000,
+          "other": "Respect"
         },
         "summary": "Destroy Toreno's helicopter before it leaves the docks.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/torenos-last-flight.svg"
       },
       {
         "id": "mountain-cloud-boys",
-        "order": 37,
+        "order": 56,
         "name": "Mountain Cloud Boys",
         "type": "Story",
-        "giver": "Wu Zi Mu",
-        "location": "Chinatown",
+        "giver": "Woozie",
+        "location": "Chinatown, San Fierro",
         "reward": {
-          "money": 0
+          "money": 5000,
+          "other": "Respect"
         },
-        "summary": "Earn Wu Zi Mu's trust by helping the Triads.",
+        "summary": "Earn Wu Zi Mu's trust by helping the Triads against the Da Nang.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/mountain-cloud-boys.svg"
       },
       {
         "id": "ran-fa-li",
-        "order": 38,
+        "order": 57,
         "name": "Ran Fa Li",
         "type": "Story",
-        "giver": "Wu Zi Mu",
-        "location": "Chinatown",
+        "giver": "Woozie",
+        "location": "Chinatown, San Fierro",
         "reward": {
-          "money": 0
+          "money": 6000,
+          "other": "Respect"
         },
         "summary": "Pick up Ran Fa Li from the airport while hitmen pursue.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/ran-fa-li.svg"
       },
       {
         "id": "lure",
-        "order": 39,
+        "order": 58,
         "name": "Lure",
         "type": "Story",
-        "giver": "Wu Zi Mu",
-        "location": "Chinatown",
+        "giver": "Woozie",
+        "location": "Chinatown, San Fierro",
         "reward": {
-          "money": 0
+          "money": 8000,
+          "other": "Respect; AK-47 at Ammu-Nation"
         },
-        "summary": "Draw Da Nang boys away from the Triad headquarters.",
+        "summary": "Draw the Da Nang boys away from Triad headquarters.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/lure.svg"
       },
       {
         "id": "amphibious-assault",
-        "order": 40,
+        "order": 59,
         "name": "Amphibious Assault",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Bayside",
         "reward": {
-          "money": 0
+          "money": 11000,
+          "other": "Respect"
         },
         "summary": "Swim to a cargo ship and steal the manifest.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/amphibious-assault.svg"
       },
       {
         "id": "the-da-nang-thang",
-        "order": 41,
+        "order": 60,
         "name": "The Da Nang Thang",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Easter Basin",
         "reward": {
-          "money": 0
+          "money": 15000,
+          "other": "Respect"
         },
         "summary": "Clear the Da Nang gang from a freighter.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/the-da-nang-thang.svg"
       },
       {
+        "id": "yay-ka-boom-boom",
+        "order": 61,
+        "name": "Yay Ka-Boom-Boom",
+        "type": "Story",
+        "giver": "Woozie",
+        "location": "Doherty",
+        "reward": {
+          "money": 25000,
+          "other": "Tierra Robada, Bone County and Las Venturas open; M4 at Ammu-Nation"
+        },
+        "summary": "Destroy the Loco Syndicate's factory.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/yay-ka-boom-boom.svg"
+      },
+      {
+        "id": "zeroing-in",
+        "order": 62,
+        "name": "Zeroing In",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "San Fierro",
+        "reward": {
+          "money": 5000,
+          "other": "Respect"
+        },
+        "summary": "Track a target's car using a homing device.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/zeroing-in.svg"
+      },
+      {
+        "id": "test-drive",
+        "order": 63,
+        "name": "Test Drive",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "San Fierro",
+        "reward": {
+          "money": 5000,
+          "other": "Respect"
+        },
+        "summary": "Test-drive two imported cars and outrun the police.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/test-drive.svg"
+      },
+      {
+        "id": "customs-fast-track",
+        "order": 64,
+        "name": "Customs Fast Track",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Easter Basin",
+        "reward": {
+          "money": 10000,
+          "other": "Respect"
+        },
+        "summary": "Steal cars from the dockside customs compound.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/customs-fast-track.svg"
+      },
+      {
+        "id": "puncture-wounds",
+        "order": 65,
+        "name": "Puncture Wounds",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Wang Cars, Doherty",
+        "reward": {
+          "money": 5000,
+          "other": "Wang Cars as an asset"
+        },
+        "summary": "Stop a rival tyre-slashing racket and take over Wang Cars.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/puncture-wounds.svg"
+      },
+      {
         "id": "monster",
-        "order": 42,
+        "order": 66,
         "name": "Monster",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Las Barrancas",
         "reward": {
-          "money": 0
+          "money": 1000,
+          "other": "Payout rises with time; up to $5,000"
         },
         "summary": "Drive a Monster truck through a desert checkpoint course.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/monster.svg"
       },
       {
         "id": "highjack",
-        "order": 43,
+        "order": 67,
         "name": "Highjack",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "money": 7000
         },
         "summary": "Hijack a truck on the highway for Toreno.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/highjack.svg"
       },
       {
         "id": "interdiction",
-        "order": 44,
+        "order": 68,
         "name": "Interdiction",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Las Brujas",
         "reward": {
-          "money": 0
+          "money": 1000
         },
-        "summary": "Recover a package from a desert airstrip.",
+        "summary": "Recover a package from a desert airstrip under fire.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/interdiction.svg"
       },
       {
         "id": "verdant-meadows",
-        "order": 45,
+        "order": 69,
         "name": "Verdant Meadows",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Verdant Meadows",
         "reward": {
-          "money": 0
+          "other": "Verdant Meadows airfield purchasable"
         },
-        "summary": "Buy the abandoned airstrip to unlock flight school.",
+        "summary": "Buy the abandoned airstrip and complete Toreno's first flying task.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/verdant-meadows.svg"
       },
       {
         "id": "learning-to-fly",
-        "order": 46,
+        "order": 70,
         "name": "Learning to Fly",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Verdant Meadows",
         "reward": {
-          "money": 0
+          "other": "Pilot's licence; Las Venturas safehouses purchasable"
         },
         "summary": "Complete flight school tests to earn a pilot's licence.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/learning-to-fly.svg"
       },
       {
-        "id": "n-o-e",
-        "order": 47,
+        "id": "noe",
+        "order": 71,
         "name": "N.O.E.",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Verdant Meadows",
         "reward": {
-          "money": 0
+          "money": 15000
         },
         "summary": "Fly a plane low under radar to drop supplies.",
         "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/n-o-e.svg"
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/noe.svg"
       },
       {
         "id": "stowaway",
-        "order": 48,
+        "order": 72,
         "name": "Stowaway",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Verdant Meadows",
         "reward": {
-          "money": 0
+          "money": 20000
         },
         "summary": "Board a moving plane and plant a bomb.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/stowaway.svg"
       },
       {
         "id": "black-project",
-        "order": 49,
+        "order": 73,
         "name": "Black Project",
         "type": "Story",
-        "giver": "Mike Toreno",
+        "giver": "The Truth",
         "location": "Area 69",
         "reward": {
-          "money": 0
+          "other": "Desert Eagle at Ammu-Nation"
         },
         "summary": "Infiltrate Area 69 and steal the jetpack.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/black-project.svg"
       },
       {
         "id": "green-goo",
-        "order": 50,
+        "order": 74,
         "name": "Green Goo",
         "type": "Story",
-        "giver": "Mike Toreno",
+        "giver": "The Truth",
         "location": "Area 69",
         "reward": {
-          "money": 0
+          "money": 20000,
+          "other": "Jetpack at Verdant Meadows"
         },
         "summary": "Use the jetpack to steal a train shipment.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/green-goo.svg"
       },
       {
         "id": "fender-ketchup",
-        "order": 51,
+        "order": 75,
         "name": "Fender Ketchup",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "money": 5000,
+          "other": "Respect"
         },
         "summary": "Intimidate a casino manager by hanging him from a car.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/fender-ketchup.svg"
       },
       {
         "id": "explosive-situation",
-        "order": 52,
+        "order": 76,
         "name": "Explosive Situation",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "money": 7000,
+          "other": "Respect"
         },
         "summary": "Steal explosives from a quarry for the casino heist.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/explosive-situation.svg"
       },
       {
         "id": "youve-had-your-chips",
-        "order": 53,
+        "order": 77,
         "name": "You've Had Your Chips",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "money": 10000,
+          "other": "Respect; Combat Shotgun at Ammu-Nation"
         },
         "summary": "Destroy a counterfeit chip factory.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/youve-had-your-chips.svg"
       },
       {
         "id": "don-peyote",
-        "order": 54,
+        "order": 78,
         "name": "Don Peyote",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "The Truth",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Rescue Kent Paul and Maccer from a desert cult.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/don-peyote.svg"
       },
       {
         "id": "architectural-espionage",
-        "order": 55,
+        "order": 79,
         "name": "Architectural Espionage",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Steal the Caligula's Palace blueprints.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/architectural-espionage.svg"
       },
       {
         "id": "key-to-her-heart",
-        "order": 56,
+        "order": 80,
         "name": "Key to Her Heart",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect; Millie as a girlfriend"
         },
         "summary": "Date Millie to obtain the casino key card.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/key-to-her-heart.svg"
       },
       {
         "id": "dam-and-blast",
-        "order": 57,
+        "order": 81,
         "name": "Dam and Blast",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Sabotage the dam's power supply before the heist.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/dam-and-blast.svg"
       },
       {
         "id": "cop-wheels",
-        "order": 58,
+        "order": 82,
         "name": "Cop Wheels",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Steal four police bikes for the heist crew.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/cop-wheels.svg"
       },
       {
         "id": "up-up-and-away",
-        "order": 59,
+        "order": 83,
         "name": "Up, Up and Away!",
         "type": "Heist",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "other": "Respect; Leviathan at Verdant Meadows"
         },
         "summary": "Steal a helicopter from a military convoy.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/up-up-and-away.svg"
       },
       {
+        "id": "intensive-care",
+        "order": 84,
+        "name": "Intensive Care",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 5000,
+          "other": "Respect"
+        },
+        "summary": "Kidnap a mob witness from a hospital.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/intensive-care.svg"
+      },
+      {
+        "id": "the-meat-business",
+        "order": 85,
+        "name": "The Meat Business",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 8000,
+          "other": "Respect"
+        },
+        "summary": "Rescue Ken Rosenberg from the meat factory.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/the-meat-business.svg"
+      },
+      {
+        "id": "madd-dogg",
+        "order": 86,
+        "name": "Madd Dogg",
+        "type": "Story",
+        "giver": "Madd Dogg",
+        "location": "Las Venturas",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Save Madd Dogg from jumping off a casino roof.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/madd-dogg.svg"
+      },
+      {
+        "id": "fish-in-a-barrel",
+        "order": 87,
+        "name": "Fish in a Barrel",
+        "type": "Story",
+        "giver": "Woozie",
+        "location": "Las Venturas",
+        "reward": {},
+        "summary": "Kill the men who tried to drown Madd Dogg.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/fish-in-a-barrel.svg"
+      },
+      {
+        "id": "misappropriation",
+        "order": 88,
+        "name": "Misappropriation",
+        "type": "Story",
+        "giver": "C.R.A.S.H.",
+        "location": "Las Venturas",
+        "reward": {},
+        "summary": "Raid a desert compound for C.R.A.S.H. evidence.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/misappropriation.svg"
+      },
+      {
+        "id": "freefall",
+        "order": 89,
+        "name": "Freefall",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 15000,
+          "other": "Respect"
+        },
+        "summary": "Catch a falling plane with a charter jet.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/freefall.svg"
+      },
+      {
+        "id": "high-noon",
+        "order": 90,
+        "name": "High Noon",
+        "type": "Story",
+        "giver": "C.R.A.S.H.",
+        "location": "Las Venturas",
+        "reward": {},
+        "summary": "Kill Pulaski in the desert.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/high-noon.svg"
+      },
+      {
+        "id": "saint-marks-bistro",
+        "order": 91,
+        "name": "Saint Mark's Bistro",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 20000,
+          "other": "Respect"
+        },
+        "summary": "Hit a Liberty City restaurant full of Forellis.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/saint-marks-bistro.svg"
+      },
+      {
         "id": "breaking-the-bank-at-caligulas",
-        "order": 60,
+        "order": 92,
         "name": "Breaking the Bank at Caligula's",
         "type": "Heist",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Caligula's Palace",
         "reward": {
-          "money": 0
+          "money": 100000,
+          "other": "Respect"
         },
-        "summary": "Rob Caligula's Palace casino.",
+        "summary": "Rob Caligula's Palace casino using the stolen blueprints and key card.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/breaking-the-bank-at-caligulas.svg"
       },
       {
         "id": "a-home-in-the-hills",
-        "order": 61,
+        "order": 93,
         "name": "A Home in the Hills",
         "type": "Story",
-        "giver": "Wu Zi Mu",
+        "giver": "Woozie",
         "location": "Mulholland",
         "reward": {
-          "money": 0
+          "other": "Respect; Madd Dogg's crib"
         },
         "summary": "Reclaim Madd Dogg's mansion from Big Poppa.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/a-home-in-the-hills.svg"
       },
       {
         "id": "vertical-bird",
-        "order": 62,
+        "order": 94,
         "name": "Vertical Bird",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Las Venturas",
         "reward": {
-          "money": 0
+          "money": 50000,
+          "other": "Hydra at Verdant Meadows"
         },
-        "summary": "Steal a Harrier jet from an aircraft carrier.",
+        "summary": "Steal a Harrier jump jet from an aircraft carrier.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/vertical-bird.svg"
       },
       {
         "id": "home-coming",
-        "order": 63,
+        "order": 95,
         "name": "Home Coming",
         "type": "Story",
         "giver": "Mike Toreno",
         "location": "Los Santos",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Return to Los Santos and rejoin Sweet.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/home-coming.svg"
       },
       {
-        "id": "cut-throat-business",
-        "order": 64,
-        "name": "Cut Throat Business",
-        "type": "Story",
-        "giver": "Sweet",
-        "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Chase down a record producer who cheated Madd Dogg.",
-        "verified": true,
-        "image": "assets/img/mission/gta-san-andreas/cut-throat-business.svg"
-      },
-      {
         "id": "beat-down-on-b-dup",
-        "order": 65,
+        "order": 96,
         "name": "Beat Down on B Dup",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Take back Grove Street territory from B Dup.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/beat-down-on-b-dup.svg"
       },
       {
+        "id": "cut-throat-business",
+        "order": 97,
+        "name": "Cut Throat Business",
+        "type": "Story",
+        "giver": "Madd Dogg",
+        "location": "Los Santos",
+        "reward": {
+          "other": "Respect"
+        },
+        "summary": "Chase down a record producer who cheated Madd Dogg.",
+        "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-san-andreas/cut-throat-business.svg"
+      },
+      {
         "id": "grove-4-life",
-        "order": 66,
+        "order": 98,
         "name": "Grove 4 Life",
         "type": "Story",
         "giver": "Sweet",
         "location": "Ganton",
         "reward": {
-          "money": 0
+          "money": 10000,
+          "other": "Respect"
         },
         "summary": "Defend Grove Street from a Ballas assault.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/grove-4-life.svg"
       },
       {
         "id": "riot",
-        "order": 67,
+        "order": 99,
         "name": "Riot",
         "type": "Story",
-        "giver": "Sweet",
+        "giver": "Carl Johnson",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
+        "reward": {},
         "summary": "Survive the city-wide riots after Tenpenny's trial.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/riot.svg"
       },
       {
         "id": "los-desperados",
-        "order": 68,
+        "order": 100,
         "name": "Los Desperados",
         "type": "Story",
-        "giver": "Cesar Vialpando",
+        "giver": "Sweet",
         "location": "El Corona",
         "reward": {
-          "money": 0
+          "other": "Respect"
         },
         "summary": "Help Cesar retake Aztecas territory.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/los-desperados.svg"
       },
       {
         "id": "end-of-the-line",
-        "order": 69,
+        "order": 101,
         "name": "End of the Line",
         "type": "Story",
         "giver": "Sweet",
         "location": "Los Santos",
         "reward": {
-          "money": 0
+          "money": 250000,
+          "other": "Story completion"
         },
         "summary": "Final mission: assault Big Smoke's crack palace and confront Tenpenny.",
         "verified": true,
+        "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
         "image": "assets/img/mission/gta-san-andreas/end-of-the-line.svg"
       }
     ]

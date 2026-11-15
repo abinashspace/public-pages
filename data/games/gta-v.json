@@ -5,11 +5,11 @@
     "year": 2013,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T15:53:40.656Z",
+    "generated": "2026-11-15T16:09:57.652Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "partial",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 19,
-      "missions": 43,
+      "missions": 75,
       "vehicles": 35,
       "weapons": 22,
       "cheats": 12,
@@ -274,63 +274,71 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
-        "id": "franklin-and-lamar",
+        "id": "prologue",
         "order": 1,
+        "name": "Prologue",
+        "type": "Story",
+        "giver": "None (flashback)",
+        "location": "Ludendorff, North Yankton",
+        "playable": "Michael, Trevor",
+        "reward": {
+          "other": "Nine years before the story"
+        },
+        "summary": "The Ludendorff bank robbery in 2004 goes wrong and Brad is shot.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/prologue.svg"
+      },
+      {
+        "id": "franklin-and-lamar",
+        "order": 2,
         "name": "Franklin and Lamar",
         "type": "Story",
         "giver": "Simeon Yetarian",
-        "location": "Vespucci",
+        "location": "Strawberry, Los Santos",
+        "playable": "Franklin",
         "reward": {
-          "money": 0
+          "other": "Repossession work for Simeon"
         },
-        "summary": "Repossess two cars for Simeon and race Lamar back to the dealership.",
+        "summary": "Franklin and Lamar repossess two cars for Simeon Yetarian.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/franklin-and-lamar.svg"
       },
       {
         "id": "repossession",
-        "order": 2,
+        "order": 3,
         "name": "Repossession",
         "type": "Story",
         "giver": "Simeon Yetarian",
-        "location": "Vespucci",
+        "location": "Strawberry, Los Santos",
+        "playable": "Franklin",
         "reward": {
-          "money": 0
+          "other": "Michael introduced"
         },
-        "summary": "Recover a car from a gang-controlled housing project.",
+        "summary": "Franklin repossesses a car from a man who turns out to be Michael De Santa.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/repossession.svg"
       },
       {
         "id": "complications",
-        "order": 3,
+        "order": 4,
         "name": "Complications",
         "type": "Story",
         "giver": "Simeon Yetarian",
         "location": "Rockford Hills",
+        "playable": "Franklin, Michael",
         "reward": {
-          "money": 0
+          "other": "Michael and Franklin team up"
         },
-        "summary": "Repossess a car from Michael De Santa, who turns the tables.",
+        "summary": "Michael and Franklin break into Simeon's dealership to settle a debt.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/complications.svg"
-      },
-      {
-        "id": "chop",
-        "order": 4,
-        "name": "Chop",
-        "type": "Story",
-        "giver": "Lamar Davis",
-        "location": "Chamberlain Hills",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Use Chop to track down a rival gang member.",
-        "verified": true,
-        "image": "assets/img/mission/gta-v/chop.svg"
       },
       {
         "id": "father-son",
@@ -339,544 +347,1094 @@
         "type": "Story",
         "giver": "Michael De Santa",
         "location": "Rockford Hills",
+        "playable": "Michael, Franklin",
         "reward": {
-          "money": 0
+          "other": "Family mission chain"
         },
-        "summary": "Michael and Franklin rescue Jimmy from a boat chase.",
+        "summary": "Michael and Franklin chase down the boat carrying Michael's son.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/father-son.svg"
       },
       {
-        "id": "marriage-counseling",
+        "id": "chop",
         "order": 6,
+        "name": "Chop",
+        "type": "Story",
+        "giver": "Lamar Davis",
+        "location": "Strawberry, Los Santos",
+        "playable": "Franklin",
+        "reward": {
+          "other": "Chop as a companion"
+        },
+        "summary": "Franklin and Lamar use Chop to track a rival crew.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/chop.svg"
+      },
+      {
+        "id": "marriage-counseling",
+        "order": 7,
         "name": "Marriage Counseling",
         "type": "Story",
         "giver": "Michael De Santa",
         "location": "Rockford Hills",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Chase Amanda's tennis coach and accidentally destroy a mansion.",
+        "playable": "Michael, Franklin",
+        "reward": {},
+        "summary": "Michael and Franklin steal a car from a therapist's client.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/marriage-counseling.svg"
       },
       {
         "id": "daddys-little-girl",
-        "order": 7,
+        "order": 8,
         "name": "Daddy's Little Girl",
         "type": "Story",
         "giver": "Michael De Santa",
-        "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rescue Tracey from a reality-TV setup.",
+        "location": "Rockford Hills",
+        "playable": "Michael",
+        "reward": {},
+        "summary": "Michael stops his daughter's attempted robbery at a marina.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/daddys-little-girl.svg"
       },
       {
         "id": "friend-request",
-        "order": 8,
+        "order": 9,
         "name": "Friend Request",
         "type": "Story",
         "giver": "Lester Crest",
-        "location": "Los Santos",
+        "location": "Rockford Hills",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "Lester introduced; Lifeinvader"
         },
-        "summary": "Hack Lifeinvader and assassinate its CEO.",
+        "summary": "Michael helps Lester take down Lifeinvader.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/friend-request.svg"
       },
       {
         "id": "the-long-stretch",
-        "order": 9,
+        "order": 10,
         "name": "The Long Stretch",
         "type": "Story",
         "giver": "Lamar Davis",
-        "location": "Chamberlain Hills",
-        "reward": {
-          "money": 0
-        },
-        "summary": "A gang meeting turns into a firefight.",
+        "location": "Strawberry, Los Santos",
+        "playable": "Franklin",
+        "reward": {},
+        "summary": "Franklin and Lamar defend a deal against the Ballas.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/the-long-stretch.svg"
       },
       {
-        "id": "casing-the-jewel-store",
-        "order": 10,
-        "name": "Casing the Jewel Store",
-        "type": "Heist",
-        "giver": "Lester Crest",
+        "id": "the-good-husband",
+        "order": 11,
+        "name": "The Good Husband",
+        "type": "Side",
+        "giver": "Amanda De Santa",
         "location": "Rockford Hills",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "Optional family mission"
         },
-        "summary": "Scout Vangelico Jewellers and choose the approach.",
+        "summary": "Michael retrieves Amanda's things from a yacht.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-good-husband.svg"
+      },
+      {
+        "id": "casing-the-jewel-store",
+        "order": 12,
+        "name": "Casing the Jewel Store",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Textile City",
+        "playable": "Michael",
+        "reward": {
+          "other": "Heist planning: The Jewel Store Job"
+        },
+        "summary": "Michael and Lester case the Vangelico jewelry store.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/casing-the-jewel-store.svg"
       },
       {
         "id": "carbine-rifles",
-        "order": 11,
+        "order": 13,
         "name": "Carbine Rifles",
-        "type": "Heist",
+        "type": "Story",
         "giver": "Lester Crest",
         "location": "Los Santos",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "Heist setup; loud approach"
         },
-        "summary": "Steal a police convoy's carbine rifles for the loud approach.",
+        "summary": "Michael steals carbine rifles from a police convoy.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/carbine-rifles.svg"
       },
       {
-        "id": "bugstars",
-        "order": 12,
-        "name": "Bugstars",
-        "type": "Heist",
+        "id": "bugstars-equipment",
+        "order": 14,
+        "name": "Bugstars Equipment",
+        "type": "Story",
         "giver": "Lester Crest",
-        "location": "Rockford Hills",
+        "location": "Los Santos",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "Heist setup; smart approach"
         },
-        "summary": "Pose as pest control to plant gas in the jewellery store.",
+        "summary": "Michael obtains Bugstars pest-control uniforms and a van.",
         "verified": true,
-        "image": "assets/img/mission/gta-v/bugstars.svg"
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/bugstars-equipment.svg"
+      },
+      {
+        "id": "bz-gas-grenades",
+        "order": 15,
+        "name": "BZ Gas Grenades",
+        "type": "Side",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael",
+        "reward": {
+          "other": "Heist setup; smart approach; optional"
+        },
+        "summary": "Michael steals gas grenades from a National Guard depot.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/bz-gas-grenades.svg"
       },
       {
         "id": "the-jewel-store-job",
-        "order": 13,
+        "order": 16,
         "name": "The Jewel Store Job",
         "type": "Heist",
         "giver": "Lester Crest",
-        "location": "Rockford Hills",
+        "location": "Textile City",
+        "playable": "Michael, Franklin",
         "reward": {
-          "money": 0
+          "other": "Heist finale; first score"
         },
-        "summary": "Rob Vangelico Jewellers and escape on motorbikes.",
+        "summary": "Rob the Vangelico jewelry store by the loud or smart approach.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/the-jewel-store-job.svg"
       },
       {
         "id": "mr-philips",
-        "order": 14,
+        "order": 17,
         "name": "Mr. Philips",
         "type": "Story",
         "giver": "Trevor Philips",
         "location": "Sandy Shores",
+        "playable": "Trevor",
         "reward": {
-          "money": 0
+          "other": "Trevor becomes playable"
         },
-        "summary": "Trevor takes over the Lost MC's meth business by force.",
+        "summary": "Trevor rides out to Los Santos after the jewelry heist.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/mr-philips.svg"
       },
       {
         "id": "trevor-philips-industries",
-        "order": 15,
+        "order": 18,
         "name": "Trevor Philips Industries",
         "type": "Story",
-        "giver": "Trevor Philips",
+        "giver": "Tao Cheng",
         "location": "Sandy Shores",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Defend the meth lab from rival dealers.",
+        "playable": "Trevor",
+        "reward": {},
+        "summary": "Trevor defends his meth business from the O'Neil brothers.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/trevor-philips-industries.svg"
       },
       {
         "id": "nervous-ron",
-        "order": 16,
+        "order": 19,
         "name": "Nervous Ron",
         "type": "Story",
-        "giver": "Ron Jakowski",
+        "giver": "Trevor Philips",
         "location": "Sandy Shores",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Steal a plane for Trevor's arms business.",
+        "playable": "Trevor",
+        "reward": {},
+        "summary": "Trevor and Ron steal a plane from a McKenzie airfield.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/nervous-ron.svg"
       },
       {
         "id": "crystal-maze",
-        "order": 17,
+        "order": 20,
         "name": "Crystal Maze",
         "type": "Story",
-        "giver": "Trevor Philips",
+        "giver": "Tao Cheng",
         "location": "Sandy Shores",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Raid a rival meth operation.",
+        "playable": "Trevor",
+        "reward": {},
+        "summary": "Trevor attacks the O'Neil brothers' farmhouse.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/crystal-maze.svg"
       },
       {
         "id": "friends-reunited",
-        "order": 18,
+        "order": 21,
         "name": "Friends Reunited",
         "type": "Story",
         "giver": "Trevor Philips",
-        "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Trevor tracks down Michael in Los Santos.",
+        "location": "Sandy Shores",
+        "playable": "Trevor",
+        "reward": {},
+        "summary": "Trevor confronts the Lost MC at their clubhouse.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/friends-reunited.svg"
       },
       {
         "id": "fame-or-shame",
-        "order": 19,
+        "order": 22,
         "name": "Fame or Shame",
         "type": "Story",
-        "giver": "Trevor Philips",
+        "giver": "Michael De Santa",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Wreck Tracey's talent show.",
+        "playable": "Michael, Trevor",
+        "reward": {},
+        "summary": "Michael and Trevor chase down a talent-show host.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/fame-or-shame.svg"
       },
       {
         "id": "dead-man-walking",
-        "order": 20,
+        "order": 23,
         "name": "Dead Man Walking",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Dave Norton (FIB)",
         "location": "Los Santos",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "FIB storyline opens"
         },
-        "summary": "Infiltrate a morgue and steal a body for the FIB.",
+        "summary": "Michael is taken to the morgue to fake his own death.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/dead-man-walking.svg"
       },
       {
-        "id": "did-somebody-say-yoga",
-        "order": 21,
-        "name": "Did Somebody Say Yoga?",
-        "type": "Story",
-        "giver": "Michael De Santa",
-        "location": "Rockford Hills",
-        "reward": {
-          "money": 0
-        },
-        "summary": "A family therapy session ends with Michael drugged and stranded.",
-        "verified": true,
-        "image": "assets/img/mission/gta-v/did-somebody-say-yoga.svg"
-      },
-      {
         "id": "threes-company",
-        "order": 22,
+        "order": 24,
         "name": "Three's Company",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Dave Norton (FIB)",
         "location": "Los Santos",
+        "playable": "Michael, Trevor, Franklin",
         "reward": {
-          "money": 0
+          "other": "All three protagonists together"
         },
-        "summary": "Extract a target from the IAA building.",
+        "summary": "The three protagonists extract a target from the IAA building.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/threes-company.svg"
       },
       {
         "id": "by-the-book",
-        "order": 23,
+        "order": 25,
         "name": "By the Book",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Steve Haines (FIB)",
         "location": "Los Santos",
+        "playable": "Michael, Trevor",
         "reward": {
-          "money": 0
+          "other": "Interrogation scenes"
         },
-        "summary": "Torture interrogation for the FIB.",
+        "summary": "Michael and Trevor torture a man for Steve Haines.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/by-the-book.svg"
       },
       {
+        "id": "hood-safari",
+        "order": 26,
+        "name": "Hood Safari",
+        "type": "Story",
+        "giver": "Lamar Davis",
+        "location": "Strawberry, Los Santos",
+        "playable": "Franklin, Trevor",
+        "reward": {},
+        "summary": "Franklin and Trevor survive a Ballas ambush at a drug deal.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/hood-safari.svg"
+      },
+      {
+        "id": "did-somebody-say-yoga",
+        "order": 27,
+        "name": "Did Somebody Say Yoga?",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Rockford Hills",
+        "playable": "Michael",
+        "reward": {
+          "other": "Michael's family leaves"
+        },
+        "summary": "Michael's family falls apart after a yoga session.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/did-somebody-say-yoga.svg"
+      },
+      {
+        "id": "scouting-the-port",
+        "order": 28,
+        "name": "Scouting the Port",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Port of Los Santos",
+        "playable": "Trevor",
+        "reward": {
+          "other": "Heist planning: The Merryweather Heist"
+        },
+        "summary": "Trevor scouts the port for the Merryweather heist.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/scouting-the-port.svg"
+      },
+      {
+        "id": "minisub",
+        "order": 29,
+        "name": "Minisub",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Port of Los Santos",
+        "playable": "Trevor",
+        "reward": {
+          "other": "Heist setup"
+        },
+        "summary": "Trevor steals a minisub for the port heist.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/minisub.svg"
+      },
+      {
+        "id": "cargobob",
+        "order": 30,
+        "name": "Cargobob",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Fort Zancudo",
+        "playable": "Trevor",
+        "reward": {
+          "other": "Heist setup; offshore approach"
+        },
+        "summary": "Trevor steals a Cargobob from Fort Zancudo.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/cargobob.svg"
+      },
+      {
+        "id": "the-merryweather-heist",
+        "order": 31,
+        "name": "The Merryweather Heist",
+        "type": "Heist",
+        "giver": "Trevor Philips",
+        "location": "Port of Los Santos",
+        "playable": "Trevor, Michael, Franklin",
+        "reward": {
+          "other": "Heist finale"
+        },
+        "summary": "Raid Merryweather's cargo with the sub or the container approach.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-merryweather-heist.svg"
+      },
+      {
+        "id": "the-hotel-assassination",
+        "order": 32,
+        "name": "The Hotel Assassination",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Franklin",
+        "reward": {
+          "other": "Stock market payout"
+        },
+        "summary": "Franklin assassinates a target for Lester and moves the markets.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-hotel-assassination.svg"
+      },
+      {
+        "id": "boiler-suits",
+        "order": 33,
+        "name": "Boiler Suits",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup for Blitz Play"
+        },
+        "summary": "The crew steals boiler suits for the FIB heist.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/boiler-suits.svg"
+      },
+      {
+        "id": "masks",
+        "order": 34,
+        "name": "Masks",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup for Blitz Play"
+        },
+        "summary": "The crew buys masks from a robbery crew.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/masks.svg"
+      },
+      {
+        "id": "trash-truck",
+        "order": 35,
+        "name": "Trash Truck",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup for Blitz Play"
+        },
+        "summary": "The crew steals a garbage truck as a getaway vehicle.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/trash-truck.svg"
+      },
+      {
+        "id": "tow-truck",
+        "order": 36,
+        "name": "Tow Truck",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup for Blitz Play"
+        },
+        "summary": "The crew steals a tow truck for the FIB ambush.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/tow-truck.svg"
+      },
+      {
         "id": "blitz-play",
-        "order": 24,
+        "order": 37,
         "name": "Blitz Play",
         "type": "Heist",
-        "giver": "FIB",
+        "giver": "Steve Haines (FIB)",
         "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
         "reward": {
-          "money": 0
+          "other": "Heist finale"
         },
-        "summary": "Three-way ambush of an armored car with a fire truck.",
+        "summary": "Ambush an armored truck using the classic FIB plan.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/blitz-play.svg"
       },
       {
-        "id": "mr-richards",
-        "order": 25,
-        "name": "Mr. Richards",
-        "type": "Story",
-        "giver": "Solomon Richards",
-        "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Help a film producer deal with a star's scandal.",
-        "verified": true,
-        "image": "assets/img/mission/gta-v/mr-richards.svg"
-      },
-      {
         "id": "i-fought-the-law",
-        "order": 26,
-        "name": "I Fought the Law",
+        "order": 38,
+        "name": "I Fought the Law...",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Devin Weston",
         "location": "Los Santos",
+        "playable": "Franklin, Michael, Trevor",
         "reward": {
-          "money": 0
+          "other": "Devin Weston introduced"
         },
-        "summary": "Steal two supercars for the FIB's evidence lockup.",
+        "summary": "The crew steals a classic car collection for Devin Weston.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/i-fought-the-law.svg"
       },
       {
         "id": "eye-in-the-sky",
-        "order": 27,
+        "order": 39,
         "name": "Eye in the Sky",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Devin Weston",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Use a police helicopter's camera to identify a target.",
+        "playable": "Franklin, Trevor",
+        "reward": {},
+        "summary": "Franklin and Trevor steal a police helicopter and a supercar.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/eye-in-the-sky.svg"
       },
       {
+        "id": "mr-richards",
+        "order": 40,
+        "name": "Mr. Richards",
+        "type": "Story",
+        "giver": "Solomon Richards",
+        "location": "Los Santos",
+        "playable": "Michael",
+        "reward": {
+          "other": "Solomon Richards introduced"
+        },
+        "summary": "Michael helps a film producer deal with a difficult actor.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/mr-richards.svg"
+      },
+      {
+        "id": "caida-libre",
+        "order": 41,
+        "name": "Caida Libre",
+        "type": "Story",
+        "giver": "Martin Madrazo",
+        "location": "Los Santos",
+        "playable": "Michael, Trevor",
+        "reward": {
+          "other": "Martin Madrazo introduced"
+        },
+        "summary": "Michael and Trevor shoot down a private jet for Madrazo.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/caida-libre.svg"
+      },
+      {
         "id": "deep-inside",
-        "order": 28,
+        "order": 42,
         "name": "Deep Inside",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Devin Weston",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Infiltrate the FIB building disguised as cleaners.",
+        "playable": "Franklin",
+        "reward": {},
+        "summary": "Franklin and Trevor steal a prototype car from a movie set.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/deep-inside.svg"
       },
       {
         "id": "minor-turbulence",
-        "order": 29,
+        "order": 43,
         "name": "Minor Turbulence",
         "type": "Story",
         "giver": "Trevor Philips",
-        "location": "Blaine County",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Hijack a cargo plane mid-flight.",
+        "location": "Sandy Shores",
+        "playable": "Trevor",
+        "reward": {},
+        "summary": "Trevor boards a cargo plane in mid-air.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/minor-turbulence.svg"
       },
       {
+        "id": "paleto-score-setup",
+        "order": 44,
+        "name": "Paleto Score Setup",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Paleto Bay",
+        "playable": "Michael, Trevor",
+        "reward": {
+          "other": "Heist planning: The Paleto Score"
+        },
+        "summary": "Michael and Trevor plan the Paleto Bay bank robbery.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/paleto-score-setup.svg"
+      },
+      {
+        "id": "predator",
+        "order": 45,
+        "name": "Predator",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Sandy Shores",
+        "playable": "Trevor, Michael, Franklin",
+        "reward": {
+          "other": "Sniper rifle"
+        },
+        "summary": "Trevor hunts a Merryweather team in the Chiliad wilderness.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/predator.svg"
+      },
+      {
+        "id": "military-hardware",
+        "order": 46,
+        "name": "Military Hardware",
+        "type": "Story",
+        "giver": "Steve Haines (FIB)",
+        "location": "Fort Zancudo",
+        "playable": "Michael, Trevor",
+        "reward": {
+          "other": "Heist setup"
+        },
+        "summary": "Michael and Trevor steal military hardware for the Paleto Score.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/military-hardware.svg"
+      },
+      {
         "id": "the-paleto-score",
-        "order": 30,
+        "order": 47,
         "name": "The Paleto Score",
         "type": "Heist",
         "giver": "Lester Crest",
         "location": "Paleto Bay",
+        "playable": "Michael, Franklin, Trevor",
         "reward": {
-          "money": 0
+          "other": "Heist finale"
         },
-        "summary": "Rob a small-town bank with military-grade firepower.",
+        "summary": "Rob the Paleto Bay bank and fight through the police response.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/the-paleto-score.svg"
       },
       {
         "id": "derailed",
-        "order": 31,
+        "order": 48,
         "name": "Derailed",
         "type": "Story",
         "giver": "Trevor Philips",
-        "location": "Blaine County",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Stop a train to steal its cargo.",
+        "location": "Sandy Shores",
+        "playable": "Trevor, Michael",
+        "reward": {},
+        "summary": "Trevor and Michael stop a train to steal its cargo.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/derailed.svg"
       },
       {
         "id": "monkey-business",
-        "order": 32,
+        "order": 49,
         "name": "Monkey Business",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Steve Haines (FIB)",
         "location": "Humane Labs",
+        "playable": "Michael, Trevor, Franklin",
         "reward": {
-          "money": 0
+          "other": "Chemical weapon stolen"
         },
-        "summary": "Steal a chemical weapon from Humane Labs.",
+        "summary": "The crew raids Humane Labs for a chemical weapon.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/monkey-business.svg"
       },
       {
-        "id": "predator",
-        "order": 33,
-        "name": "Predator",
+        "id": "hang-ten",
+        "order": 50,
+        "name": "Hang Ten",
         "type": "Story",
-        "giver": "FIB",
-        "location": "Blaine County",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Snipe mercenaries in the woods.",
+        "giver": "Trevor Philips",
+        "location": "Vespucci Beach",
+        "playable": "Trevor, Michael",
+        "reward": {},
+        "summary": "Trevor and Michael chase a target along the beach.",
         "verified": true,
-        "image": "assets/img/mission/gta-v/predator.svg"
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/hang-ten.svg"
       },
       {
         "id": "surveying-the-score",
-        "order": 34,
+        "order": 51,
         "name": "Surveying the Score",
-        "type": "Heist",
-        "giver": "Lester Crest",
+        "type": "Story",
+        "giver": "Trevor Philips",
         "location": "Los Santos",
+        "playable": "Trevor, Michael, Franklin",
         "reward": {
-          "money": 0
+          "other": "Heist planning: The Big Score"
         },
-        "summary": "Case the Union Depository for the final heist.",
+        "summary": "The crew surveys the Union Depository for the final heist.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/surveying-the-score.svg"
       },
       {
         "id": "bury-the-hatchet",
-        "order": 35,
+        "order": 52,
         "name": "Bury the Hatchet",
         "type": "Story",
-        "giver": "Trevor Philips",
-        "location": "North Yankton",
+        "giver": "Michael De Santa",
+        "location": "Ludendorff, North Yankton",
+        "playable": "Michael, Trevor",
         "reward": {
-          "money": 0
+          "other": "Brad's grave revealed"
         },
-        "summary": "Trevor learns the truth about Brad and Michael.",
+        "summary": "Michael and Trevor return to Ludendorff and the truth comes out.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/bury-the-hatchet.svg"
       },
       {
         "id": "pack-man",
-        "order": 36,
+        "order": 53,
         "name": "Pack Man",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Devin Weston",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Steal a convoy of cars for Devin Weston.",
+        "playable": "Franklin, Trevor",
+        "reward": {},
+        "summary": "Franklin and Trevor steal a car from a collector for Weston.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/pack-man.svg"
       },
       {
         "id": "fresh-meat",
-        "order": 37,
+        "order": 54,
         "name": "Fresh Meat",
         "type": "Story",
-        "giver": "Michael De Santa",
+        "giver": "Franklin Clinton",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rescue Michael from kidnappers.",
+        "playable": "Franklin, Michael",
+        "reward": {},
+        "summary": "Franklin rescues Michael from kidnappers.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/fresh-meat.svg"
       },
       {
+        "id": "the-ballad-of-rocco",
+        "order": 55,
+        "name": "The Ballad of Rocco",
+        "type": "Story",
+        "giver": "Solomon Richards",
+        "location": "Los Santos",
+        "playable": "Michael",
+        "reward": {},
+        "summary": "Michael protects a film set from a mobster's demands.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-ballad-of-rocco.svg"
+      },
+      {
+        "id": "cleaning-out-the-bureau",
+        "order": 56,
+        "name": "Cleaning out the Bureau",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael",
+        "reward": {
+          "other": "Heist planning: The Bureau Raid"
+        },
+        "summary": "Michael and Lester plan the FIB raid.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/cleaning-out-the-bureau.svg"
+      },
+      {
+        "id": "architects-plans",
+        "order": 57,
+        "name": "Architect's Plans",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Franklin",
+        "reward": {
+          "other": "Heist setup for The Bureau Raid"
+        },
+        "summary": "Franklin steals the FIB building plans.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/architects-plans.svg"
+      },
+      {
+        "id": "fire-truck",
+        "order": 58,
+        "name": "Fire Truck",
+        "type": "Side",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin",
+        "reward": {
+          "other": "Heist setup; fire crew approach; optional"
+        },
+        "summary": "The crew steals a fire truck for the Bureau Raid.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/fire-truck.svg"
+      },
+      {
+        "id": "the-bureau-raid",
+        "order": 59,
+        "name": "The Bureau Raid",
+        "type": "Heist",
+        "giver": "Steve Haines",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin",
+        "reward": {
+          "other": "Heist finale"
+        },
+        "summary": "Raid the FIB building for the files Haines wants.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-bureau-raid.svg"
+      },
+      {
         "id": "the-wrap-up",
-        "order": 38,
+        "order": 60,
         "name": "The Wrap Up",
         "type": "Story",
-        "giver": "FIB",
+        "giver": "Dave Norton (FIB)",
         "location": "Los Santos",
-        "reward": {
-          "money": 0
-        },
-        "summary": "A deal at the Kortz Center ends in a shootout.",
+        "playable": "Michael, Trevor",
+        "reward": {},
+        "summary": "Michael and Trevor survive an FIB ambush at the Kortz Center.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/the-wrap-up.svg"
       },
       {
+        "id": "reuniting-the-family",
+        "order": 61,
+        "name": "Reuniting the Family",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Rockford Hills",
+        "playable": "Michael",
+        "reward": {
+          "other": "Family returns"
+        },
+        "summary": "Michael brings his family back together.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/reuniting-the-family.svg"
+      },
+      {
+        "id": "doting-dad",
+        "order": 62,
+        "name": "Doting Dad",
+        "type": "Side",
+        "giver": "Tracey De Santa",
+        "location": "Rockford Hills",
+        "playable": "Michael",
+        "reward": {
+          "other": "Optional family mission"
+        },
+        "summary": "Michael helps Tracey with a stalker.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/doting-dad.svg"
+      },
+      {
+        "id": "legal-trouble",
+        "order": 63,
+        "name": "Legal Trouble",
+        "type": "Story",
+        "giver": "Solomon Richards",
+        "location": "Los Santos",
+        "playable": "Michael",
+        "reward": {},
+        "summary": "Michael rescues a film reel from a deal gone wrong.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/legal-trouble.svg"
+      },
+      {
         "id": "lamar-down",
-        "order": 39,
+        "order": 64,
         "name": "Lamar Down",
         "type": "Story",
-        "giver": "Lamar Davis",
-        "location": "Blaine County",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rescue Lamar from a Sawmill shootout.",
+        "giver": "Franklin Clinton",
+        "location": "Los Santos",
+        "playable": "Franklin, Michael, Trevor",
+        "reward": {},
+        "summary": "The crew rescues Lamar from the Ballas.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/lamar-down.svg"
       },
       {
         "id": "meltdown",
-        "order": 40,
+        "order": 65,
         "name": "Meltdown",
         "type": "Story",
-        "giver": "Devin Weston",
+        "giver": "Michael De Santa",
         "location": "Los Santos",
+        "playable": "Michael",
         "reward": {
-          "money": 0
+          "other": "Solomon Richards' film saved"
         },
-        "summary": "Stop Devin Weston's lawyers from moving his assets.",
+        "summary": "Michael stops an attack on the premiere of Solomon's film.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/meltdown.svg"
       },
       {
-        "id": "the-third-way",
-        "order": 41,
-        "name": "The Third Way",
+        "id": "parenting-101",
+        "order": 66,
+        "name": "Parenting 101",
+        "type": "Side",
+        "giver": "Jimmy De Santa",
+        "location": "Rockford Hills",
+        "playable": "Michael",
+        "reward": {
+          "other": "Optional family mission"
+        },
+        "summary": "Michael chases Jimmy across the city on a bike.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/parenting-101.svg"
+      },
+      {
+        "id": "planning-the-big-score",
+        "order": 67,
+        "name": "Planning the Big Score",
         "type": "Story",
         "giver": "Lester Crest",
         "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
         "reward": {
-          "money": 0
+          "other": "Heist planning: The Big Score"
         },
-        "summary": "Ending: keep all three protagonists alive and settle every score.",
+        "summary": "The crew decides between the subtle and obvious approaches.",
         "verified": true,
-        "image": "assets/img/mission/gta-v/the-third-way.svg"
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/planning-the-big-score.svg"
+      },
+      {
+        "id": "stingers",
+        "order": 68,
+        "name": "Stingers",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup; subtle approach"
+        },
+        "summary": "The crew steals police stingers for the Big Score.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/stingers.svg"
+      },
+      {
+        "id": "sidetracked",
+        "order": 69,
+        "name": "Sidetracked",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup; obvious approach"
+        },
+        "summary": "The crew hijacks a train for the Big Score.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/sidetracked.svg"
+      },
+      {
+        "id": "gauntlet",
+        "order": 70,
+        "name": "Gauntlet",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup; subtle approach"
+        },
+        "summary": "The crew steals Gauntlets as getaway cars.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/gauntlet.svg"
+      },
+      {
+        "id": "driller",
+        "order": 71,
+        "name": "Driller",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist setup; obvious approach"
+        },
+        "summary": "The crew steals a large drill for the Big Score.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/driller.svg"
+      },
+      {
+        "id": "the-big-score",
+        "order": 72,
+        "name": "The Big Score",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Michael, Franklin, Trevor",
+        "reward": {
+          "other": "Heist finale; largest payout in the game"
+        },
+        "summary": "Rob the Union Depository, the biggest score of the story.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-big-score.svg"
       },
       {
         "id": "something-sensible",
-        "order": 42,
+        "order": 73,
         "name": "Something Sensible",
         "type": "Story",
-        "giver": "Devin Weston",
+        "giver": "Steve Haines (FIB)",
         "location": "Los Santos",
+        "playable": "Franklin",
         "reward": {
-          "money": 0
+          "other": "Ending A"
         },
-        "summary": "Ending: Franklin sides with Weston against Trevor.",
+        "summary": "Ending A: Franklin turns on Trevor.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/something-sensible.svg"
       },
       {
         "id": "the-times-come",
-        "order": 43,
+        "order": 74,
         "name": "The Time's Come",
         "type": "Story",
         "giver": "Devin Weston",
         "location": "Los Santos",
+        "playable": "Franklin",
         "reward": {
-          "money": 0
+          "other": "Ending B"
         },
-        "summary": "Ending: Franklin sides with Weston against Michael.",
+        "summary": "Ending B: Franklin turns on Michael.",
         "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
         "image": "assets/img/mission/gta-v/the-times-come.svg"
+      },
+      {
+        "id": "the-third-way",
+        "order": 75,
+        "name": "The Third Way",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "playable": "Franklin, Michael, Trevor",
+        "reward": {
+          "other": "Ending C; true ending"
+        },
+        "summary": "Ending C: the three protagonists take on all their enemies together.",
+        "verified": true,
+        "source": "GTA V mission order, givers and variants cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-v/the-third-way.svg"
       }
     ]
   },

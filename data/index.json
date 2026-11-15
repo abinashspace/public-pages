@@ -5,7 +5,7 @@
     "base_url": "https://abinashspace.github.io/gta-hub",
     "language": "en"
   },
-  "generated": "2026-11-15T15:53:38.511Z",
+  "generated": "2026-11-15T16:09:55.389Z",
   "schema_version": "1.0.0",
   "counts": {
     "games": 17,
@@ -408,7 +408,7 @@
       "accent": "#2f9e44",
       "counts": {
         "characters": 23,
-        "missions": 69,
+        "missions": 101,
         "vehicles": 54,
         "weapons": 21,
         "cheats": 25,
@@ -417,14 +417,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "partial",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 220,
+      "records": 252,
       "links": {
         "page": "games/gta-san-andreas/",
         "data": "data/games/gta-san-andreas.json",
@@ -594,7 +594,7 @@
       "accent": "#495057",
       "counts": {
         "characters": 18,
-        "missions": 50,
+        "missions": 90,
         "vehicles": 38,
         "weapons": 14,
         "cheats": 12,
@@ -603,14 +603,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "partial",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 148,
+      "records": 188,
       "links": {
         "page": "games/gta-iv/",
         "data": "data/games/gta-iv.json",
@@ -790,7 +790,7 @@
       "accent": "#0b7285",
       "counts": {
         "characters": 19,
-        "missions": 43,
+        "missions": 75,
         "vehicles": 35,
         "weapons": 22,
         "cheats": 12,
@@ -799,14 +799,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "partial",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 151,
+      "records": 183,
       "links": {
         "page": "games/gta-v/",
         "data": "data/games/gta-v.json",

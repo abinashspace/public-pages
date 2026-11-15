@@ -74,6 +74,9 @@
       "type": "array",
       "items": "string"
     },
+    "playable": {
+      "type": "string"
+    },
     "image": {
       "type": [
         "string",

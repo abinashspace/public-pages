@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T15:53:40.703Z",
+  "generated": "2026-11-15T16:09:57.706Z",
   "games": [
     {
       "slug": "gta",
@@ -221,15 +221,15 @@
       "slug": "gta-san-andreas",
       "title": "Grand Theft Auto: San Andreas",
       "status": "released",
-      "records": 220,
+      "records": 252,
       "sections": {
         "characters": {
           "count": 23,
           "coverage": "partial"
         },
         "missions": {
-          "count": 69,
-          "coverage": "partial"
+          "count": 101,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 54,
@@ -365,15 +365,15 @@
       "slug": "gta-iv",
       "title": "Grand Theft Auto IV",
       "status": "released",
-      "records": 148,
+      "records": 188,
       "sections": {
         "characters": {
           "count": 18,
           "coverage": "partial"
         },
         "missions": {
-          "count": 50,
-          "coverage": "partial"
+          "count": 90,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 38,
@@ -509,15 +509,15 @@
       "slug": "gta-v",
       "title": "Grand Theft Auto V",
       "status": "released",
-      "records": 151,
+      "records": 183,
       "sections": {
         "characters": {
           "count": 19,
           "coverage": "partial"
         },
         "missions": {
-          "count": 43,
-          "coverage": "partial"
+          "count": 75,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 35,
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 1395,
+    "total": 1499,
     "real": 0,
-    "placeholder": 1395
+    "placeholder": 1499
   }
 }
