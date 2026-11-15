@@ -5,13 +5,13 @@
     "year": 1999,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:50:12.215Z",
+    "generated": "2026-11-15T16:56:35.417Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "limited",
       "vehicles": "complete",
-      "weapons": "limited",
+      "weapons": "complete",
       "cheats": "complete",
       "locations": "partial",
       "collectibles": "limited"
@@ -20,7 +20,7 @@
       "characters": 8,
       "missions": 4,
       "vehicles": 68,
-      "weapons": 8,
+      "weapons": 20,
       "cheats": 33,
       "locations": 4,
       "collectibles": 1
@@ -771,8 +771,16 @@
     ]
   },
   "weapons": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
+      {
+        "id": "dual-pistol",
+        "name": "Dual Pistol",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/dual-pistol.svg"
+      },
       {
         "id": "electro-gun",
         "name": "Electro Gun",
@@ -785,26 +793,58 @@
         "image": "assets/img/weapon/gta-2/electro-gun.svg"
       },
       {
+        "id": "electrobaton",
+        "name": "ElectroBaton",
+        "type": "Deleted weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/electrobaton.svg"
+      },
+      {
+        "id": "electrogun",
+        "name": "ElectroGun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/electrogun.svg"
+      },
+      {
         "id": "flamethrower",
         "name": "Flamethrower",
         "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Very high",
         "ammo": "Fuel",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-2/flamethrower.svg"
       },
       {
         "id": "grenades",
         "name": "Grenades",
-        "type": "Thrown",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "High",
         "ammo": "Count",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-2/grenades.svg"
+      },
+      {
+        "id": "instant-vehicle-bomb",
+        "name": "Instant Vehicle Bomb",
+        "type": "Deleted weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/instant-vehicle-bomb.svg"
+      },
+      {
+        "id": "melee-attack",
+        "name": "Melee attack",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/melee-attack.svg"
       },
       {
         "id": "molotov",
@@ -818,37 +858,61 @@
         "image": "assets/img/weapon/gta-2/molotov.svg"
       },
       {
+        "id": "molotov-cocktails",
+        "name": "Molotov Cocktails",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/molotov-cocktails.svg"
+      },
+      {
         "id": "pistol",
         "name": "Pistol",
         "type": "Handgun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Medium",
         "ammo": "Magazine",
-        "price": null,
         "unlock": "Default",
-        "verified": true,
         "image": "assets/img/weapon/gta-2/pistol.svg"
       },
       {
         "id": "rocket-launcher",
         "name": "Rocket Launcher",
         "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Lethal",
         "ammo": "Rockets",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-2/rocket-launcher.svg"
+      },
+      {
+        "id": "s-uzi-machine-gun",
+        "name": "S-Uzi Machine Gun",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/s-uzi-machine-gun.svg"
       },
       {
         "id": "shotgun",
         "name": "Shotgun",
-        "type": "Shotgun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "High",
         "ammo": "Shells",
-        "price": null,
         "unlock": "Street pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-2/shotgun.svg"
+      },
+      {
+        "id": "silenced-s-uzi-machine-gun",
+        "name": "Silenced S-Uzi Machine Gun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/silenced-s-uzi-machine-gun.svg"
       },
       {
         "id": "silenced-uzi",
@@ -860,6 +924,38 @@
         "unlock": "Street pickups",
         "verified": true,
         "image": "assets/img/weapon/gta-2/silenced-uzi.svg"
+      },
+      {
+        "id": "vehicle-bomb",
+        "name": "Vehicle Bomb",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-bomb.svg"
+      },
+      {
+        "id": "vehicle-machine-guns",
+        "name": "Vehicle Machine Guns",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-machine-guns.svg"
+      },
+      {
+        "id": "vehicle-mines",
+        "name": "Vehicle Mines",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-mines.svg"
+      },
+      {
+        "id": "vehicle-oil-slick",
+        "name": "Vehicle Oil Slick",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-oil-slick.svg"
       }
     ]
   },

@@ -2,52 +2,156 @@
   "game": "gta-vice-city",
   "game_title": "Grand Theft Auto: Vice City",
   "section": "weapons",
-  "coverage": "partial",
-  "count": 20,
+  "coverage": "complete",
+  "count": 59,
   "items": [
+    {
+      "id": "all-hands-on-deck",
+      "name": "All Hands On Deck!",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/all-hands-on-deck.svg"
+    },
+    {
+      "id": "autocide",
+      "name": "Autocide",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/autocide.svg"
+    },
+    {
+      "id": "back-alley-brawl",
+      "name": "Back Alley Brawl",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/back-alley-brawl.svg"
+    },
     {
       "id": "baseball-bat",
       "name": "Baseball Bat",
-      "type": "Melee",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "—",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/baseball-bat.svg"
     },
     {
       "id": "brass-knuckles",
       "name": "Brass Knuckles",
-      "type": "Melee",
+      "type": "Unarmed",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Low",
       "ammo": "—",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/brass-knuckles.svg"
+    },
+    {
+      "id": "camera",
+      "name": "Camera",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/camera.svg"
+    },
+    {
+      "id": "cannon-fodder",
+      "name": "Cannon Fodder",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/cannon-fodder.svg"
     },
     {
       "id": "chainsaw",
       "name": "Chainsaw",
-      "type": "Melee",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "—",
-      "price": null,
       "unlock": "Treacherous Swine / pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/chainsaw.svg"
+    },
+    {
+      "id": "check-out-at-the-check-in",
+      "name": "Check Out at the Check In",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/check-out-at-the-check-in.svg"
+    },
+    {
+      "id": "colt-45-pistol",
+      "name": "Colt 45/Pistol",
+      "type": "Handguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/colt-45-pistol.svg"
+    },
+    {
+      "id": "colt-python-357",
+      "name": "Colt Python/.357",
+      "type": "Handguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/colt-python-357.svg"
+    },
+    {
+      "id": "detonator",
+      "name": "Detonator",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/detonator.svg"
+    },
+    {
+      "id": "dirty-lickins",
+      "name": "Dirty Lickin's",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/dirty-lickins.svg"
+    },
+    {
+      "id": "fist",
+      "name": "Fist",
+      "type": "Unarmed",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/fist.svg"
     },
     {
       "id": "flamethrower",
       "name": "Flamethrower",
-      "type": "Heavy",
+      "type": "Heavy Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "Continuous",
-      "price": null,
       "unlock": "Pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/flamethrower.svg"
+    },
+    {
+      "id": "golf-club",
+      "name": "Golf Club",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/golf-club.svg"
+    },
+    {
+      "id": "grenade",
+      "name": "Grenade",
+      "type": "Thrown Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/grenade.svg"
     },
     {
       "id": "grenades",
@@ -61,37 +165,125 @@
       "image": "assets/img/weapon/gta-vice-city/grenades.svg"
     },
     {
+      "id": "guardian-angels",
+      "name": "Guardian Angels",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/guardian-angels.svg"
+    },
+    {
+      "id": "gun-runner",
+      "name": "Gun Runner",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/gun-runner.svg"
+    },
+    {
+      "id": "hammer",
+      "name": "Hammer",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/hammer.svg"
+    },
+    {
+      "id": "ingram-mac-10-mac",
+      "name": "Ingram Mac 10/Mac",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/ingram-mac-10-mac.svg"
+    },
+    {
       "id": "katana",
       "name": "Katana",
-      "type": "Melee",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "High",
       "ammo": "—",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/katana.svg"
+    },
+    {
+      "id": "keep-your-friends-close",
+      "name": "Keep Your Friends Close...",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/keep-your-friends-close.svg"
+    },
+    {
+      "id": "knife",
+      "name": "Knife",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/knife.svg"
     },
     {
       "id": "m4",
       "name": "M4",
-      "type": "Assault rifle",
+      "type": "Assault Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "30 rounds",
-      "price": null,
       "unlock": "Ammu-Nation / pickup",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/m4.svg"
+    },
+    {
+      "id": "m60",
+      "name": "M60",
+      "type": "Heavy Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/m60.svg"
+    },
+    {
+      "id": "machete",
+      "name": "Machete",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/machete.svg"
+    },
+    {
+      "id": "marthas-mug-shot",
+      "name": "Martha's Mug Shot",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/marthas-mug-shot.svg"
+    },
+    {
+      "id": "meat-cleaver",
+      "name": "Meat Cleaver",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/meat-cleaver.svg"
     },
     {
       "id": "minigun",
       "name": "Minigun",
-      "type": "Heavy",
+      "type": "Heavy Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Lethal",
       "ammo": "150 rounds",
-      "price": null,
       "unlock": "Hidden packages reward",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/minigun.svg"
+    },
+    {
+      "id": "molotov-cocktail",
+      "name": "Molotov Cocktail",
+      "type": "Thrown Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/molotov-cocktail.svg"
     },
     {
       "id": "molotov",
@@ -116,6 +308,30 @@
       "image": "assets/img/weapon/gta-vice-city/mp5.svg"
     },
     {
+      "id": "mp5-mp",
+      "name": "MP5/MP",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/mp5-mp.svg"
+    },
+    {
+      "id": "nightstick",
+      "name": "Nightstick",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/nightstick.svg"
+    },
+    {
+      "id": "phnom-penh-86",
+      "name": "Phnom Penh '86",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/phnom-penh-86.svg"
+    },
+    {
       "id": "pistol",
       "name": "Pistol",
       "type": "Handgun",
@@ -125,6 +341,14 @@
       "unlock": "Ammu-Nation",
       "verified": true,
       "image": "assets/img/weapon/gta-vice-city/pistol.svg"
+    },
+    {
+      "id": "psg-1-308-sniper",
+      "name": "PSG-1/.308 Sniper",
+      "type": "Sniper Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/psg-1-308-sniper.svg"
     },
     {
       "id": "python",
@@ -138,15 +362,31 @@
       "image": "assets/img/weapon/gta-vice-city/python.svg"
     },
     {
+      "id": "remote-grenade",
+      "name": "Remote Grenade",
+      "type": "Thrown Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/remote-grenade.svg"
+    },
+    {
       "id": "rocket-launcher",
       "name": "Rocket Launcher",
-      "type": "Heavy",
+      "type": "Heavy Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
-      "price": null,
       "unlock": "Phil Cassidy / pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/rocket-launcher.svg"
+    },
+    {
+      "id": "rub-out",
+      "name": "Rub Out",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/rub-out.svg"
     },
     {
       "id": "ruger",
@@ -160,25 +400,41 @@
       "image": "assets/img/weapon/gta-vice-city/ruger.svg"
     },
     {
+      "id": "ruger-kruger",
+      "name": "Ruger/Kruger",
+      "type": "Assault Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/ruger-kruger.svg"
+    },
+    {
+      "id": "screwdriver",
+      "name": "Screwdriver",
+      "type": "Melee Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/screwdriver.svg"
+    },
+    {
       "id": "shotgun",
       "name": "Shotgun",
-      "type": "Shotgun",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "High",
       "ammo": "8 shells",
-      "price": null,
       "unlock": "Ammu-Nation",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/shotgun.svg"
     },
     {
       "id": "sniper-rifle",
       "name": "Sniper Rifle",
-      "type": "Sniper",
+      "type": "Sniper Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "5 rounds",
-      "price": null,
       "unlock": "Ammu-Nation",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/sniper-rifle.svg"
     },
     {
@@ -193,26 +449,74 @@
       "image": "assets/img/weapon/gta-vice-city/spas-12.svg"
     },
     {
+      "id": "spaz-shotgun-spas-12",
+      "name": "Spaz Shotgun/S.P.A.S. 12",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/spaz-shotgun-spas-12.svg"
+    },
+    {
+      "id": "stubby-shotgun",
+      "name": "Stubby Shotgun",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/stubby-shotgun.svg"
+    },
+    {
+      "id": "supply-and-demand",
+      "name": "Supply & Demand",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/supply-and-demand.svg"
+    },
+    {
       "id": "tear-gas",
       "name": "Tear Gas",
-      "type": "Thrown",
+      "type": "Thrown Weapons",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Low",
       "ammo": "20",
-      "price": null,
       "unlock": "Pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/tear-gas.svg"
     },
     {
       "id": "tec-9",
-      "name": "Tec-9",
-      "type": "Submachine gun",
+      "name": "Tec 9",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "30 rounds",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-vice-city/tec-9.svg"
+    },
+    {
+      "id": "the-job",
+      "name": "The Job",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/the-job.svg"
+    },
+    {
+      "id": "the-shootist",
+      "name": "The Shootist",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/the-shootist.svg"
+    },
+    {
+      "id": "treacherous-swine",
+      "name": "Treacherous Swine",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/treacherous-swine.svg"
     },
     {
       "id": "uzi",
@@ -224,6 +528,14 @@
       "unlock": "Ammu-Nation",
       "verified": true,
       "image": "assets/img/weapon/gta-vice-city/uzi.svg"
+    },
+    {
+      "id": "uzi-9mm-uz-1",
+      "name": "Uzi 9mm/Uz-1",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-vice-city/uzi-9mm-uz-1.svg"
     }
   ]
 }

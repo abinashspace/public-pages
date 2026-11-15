@@ -2,8 +2,8 @@
   "game": "gta-iii",
   "game_title": "Grand Theft Auto III",
   "section": "weapons",
-  "coverage": "partial",
-  "count": 12,
+  "coverage": "complete",
+  "count": 26,
   "items": [
     {
       "id": "ak-47",
@@ -17,37 +17,85 @@
       "image": "assets/img/weapon/gta-iii/ak-47.svg"
     },
     {
+      "id": "ak47",
+      "name": "AK47",
+      "type": "Large Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/ak47.svg"
+    },
+    {
+      "id": "arms-shortage",
+      "name": "Arms Shortage",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/arms-shortage.svg"
+    },
+    {
       "id": "baseball-bat",
       "name": "Baseball Bat",
       "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "—",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/baseball-bat.svg"
     },
     {
+      "id": "bomb-da-base-act-ii",
+      "name": "Bomb Da Base: Act II",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/bomb-da-base-act-ii.svg"
+    },
+    {
+      "id": "detonator",
+      "name": "Detonator",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/detonator.svg"
+    },
+    {
+      "id": "dont-spank-ma-bitch-up",
+      "name": "Don't Spank Ma Bitch Up",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/dont-spank-ma-bitch-up.svg"
+    },
+    {
       "id": "fist",
-      "name": "Fists",
+      "name": "Fist",
       "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Low",
       "ammo": "—",
-      "price": null,
       "unlock": "Default",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/fist.svg"
     },
     {
       "id": "flamethrower",
       "name": "Flamethrower",
       "type": "Heavy",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "Continuous",
-      "price": null,
       "unlock": "El Burro mission / pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/flamethrower.svg"
+    },
+    {
+      "id": "grenade",
+      "name": "Grenade",
+      "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/grenade.svg"
     },
     {
       "id": "grenades",
@@ -63,13 +111,29 @@
     {
       "id": "m16",
       "name": "M16",
-      "type": "Assault rifle",
+      "type": "Large Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "60 rounds",
-      "price": null,
       "unlock": "Hidden packages reward",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/m16.svg"
+    },
+    {
+      "id": "marked-man",
+      "name": "Marked Man",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/marked-man.svg"
+    },
+    {
+      "id": "molotov-cocktail",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/molotov-cocktail.svg"
     },
     {
       "id": "molotov",
@@ -85,57 +149,105 @@
     {
       "id": "pistol",
       "name": "Pistol",
-      "type": "Handgun",
+      "type": "Small Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "17 rounds",
-      "price": null,
       "unlock": "Default sidearm; Ammu-Nation",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/pistol.svg"
+    },
+    {
+      "id": "pump-action-pimp",
+      "name": "Pump-Action Pimp",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/pump-action-pimp.svg"
     },
     {
       "id": "rocket-launcher",
       "name": "Rocket Launcher",
       "type": "Heavy",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
-      "price": null,
       "unlock": "Phil Cassidy / hidden packages",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/rocket-launcher.svg"
     },
     {
       "id": "shotgun",
       "name": "Shotgun",
-      "type": "Shotgun",
+      "type": "Large Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "High",
       "ammo": "8 shells",
-      "price": null,
       "unlock": "Ammu-Nation",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/shotgun.svg"
+    },
+    {
+      "id": "silence-the-sneak",
+      "name": "Silence the Sneak",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/silence-the-sneak.svg"
     },
     {
       "id": "sniper-rifle",
       "name": "Sniper Rifle",
-      "type": "Sniper",
+      "type": "Large Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Very high",
       "ammo": "5 rounds",
-      "price": null,
       "unlock": "Ammu-Nation",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/sniper-rifle.svg"
+    },
+    {
+      "id": "taking-out-the-laundry",
+      "name": "Taking Out the Laundry",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/taking-out-the-laundry.svg"
+    },
+    {
+      "id": "trial-by-fire",
+      "name": "Trial By Fire",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/trial-by-fire.svg"
     },
     {
       "id": "uzi",
       "name": "Uzi",
-      "type": "Submachine gun",
+      "type": "Small Firearms",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "25 rounds",
-      "price": null,
       "unlock": "Ammu-Nation / 8-Ball",
-      "verified": true,
       "image": "assets/img/weapon/gta-iii/uzi.svg"
+    },
+    {
+      "id": "uzi-money",
+      "name": "Uzi Money",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/uzi-money.svg"
+    },
+    {
+      "id": "uzi-rider",
+      "name": "Uzi Rider",
+      "type": "Additional Information",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-iii/uzi-rider.svg"
     }
   ]
 }

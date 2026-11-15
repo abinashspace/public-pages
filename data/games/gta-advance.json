@@ -5,13 +5,13 @@
     "year": 2004,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:50:12.306Z",
+    "generated": "2026-11-15T16:56:35.508Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "complete",
       "vehicles": "complete",
-      "weapons": "limited",
+      "weapons": "complete",
       "cheats": "complete",
       "locations": "partial",
       "collectibles": "complete"
@@ -20,7 +20,7 @@
       "characters": 7,
       "missions": 41,
       "vehicles": 31,
-      "weapons": 6,
+      "weapons": 18,
       "cheats": 10,
       "locations": 4,
       "collectibles": 2
@@ -935,7 +935,7 @@
     ]
   },
   "weapons": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
       {
         "id": "ak-47",
@@ -949,6 +949,62 @@
         "image": "assets/img/weapon/gta-advance/ak-47.svg"
       },
       {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Basic Firearms",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/assault-rifle.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/baseball-bat.svg"
+      },
+      {
+        "id": "car-bomb",
+        "name": "Car Bomb",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/car-bomb.svg"
+      },
+      {
+        "id": "detonator",
+        "name": "Detonator",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/detonator.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/fist.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/flamethrower.svg"
+      },
+      {
+        "id": "grenade",
+        "name": "Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/grenade.svg"
+      },
+      {
         "id": "grenades",
         "name": "Grenades",
         "type": "Thrown",
@@ -960,37 +1016,77 @@
         "image": "assets/img/weapon/gta-advance/grenades.svg"
       },
       {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/katana.svg"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/minigun.svg"
+      },
+      {
+        "id": "molotov-cocktail",
+        "name": "Molotov Cocktail",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/molotov-cocktail.svg"
+      },
+      {
+        "id": "oil-slick",
+        "name": "Oil Slick",
+        "type": "Cut",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/oil-slick.svg"
+      },
+      {
         "id": "pistol",
         "name": "Pistol",
-        "type": "Handgun",
+        "type": "Basic Firearms",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Medium",
         "ammo": "Magazine",
-        "price": null,
         "unlock": "Default",
-        "verified": true,
         "image": "assets/img/weapon/gta-advance/pistol.svg"
       },
       {
         "id": "rocket-launcher",
         "name": "Rocket Launcher",
-        "type": "Heavy",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Lethal",
         "ammo": "Rockets",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-advance/rocket-launcher.svg"
       },
       {
         "id": "shotgun",
         "name": "Shotgun",
-        "type": "Shotgun",
+        "type": "Basic Firearms",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "High",
         "ammo": "Shells",
-        "price": null,
         "unlock": "Street pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-advance/shotgun.svg"
+      },
+      {
+        "id": "uz-i",
+        "name": "Uz-I",
+        "type": "Basic Firearms",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-advance/uz-i.svg"
       },
       {
         "id": "uzi",

@@ -8,9 +8,6 @@
     "id",
     "name",
     "type",
-    "damage_tier",
-    "ammo",
-    "unlock",
     "verified"
   ],
   "properties": {
@@ -30,7 +27,6 @@
     },
     "damage_tier": {
       "type": "string",
-      "required": true,
       "enum": [
         "Very low",
         "Low",
@@ -38,11 +34,12 @@
         "High",
         "Very high",
         "Lethal"
-      ]
+      ],
+      "description": "Omitted when the game does not tabulate damage."
     },
     "ammo": {
       "type": "string",
-      "required": true
+      "description": "Omitted when the game does not tabulate an ammo cap."
     },
     "price": {
       "type": [
@@ -52,7 +49,7 @@
     },
     "unlock": {
       "type": "string",
-      "required": true
+      "description": "Where or when the weapon becomes available; omitted when unknown."
     },
     "image": {
       "type": [

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-15T16:50:12.509Z",
+  "generated": "2026-11-15T16:56:35.720Z",
   "games": [
     {
       "slug": "gta",
       "title": "Grand Theft Auto",
       "status": "released",
-      "records": 210,
+      "records": 211,
       "sections": {
         "characters": {
           "count": 4,
@@ -20,8 +20,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 7,
-          "coverage": "limited"
+          "count": 8,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 35,
@@ -41,7 +41,7 @@
       "slug": "gta-london-1969",
       "title": "Grand Theft Auto: London 1969",
       "status": "released",
-      "records": 129,
+      "records": 130,
       "sections": {
         "characters": {
           "count": 3,
@@ -56,8 +56,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 5,
-          "coverage": "limited"
+          "count": 6,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 28,
@@ -77,7 +77,7 @@
       "slug": "gta-london-1961",
       "title": "Grand Theft Auto: London 1961",
       "status": "released",
-      "records": 58,
+      "records": 60,
       "sections": {
         "characters": {
           "count": 2,
@@ -92,8 +92,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 4,
-          "coverage": "limited"
+          "count": 6,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 1,
@@ -113,7 +113,7 @@
       "slug": "gta-2",
       "title": "Grand Theft Auto 2",
       "status": "released",
-      "records": 126,
+      "records": 138,
       "sections": {
         "characters": {
           "count": 8,
@@ -128,8 +128,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 8,
-          "coverage": "limited"
+          "count": 20,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 33,
@@ -149,7 +149,7 @@
       "slug": "gta-iii",
       "title": "Grand Theft Auto III",
       "status": "released",
-      "records": 206,
+      "records": 220,
       "sections": {
         "characters": {
           "count": 19,
@@ -164,8 +164,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 12,
-          "coverage": "partial"
+          "count": 26,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 23,
@@ -185,7 +185,7 @@
       "slug": "gta-vice-city",
       "title": "Grand Theft Auto: Vice City",
       "status": "released",
-      "records": 288,
+      "records": 327,
       "sections": {
         "characters": {
           "count": 20,
@@ -200,8 +200,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 20,
-          "coverage": "partial"
+          "count": 59,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 59,
@@ -221,7 +221,7 @@
       "slug": "gta-san-andreas",
       "title": "Grand Theft Auto: San Andreas",
       "status": "released",
-      "records": 445,
+      "records": 514,
       "sections": {
         "characters": {
           "count": 23,
@@ -236,8 +236,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 21,
-          "coverage": "partial"
+          "count": 90,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 101,
@@ -257,7 +257,7 @@
       "slug": "gta-advance",
       "title": "Grand Theft Auto Advance",
       "status": "released",
-      "records": 101,
+      "records": 113,
       "sections": {
         "characters": {
           "count": 7,
@@ -272,8 +272,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 6,
-          "coverage": "limited"
+          "count": 18,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 10,
@@ -293,7 +293,7 @@
       "slug": "gta-liberty-city-stories",
       "title": "Grand Theft Auto: Liberty City Stories",
       "status": "released",
-      "records": 236,
+      "records": 264,
       "sections": {
         "characters": {
           "count": 14,
@@ -308,8 +308,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 12,
-          "coverage": "partial"
+          "count": 40,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 43,
@@ -329,7 +329,7 @@
       "slug": "gta-vice-city-stories",
       "title": "Grand Theft Auto: Vice City Stories",
       "status": "released",
-      "records": 237,
+      "records": 266,
       "sections": {
         "characters": {
           "count": 13,
@@ -344,8 +344,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 13,
-          "coverage": "partial"
+          "count": 42,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 31,
@@ -365,7 +365,7 @@
       "slug": "gta-iv",
       "title": "Grand Theft Auto IV",
       "status": "released",
-      "records": 292,
+      "records": 301,
       "sections": {
         "characters": {
           "count": 18,
@@ -380,8 +380,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 14,
-          "coverage": "partial"
+          "count": 23,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 32,
@@ -401,7 +401,7 @@
       "slug": "gta-iv-the-lost-and-damned",
       "title": "Grand Theft Auto IV: The Lost and Damned",
       "status": "released",
-      "records": 194,
+      "records": 210,
       "sections": {
         "characters": {
           "count": 12,
@@ -416,8 +416,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 8,
-          "coverage": "partial"
+          "count": 24,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 0,
@@ -437,7 +437,7 @@
       "slug": "gta-the-ballad-of-gay-tony",
       "title": "Grand Theft Auto: The Ballad of Gay Tony",
       "status": "released",
-      "records": 201,
+      "records": 220,
       "sections": {
         "characters": {
           "count": 12,
@@ -452,8 +452,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 8,
-          "coverage": "partial"
+          "count": 27,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 0,
@@ -473,7 +473,7 @@
       "slug": "gta-chinatown-wars",
       "title": "Grand Theft Auto: Chinatown Wars",
       "status": "released",
-      "records": 180,
+      "records": 203,
       "sections": {
         "characters": {
           "count": 10,
@@ -488,8 +488,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 10,
-          "coverage": "limited"
+          "count": 33,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 20,
@@ -509,7 +509,7 @@
       "slug": "gta-v",
       "title": "Grand Theft Auto V",
       "status": "released",
-      "records": 470,
+      "records": 510,
       "sections": {
         "characters": {
           "count": 19,
@@ -524,8 +524,8 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 22,
-          "coverage": "partial"
+          "count": 62,
+          "coverage": "complete"
         },
         "cheats": {
           "count": 36,
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 3466,
+    "total": 3780,
     "real": 0,
-    "placeholder": 3466
+    "placeholder": 3780
   }
 }

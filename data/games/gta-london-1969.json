@@ -5,13 +5,13 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:50:12.179Z",
+    "generated": "2026-11-15T16:56:35.380Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
       "missions": "complete",
       "vehicles": "complete",
-      "weapons": "limited",
+      "weapons": "complete",
       "cheats": "complete",
       "locations": "partial",
       "collectibles": "empty"
@@ -20,7 +20,7 @@
       "characters": 3,
       "missions": 47,
       "vehicles": 42,
-      "weapons": 5,
+      "weapons": 6,
       "cheats": 28,
       "locations": 4,
       "collectibles": 0
@@ -1047,50 +1047,58 @@
     ]
   },
   "weapons": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
       {
         "id": "flamethrower",
         "name": "Flamethrower",
         "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Very high",
         "ammo": "Fuel",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-london-1969/flamethrower.svg"
       },
       {
         "id": "machine-gun",
         "name": "Machine Gun",
         "type": "Submachine gun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "High",
         "ammo": "Magazine",
-        "price": null,
         "unlock": "Street pickups",
-        "verified": false,
         "image": "assets/img/weapon/gta-london-1969/machine-gun.svg"
+      },
+      {
+        "id": "melee-attack",
+        "name": "Melee attack",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-london-1969/melee-attack.svg"
       },
       {
         "id": "pistol",
         "name": "Pistol",
         "type": "Handgun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Medium",
         "ammo": "Magazine",
-        "price": null,
         "unlock": "Default",
-        "verified": true,
         "image": "assets/img/weapon/gta-london-1969/pistol.svg"
       },
       {
         "id": "rocket-launcher",
         "name": "Rocket Launcher",
         "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Lethal",
         "ammo": "Rockets",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-london-1969/rocket-launcher.svg"
       },
       {

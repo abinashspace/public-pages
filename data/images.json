@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T16:50:12.120Z",
+  "generated": "2026-11-15T16:56:35.321Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -1876,6 +1876,17 @@
     {
       "kind": "weapon",
       "game": "gta",
+      "id": "melee-attack",
+      "record": "melee-attack",
+      "path": "assets/img/weapon/gta/melee-attack.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Melee attack"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta/molotov.svg",
@@ -3416,6 +3427,17 @@
     {
       "kind": "weapon",
       "game": "gta-london-1969",
+      "id": "melee-attack",
+      "record": "melee-attack",
+      "path": "assets/img/weapon/gta-london-1969/melee-attack.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Melee attack"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-london-1969",
       "id": "pistol",
       "record": "pistol",
       "path": "assets/img/weapon/gta-london-1969/pistol.svg",
@@ -4406,6 +4428,17 @@
     {
       "kind": "weapon",
       "game": "gta-london-1961",
+      "id": "flamethrower",
+      "record": "flamethrower",
+      "path": "assets/img/weapon/gta-london-1961/flamethrower.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flamethrower"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-london-1961",
       "id": "machine-gun",
       "record": "machine-gun",
       "path": "assets/img/weapon/gta-london-1961/machine-gun.svg",
@@ -4413,6 +4446,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Machine Gun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-london-1961",
+      "id": "melee-attack",
+      "record": "melee-attack",
+      "path": "assets/img/weapon/gta-london-1961/melee-attack.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Melee attack"
     },
     {
       "kind": "weapon",
@@ -5385,6 +5429,17 @@
     {
       "kind": "weapon",
       "game": "gta-2",
+      "id": "dual-pistol",
+      "record": "dual-pistol",
+      "path": "assets/img/weapon/gta-2/dual-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Dual Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
       "id": "electro-gun",
       "record": "electro-gun",
       "path": "assets/img/weapon/gta-2/electro-gun.svg",
@@ -5392,6 +5447,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Electro Gun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "electrobaton",
+      "record": "electrobaton",
+      "path": "assets/img/weapon/gta-2/electrobaton.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "ElectroBaton"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "electrogun",
+      "record": "electrogun",
+      "path": "assets/img/weapon/gta-2/electrogun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "ElectroGun"
     },
     {
       "kind": "weapon",
@@ -5418,6 +5495,28 @@
     {
       "kind": "weapon",
       "game": "gta-2",
+      "id": "instant-vehicle-bomb",
+      "record": "instant-vehicle-bomb",
+      "path": "assets/img/weapon/gta-2/instant-vehicle-bomb.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Instant Vehicle Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "melee-attack",
+      "record": "melee-attack",
+      "path": "assets/img/weapon/gta-2/melee-attack.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Melee attack"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-2/molotov.svg",
@@ -5425,6 +5524,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "molotov-cocktails",
+      "record": "molotov-cocktails",
+      "path": "assets/img/weapon/gta-2/molotov-cocktails.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktails"
     },
     {
       "kind": "weapon",
@@ -5451,6 +5561,17 @@
     {
       "kind": "weapon",
       "game": "gta-2",
+      "id": "s-uzi-machine-gun",
+      "record": "s-uzi-machine-gun",
+      "path": "assets/img/weapon/gta-2/s-uzi-machine-gun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "S-Uzi Machine Gun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
       "id": "shotgun",
       "record": "shotgun",
       "path": "assets/img/weapon/gta-2/shotgun.svg",
@@ -5462,6 +5583,17 @@
     {
       "kind": "weapon",
       "game": "gta-2",
+      "id": "silenced-s-uzi-machine-gun",
+      "record": "silenced-s-uzi-machine-gun",
+      "path": "assets/img/weapon/gta-2/silenced-s-uzi-machine-gun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Silenced S-Uzi Machine Gun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
       "id": "silenced-uzi",
       "record": "silenced-uzi",
       "path": "assets/img/weapon/gta-2/silenced-uzi.svg",
@@ -5469,6 +5601,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Silenced Uzi"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "vehicle-bomb",
+      "record": "vehicle-bomb",
+      "path": "assets/img/weapon/gta-2/vehicle-bomb.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vehicle Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "vehicle-machine-guns",
+      "record": "vehicle-machine-guns",
+      "path": "assets/img/weapon/gta-2/vehicle-machine-guns.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vehicle Machine Guns"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "vehicle-mines",
+      "record": "vehicle-mines",
+      "path": "assets/img/weapon/gta-2/vehicle-mines.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vehicle Mines"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-2",
+      "id": "vehicle-oil-slick",
+      "record": "vehicle-oil-slick",
+      "path": "assets/img/weapon/gta-2/vehicle-oil-slick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vehicle Oil Slick"
     },
     {
       "kind": "cheat",
@@ -7585,6 +7761,28 @@
     {
       "kind": "weapon",
       "game": "gta-iii",
+      "id": "ak47",
+      "record": "ak47",
+      "path": "assets/img/weapon/gta-iii/ak47.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "AK47"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "arms-shortage",
+      "record": "arms-shortage",
+      "path": "assets/img/weapon/gta-iii/arms-shortage.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Arms Shortage"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
       "id": "baseball-bat",
       "record": "baseball-bat",
       "path": "assets/img/weapon/gta-iii/baseball-bat.svg",
@@ -7596,13 +7794,46 @@
     {
       "kind": "weapon",
       "game": "gta-iii",
+      "id": "bomb-da-base-act-ii",
+      "record": "bomb-da-base-act-ii",
+      "path": "assets/img/weapon/gta-iii/bomb-da-base-act-ii.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Bomb Da Base: Act II"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-iii/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "dont-spank-ma-bitch-up",
+      "record": "dont-spank-ma-bitch-up",
+      "path": "assets/img/weapon/gta-iii/dont-spank-ma-bitch-up.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Don't Spank Ma Bitch Up"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
       "id": "fist",
       "record": "fist",
       "path": "assets/img/weapon/gta-iii/fist.svg",
       "width": 512,
       "height": 256,
       "status": "placeholder",
-      "alt": "Fists"
+      "alt": "Fist"
     },
     {
       "kind": "weapon",
@@ -7614,6 +7845,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Flamethrower"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-iii/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
     },
     {
       "kind": "weapon",
@@ -7640,6 +7882,28 @@
     {
       "kind": "weapon",
       "game": "gta-iii",
+      "id": "marked-man",
+      "record": "marked-man",
+      "path": "assets/img/weapon/gta-iii/marked-man.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Marked Man"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-iii/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-iii/molotov.svg",
@@ -7658,6 +7922,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "pump-action-pimp",
+      "record": "pump-action-pimp",
+      "path": "assets/img/weapon/gta-iii/pump-action-pimp.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pump-Action Pimp"
     },
     {
       "kind": "weapon",
@@ -7684,6 +7959,17 @@
     {
       "kind": "weapon",
       "game": "gta-iii",
+      "id": "silence-the-sneak",
+      "record": "silence-the-sneak",
+      "path": "assets/img/weapon/gta-iii/silence-the-sneak.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Silence the Sneak"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
       "id": "sniper-rifle",
       "record": "sniper-rifle",
       "path": "assets/img/weapon/gta-iii/sniper-rifle.svg",
@@ -7695,6 +7981,28 @@
     {
       "kind": "weapon",
       "game": "gta-iii",
+      "id": "taking-out-the-laundry",
+      "record": "taking-out-the-laundry",
+      "path": "assets/img/weapon/gta-iii/taking-out-the-laundry.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Taking Out the Laundry"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "trial-by-fire",
+      "record": "trial-by-fire",
+      "path": "assets/img/weapon/gta-iii/trial-by-fire.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Trial By Fire"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
       "id": "uzi",
       "record": "uzi",
       "path": "assets/img/weapon/gta-iii/uzi.svg",
@@ -7702,6 +8010,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Uzi"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "uzi-money",
+      "record": "uzi-money",
+      "path": "assets/img/weapon/gta-iii/uzi-money.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Uzi Money"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iii",
+      "id": "uzi-rider",
+      "record": "uzi-rider",
+      "path": "assets/img/weapon/gta-iii/uzi-rider.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Uzi Rider"
     },
     {
       "kind": "cheat",
@@ -10291,6 +10621,39 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "all-hands-on-deck",
+      "record": "all-hands-on-deck",
+      "path": "assets/img/weapon/gta-vice-city/all-hands-on-deck.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "All Hands On Deck!"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "autocide",
+      "record": "autocide",
+      "path": "assets/img/weapon/gta-vice-city/autocide.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Autocide"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "back-alley-brawl",
+      "record": "back-alley-brawl",
+      "path": "assets/img/weapon/gta-vice-city/back-alley-brawl.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Back Alley Brawl"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "baseball-bat",
       "record": "baseball-bat",
       "path": "assets/img/weapon/gta-vice-city/baseball-bat.svg",
@@ -10313,6 +10676,28 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "camera",
+      "record": "camera",
+      "path": "assets/img/weapon/gta-vice-city/camera.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Camera"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "cannon-fodder",
+      "record": "cannon-fodder",
+      "path": "assets/img/weapon/gta-vice-city/cannon-fodder.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Cannon Fodder"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "chainsaw",
       "record": "chainsaw",
       "path": "assets/img/weapon/gta-vice-city/chainsaw.svg",
@@ -10320,6 +10705,72 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Chainsaw"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "check-out-at-the-check-in",
+      "record": "check-out-at-the-check-in",
+      "path": "assets/img/weapon/gta-vice-city/check-out-at-the-check-in.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Check Out at the Check In"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "colt-45-pistol",
+      "record": "colt-45-pistol",
+      "path": "assets/img/weapon/gta-vice-city/colt-45-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Colt 45/Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "colt-python-357",
+      "record": "colt-python-357",
+      "path": "assets/img/weapon/gta-vice-city/colt-python-357.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Colt Python/.357"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-vice-city/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "dirty-lickins",
+      "record": "dirty-lickins",
+      "path": "assets/img/weapon/gta-vice-city/dirty-lickins.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Dirty Lickin's"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-vice-city/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
     },
     {
       "kind": "weapon",
@@ -10335,6 +10786,28 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "golf-club",
+      "record": "golf-club",
+      "path": "assets/img/weapon/gta-vice-city/golf-club.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Golf Club"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-vice-city/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "grenades",
       "record": "grenades",
       "path": "assets/img/weapon/gta-vice-city/grenades.svg",
@@ -10342,6 +10815,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Grenades"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "guardian-angels",
+      "record": "guardian-angels",
+      "path": "assets/img/weapon/gta-vice-city/guardian-angels.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Guardian Angels"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "gun-runner",
+      "record": "gun-runner",
+      "path": "assets/img/weapon/gta-vice-city/gun-runner.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Gun Runner"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "hammer",
+      "record": "hammer",
+      "path": "assets/img/weapon/gta-vice-city/hammer.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hammer"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "ingram-mac-10-mac",
+      "record": "ingram-mac-10-mac",
+      "path": "assets/img/weapon/gta-vice-city/ingram-mac-10-mac.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Ingram Mac 10/Mac"
     },
     {
       "kind": "weapon",
@@ -10357,6 +10874,28 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "keep-your-friends-close",
+      "record": "keep-your-friends-close",
+      "path": "assets/img/weapon/gta-vice-city/keep-your-friends-close.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Keep Your Friends Close..."
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-vice-city/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "m4",
       "record": "m4",
       "path": "assets/img/weapon/gta-vice-city/m4.svg",
@@ -10368,6 +10907,50 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "m60",
+      "record": "m60",
+      "path": "assets/img/weapon/gta-vice-city/m60.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "M60"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "machete",
+      "record": "machete",
+      "path": "assets/img/weapon/gta-vice-city/machete.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Machete"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "marthas-mug-shot",
+      "record": "marthas-mug-shot",
+      "path": "assets/img/weapon/gta-vice-city/marthas-mug-shot.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Martha's Mug Shot"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "meat-cleaver",
+      "record": "meat-cleaver",
+      "path": "assets/img/weapon/gta-vice-city/meat-cleaver.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Meat Cleaver"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "minigun",
       "record": "minigun",
       "path": "assets/img/weapon/gta-vice-city/minigun.svg",
@@ -10375,6 +10958,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Minigun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-vice-city/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
     },
     {
       "kind": "weapon",
@@ -10401,6 +10995,39 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "mp5-mp",
+      "record": "mp5-mp",
+      "path": "assets/img/weapon/gta-vice-city/mp5-mp.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "MP5/MP"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "nightstick",
+      "record": "nightstick",
+      "path": "assets/img/weapon/gta-vice-city/nightstick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nightstick"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "phnom-penh-86",
+      "record": "phnom-penh-86",
+      "path": "assets/img/weapon/gta-vice-city/phnom-penh-86.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Phnom Penh '86"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "pistol",
       "record": "pistol",
       "path": "assets/img/weapon/gta-vice-city/pistol.svg",
@@ -10408,6 +11035,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "psg-1-308-sniper",
+      "record": "psg-1-308-sniper",
+      "path": "assets/img/weapon/gta-vice-city/psg-1-308-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "PSG-1/.308 Sniper"
     },
     {
       "kind": "weapon",
@@ -10423,6 +11061,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "remote-grenade",
+      "record": "remote-grenade",
+      "path": "assets/img/weapon/gta-vice-city/remote-grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Remote Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "rocket-launcher",
       "record": "rocket-launcher",
       "path": "assets/img/weapon/gta-vice-city/rocket-launcher.svg",
@@ -10434,6 +11083,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "rub-out",
+      "record": "rub-out",
+      "path": "assets/img/weapon/gta-vice-city/rub-out.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Rub Out"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "ruger",
       "record": "ruger",
       "path": "assets/img/weapon/gta-vice-city/ruger.svg",
@@ -10441,6 +11101,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Ruger"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "ruger-kruger",
+      "record": "ruger-kruger",
+      "path": "assets/img/weapon/gta-vice-city/ruger-kruger.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Ruger/Kruger"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "screwdriver",
+      "record": "screwdriver",
+      "path": "assets/img/weapon/gta-vice-city/screwdriver.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Screwdriver"
     },
     {
       "kind": "weapon",
@@ -10478,6 +11160,39 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city",
+      "id": "spaz-shotgun-spas-12",
+      "record": "spaz-shotgun-spas-12",
+      "path": "assets/img/weapon/gta-vice-city/spaz-shotgun-spas-12.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Spaz Shotgun/S.P.A.S. 12"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "stubby-shotgun",
+      "record": "stubby-shotgun",
+      "path": "assets/img/weapon/gta-vice-city/stubby-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stubby Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "supply-and-demand",
+      "record": "supply-and-demand",
+      "path": "assets/img/weapon/gta-vice-city/supply-and-demand.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Supply & Demand"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
       "id": "tear-gas",
       "record": "tear-gas",
       "path": "assets/img/weapon/gta-vice-city/tear-gas.svg",
@@ -10495,7 +11210,40 @@
       "width": 512,
       "height": 256,
       "status": "placeholder",
-      "alt": "Tec-9"
+      "alt": "Tec 9"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "the-job",
+      "record": "the-job",
+      "path": "assets/img/weapon/gta-vice-city/the-job.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "The Job"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "the-shootist",
+      "record": "the-shootist",
+      "path": "assets/img/weapon/gta-vice-city/the-shootist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "The Shootist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "treacherous-swine",
+      "record": "treacherous-swine",
+      "path": "assets/img/weapon/gta-vice-city/treacherous-swine.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Treacherous Swine"
     },
     {
       "kind": "weapon",
@@ -10507,6 +11255,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Uzi"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city",
+      "id": "uzi-9mm-uz-1",
+      "record": "uzi-9mm-uz-1",
+      "path": "assets/img/weapon/gta-vice-city/uzi-9mm-uz-1.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Uzi 9mm/Uz-1"
     },
     {
       "kind": "cheat",
@@ -14669,6 +15428,39 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "9mm",
+      "record": "9mm",
+      "path": "assets/img/weapon/gta-san-andreas/9mm.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "9mm"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "against-all-odds",
+      "record": "against-all-odds",
+      "path": "assets/img/weapon/gta-san-andreas/against-all-odds.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Against All Odds"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "air-raid",
+      "record": "air-raid",
+      "path": "assets/img/weapon/gta-san-andreas/air-raid.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Air Raid"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "ak-47",
       "record": "ak-47",
       "path": "assets/img/weapon/gta-san-andreas/ak-47.svg",
@@ -14676,6 +15468,61 @@
       "height": 256,
       "status": "placeholder",
       "alt": "AK-47"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "ak47",
+      "record": "ak47",
+      "path": "assets/img/weapon/gta-san-andreas/ak47.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "AK47"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "architectural-espionage",
+      "record": "architectural-espionage",
+      "path": "assets/img/weapon/gta-san-andreas/architectural-espionage.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Architectural Espionage"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "are-you-going-to-san-fierro",
+      "record": "are-you-going-to-san-fierro",
+      "path": "assets/img/weapon/gta-san-andreas/are-you-going-to-san-fierro.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Are You Going to San Fierro?"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "assault",
+      "record": "assault",
+      "path": "assets/img/weapon/gta-san-andreas/assault.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "badlands",
+      "record": "badlands",
+      "path": "assets/img/weapon/gta-san-andreas/badlands.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Badlands"
     },
     {
       "kind": "weapon",
@@ -14691,6 +15538,94 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "beat-down-on-b-dup",
+      "record": "beat-down-on-b-dup",
+      "path": "assets/img/weapon/gta-san-andreas/beat-down-on-b-dup.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Beat Down on B Dup"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "beta",
+      "record": "beta",
+      "path": "assets/img/weapon/gta-san-andreas/beta.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Beta"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "black-project",
+      "record": "black-project",
+      "path": "assets/img/weapon/gta-san-andreas/black-project.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Black Project"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "brass-knuckles",
+      "record": "brass-knuckles",
+      "path": "assets/img/weapon/gta-san-andreas/brass-knuckles.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Brass Knuckles"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "breaking-the-bank-at-caligulas",
+      "record": "breaking-the-bank-at-caligulas",
+      "path": "assets/img/weapon/gta-san-andreas/breaking-the-bank-at-caligulas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Breaking the Bank at Caligula's"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "burning-desire",
+      "record": "burning-desire",
+      "path": "assets/img/weapon/gta-san-andreas/burning-desire.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Burning Desire"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "camera",
+      "record": "camera",
+      "path": "assets/img/weapon/gta-san-andreas/camera.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Camera"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "cane",
+      "record": "cane",
+      "path": "assets/img/weapon/gta-san-andreas/cane.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Cane"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "chainsaw",
       "record": "chainsaw",
       "path": "assets/img/weapon/gta-san-andreas/chainsaw.svg",
@@ -14698,6 +15633,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Chainsaw"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "cleaning-the-hood",
+      "record": "cleaning-the-hood",
+      "path": "assets/img/weapon/gta-san-andreas/cleaning-the-hood.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Cleaning the Hood"
     },
     {
       "kind": "weapon",
@@ -14713,6 +15659,17 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "dam-and-blast",
+      "record": "dam-and-blast",
+      "path": "assets/img/weapon/gta-san-andreas/dam-and-blast.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Dam and Blast"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "desert-eagle",
       "record": "desert-eagle",
       "path": "assets/img/weapon/gta-san-andreas/desert-eagle.svg",
@@ -14724,13 +15681,68 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-san-andreas/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "dildo",
+      "record": "dildo",
+      "path": "assets/img/weapon/gta-san-andreas/dildo.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Dildo"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "dildo-short",
+      "record": "dildo-short",
+      "path": "assets/img/weapon/gta-san-andreas/dildo-short.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Dildo (short)"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "end-of-the-line",
+      "record": "end-of-the-line",
+      "path": "assets/img/weapon/gta-san-andreas/end-of-the-line.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "End of the Line"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "fire-extinguisher",
+      "record": "fire-extinguisher",
+      "path": "assets/img/weapon/gta-san-andreas/fire-extinguisher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fire Extinguisher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "fist",
       "record": "fist",
       "path": "assets/img/weapon/gta-san-andreas/fist.svg",
       "width": 512,
       "height": 256,
       "status": "placeholder",
-      "alt": "Fists"
+      "alt": "Fist"
     },
     {
       "kind": "weapon",
@@ -14746,6 +15758,50 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "flowers",
+      "record": "flowers",
+      "path": "assets/img/weapon/gta-san-andreas/flowers.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flowers"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "freefall",
+      "record": "freefall",
+      "path": "assets/img/weapon/gta-san-andreas/freefall.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Freefall"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "golf-club",
+      "record": "golf-club",
+      "path": "assets/img/weapon/gta-san-andreas/golf-club.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Golf Club"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "green-goo",
+      "record": "green-goo",
+      "path": "assets/img/weapon/gta-san-andreas/green-goo.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Green Goo"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "grenades",
       "record": "grenades",
       "path": "assets/img/weapon/gta-san-andreas/grenades.svg",
@@ -14753,6 +15809,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Grenades"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "handgun",
+      "record": "handgun",
+      "path": "assets/img/weapon/gta-san-andreas/handgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Handgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "heat-seeking-rocket-launcher",
+      "record": "heat-seeking-rocket-launcher",
+      "path": "assets/img/weapon/gta-san-andreas/heat-seeking-rocket-launcher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Heat-Seeking Rocket Launcher"
     },
     {
       "kind": "weapon",
@@ -14768,6 +15846,50 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "heavy",
+      "record": "heavy",
+      "path": "assets/img/weapon/gta-san-andreas/heavy.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Heavy"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "ice-cold-killa",
+      "record": "ice-cold-killa",
+      "path": "assets/img/weapon/gta-san-andreas/ice-cold-killa.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Ice Cold Killa"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "interdiction",
+      "record": "interdiction",
+      "path": "assets/img/weapon/gta-san-andreas/interdiction.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Interdiction"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "just-business",
+      "record": "just-business",
+      "path": "assets/img/weapon/gta-san-andreas/just-business.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Just Business"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "katana",
       "record": "katana",
       "path": "assets/img/weapon/gta-san-andreas/katana.svg",
@@ -14775,6 +15897,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Katana"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-san-andreas/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
     },
     {
       "kind": "weapon",
@@ -14790,6 +15923,28 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "madd-doggs-rhymes",
+      "record": "madd-doggs-rhymes",
+      "path": "assets/img/weapon/gta-san-andreas/madd-doggs-rhymes.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Madd Dogg's Rhymes"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "melee",
+      "record": "melee",
+      "path": "assets/img/weapon/gta-san-andreas/melee.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Melee"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "micro-smg",
       "record": "micro-smg",
       "path": "assets/img/weapon/gta-san-andreas/micro-smg.svg",
@@ -14797,6 +15952,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Micro SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "mike-toreno",
+      "record": "mike-toreno",
+      "path": "assets/img/weapon/gta-san-andreas/mike-toreno.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Mike Toreno"
     },
     {
       "kind": "weapon",
@@ -14823,6 +15989,17 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "molotov-cocktails",
+      "record": "molotov-cocktails",
+      "path": "assets/img/weapon/gta-san-andreas/molotov-cocktails.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktails"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "mp5",
       "record": "mp5",
       "path": "assets/img/weapon/gta-san-andreas/mp5.svg",
@@ -14830,6 +16007,83 @@
       "height": 256,
       "status": "placeholder",
       "alt": "MP5"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "night-vision",
+      "record": "night-vision",
+      "path": "assets/img/weapon/gta-san-andreas/night-vision.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Night Vision"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "nightstick",
+      "record": "nightstick",
+      "path": "assets/img/weapon/gta-san-andreas/nightstick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nightstick"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "nines-and-aks",
+      "record": "nines-and-aks",
+      "path": "assets/img/weapon/gta-san-andreas/nines-and-aks.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nines and AK's"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "outrider",
+      "record": "outrider",
+      "path": "assets/img/weapon/gta-san-andreas/outrider.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Outrider"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "parachute",
+      "record": "parachute",
+      "path": "assets/img/weapon/gta-san-andreas/parachute.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Parachute"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "photo-opportunity",
+      "record": "photo-opportunity",
+      "path": "assets/img/weapon/gta-san-andreas/photo-opportunity.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Photo Opportunity"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "pier-69",
+      "record": "pier-69",
+      "path": "assets/img/weapon/gta-san-andreas/pier-69.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pier 69"
     },
     {
       "kind": "weapon",
@@ -14845,6 +16099,39 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "pool-cue",
+      "record": "pool-cue",
+      "path": "assets/img/weapon/gta-san-andreas/pool-cue.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pool Cue"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "reuniting-the-families",
+      "record": "reuniting-the-families",
+      "path": "assets/img/weapon/gta-san-andreas/reuniting-the-families.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Reuniting the Families"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "rifle",
+      "record": "rifle",
+      "path": "assets/img/weapon/gta-san-andreas/rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "rocket-launcher",
       "record": "rocket-launcher",
       "path": "assets/img/weapon/gta-san-andreas/rocket-launcher.svg",
@@ -14852,6 +16139,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Rocket Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "ryder",
+      "record": "ryder",
+      "path": "assets/img/weapon/gta-san-andreas/ryder.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Ryder"
     },
     {
       "kind": "weapon",
@@ -14867,6 +16165,28 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "satchel-charges-remote-explosives",
+      "record": "satchel-charges-remote-explosives",
+      "path": "assets/img/weapon/gta-san-andreas/satchel-charges-remote-explosives.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Satchel Charges/Remote Explosives"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "sawnoff-shotgun",
+      "record": "sawnoff-shotgun",
+      "path": "assets/img/weapon/gta-san-andreas/sawnoff-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sawnoff Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "shotgun",
       "record": "shotgun",
       "path": "assets/img/weapon/gta-san-andreas/shotgun.svg",
@@ -14874,6 +16194,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "shovel",
+      "record": "shovel",
+      "path": "assets/img/weapon/gta-san-andreas/shovel.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Shovel"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "silenced-9mm",
+      "record": "silenced-9mm",
+      "path": "assets/img/weapon/gta-san-andreas/silenced-9mm.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Silenced 9mm"
     },
     {
       "kind": "weapon",
@@ -14889,6 +16231,50 @@
     {
       "kind": "weapon",
       "game": "gta-san-andreas",
+      "id": "small-town-bank",
+      "record": "small-town-bank",
+      "path": "assets/img/weapon/gta-san-andreas/small-town-bank.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Small Town Bank"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-san-andreas/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "snail-trail",
+      "record": "snail-trail",
+      "path": "assets/img/weapon/gta-san-andreas/snail-trail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Snail Trail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "sniper",
+      "record": "sniper",
+      "path": "assets/img/weapon/gta-san-andreas/sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
       "id": "sniper-rifle",
       "record": "sniper-rifle",
       "path": "assets/img/weapon/gta-san-andreas/sniper-rifle.svg",
@@ -14896,6 +16282,138 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Sniper Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "spray-can",
+      "record": "spray-can",
+      "path": "assets/img/weapon/gta-san-andreas/spray-can.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Spray Can"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "stowaway",
+      "record": "stowaway",
+      "path": "assets/img/weapon/gta-san-andreas/stowaway.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stowaway"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "tagging-up-turf",
+      "record": "tagging-up-turf",
+      "path": "assets/img/weapon/gta-san-andreas/tagging-up-turf.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tagging Up Turf"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "tear-gas",
+      "record": "tear-gas",
+      "path": "assets/img/weapon/gta-san-andreas/tear-gas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tear Gas"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "tec9",
+      "record": "tec9",
+      "path": "assets/img/weapon/gta-san-andreas/tec9.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tec9"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "the-da-nang-thang",
+      "record": "the-da-nang-thang",
+      "path": "assets/img/weapon/gta-san-andreas/the-da-nang-thang.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "The Da Nang Thang"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "the-green-sabre",
+      "record": "the-green-sabre",
+      "path": "assets/img/weapon/gta-san-andreas/the-green-sabre.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "The Green Sabre"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "thermal-vision",
+      "record": "thermal-vision",
+      "path": "assets/img/weapon/gta-san-andreas/thermal-vision.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Thermal Vision"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "torenos-last-flight",
+      "record": "torenos-last-flight",
+      "path": "assets/img/weapon/gta-san-andreas/torenos-last-flight.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Toreno's Last Flight"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "vertical-bird",
+      "record": "vertical-bird",
+      "path": "assets/img/weapon/gta-san-andreas/vertical-bird.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vertical Bird"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "vibrator",
+      "record": "vibrator",
+      "path": "assets/img/weapon/gta-san-andreas/vibrator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vibrator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-san-andreas",
+      "id": "vibrator-short",
+      "record": "vibrator-short",
+      "path": "assets/img/weapon/gta-san-andreas/vibrator-short.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vibrator (short)"
     },
     {
       "kind": "cheat",
@@ -17232,6 +18750,83 @@
     {
       "kind": "weapon",
       "game": "gta-advance",
+      "id": "assault-rifle",
+      "record": "assault-rifle",
+      "path": "assets/img/weapon/gta-advance/assault-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "baseball-bat",
+      "record": "baseball-bat",
+      "path": "assets/img/weapon/gta-advance/baseball-bat.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Baseball Bat"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "car-bomb",
+      "record": "car-bomb",
+      "path": "assets/img/weapon/gta-advance/car-bomb.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Car Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-advance/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-advance/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "flamethrower",
+      "record": "flamethrower",
+      "path": "assets/img/weapon/gta-advance/flamethrower.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flamethrower"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-advance/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
       "id": "grenades",
       "record": "grenades",
       "path": "assets/img/weapon/gta-advance/grenades.svg",
@@ -17239,6 +18834,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Grenades"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "katana",
+      "record": "katana",
+      "path": "assets/img/weapon/gta-advance/katana.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Katana"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "minigun",
+      "record": "minigun",
+      "path": "assets/img/weapon/gta-advance/minigun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Minigun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-advance/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "oil-slick",
+      "record": "oil-slick",
+      "path": "assets/img/weapon/gta-advance/oil-slick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Oil Slick"
     },
     {
       "kind": "weapon",
@@ -17272,6 +18911,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-advance",
+      "id": "uz-i",
+      "record": "uz-i",
+      "path": "assets/img/weapon/gta-advance/uz-i.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Uz-I"
     },
     {
       "kind": "weapon",
@@ -19322,6 +20972,28 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "357",
+      "record": "357",
+      "path": "assets/img/weapon/gta-liberty-city-stories/357.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": ".357"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "ak",
+      "record": "ak",
+      "path": "assets/img/weapon/gta-liberty-city-stories/ak.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "AK"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "ak-47",
       "record": "ak-47",
       "path": "assets/img/weapon/gta-liberty-city-stories/ak-47.svg",
@@ -19344,6 +21016,28 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "brass-knuckles",
+      "record": "brass-knuckles",
+      "path": "assets/img/weapon/gta-liberty-city-stories/brass-knuckles.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Brass Knuckles"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "camera",
+      "record": "camera",
+      "path": "assets/img/weapon/gta-liberty-city-stories/camera.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Camera"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "chainsaw",
       "record": "chainsaw",
       "path": "assets/img/weapon/gta-liberty-city-stories/chainsaw.svg",
@@ -19351,6 +21045,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Chainsaw"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "chisel",
+      "record": "chisel",
+      "path": "assets/img/weapon/gta-liberty-city-stories/chisel.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Chisel"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-liberty-city-stories/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-liberty-city-stories/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "flame-thrower",
+      "record": "flame-thrower",
+      "path": "assets/img/weapon/gta-liberty-city-stories/flame-thrower.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flame-Thrower"
     },
     {
       "kind": "weapon",
@@ -19366,6 +21104,17 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-liberty-city-stories/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "grenades",
       "record": "grenades",
       "path": "assets/img/weapon/gta-liberty-city-stories/grenades.svg",
@@ -19373,6 +21122,61 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Grenades"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "hand-axe",
+      "record": "hand-axe",
+      "path": "assets/img/weapon/gta-liberty-city-stories/hand-axe.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hand Axe"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "hockey-stick",
+      "record": "hockey-stick",
+      "path": "assets/img/weapon/gta-liberty-city-stories/hockey-stick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hockey Stick"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "katana",
+      "record": "katana",
+      "path": "assets/img/weapon/gta-liberty-city-stories/katana.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Katana"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-liberty-city-stories/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "laser-sighted-sniper-rifle",
+      "record": "laser-sighted-sniper-rifle",
+      "path": "assets/img/weapon/gta-liberty-city-stories/laser-sighted-sniper-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Laser Sighted Sniper Rifle"
     },
     {
       "kind": "weapon",
@@ -19388,6 +21192,83 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "m60",
+      "record": "m60",
+      "path": "assets/img/weapon/gta-liberty-city-stories/m60.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "M60"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "mac-10",
+      "record": "mac-10",
+      "path": "assets/img/weapon/gta-liberty-city-stories/mac-10.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Mac-10"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "machete",
+      "record": "machete",
+      "path": "assets/img/weapon/gta-liberty-city-stories/machete.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Machete"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "meat-cleaver",
+      "record": "meat-cleaver",
+      "path": "assets/img/weapon/gta-liberty-city-stories/meat-cleaver.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Meat Cleaver"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "micro-smg",
+      "record": "micro-smg",
+      "path": "assets/img/weapon/gta-liberty-city-stories/micro-smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Micro SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "minigun",
+      "record": "minigun",
+      "path": "assets/img/weapon/gta-liberty-city-stories/minigun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Minigun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-liberty-city-stories/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-liberty-city-stories/molotov.svg",
@@ -19395,6 +21276,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "nightstick",
+      "record": "nightstick",
+      "path": "assets/img/weapon/gta-liberty-city-stories/nightstick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nightstick"
     },
     {
       "kind": "weapon",
@@ -19410,6 +21302,17 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "remote-grenade",
+      "record": "remote-grenade",
+      "path": "assets/img/weapon/gta-liberty-city-stories/remote-grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Remote Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "rocket-launcher",
       "record": "rocket-launcher",
       "path": "assets/img/weapon/gta-liberty-city-stories/rocket-launcher.svg",
@@ -19417,6 +21320,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Rocket Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "spas-12",
+      "record": "spas-12",
+      "path": "assets/img/weapon/gta-liberty-city-stories/spas-12.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "S.P.A.S. 12"
     },
     {
       "kind": "weapon",
@@ -19432,6 +21346,17 @@
     {
       "kind": "weapon",
       "game": "gta-liberty-city-stories",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-liberty-city-stories/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
       "id": "sniper-rifle",
       "record": "sniper-rifle",
       "path": "assets/img/weapon/gta-liberty-city-stories/sniper-rifle.svg",
@@ -19439,6 +21364,39 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Sniper Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "stubby-shotgun",
+      "record": "stubby-shotgun",
+      "path": "assets/img/weapon/gta-liberty-city-stories/stubby-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stubby Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "tear-gas",
+      "record": "tear-gas",
+      "path": "assets/img/weapon/gta-liberty-city-stories/tear-gas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tear Gas"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-liberty-city-stories",
+      "id": "tec-9",
+      "record": "tec-9",
+      "path": "assets/img/weapon/gta-liberty-city-stories/tec-9.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tec 9"
     },
     {
       "kind": "weapon",
@@ -22083,6 +24041,50 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "ak",
+      "record": "ak",
+      "path": "assets/img/weapon/gta-vice-city-stories/ak.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "AK"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "assault-rifle",
+      "record": "assault-rifle",
+      "path": "assets/img/weapon/gta-vice-city-stories/assault-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "baseball-bat",
+      "record": "baseball-bat",
+      "path": "assets/img/weapon/gta-vice-city-stories/baseball-bat.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Baseball Bat"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "binoculars",
+      "record": "binoculars",
+      "path": "assets/img/weapon/gta-vice-city-stories/binoculars.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Binoculars"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "brass-knuckles",
       "record": "brass-knuckles",
       "path": "assets/img/weapon/gta-vice-city-stories/brass-knuckles.svg",
@@ -22090,6 +24092,105 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Brass Knuckles"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "butterfly-knife",
+      "record": "butterfly-knife",
+      "path": "assets/img/weapon/gta-vice-city-stories/butterfly-knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Butterfly Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "camera",
+      "record": "camera",
+      "path": "assets/img/weapon/gta-vice-city-stories/camera.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Camera"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "chainsaw",
+      "record": "chainsaw",
+      "path": "assets/img/weapon/gta-vice-city-stories/chainsaw.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Chainsaw"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-vice-city-stories/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "equalizer",
+      "record": "equalizer",
+      "path": "assets/img/weapon/gta-vice-city-stories/equalizer.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Equalizer"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-vice-city-stories/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "flame-thrower",
+      "record": "flame-thrower",
+      "path": "assets/img/weapon/gta-vice-city-stories/flame-thrower.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flame-Thrower"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "gaff-hook",
+      "record": "gaff-hook",
+      "path": "assets/img/weapon/gta-vice-city-stories/gaff-hook.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Gaff Hook"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "golf-club",
+      "record": "golf-club",
+      "path": "assets/img/weapon/gta-vice-city-stories/golf-club.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Golf Club"
     },
     {
       "kind": "weapon",
@@ -22105,6 +24206,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "hand-axe",
+      "record": "hand-axe",
+      "path": "assets/img/weapon/gta-vice-city-stories/hand-axe.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hand Axe"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "katana",
       "record": "katana",
       "path": "assets/img/weapon/gta-vice-city-stories/katana.svg",
@@ -22112,6 +24224,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Katana"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-vice-city-stories/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "land-mine",
+      "record": "land-mine",
+      "path": "assets/img/weapon/gta-vice-city-stories/land-mine.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Land Mine"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "laser-sniper",
+      "record": "laser-sniper",
+      "path": "assets/img/weapon/gta-vice-city-stories/laser-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Laser Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "m249",
+      "record": "m249",
+      "path": "assets/img/weapon/gta-vice-city-stories/m249.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "M249"
     },
     {
       "kind": "weapon",
@@ -22127,6 +24283,28 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "machete",
+      "record": "machete",
+      "path": "assets/img/weapon/gta-vice-city-stories/machete.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Machete"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "micro-smg",
+      "record": "micro-smg",
+      "path": "assets/img/weapon/gta-vice-city-stories/micro-smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Micro SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "minigun",
       "record": "minigun",
       "path": "assets/img/weapon/gta-vice-city-stories/minigun.svg",
@@ -22138,6 +24316,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "molotovs",
+      "record": "molotovs",
+      "path": "assets/img/weapon/gta-vice-city-stories/molotovs.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotovs"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "mp5",
       "record": "mp5",
       "path": "assets/img/weapon/gta-vice-city-stories/mp5.svg",
@@ -22145,6 +24334,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "MP5"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "nightstick",
+      "record": "nightstick",
+      "path": "assets/img/weapon/gta-vice-city-stories/nightstick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nightstick"
     },
     {
       "kind": "weapon",
@@ -22171,6 +24371,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "remote-grenade",
+      "record": "remote-grenade",
+      "path": "assets/img/weapon/gta-vice-city-stories/remote-grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Remote Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "rocket-launcher",
       "record": "rocket-launcher",
       "path": "assets/img/weapon/gta-vice-city-stories/rocket-launcher.svg",
@@ -22193,6 +24404,17 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "scorpion",
+      "record": "scorpion",
+      "path": "assets/img/weapon/gta-vice-city-stories/scorpion.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Scorpion"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "shotgun",
       "record": "shotgun",
       "path": "assets/img/weapon/gta-vice-city-stories/shotgun.svg",
@@ -22204,6 +24426,28 @@
     {
       "kind": "weapon",
       "game": "gta-vice-city-stories",
+      "id": "silenced-mg",
+      "record": "silenced-mg",
+      "path": "assets/img/weapon/gta-vice-city-stories/silenced-mg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Silenced MG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-vice-city-stories/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
       "id": "sniper-rifle",
       "record": "sniper-rifle",
       "path": "assets/img/weapon/gta-vice-city-stories/sniper-rifle.svg",
@@ -22211,6 +24455,39 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Sniper Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "spaz-12",
+      "record": "spaz-12",
+      "path": "assets/img/weapon/gta-vice-city-stories/spaz-12.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Spaz 12"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "stubby-shotgun",
+      "record": "stubby-shotgun",
+      "path": "assets/img/weapon/gta-vice-city-stories/stubby-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stubby Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-vice-city-stories",
+      "id": "tear-gas",
+      "record": "tear-gas",
+      "path": "assets/img/weapon/gta-vice-city-stories/tear-gas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tear Gas"
     },
     {
       "kind": "weapon",
@@ -25328,6 +27605,39 @@
     {
       "kind": "weapon",
       "game": "gta-iv",
+      "id": "combat-pistol",
+      "record": "combat-pistol",
+      "path": "assets/img/weapon/gta-iv/combat-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
+      "id": "combat-shotgun",
+      "record": "combat-shotgun",
+      "path": "assets/img/weapon/gta-iv/combat-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
+      "id": "combat-sniper",
+      "record": "combat-sniper",
+      "path": "assets/img/weapon/gta-iv/combat-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
       "id": "desert-eagle",
       "record": "desert-eagle",
       "path": "assets/img/weapon/gta-iv/desert-eagle.svg",
@@ -25335,6 +27645,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Desert Eagle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-iv/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
     },
     {
       "kind": "weapon",
@@ -25357,6 +27678,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Glock 17"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-iv/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
     },
     {
       "kind": "weapon",
@@ -25394,6 +27726,17 @@
     {
       "kind": "weapon",
       "game": "gta-iv",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-iv/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-iv/molotov.svg",
@@ -25416,6 +27759,17 @@
     {
       "kind": "weapon",
       "game": "gta-iv",
+      "id": "pistol",
+      "record": "pistol",
+      "path": "assets/img/weapon/gta-iv/pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
       "id": "pump-shotgun",
       "record": "pump-shotgun",
       "path": "assets/img/weapon/gta-iv/pump-shotgun.svg",
@@ -25427,6 +27781,17 @@
     {
       "kind": "weapon",
       "game": "gta-iv",
+      "id": "random-pickable-objects",
+      "record": "random-pickable-objects",
+      "path": "assets/img/weapon/gta-iv/random-pickable-objects.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Random Pickable Objects"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
       "id": "rpg",
       "record": "rpg",
       "path": "assets/img/weapon/gta-iv/rpg.svg",
@@ -25434,6 +27799,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "RPG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-iv/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
     },
     {
       "kind": "weapon",
@@ -27968,6 +30344,28 @@
     {
       "kind": "weapon",
       "game": "gta-iv-the-lost-and-damned",
+      "id": "assault-shotgun",
+      "record": "assault-shotgun",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "automatic-9mm",
+      "record": "automatic-9mm",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/automatic-9mm.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Automatic 9mm"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
       "id": "baseball-bat",
       "record": "baseball-bat",
       "path": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.svg",
@@ -27975,6 +30373,61 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Baseball Bat"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "carbine-rifle",
+      "record": "carbine-rifle",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/carbine-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Carbine Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "combat-pistol",
+      "record": "combat-pistol",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "combat-shotgun",
+      "record": "combat-shotgun",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "combat-sniper",
+      "record": "combat-sniper",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
     },
     {
       "kind": "weapon",
@@ -27990,6 +30443,17 @@
     {
       "kind": "weapon",
       "game": "gta-iv-the-lost-and-damned",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
       "id": "grenade-launcher",
       "record": "grenade-launcher",
       "path": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.svg",
@@ -27997,6 +30461,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Grenade Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
     },
     {
       "kind": "weapon",
@@ -28012,6 +30487,17 @@
     {
       "kind": "weapon",
       "game": "gta-iv-the-lost-and-damned",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
       "id": "pipe-bomb",
       "record": "pipe-bomb",
       "path": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.svg",
@@ -28019,6 +30505,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Pipe Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "pistol",
+      "record": "pistol",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "pool-cue",
+      "record": "pool-cue",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/pool-cue.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pool Cue"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "pump-shotgun",
+      "record": "pump-shotgun",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/pump-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pump Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "random-pickable-objects",
+      "record": "random-pickable-objects",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/random-pickable-objects.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Random Pickable Objects"
     },
     {
       "kind": "weapon",
@@ -28040,7 +30570,29 @@
       "width": 512,
       "height": 256,
       "status": "placeholder",
-      "alt": "Sawn-off Shotgun"
+      "alt": "Sawn-Off Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "sniper-rifle",
+      "record": "sniper-rifle",
+      "path": "assets/img/weapon/gta-iv-the-lost-and-damned/sniper-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sniper Rifle"
     },
     {
       "kind": "location",
@@ -30179,6 +32731,28 @@
     {
       "kind": "weapon",
       "game": "gta-the-ballad-of-gay-tony",
+      "id": "advanced-mg",
+      "record": "advanced-mg",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-mg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Advanced MG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "advanced-sniper",
+      "record": "advanced-sniper",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Advanced Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
       "id": "ap-pistol",
       "record": "ap-pistol",
       "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/ap-pistol.svg",
@@ -30190,6 +32764,17 @@
     {
       "kind": "weapon",
       "game": "gta-the-ballad-of-gay-tony",
+      "id": "assault-rifle",
+      "record": "assault-rifle",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
       "id": "assault-smg",
       "record": "assault-smg",
       "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-smg.svg",
@@ -30197,6 +32782,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Assault SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "automatic-shotgun",
+      "record": "automatic-shotgun",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/automatic-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Automatic Shotgun"
     },
     {
       "kind": "weapon",
@@ -30223,6 +32819,160 @@
     {
       "kind": "weapon",
       "game": "gta-the-ballad-of-gay-tony",
+      "id": "combat-pistol",
+      "record": "combat-pistol",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "combat-shotgun",
+      "record": "combat-shotgun",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "combat-sniper",
+      "record": "combat-sniper",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "gold-smg",
+      "record": "gold-smg",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/gold-smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Gold SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "grenade-launcher",
+      "record": "grenade-launcher",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/grenade-launcher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "knife",
+      "record": "knife",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/knife.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "micro-smg",
+      "record": "micro-smg",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/micro-smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Micro SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "pistol",
+      "record": "pistol",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "pistol-44",
+      "record": "pistol-44",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol-44.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pistol .44"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "pump-shotgun",
+      "record": "pump-shotgun",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/pump-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pump Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "random-pickable-objects",
+      "record": "random-pickable-objects",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/random-pickable-objects.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Random Pickable Objects"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
       "id": "rpg",
       "record": "rpg",
       "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/rpg.svg",
@@ -30241,6 +32991,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Sawn-off Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-the-ballad-of-gay-tony/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
     },
     {
       "kind": "weapon",
@@ -31994,6 +34755,17 @@
     {
       "kind": "weapon",
       "game": "gta-chinatown-wars",
+      "id": "assault-rifle",
+      "record": "assault-rifle",
+      "path": "assets/img/weapon/gta-chinatown-wars/assault-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
       "id": "baseball-bat",
       "record": "baseball-bat",
       "path": "assets/img/weapon/gta-chinatown-wars/baseball-bat.svg",
@@ -32005,6 +34777,83 @@
     {
       "kind": "weapon",
       "game": "gta-chinatown-wars",
+      "id": "carbine-rifle",
+      "record": "carbine-rifle",
+      "path": "assets/img/weapon/gta-chinatown-wars/carbine-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Carbine Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "chainsaw",
+      "record": "chainsaw",
+      "path": "assets/img/weapon/gta-chinatown-wars/chainsaw.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Chainsaw"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "crates",
+      "record": "crates",
+      "path": "assets/img/weapon/gta-chinatown-wars/crates.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Crates"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "detonator",
+      "record": "detonator",
+      "path": "assets/img/weapon/gta-chinatown-wars/detonator.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Detonator"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "double-barreled-shotgun",
+      "record": "double-barreled-shotgun",
+      "path": "assets/img/weapon/gta-chinatown-wars/double-barreled-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Double Barreled Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "drug-sample",
+      "record": "drug-sample",
+      "path": "assets/img/weapon/gta-chinatown-wars/drug-sample.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Drug Sample"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "fist",
+      "record": "fist",
+      "path": "assets/img/weapon/gta-chinatown-wars/fist.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
       "id": "fists",
       "record": "fists",
       "path": "assets/img/weapon/gta-chinatown-wars/fists.svg",
@@ -32012,6 +34861,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Fists"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "flame-thrower",
+      "record": "flame-thrower",
+      "path": "assets/img/weapon/gta-chinatown-wars/flame-thrower.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flame Thrower"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "flashbangs",
+      "record": "flashbangs",
+      "path": "assets/img/weapon/gta-chinatown-wars/flashbangs.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Flashbangs"
     },
     {
       "kind": "weapon",
@@ -32049,6 +34920,17 @@
     {
       "kind": "weapon",
       "game": "gta-chinatown-wars",
+      "id": "minigun",
+      "record": "minigun",
+      "path": "assets/img/weapon/gta-chinatown-wars/minigun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Minigun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-chinatown-wars/molotov.svg",
@@ -32060,6 +34942,28 @@
     {
       "kind": "weapon",
       "game": "gta-chinatown-wars",
+      "id": "molotov-cocktails",
+      "record": "molotov-cocktails",
+      "path": "assets/img/weapon/gta-chinatown-wars/molotov-cocktails.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktails"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "night-stick",
+      "record": "night-stick",
+      "path": "assets/img/weapon/gta-chinatown-wars/night-stick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Night Stick"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
       "id": "pistol",
       "record": "pistol",
       "path": "assets/img/weapon/gta-chinatown-wars/pistol.svg",
@@ -32067,6 +34971,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "proximity-mines",
+      "record": "proximity-mines",
+      "path": "assets/img/weapon/gta-chinatown-wars/proximity-mines.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Proximity Mines"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "revolver",
+      "record": "revolver",
+      "path": "assets/img/weapon/gta-chinatown-wars/revolver.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Revolver"
     },
     {
       "kind": "weapon",
@@ -32093,6 +35019,17 @@
     {
       "kind": "weapon",
       "game": "gta-chinatown-wars",
+      "id": "rpg",
+      "record": "rpg",
+      "path": "assets/img/weapon/gta-chinatown-wars/rpg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "RPG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
       "id": "shotgun",
       "record": "shotgun",
       "path": "assets/img/weapon/gta-chinatown-wars/shotgun.svg",
@@ -32100,6 +35037,83 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "smg",
+      "record": "smg",
+      "path": "assets/img/weapon/gta-chinatown-wars/smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "sniper-rifle",
+      "record": "sniper-rifle",
+      "path": "assets/img/weapon/gta-chinatown-wars/sniper-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sniper Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "stubby-shotgun",
+      "record": "stubby-shotgun",
+      "path": "assets/img/weapon/gta-chinatown-wars/stubby-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stubby Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "sword",
+      "record": "sword",
+      "path": "assets/img/weapon/gta-chinatown-wars/sword.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sword"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "teaser",
+      "record": "teaser",
+      "path": "assets/img/weapon/gta-chinatown-wars/teaser.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Teaser"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "time-bomb",
+      "record": "time-bomb",
+      "path": "assets/img/weapon/gta-chinatown-wars/time-bomb.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Time Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-chinatown-wars",
+      "id": "twin-pistols",
+      "record": "twin-pistols",
+      "path": "assets/img/weapon/gta-chinatown-wars/twin-pistols.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Twin Pistols"
     },
     {
       "kind": "cheat",
@@ -36746,6 +39760,28 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "advanced-rifle",
+      "record": "advanced-rifle",
+      "path": "assets/img/weapon/gta-v/advanced-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Advanced Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "antique-cavalry-dagger",
+      "record": "antique-cavalry-dagger",
+      "path": "assets/img/weapon/gta-v/antique-cavalry-dagger.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Antique Cavalry Dagger"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "ap-pistol",
       "record": "ap-pistol",
       "path": "assets/img/weapon/gta-v/ap-pistol.svg",
@@ -36779,6 +39815,28 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "assault-smg",
+      "record": "assault-smg",
+      "path": "assets/img/weapon/gta-v/assault-smg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Assault SMG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "ball",
+      "record": "ball",
+      "path": "assets/img/weapon/gta-v/ball.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Ball"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "baseball-bat",
       "record": "baseball-bat",
       "path": "assets/img/weapon/gta-v/baseball-bat.svg",
@@ -36786,6 +39844,50 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Baseball Bat"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "bottle",
+      "record": "bottle",
+      "path": "assets/img/weapon/gta-v/bottle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Bottle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "bullpup-rifle",
+      "record": "bullpup-rifle",
+      "path": "assets/img/weapon/gta-v/bullpup-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Bullpup Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "bullpup-shotgun",
+      "record": "bullpup-shotgun",
+      "path": "assets/img/weapon/gta-v/bullpup-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Bullpup Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "bz-gas",
+      "record": "bz-gas",
+      "path": "assets/img/weapon/gta-v/bz-gas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "BZ Gas"
     },
     {
       "kind": "weapon",
@@ -36812,6 +39914,17 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "combat-pdw",
+      "record": "combat-pdw",
+      "path": "assets/img/weapon/gta-v/combat-pdw.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Combat PDW"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "combat-pistol",
       "record": "combat-pistol",
       "path": "assets/img/weapon/gta-v/combat-pistol.svg",
@@ -36834,13 +39947,68 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "digiscanner",
+      "record": "digiscanner",
+      "path": "assets/img/weapon/gta-v/digiscanner.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Digiscanner"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "firework-launcher",
+      "record": "firework-launcher",
+      "path": "assets/img/weapon/gta-v/firework-launcher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Firework Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "fist",
       "record": "fist",
       "path": "assets/img/weapon/gta-v/fist.svg",
       "width": 512,
       "height": 256,
       "status": "placeholder",
-      "alt": "Fists"
+      "alt": "Fist"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "golf-club",
+      "record": "golf-club",
+      "path": "assets/img/weapon/gta-v/golf-club.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Golf Club"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "grenade",
+      "record": "grenade",
+      "path": "assets/img/weapon/gta-v/grenade.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "grenade-launcher",
+      "record": "grenade-launcher",
+      "path": "assets/img/weapon/gta-v/grenade-launcher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Grenade Launcher"
     },
     {
       "kind": "weapon",
@@ -36856,6 +40024,61 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "gusenberg-sweeper",
+      "record": "gusenberg-sweeper",
+      "path": "assets/img/weapon/gta-v/gusenberg-sweeper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Gusenberg Sweeper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "hammer",
+      "record": "hammer",
+      "path": "assets/img/weapon/gta-v/hammer.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hammer"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "hatchet",
+      "record": "hatchet",
+      "path": "assets/img/weapon/gta-v/hatchet.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Hatchet"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "heavy-pistol",
+      "record": "heavy-pistol",
+      "path": "assets/img/weapon/gta-v/heavy-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Heavy Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "heavy-shotgun",
+      "record": "heavy-shotgun",
+      "path": "assets/img/weapon/gta-v/heavy-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Heavy Shotgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "heavy-sniper",
       "record": "heavy-sniper",
       "path": "assets/img/weapon/gta-v/heavy-sniper.svg",
@@ -36867,6 +40090,28 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "homing-launcher",
+      "record": "homing-launcher",
+      "path": "assets/img/weapon/gta-v/homing-launcher.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Homing Launcher"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "jerry-can",
+      "record": "jerry-can",
+      "path": "assets/img/weapon/gta-v/jerry-can.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Jerry Can"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "knife",
       "record": "knife",
       "path": "assets/img/weapon/gta-v/knife.svg",
@@ -36874,6 +40119,72 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Knife"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "knuckledusters",
+      "record": "knuckledusters",
+      "path": "assets/img/weapon/gta-v/knuckledusters.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Knuckledusters"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "machete",
+      "record": "machete",
+      "path": "assets/img/weapon/gta-v/machete.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Machete"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "machine-pistol",
+      "record": "machine-pistol",
+      "path": "assets/img/weapon/gta-v/machine-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Machine Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "marksman-pistol",
+      "record": "marksman-pistol",
+      "path": "assets/img/weapon/gta-v/marksman-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Marksman Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "marksman-rifle",
+      "record": "marksman-rifle",
+      "path": "assets/img/weapon/gta-v/marksman-rifle.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Marksman Rifle"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "mg",
+      "record": "mg",
+      "path": "assets/img/weapon/gta-v/mg.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "MG"
     },
     {
       "kind": "weapon",
@@ -36900,6 +40211,17 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "molotov-cocktail",
+      "record": "molotov-cocktail",
+      "path": "assets/img/weapon/gta-v/molotov-cocktail.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "molotov",
       "record": "molotov",
       "path": "assets/img/weapon/gta-v/molotov.svg",
@@ -36907,6 +40229,28 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Molotov Cocktail"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "musket",
+      "record": "musket",
+      "path": "assets/img/weapon/gta-v/musket.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Musket"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "nightstick",
+      "record": "nightstick",
+      "path": "assets/img/weapon/gta-v/nightstick.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Nightstick"
     },
     {
       "kind": "weapon",
@@ -36922,6 +40266,28 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "pistol-50",
+      "record": "pistol-50",
+      "path": "assets/img/weapon/gta-v/pistol-50.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Pistol .50"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "proximity-mine",
+      "record": "proximity-mine",
+      "path": "assets/img/weapon/gta-v/proximity-mine.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Proximity Mine"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "pump-shotgun",
       "record": "pump-shotgun",
       "path": "assets/img/weapon/gta-v/pump-shotgun.svg",
@@ -36933,6 +40299,28 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "railgun",
+      "record": "railgun",
+      "path": "assets/img/weapon/gta-v/railgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Railgun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "remote-sniper",
+      "record": "remote-sniper",
+      "path": "assets/img/weapon/gta-v/remote-sniper.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Remote Sniper"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "rpg",
       "record": "rpg",
       "path": "assets/img/weapon/gta-v/rpg.svg",
@@ -36940,6 +40328,17 @@
       "height": 256,
       "status": "placeholder",
       "alt": "RPG"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "sawed-off-shotgun",
+      "record": "sawed-off-shotgun",
+      "path": "assets/img/weapon/gta-v/sawed-off-shotgun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sawed-Off Shotgun"
     },
     {
       "kind": "weapon",
@@ -36966,6 +40365,17 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "sns-pistol",
+      "record": "sns-pistol",
+      "path": "assets/img/weapon/gta-v/sns-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "SNS Pistol"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "special-carbine",
       "record": "special-carbine",
       "path": "assets/img/weapon/gta-v/special-carbine.svg",
@@ -36977,6 +40387,17 @@
     {
       "kind": "weapon",
       "game": "gta-v",
+      "id": "sticky-bomb",
+      "record": "sticky-bomb",
+      "path": "assets/img/weapon/gta-v/sticky-bomb.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Sticky Bomb"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
       "id": "sticky-bombs",
       "record": "sticky-bombs",
       "path": "assets/img/weapon/gta-v/sticky-bombs.svg",
@@ -36984,6 +40405,39 @@
       "height": 256,
       "status": "placeholder",
       "alt": "Sticky Bombs"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "stun-gun",
+      "record": "stun-gun",
+      "path": "assets/img/weapon/gta-v/stun-gun.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Stun Gun"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "tear-gas",
+      "record": "tear-gas",
+      "path": "assets/img/weapon/gta-v/tear-gas.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Tear Gas"
+    },
+    {
+      "kind": "weapon",
+      "game": "gta-v",
+      "id": "vintage-pistol",
+      "record": "vintage-pistol",
+      "path": "assets/img/weapon/gta-v/vintage-pistol.svg",
+      "width": 512,
+      "height": 256,
+      "status": "placeholder",
+      "alt": "Vintage Pistol"
     },
     {
       "kind": "cheat",

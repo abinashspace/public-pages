@@ -5,13 +5,13 @@
     "year": 2005,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:50:12.326Z",
+    "generated": "2026-11-15T16:56:35.527Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
       "missions": "complete",
       "vehicles": "complete",
-      "weapons": "partial",
+      "weapons": "complete",
       "cheats": "complete",
       "locations": "partial",
       "collectibles": "complete"
@@ -20,7 +20,7 @@
       "characters": 14,
       "missions": 71,
       "vehicles": 81,
-      "weapons": 12,
+      "weapons": 40,
       "cheats": 43,
       "locations": 10,
       "collectibles": 5
@@ -1990,8 +1990,24 @@
     ]
   },
   "weapons": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
+      {
+        "id": "357",
+        "name": ".357",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/357.svg"
+      },
+      {
+        "id": "ak",
+        "name": "AK",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/ak.svg"
+      },
       {
         "id": "ak-47",
         "name": "AK-47",
@@ -2006,24 +2022,72 @@
       {
         "id": "baseball-bat",
         "name": "Baseball Bat",
-        "type": "Melee",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Medium",
         "ammo": "—",
-        "price": null,
         "unlock": "Street pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/baseball-bat.svg"
+      },
+      {
+        "id": "brass-knuckles",
+        "name": "Brass Knuckles",
+        "type": "Unarmed",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/brass-knuckles.svg"
+      },
+      {
+        "id": "camera",
+        "name": "Camera",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/camera.svg"
       },
       {
         "id": "chainsaw",
         "name": "Chainsaw",
-        "type": "Melee",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Very high",
         "ammo": "—",
-        "price": null,
         "unlock": "Mission reward",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/chainsaw.svg"
+      },
+      {
+        "id": "chisel",
+        "name": "Chisel",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/chisel.svg"
+      },
+      {
+        "id": "detonator",
+        "name": "Detonator",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/detonator.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Unarmed",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/fist.svg"
+      },
+      {
+        "id": "flame-thrower",
+        "name": "Flame-Thrower",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/flame-thrower.svg"
       },
       {
         "id": "flamethrower",
@@ -2037,6 +2101,14 @@
         "image": "assets/img/weapon/gta-liberty-city-stories/flamethrower.svg"
       },
       {
+        "id": "grenade",
+        "name": "Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/grenade.svg"
+      },
+      {
         "id": "grenades",
         "name": "Grenades",
         "type": "Thrown",
@@ -2048,15 +2120,111 @@
         "image": "assets/img/weapon/gta-liberty-city-stories/grenades.svg"
       },
       {
+        "id": "hand-axe",
+        "name": "Hand Axe",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/hand-axe.svg"
+      },
+      {
+        "id": "hockey-stick",
+        "name": "Hockey Stick",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/hockey-stick.svg"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/katana.svg"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/knife.svg"
+      },
+      {
+        "id": "laser-sighted-sniper-rifle",
+        "name": "Laser Sighted Sniper Rifle",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/laser-sighted-sniper-rifle.svg"
+      },
+      {
         "id": "m4",
         "name": "M4",
-        "type": "Assault rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Very high",
         "ammo": "30 rounds",
-        "price": null,
         "unlock": "Ammu-Nation",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/m4.svg"
+      },
+      {
+        "id": "m60",
+        "name": "M60",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/m60.svg"
+      },
+      {
+        "id": "mac-10",
+        "name": "Mac-10",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/mac-10.svg"
+      },
+      {
+        "id": "machete",
+        "name": "Machete",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/machete.svg"
+      },
+      {
+        "id": "meat-cleaver",
+        "name": "Meat Cleaver",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/meat-cleaver.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/micro-smg.svg"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/minigun.svg"
+      },
+      {
+        "id": "molotov-cocktail",
+        "name": "Molotov Cocktail",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/molotov-cocktail.svg"
       },
       {
         "id": "molotov",
@@ -2070,48 +2238,104 @@
         "image": "assets/img/weapon/gta-liberty-city-stories/molotov.svg"
       },
       {
+        "id": "nightstick",
+        "name": "Nightstick",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/nightstick.svg"
+      },
+      {
         "id": "pistol",
         "name": "Pistol",
-        "type": "Handgun",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Medium",
         "ammo": "17 rounds",
-        "price": null,
         "unlock": "Ammu-Nation",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/pistol.svg"
+      },
+      {
+        "id": "remote-grenade",
+        "name": "Remote Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/remote-grenade.svg"
       },
       {
         "id": "rocket-launcher",
         "name": "Rocket Launcher",
-        "type": "Heavy",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Lethal",
         "ammo": "5 rockets",
-        "price": null,
         "unlock": "Pickups",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/rocket-launcher.svg"
+      },
+      {
+        "id": "spas-12",
+        "name": "S.P.A.S. 12",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/spas-12.svg"
       },
       {
         "id": "shotgun",
         "name": "Shotgun",
-        "type": "Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "High",
         "ammo": "8 shells",
-        "price": null,
         "unlock": "Ammu-Nation",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/shotgun.svg"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/smg.svg"
       },
       {
         "id": "sniper-rifle",
         "name": "Sniper Rifle",
-        "type": "Sniper",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
         "damage_tier": "Very high",
         "ammo": "5 rounds",
-        "price": null,
         "unlock": "Ammu-Nation",
-        "verified": true,
         "image": "assets/img/weapon/gta-liberty-city-stories/sniper-rifle.svg"
+      },
+      {
+        "id": "stubby-shotgun",
+        "name": "Stubby Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/stubby-shotgun.svg"
+      },
+      {
+        "id": "tear-gas",
+        "name": "Tear Gas",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/tear-gas.svg"
+      },
+      {
+        "id": "tec-9",
+        "name": "Tec 9",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-liberty-city-stories/tec-9.svg"
       },
       {
         "id": "uzi",

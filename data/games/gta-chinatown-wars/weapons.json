@@ -2,19 +2,83 @@
   "game": "gta-chinatown-wars",
   "game_title": "Grand Theft Auto: Chinatown Wars",
   "section": "weapons",
-  "coverage": "limited",
-  "count": 10,
+  "coverage": "complete",
+  "count": 33,
   "items": [
+    {
+      "id": "assault-rifle",
+      "name": "Assault Rifle",
+      "type": "Assault Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/assault-rifle.svg"
+    },
     {
       "id": "baseball-bat",
       "name": "Baseball Bat",
       "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "—",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.svg"
+    },
+    {
+      "id": "carbine-rifle",
+      "name": "Carbine Rifle",
+      "type": "Assault Rifles",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/carbine-rifle.svg"
+    },
+    {
+      "id": "chainsaw",
+      "name": "Chainsaw",
+      "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/chainsaw.svg"
+    },
+    {
+      "id": "crates",
+      "name": "Crates",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/crates.svg"
+    },
+    {
+      "id": "detonator",
+      "name": "Detonator",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/detonator.svg"
+    },
+    {
+      "id": "double-barreled-shotgun",
+      "name": "Double Barreled Shotgun",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/double-barreled-shotgun.svg"
+    },
+    {
+      "id": "drug-sample",
+      "name": "Drug Sample",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/drug-sample.svg"
+    },
+    {
+      "id": "fist",
+      "name": "Fist",
+      "type": "Unarmed",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/fist.svg"
     },
     {
       "id": "fists",
@@ -28,14 +92,30 @@
       "image": "assets/img/weapon/gta-chinatown-wars/fists.svg"
     },
     {
+      "id": "flame-thrower",
+      "name": "Flame Thrower",
+      "type": "Heavy",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/flame-thrower.svg"
+    },
+    {
+      "id": "flashbangs",
+      "name": "Flashbangs",
+      "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/flashbangs.svg"
+    },
+    {
       "id": "grenades",
       "name": "Grenades",
       "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "High",
       "ammo": "Count",
-      "price": null,
       "unlock": "Pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-chinatown-wars/grenades.svg"
     },
     {
@@ -52,13 +132,21 @@
     {
       "id": "micro-smg",
       "name": "Micro SMG",
-      "type": "Submachine gun",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "Magazine",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.svg"
+    },
+    {
+      "id": "minigun",
+      "name": "Minigun",
+      "type": "Heavy",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/minigun.svg"
     },
     {
       "id": "molotov",
@@ -72,15 +160,47 @@
       "image": "assets/img/weapon/gta-chinatown-wars/molotov.svg"
     },
     {
+      "id": "molotov-cocktails",
+      "name": "Molotov Cocktails",
+      "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/molotov-cocktails.svg"
+    },
+    {
+      "id": "night-stick",
+      "name": "Night Stick",
+      "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/night-stick.svg"
+    },
+    {
       "id": "pistol",
       "name": "Pistol",
-      "type": "Handgun",
+      "type": "Handguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "Medium",
       "ammo": "Magazine",
-      "price": null,
       "unlock": "Ammu-Nation equivalent",
-      "verified": true,
       "image": "assets/img/weapon/gta-chinatown-wars/pistol.svg"
+    },
+    {
+      "id": "proximity-mines",
+      "name": "Proximity Mines",
+      "type": "Thrown",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/proximity-mines.svg"
+    },
+    {
+      "id": "revolver",
+      "name": "Revolver",
+      "type": "Handguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/revolver.svg"
     },
     {
       "id": "rifle",
@@ -105,15 +225,79 @@
       "image": "assets/img/weapon/gta-chinatown-wars/rocket-launcher.svg"
     },
     {
+      "id": "rpg",
+      "name": "RPG",
+      "type": "Heavy",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/rpg.svg"
+    },
+    {
       "id": "shotgun",
       "name": "Shotgun",
-      "type": "Shotgun",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
       "damage_tier": "High",
       "ammo": "Shells",
-      "price": null,
       "unlock": "Street pickups",
-      "verified": true,
       "image": "assets/img/weapon/gta-chinatown-wars/shotgun.svg"
+    },
+    {
+      "id": "smg",
+      "name": "SMG",
+      "type": "Submachine Guns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/smg.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/sniper-rifle.svg"
+    },
+    {
+      "id": "stubby-shotgun",
+      "name": "Stubby Shotgun",
+      "type": "Shotguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/stubby-shotgun.svg"
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/sword.svg"
+    },
+    {
+      "id": "teaser",
+      "name": "Teaser",
+      "type": "Melee",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/teaser.svg"
+    },
+    {
+      "id": "time-bomb",
+      "name": "Time Bomb",
+      "type": "Special",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/time-bomb.svg"
+    },
+    {
+      "id": "twin-pistols",
+      "name": "Twin Pistols",
+      "type": "Handguns",
+      "verified": true,
+      "source": "GTA Wiki weapon list (names and weapon class)",
+      "image": "assets/img/weapon/gta-chinatown-wars/twin-pistols.svg"
     }
   ]
 }
