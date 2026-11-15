@@ -1,0 +1,199 @@
+{
+  "game": "gta-vice-city-stories",
+  "game_title": "Grand Theft Auto: Vice City Stories",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 19,
+  "items": [
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 215,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/banshee.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 225,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/cheetah.svg"
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 205,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/comet.svg"
+    },
+    {
+      "id": "freeway",
+      "name": "Freeway",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/freeway.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 225,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/infernus.svg"
+    },
+    {
+      "id": "jetmax",
+      "name": "Jetmax",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 115,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/jetmax.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/maverick.svg"
+    },
+    {
+      "id": "patriot",
+      "name": "Patriot",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/patriot.svg"
+    },
+    {
+      "id": "pcj-600",
+      "name": "PCJ-600",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/pcj-600.svg"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "category": "Boat",
+      "class": "Police boat",
+      "top_speed_kph": 95,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/predator.svg"
+    },
+    {
+      "id": "rancher",
+      "name": "Rancher",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/rancher.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": 60,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/rhino.svg"
+    },
+    {
+      "id": "sabre-turbo",
+      "name": "Sabre Turbo",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 205,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/sabre-turbo.svg"
+    },
+    {
+      "id": "sanchez",
+      "name": "Sanchez",
+      "category": "Motorcycle",
+      "class": "Dirt bike",
+      "top_speed_kph": 170,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/sanchez.svg"
+    },
+    {
+      "id": "sea-sparrow",
+      "name": "Sea Sparrow",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/sea-sparrow.svg"
+    },
+    {
+      "id": "sentinel-xs",
+      "name": "Sentinel XS",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 190,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/sentinel-xs.svg"
+    },
+    {
+      "id": "squalo",
+      "name": "Squalo",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/squalo.svg"
+    },
+    {
+      "id": "stinger",
+      "name": "Stinger",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 210,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/stinger.svg"
+    },
+    {
+      "id": "voodoo",
+      "name": "Voodoo",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 180,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city-stories/voodoo.svg"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://abinashspace.github.io/gta-hub/data/schema/cheats.json",
+  "title": "Cheat record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "effect",
+    "codes",
+    "verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Permanent slug, unique within the game."
+    },
+    "effect": {
+      "type": "string",
+      "required": true
+    },
+    "codes": {
+      "type": "array",
+      "required": true,
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "platform",
+          "code"
+        ],
+        "properties": {
+          "platform": {
+            "type": "string",
+            "required": true
+          },
+          "edition": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string",
+            "required": true
+          },
+          "input": {
+            "type": "string",
+            "enum": [
+              "button",
+              "keyboard",
+              "phone",
+              "touch"
+            ]
+          }
+        }
+      }
+    },
+    "icon": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified": {
+      "type": "boolean",
+      "required": true
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "game": "gta-iv-the-lost-and-damned",
+  "game_title": "Grand Theft Auto IV: The Lost and Damned",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "angus-martin",
+      "name": "Angus Martin",
+      "role": "Club member",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Wheelchair-bound club member and mechanic.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/angus-martin.svg"
+    },
+    {
+      "id": "ashley-butler",
+      "name": "Ashley Butler",
+      "role": "Johnny's ex",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Johnny's ex-girlfriend, struggling with addiction and tied to Billy.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ashley-butler.svg"
+    },
+    {
+      "id": "billy-grey",
+      "name": "Billy Grey",
+      "role": "Club president, antagonist",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "The Lost's unstable president, whose feud with the Angels of Death escalates everything.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/billy-grey.svg"
+    },
+    {
+      "id": "brian-jeremy",
+      "name": "Brian Jeremy",
+      "role": "Club member, antagonist",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Billy loyalist who turns on Johnny after the leadership split.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/brian-jeremy.svg"
+    },
+    {
+      "id": "clay-simons",
+      "name": "Clay Simons",
+      "role": "Road captain",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "The club's road captain and Johnny's right hand.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/clay-simons.svg"
+    },
+    {
+      "id": "elizabeta-torres",
+      "name": "Elizabeta Torres",
+      "role": "Associate",
+      "affiliations": [
+        "Bohan drug trade"
+      ],
+      "summary": "Bohan drug queenpin connected to the Lost's business.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/elizabeta-torres.svg"
+    },
+    {
+      "id": "jim-fitzgerald",
+      "name": "Jim Fitzgerald",
+      "role": "Treasurer, ally",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Johnny's most trusted club brother and the chapter's voice of reason.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/jim-fitzgerald.svg"
+    },
+    {
+      "id": "johnny-klebitz",
+      "name": "Johnny Klebitz",
+      "role": "Protagonist",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Vice-president of the Lost MC's Liberty City chapter, trying to hold the club together.",
+      "status": "Varies",
+      "first_appearance": "GTA IV: The Lost and Damned",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/johnny-klebitz.svg"
+    },
+    {
+      "id": "niko-bellic",
+      "name": "Niko Bellic",
+      "role": "Crossover character",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "Appears in shared scenes during the diamond storyline.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/niko-bellic.svg"
+    },
+    {
+      "id": "ray-boccino",
+      "name": "Ray Boccino",
+      "role": "Associate",
+      "affiliations": [
+        "Pegorino Crime Family"
+      ],
+      "summary": "The mob contact who hires the Lost for diamond-related work.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ray-boccino.svg"
+    },
+    {
+      "id": "terry-thorpe",
+      "name": "Terry Thorpe",
+      "role": "Sergeant-at-arms",
+      "affiliations": [
+        "The Lost MC"
+      ],
+      "summary": "Heavy weapons specialist and loyal club member.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/terry-thorpe.svg"
+    },
+    {
+      "id": "thomas-stubbs",
+      "name": "Thomas Stubbs",
+      "role": "Politician",
+      "affiliations": [
+        "Liberty City politics"
+      ],
+      "summary": "Corrupt congressman who pays the Lost for dirty work.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/thomas-stubbs.svg"
+    }
+  ]
+}

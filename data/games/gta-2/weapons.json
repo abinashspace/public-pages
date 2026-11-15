@@ -1,0 +1,97 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "weapons",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "electro-gun",
+      "name": "Electro Gun",
+      "type": "Heavy",
+      "damage_tier": "High",
+      "ammo": "Charge",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/electro-gun.svg"
+    },
+    {
+      "id": "flamethrower",
+      "name": "Flamethrower",
+      "type": "Heavy",
+      "damage_tier": "Very high",
+      "ammo": "Fuel",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/flamethrower.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/grenades.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/molotov.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/pistol.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "Rockets",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/rocket-launcher.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "Shells",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/shotgun.svg"
+    },
+    {
+      "id": "silenced-uzi",
+      "name": "Silenced Uzi",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-2/silenced-uzi.svg"
+    }
+  ]
+}

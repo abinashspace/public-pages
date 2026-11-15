@@ -1,0 +1,28 @@
+{
+  "game": "gta-chinatown-wars",
+  "game_title": "Grand Theft Auto: Chinatown Wars",
+  "section": "collectibles",
+  "coverage": "partial",
+  "count": 2,
+  "items": [
+    {
+      "id": "drug-deals",
+      "name": "Drug deals",
+      "type": "Trade",
+      "total": 0,
+      "reward": "Profit and safehouse upgrades",
+      "verified": false,
+      "source": "Continuous economy, not a fixed collectible set",
+      "image": "assets/img/collectible/gta-chinatown-wars/drug-deals.svg"
+    },
+    {
+      "id": "lions-of-south",
+      "name": "Lions of South America",
+      "type": "Collectible",
+      "total": 0,
+      "reward": "Cash and 100% progress",
+      "verified": false,
+      "image": "assets/img/collectible/gta-chinatown-wars/lions-of-south.svg"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "adriana-yanira",
+      "name": "Adriana Yanira Lopez",
+      "role": "Luis's mother",
+      "affiliations": [
+        "Lopez family"
+      ],
+      "summary": "Luis's mother, who disapproves of his life choices.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/adriana-yanira.svg"
+    },
+    {
+      "id": "armando-torres",
+      "name": "Armando Torres",
+      "role": "Friend",
+      "affiliations": [
+        "Luis's crew"
+      ],
+      "summary": "Luis's childhood friend and partner in the drug trade.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/armando-torres.svg"
+    },
+    {
+      "id": "brucie-kibbutz",
+      "name": "Brucie Kibbutz",
+      "role": "Ally",
+      "affiliations": [
+        "Kibbutz Motors"
+      ],
+      "summary": "Returns from GTA IV as Luis's occasional ally.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/brucie-kibbutz.svg"
+    },
+    {
+      "id": "dessie-ron",
+      "name": "Dessie and Ron",
+      "role": "Club staff",
+      "affiliations": [
+        "Maisonette 9"
+      ],
+      "summary": "Maisonette 9's door staff and promoters.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/dessie-ron.svg"
+    },
+    {
+      "id": "gracie-ancelotti",
+      "name": "Gracie Ancelotti",
+      "role": "Kidnap target",
+      "affiliations": [
+        "Ancelotti family"
+      ],
+      "summary": "Mob daughter whose abduction becomes a bargaining chip.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/gracie-ancelotti.svg"
+    },
+    {
+      "id": "henrique-bardas",
+      "name": "Henrique Bardas",
+      "role": "Friend",
+      "affiliations": [
+        "Luis's crew"
+      ],
+      "summary": "Luis's other childhood friend and crew member.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/henrique-bardas.svg"
+    },
+    {
+      "id": "luis-lopez",
+      "name": "Luis Fernando Lopez",
+      "role": "Protagonist",
+      "affiliations": [
+        "Maisonette 9",
+        "Ancelotti family (associate)"
+      ],
+      "summary": "Tony Prince's bodyguard and business partner, trying to keep the club and his boss afloat.",
+      "status": "Alive",
+      "first_appearance": "GTA: The Ballad of Gay Tony",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/luis-lopez.svg"
+    },
+    {
+      "id": "mori-kibbutz",
+      "name": "Mori Kibbutz",
+      "role": "Rival",
+      "affiliations": [
+        "Kibbutz family"
+      ],
+      "summary": "Brucie's brother and Luis's loudmouthed rival.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/mori-kibbutz.svg"
+    },
+    {
+      "id": "ray-bulgarin",
+      "name": "Ray Bulgarin",
+      "role": "Antagonist",
+      "affiliations": [
+        "Bulgarin organization"
+      ],
+      "summary": "Russian crime boss with a grudge against Luis and Tony.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/ray-bulgarin.svg"
+    },
+    {
+      "id": "rocco-pelosi",
+      "name": "Rocco Pelosi",
+      "role": "Antagonist",
+      "affiliations": [
+        "Ancelotti family"
+      ],
+      "summary": "Ancelotti associate who keeps dragging Luis into mob trouble.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/rocco-pelosi.svg"
+    },
+    {
+      "id": "tony-prince",
+      "name": "Tony 'Gay Tony' Prince",
+      "role": "Club owner, ally",
+      "affiliations": [
+        "Maisonette 9",
+        "Hercules"
+      ],
+      "summary": "Luis's boss, a nightlife impresario drowning in debt to the wrong people.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/tony-prince.svg"
+    },
+    {
+      "id": "yusuf-amir",
+      "name": "Yusuf Amir",
+      "role": "Ally, developer",
+      "affiliations": [
+        "Amir Developments"
+      ],
+      "summary": "Eccentric billionaire property developer with a taste for gold and helicopters.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/yusuf-amir.svg"
+    }
+  ]
+}

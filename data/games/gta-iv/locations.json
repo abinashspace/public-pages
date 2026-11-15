@@ -1,0 +1,117 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "New Jersey analogue across the river, Pegorino territory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/alderney.svg"
+    },
+    {
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue and the city's centre.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/algonquin.svg"
+    },
+    {
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Bronx analogue, northern borough.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/bohan.svg"
+    },
+    {
+      "id": "broker",
+      "name": "Broker",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/broker.svg"
+    },
+    {
+      "id": "colon-island",
+      "name": "Colony Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island with the warehouse from The Snow Storm.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/colon-island.svg"
+    },
+    {
+      "id": "dukes",
+      "name": "Dukes",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Queens analogue with the airport and McReary territory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/dukes.svg"
+    },
+    {
+      "id": "francis-international-airport",
+      "name": "Francis International Airport",
+      "type": "Landmark",
+      "parent": "Dukes",
+      "summary": "Liberty City's main airport.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/francis-international-airport.svg"
+    },
+    {
+      "id": "happiness-island",
+      "name": "Happiness Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Statue island in the bay, significant in the endgame.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/happiness-island.svg"
+    },
+    {
+      "id": "hove-beach",
+      "name": "Hove Beach",
+      "type": "Neighbourhood",
+      "parent": "Broker",
+      "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/hove-beach.svg"
+    },
+    {
+      "id": "libertian-museum",
+      "name": "Libertonian Museum",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Museum where the diamond deal takes place.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/libertian-museum.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The HD-era Liberty City, modelled on New York and New Jersey.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/liberty-city.svg"
+    },
+    {
+      "id": "north-holland",
+      "name": "North Holland",
+      "type": "Neighbourhood",
+      "parent": "Algonquin",
+      "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv/north-holland.svg"
+    }
+  ]
+}

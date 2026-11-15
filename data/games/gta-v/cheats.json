@@ -1,0 +1,165 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "cheats",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "all-weapons",
+      "effect": "All weapons",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TOOLUP",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/all-weapons.svg"
+    },
+    {
+      "id": "clear-wanted",
+      "effect": "Clear wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "LAWYERUP",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/clear-wanted.svg"
+    },
+    {
+      "id": "drunk",
+      "effect": "Drunk mode",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "LIQUOR",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-v/drunk.svg"
+    },
+    {
+      "id": "explosive-ammo",
+      "effect": "Explosive ammunition",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "INCENDIARY",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/explosive-ammo.svg"
+    },
+    {
+      "id": "skyfall",
+      "effect": "Fall from the sky",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SKYFALL",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/skyfall.svg"
+    },
+    {
+      "id": "super-sprint",
+      "effect": "Fast run and swim",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "CATCHME",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/super-sprint.svg"
+    },
+    {
+      "id": "health-armor",
+      "effect": "Full health and armor",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TURTLE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/health-armor.svg"
+    },
+    {
+      "id": "invincibility",
+      "effect": "Invincibility (5 minutes)",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "PAINKILLER",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/invincibility.svg"
+    },
+    {
+      "id": "moon-gravity",
+      "effect": "Low gravity",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "FLOATER",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/moon-gravity.svg"
+    },
+    {
+      "id": "slow-mo-aim",
+      "effect": "Slow-motion aiming",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "DEADEYE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/slow-mo-aim.svg"
+    },
+    {
+      "id": "snow",
+      "effect": "Snowy weather",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SNOWDAY",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/snow.svg"
+    },
+    {
+      "id": "storm",
+      "effect": "Thunderstorm",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "MAKEITRAIN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-v/storm.svg"
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "meta": {
+    "slug": "gta-the-ballad-of-gay-tony",
+    "title": "Grand Theft Auto: The Ballad of Gay Tony",
+    "year": 2009,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.622Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 12,
+      "missions": 15,
+      "vehicles": 12,
+      "weapons": 8,
+      "cheats": 0,
+      "locations": 7,
+      "collectibles": 4
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-the-ballad-of-gay-tony/cover.svg",
+      "banner": "assets/img/banner/gta-the-ballad-of-gay-tony/banner.svg",
+      "map": "assets/img/map/gta-the-ballad-of-gay-tony/map.svg"
+    },
+    "sources": [
+      "TBoGT in-game mission list",
+      "Rockstar Games Episodes from Liberty City materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "adriana-yanira",
+        "name": "Adriana Yanira Lopez",
+        "role": "Luis's mother",
+        "affiliations": [
+          "Lopez family"
+        ],
+        "summary": "Luis's mother, who disapproves of his life choices.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/adriana-yanira.svg"
+      },
+      {
+        "id": "armando-torres",
+        "name": "Armando Torres",
+        "role": "Friend",
+        "affiliations": [
+          "Luis's crew"
+        ],
+        "summary": "Luis's childhood friend and partner in the drug trade.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/armando-torres.svg"
+      },
+      {
+        "id": "brucie-kibbutz",
+        "name": "Brucie Kibbutz",
+        "role": "Ally",
+        "affiliations": [
+          "Kibbutz Motors"
+        ],
+        "summary": "Returns from GTA IV as Luis's occasional ally.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/brucie-kibbutz.svg"
+      },
+      {
+        "id": "dessie-ron",
+        "name": "Dessie and Ron",
+        "role": "Club staff",
+        "affiliations": [
+          "Maisonette 9"
+        ],
+        "summary": "Maisonette 9's door staff and promoters.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/dessie-ron.svg"
+      },
+      {
+        "id": "gracie-ancelotti",
+        "name": "Gracie Ancelotti",
+        "role": "Kidnap target",
+        "affiliations": [
+          "Ancelotti family"
+        ],
+        "summary": "Mob daughter whose abduction becomes a bargaining chip.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/gracie-ancelotti.svg"
+      },
+      {
+        "id": "henrique-bardas",
+        "name": "Henrique Bardas",
+        "role": "Friend",
+        "affiliations": [
+          "Luis's crew"
+        ],
+        "summary": "Luis's other childhood friend and crew member.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/henrique-bardas.svg"
+      },
+      {
+        "id": "luis-lopez",
+        "name": "Luis Fernando Lopez",
+        "role": "Protagonist",
+        "affiliations": [
+          "Maisonette 9",
+          "Ancelotti family (associate)"
+        ],
+        "summary": "Tony Prince's bodyguard and business partner, trying to keep the club and his boss afloat.",
+        "status": "Alive",
+        "first_appearance": "GTA: The Ballad of Gay Tony",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/luis-lopez.svg"
+      },
+      {
+        "id": "mori-kibbutz",
+        "name": "Mori Kibbutz",
+        "role": "Rival",
+        "affiliations": [
+          "Kibbutz family"
+        ],
+        "summary": "Brucie's brother and Luis's loudmouthed rival.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/mori-kibbutz.svg"
+      },
+      {
+        "id": "ray-bulgarin",
+        "name": "Ray Bulgarin",
+        "role": "Antagonist",
+        "affiliations": [
+          "Bulgarin organization"
+        ],
+        "summary": "Russian crime boss with a grudge against Luis and Tony.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/ray-bulgarin.svg"
+      },
+      {
+        "id": "rocco-pelosi",
+        "name": "Rocco Pelosi",
+        "role": "Antagonist",
+        "affiliations": [
+          "Ancelotti family"
+        ],
+        "summary": "Ancelotti associate who keeps dragging Luis into mob trouble.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/rocco-pelosi.svg"
+      },
+      {
+        "id": "tony-prince",
+        "name": "Tony 'Gay Tony' Prince",
+        "role": "Club owner, ally",
+        "affiliations": [
+          "Maisonette 9",
+          "Hercules"
+        ],
+        "summary": "Luis's boss, a nightlife impresario drowning in debt to the wrong people.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/tony-prince.svg"
+      },
+      {
+        "id": "yusuf-amir",
+        "name": "Yusuf Amir",
+        "role": "Ally, developer",
+        "affiliations": [
+          "Amir Developments"
+        ],
+        "summary": "Eccentric billionaire property developer with a taste for gold and helicopters.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/yusuf-amir.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "i-luv-lc",
+        "order": 1,
+        "name": "I Luv LC",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening: Tony's club business collides with a mob debt.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/i-luv-lc.svg"
+      },
+      {
+        "id": "practice-swing",
+        "order": 2,
+        "name": "Practice Swing",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Luis handles a problem at the club.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/practice-swing.svg"
+      },
+      {
+        "id": "chinese-takeout",
+        "order": 3,
+        "name": "Chinese Takeout",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Retrieve a stolen shipment from the Triads.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/chinese-takeout.svg"
+      },
+      {
+        "id": "mommas-boy",
+        "order": 4,
+        "name": "Momma's Boy",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Help Tony's mother with a family matter.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/mommas-boy.svg"
+      },
+      {
+        "id": "corner-kids",
+        "order": 5,
+        "name": "Corner Kids",
+        "type": "Story",
+        "giver": "Armando Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Drug-dealing job with Luis's childhood friends.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/corner-kids.svg"
+      },
+      {
+        "id": "clocking-off",
+        "order": 6,
+        "name": "Clocking Off",
+        "type": "Story",
+        "giver": "Armando Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A deal that ends in a running gunfight.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/clocking-off.svg"
+      },
+      {
+        "id": "sexy-time",
+        "order": 7,
+        "name": "Sexy Time",
+        "type": "Story",
+        "giver": "Yusuf Amir",
+        "location": "Middle Park",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Yusuf's boat and helicopter antics.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/sexy-time.svg"
+      },
+      {
+        "id": "high-dive",
+        "order": 8,
+        "name": "High Dive",
+        "type": "Story",
+        "giver": "Yusuf Amir",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Base jump from a skyscraper to escape.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/high-dive.svg"
+      },
+      {
+        "id": "dropping-in",
+        "order": 9,
+        "name": "Dropping In",
+        "type": "Story",
+        "giver": "Yusuf Amir",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Parachute assault on a construction site.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/dropping-in.svg"
+      },
+      {
+        "id": "in-the-crosshairs",
+        "order": 10,
+        "name": "In the Crosshairs",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Sniper support for a club associate.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/in-the-crosshairs.svg"
+      },
+      {
+        "id": "caught-with-your-pants-down",
+        "order": 11,
+        "name": "Caught with Your Pants Down",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A heist that goes embarrassingly wrong.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg"
+      },
+      {
+        "id": "bang-bang",
+        "order": 12,
+        "name": "Bang Bang",
+        "type": "Story",
+        "giver": "Rocco Pelosi",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ancelotti job that escalates into a massacre.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg"
+      },
+      {
+        "id": "boulevard-baby",
+        "order": 13,
+        "name": "Boulevard Baby",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Club business on the boulevard.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg"
+      },
+      {
+        "id": "frosting-on-the-cake",
+        "order": 14,
+        "name": "Frosting on the Cake",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Algonquin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Late-game club and mob escalation.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg"
+      },
+      {
+        "id": "departure-time",
+        "order": 15,
+        "name": "Departure Time",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Final mission against Bulgarin.",
+        "verified": true,
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/departure-time.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 255,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/banshee.svg"
+      },
+      {
+        "id": "bati-800",
+        "name": "Bati 800",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bati-800.svg"
+      },
+      {
+        "id": "buzzard",
+        "name": "Buzzard",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/buzzard.svg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/comet.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 290,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/infernus.svg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 130,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/jetmax.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 230,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/maverick.svg"
+      },
+      {
+        "id": "nrg-900",
+        "name": "NRG-900",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 260,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/nrg-900.svg"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-cruiser.svg"
+      },
+      {
+        "id": "schafter",
+        "name": "Schafter",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/schafter.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 215,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sentinel.svg"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 285,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/turismo.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ap-pistol",
+        "name": "AP Pistol",
+        "type": "Handgun",
+        "damage_tier": "High",
+        "ammo": "18 rounds",
+        "price": null,
+        "unlock": "Default sidearm",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/ap-pistol.svg"
+      },
+      {
+        "id": "assault-smg",
+        "name": "Assault SMG",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-smg.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/baseball-bat.svg"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Later missions",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/carbine-rifle.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Yusuf Amir",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/rpg.svg"
+      },
+      {
+        "id": "sawn-off-shotgun",
+        "name": "Sawn-off Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "Very high",
+        "ammo": "2 shells",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sawn-off-shotgun.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "price": null,
+        "unlock": "Mission",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sniper-rifle.svg"
+      },
+      {
+        "id": "sticky-bombs",
+        "name": "Sticky Bombs",
+        "type": "Thrown",
+        "damage_tier": "Lethal",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sticky-bombs.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "alderney",
+        "name": "Alderney",
+        "type": "State",
+        "parent": "Liberty City",
+        "summary": "Industrial state across the river.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.svg"
+      },
+      {
+        "id": "algonquin",
+        "name": "Algonquin",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Manhattan analogue and the club district.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.svg"
+      },
+      {
+        "id": "bohan",
+        "name": "Bohan",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Northern borough, home turf of Luis's friends.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.svg"
+      },
+      {
+        "id": "hercules",
+        "name": "Hercules",
+        "type": "Landmark",
+        "parent": "Algonquin",
+        "summary": "Tony's second club.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "The GTA IV map, explored through nightlife and celebrity storylines.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/liberty-city.svg"
+      },
+      {
+        "id": "maisonette-9",
+        "name": "Maisonette 9",
+        "type": "Landmark",
+        "parent": "Algonquin",
+        "summary": "Tony's flagship club and Luis's base.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/maisonette-9.svg"
+      },
+      {
+        "id": "middle-park",
+        "name": "Middle Park",
+        "type": "Landmark",
+        "parent": "Algonquin",
+        "summary": "Central park used in Yusuf's missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "base-jumps",
+        "name": "Base Jumps",
+        "type": "Stunt",
+        "total": 15,
+        "reward": "Cash and completion",
+        "verified": true,
+        "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.svg"
+      },
+      {
+        "id": "golden-guns",
+        "name": "Golden Guns",
+        "type": "Weapon",
+        "total": 8,
+        "reward": "Gold-plated weapon variants",
+        "verified": true,
+        "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/golden-guns.svg"
+      },
+      {
+        "id": "seagulls",
+        "name": "Seagulls",
+        "type": "Seagull",
+        "total": 50,
+        "reward": "Weapons and cash",
+        "verified": true,
+        "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.svg"
+      },
+      {
+        "id": "triathlons",
+        "name": "Triathlons",
+        "type": "Race",
+        "total": 3,
+        "reward": "Cash and clothing",
+        "verified": true,
+        "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.svg"
+      }
+    ]
+  }
+}

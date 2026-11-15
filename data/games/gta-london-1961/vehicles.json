@@ -1,0 +1,59 @@
+{
+  "game": "gta-london-1961",
+  "game_title": "Grand Theft Auto: London 1961",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 5,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1961/ambulance.svg"
+    },
+    {
+      "id": "double-decker-bus",
+      "name": "Double-Decker Bus",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1961/double-decker-bus.svg"
+    },
+    {
+      "id": "london-cab",
+      "name": "London Cab",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1961/london-cab.svg"
+    },
+    {
+      "id": "mini",
+      "name": "Mini",
+      "category": "Car",
+      "class": "Compact",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1961/mini.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1961/police-car.svg"
+    }
+  ]
+}

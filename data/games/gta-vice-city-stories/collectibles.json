@@ -1,0 +1,54 @@
+{
+  "game": "gta-vice-city-stories",
+  "game_title": "Grand Theft Auto: Vice City Stories",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 5,
+  "items": [
+    {
+      "id": "empires",
+      "name": "Empires",
+      "type": "Business",
+      "total": 30,
+      "reward": "Passive income and completion",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city-stories/empires.svg"
+    },
+    {
+      "id": "hidden-packages",
+      "name": "Hidden Packages",
+      "type": "Package",
+      "total": 99,
+      "reward": "Weapons at safehouses",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city-stories/hidden-packages.svg"
+    },
+    {
+      "id": "rampages",
+      "name": "Rampages",
+      "type": "Rampage",
+      "total": 30,
+      "reward": "Cash",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city-stories/rampages.svg"
+    },
+    {
+      "id": "red-balloons",
+      "name": "Red Balloons",
+      "type": "Balloon",
+      "total": 99,
+      "reward": "Cash and 100% progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city-stories/red-balloons.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Jumps",
+      "type": "Stunt",
+      "total": 36,
+      "reward": "Cash toward 100%",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city-stories/unique-jumps.svg"
+    }
+  ]
+}

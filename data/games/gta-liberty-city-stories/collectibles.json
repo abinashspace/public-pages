@@ -1,0 +1,54 @@
+{
+  "game": "gta-liberty-city-stories",
+  "game_title": "Grand Theft Auto: Liberty City Stories",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 5,
+  "items": [
+    {
+      "id": "avenging-angels",
+      "name": "Avenging Angels",
+      "type": "Side job",
+      "total": 15,
+      "reward": "Cash and weapon rewards",
+      "verified": true,
+      "image": "assets/img/collectible/gta-liberty-city-stories/avenging-angels.svg"
+    },
+    {
+      "id": "hidden-packages",
+      "name": "Hidden Packages",
+      "type": "Package",
+      "total": 100,
+      "reward": "Weapons at safehouses",
+      "verified": true,
+      "image": "assets/img/collectible/gta-liberty-city-stories/hidden-packages.svg"
+    },
+    {
+      "id": "rampages",
+      "name": "Rampages",
+      "type": "Rampage",
+      "total": 20,
+      "reward": "Cash",
+      "verified": true,
+      "image": "assets/img/collectible/gta-liberty-city-stories/rampages.svg"
+    },
+    {
+      "id": "trash-dash",
+      "name": "Trash Dash",
+      "type": "Side job",
+      "total": 1,
+      "reward": "Cash",
+      "verified": false,
+      "image": "assets/img/collectible/gta-liberty-city-stories/trash-dash.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Jumps",
+      "type": "Stunt",
+      "total": 26,
+      "reward": "Cash toward 100%",
+      "verified": true,
+      "image": "assets/img/collectible/gta-liberty-city-stories/unique-jumps.svg"
+    }
+  ]
+}

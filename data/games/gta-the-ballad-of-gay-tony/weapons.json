@@ -1,0 +1,97 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 8,
+  "items": [
+    {
+      "id": "ap-pistol",
+      "name": "AP Pistol",
+      "type": "Handgun",
+      "damage_tier": "High",
+      "ammo": "18 rounds",
+      "price": null,
+      "unlock": "Default sidearm",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/ap-pistol.svg"
+    },
+    {
+      "id": "assault-smg",
+      "name": "Assault SMG",
+      "type": "Submachine gun",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-smg.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/baseball-bat.svg"
+    },
+    {
+      "id": "carbine-rifle",
+      "name": "Carbine Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Later missions",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/carbine-rifle.svg"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Yusuf Amir",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/rpg.svg"
+    },
+    {
+      "id": "sawn-off-shotgun",
+      "name": "Sawn-off Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "Very high",
+      "ammo": "2 shells",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sawn-off-shotgun.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Mission",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sniper-rifle.svg"
+    },
+    {
+      "id": "sticky-bombs",
+      "name": "Sticky Bombs",
+      "type": "Thrown",
+      "damage_tier": "Lethal",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sticky-bombs.svg"
+    }
+  ]
+}

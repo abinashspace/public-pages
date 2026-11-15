@@ -1,0 +1,89 @@
+{
+  "game": "gta-advance",
+  "game_title": "Grand Theft Auto Advance",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/banshee.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/cheetah.svg"
+    },
+    {
+      "id": "kuruma",
+      "name": "Kuruma",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/kuruma.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/police-car.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": null,
+      "seats": 1,
+      "verified": false,
+      "image": "assets/img/vehicle/gta-advance/rhino.svg"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/sentinel.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-advance/taxi.svg"
+    }
+  ]
+}

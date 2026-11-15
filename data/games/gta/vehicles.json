@@ -1,0 +1,99 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 9,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/banshee.svg"
+    },
+    {
+      "id": "bus",
+      "name": "Bus",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/bus.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/cheetah.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/fire-truck.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/police-car.svg"
+    },
+    {
+      "id": "stallion",
+      "name": "Stallion",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/stallion.svg"
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": null,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/tank.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta/taxi.svg"
+    }
+  ]
+}

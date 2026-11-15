@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://abinashspace.github.io/gta-hub/data/schema/characters.json",
+  "title": "Character record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "role",
+    "affiliations",
+    "summary",
+    "verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Permanent slug, unique within the game."
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "role": {
+      "type": "string",
+      "required": true
+    },
+    "affiliations": {
+      "type": "array",
+      "items": "string",
+      "required": true
+    },
+    "status": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string",
+      "required": true
+    },
+    "first_appearance": {
+      "type": "string"
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified": {
+      "type": "boolean",
+      "required": true
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://abinashspace.github.io/gta-hub/data/schema/collectibles.json",
+  "title": "Collectible record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "type",
+    "total",
+    "reward",
+    "verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Permanent slug, unique within the game."
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "total": {
+      "type": "integer",
+      "required": true,
+      "minimum": 0,
+      "description": "0 means unknown or continuous (not a fixed set)."
+    },
+    "reward": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified": {
+      "type": "boolean",
+      "required": true
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

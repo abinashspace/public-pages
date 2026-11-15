@@ -1,0 +1,240 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 21,
+  "items": [
+    {
+      "id": "ak-47",
+      "name": "AK-47",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/ak-47.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/baseball-bat.svg"
+    },
+    {
+      "id": "chainsaw",
+      "name": "Chainsaw",
+      "type": "Melee",
+      "damage_tier": "Very high",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/chainsaw.svg"
+    },
+    {
+      "id": "combat-shotgun",
+      "name": "Combat Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "Very high",
+      "ammo": "7 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/combat-shotgun.svg"
+    },
+    {
+      "id": "desert-eagle",
+      "name": "Desert Eagle",
+      "type": "Handgun",
+      "damage_tier": "Very high",
+      "ammo": "7 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/desert-eagle.svg"
+    },
+    {
+      "id": "fist",
+      "name": "Fists",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/fist.svg"
+    },
+    {
+      "id": "flamethrower",
+      "name": "Flamethrower",
+      "type": "Heavy",
+      "damage_tier": "Very high",
+      "ammo": "Continuous",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/flamethrower.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/grenades.svg"
+    },
+    {
+      "id": "heat-seeking-rpg",
+      "name": "Heat-Seeking RPG",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/heat-seeking-rpg.svg"
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "type": "Melee",
+      "damage_tier": "High",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/katana.svg"
+    },
+    {
+      "id": "m4",
+      "name": "M4",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/m4.svg"
+    },
+    {
+      "id": "micro-smg",
+      "name": "Micro SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "50 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/micro-smg.svg"
+    },
+    {
+      "id": "minigun",
+      "name": "Minigun",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "150 rounds",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/minigun.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/molotov.svg"
+    },
+    {
+      "id": "mp5",
+      "name": "MP5",
+      "type": "Submachine gun",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/mp5.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/pistol.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/rocket-launcher.svg"
+    },
+    {
+      "id": "satchel-charges",
+      "name": "Satchel Charges",
+      "type": "Thrown",
+      "damage_tier": "Lethal",
+      "ammo": "10",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/satchel-charges.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/shotgun.svg"
+    },
+    {
+      "id": "silenced-pistol",
+      "name": "Silenced Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/silenced-pistol.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-san-andreas/sniper-rifle.svg"
+    }
+  ]
+}

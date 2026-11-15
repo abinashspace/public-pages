@@ -1,0 +1,34 @@
+{
+  "game": "gta-london-1961",
+  "game_title": "Grand Theft Auto: London 1961",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 2,
+  "items": [
+    {
+      "id": "mission-contact",
+      "name": "London contact",
+      "role": "Mission contact",
+      "affiliations": [
+        "London firms"
+      ],
+      "summary": "Briefing character for the 1961 mission chain.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-london-1961/mission-contact.svg"
+    },
+    {
+      "id": "player-character",
+      "name": "Player-named protagonist",
+      "role": "Protagonist",
+      "affiliations": [
+        "London underworld"
+      ],
+      "summary": "A London criminal working the city in 1961, two years before the events of London 1969.",
+      "status": "Varies",
+      "first_appearance": "GTA: London 1961",
+      "verified": true,
+      "image": "assets/img/portrait/gta-london-1961/player-character.svg"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "game": "gta-london-1969",
+  "game_title": "Grand Theft Auto: London 1969",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 6,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1969/ambulance.svg"
+    },
+    {
+      "id": "double-decker-bus",
+      "name": "Double-Decker Bus",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1969/double-decker-bus.svg"
+    },
+    {
+      "id": "jaguar",
+      "name": "Jaguar",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": false,
+      "image": "assets/img/vehicle/gta-london-1969/jaguar.svg"
+    },
+    {
+      "id": "london-cab",
+      "name": "London Cab",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1969/london-cab.svg"
+    },
+    {
+      "id": "mini",
+      "name": "Mini",
+      "category": "Car",
+      "class": "Compact",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1969/mini.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-london-1969/police-car.svg"
+    }
+  ]
+}

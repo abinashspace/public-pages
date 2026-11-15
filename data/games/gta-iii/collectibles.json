@@ -1,0 +1,36 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 3,
+  "items": [
+    {
+      "id": "hidden-packages",
+      "name": "Hidden Packages",
+      "type": "Package",
+      "total": 100,
+      "reward": "Weapons at safehouses at 10/20/30/40/50/60/70/80/90/100 packages",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iii/hidden-packages.svg"
+    },
+    {
+      "id": "rampages",
+      "name": "Rampages",
+      "type": "Rampage",
+      "total": 20,
+      "reward": "Cash and weapon pickups",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iii/rampages.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Jumps",
+      "type": "Stunt",
+      "total": 20,
+      "reward": "Cash, counted toward 100% completion",
+      "verified": false,
+      "image": "assets/img/collectible/gta-iii/unique-jumps.svg"
+    }
+  ]
+}

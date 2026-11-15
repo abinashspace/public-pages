@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "slug": "gta",
+    "title": "Grand Theft Auto",
+    "year": 1997,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.410Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "limited"
+    },
+    "counts": {
+      "characters": 4,
+      "missions": 3,
+      "vehicles": 9,
+      "weapons": 7,
+      "cheats": 1,
+      "locations": 3,
+      "collectibles": 1
+    },
+    "images": {
+      "cover": "assets/img/cover/gta/cover.svg",
+      "banner": "assets/img/banner/gta/banner.svg",
+      "map": "assets/img/map/gta/map.svg"
+    },
+    "sources": [
+      "GTA 1 in-game city select",
+      "DMA Design press materials, 1997"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "el-burro-gta1",
+        "name": "El Burro",
+        "role": "Boss (San Andreas)",
+        "affiliations": [
+          "San Andreas gangs"
+        ],
+        "summary": "A San Andreas mission boss in the original top-down game.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/el-burro-gta1.svg"
+      },
+      {
+        "id": "player-character",
+        "name": "Player-named protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "The player picks one of several starting characters; all follow the same three-city crime ladder.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto",
+        "verified": false,
+        "source": "Character select roster needs verification",
+        "image": "assets/img/portrait/gta/player-character.svg"
+      },
+      {
+        "id": "samuel-deever",
+        "name": "Samuel Deever",
+        "role": "Boss (Vice City)",
+        "affiliations": [
+          "Vice City gangs"
+        ],
+        "summary": "Vice City mission contact in the original game.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/samuel-deever.svg"
+      },
+      {
+        "id": "uncle-fu",
+        "name": "Uncle Fu",
+        "role": "Boss (Liberty City)",
+        "affiliations": [
+          "Liberty City gangs"
+        ],
+        "summary": "One of the city bosses who hands out missions in Liberty City.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/uncle-fu.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "liberty-city-chapter",
+        "order": 1,
+        "name": "Liberty City chapter",
+        "type": "Story",
+        "giver": "City bosses",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0,
+          "other": "Score and rank progression"
+        },
+        "summary": "A chain of phone-briefed jobs across Liberty City's three islands, driving the score counter toward the next city.",
+        "verified": false,
+        "image": "assets/img/mission/gta/liberty-city-chapter.svg"
+      },
+      {
+        "id": "san-andreas-chapter",
+        "order": 2,
+        "name": "San Andreas chapter",
+        "type": "Story",
+        "giver": "City bosses",
+        "location": "San Andreas",
+        "reward": {
+          "money": 0,
+          "other": "Score and rank progression"
+        },
+        "summary": "Second city chapter: higher-value jobs with heavier police response.",
+        "verified": false,
+        "image": "assets/img/mission/gta/san-andreas-chapter.svg"
+      },
+      {
+        "id": "vice-city-chapter",
+        "order": 3,
+        "name": "Vice City chapter",
+        "type": "Story",
+        "giver": "City bosses",
+        "location": "Vice City",
+        "reward": {
+          "money": 0,
+          "other": "Final rank"
+        },
+        "summary": "Final city chapter, ending in the highest-score finale.",
+        "verified": false,
+        "image": "assets/img/mission/gta/vice-city-chapter.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/banshee.svg"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/bus.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/cheetah.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/fire-truck.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/police-car.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/stallion.svg"
+      },
+      {
+        "id": "tank",
+        "name": "Tank",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": null,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/tank.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/taxi.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Fuel",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/grenades.svg"
+      },
+      {
+        "id": "machine-gun",
+        "name": "Machine Gun",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": false,
+        "image": "assets/img/weapon/gta/machine-gun.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GESUNDHEIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Cheat string carried over from the 3D era; verify against the 1997 PC build",
+        "image": "assets/img/cheat/gta/full-health.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "New York-inspired city with three islands, one of three selectable cities.",
+        "verified": true,
+        "image": "assets/img/location/gta/liberty-city.svg"
+      },
+      {
+        "id": "san-andreas",
+        "name": "San Andreas",
+        "type": "City",
+        "parent": null,
+        "summary": "West-coast-inspired city in the original game (unrelated to the 2004 state).",
+        "verified": true,
+        "image": "assets/img/location/gta/san-andreas.svg"
+      },
+      {
+        "id": "vice-city",
+        "name": "Vice City",
+        "type": "City",
+        "parent": null,
+        "summary": "Miami-inspired city with beach and downtown areas.",
+        "verified": true,
+        "image": "assets/img/location/gta/vice-city.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "score-bonuses",
+        "name": "Score Bonuses",
+        "type": "Bonus",
+        "total": 0,
+        "reward": "Multipliers and rank progression",
+        "verified": false,
+        "source": "No discrete collectible set documented for this build",
+        "image": "assets/img/collectible/gta/score-bonuses.svg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 19,
+  "items": [
+    {
+      "id": "amanda-de-santa",
+      "name": "Amanda De Santa",
+      "role": "Michael's wife",
+      "affiliations": [
+        "De Santa family"
+      ],
+      "summary": "Michael's estranged wife, spending his money and testing the marriage.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/amanda-de-santa.svg"
+    },
+    {
+      "id": "dave-norton",
+      "name": "Dave Norton",
+      "role": "FIB agent",
+      "affiliations": [
+        "FIB"
+      ],
+      "summary": "The agent who put Michael in witness protection and keeps pulling him back in.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/dave-norton.svg"
+    },
+    {
+      "id": "devin-weston",
+      "name": "Devin Weston",
+      "role": "Antagonist",
+      "affiliations": [
+        "Weston Holdings"
+      ],
+      "summary": "A billionaire who treats the crew as disposable contractors.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/devin-weston.svg"
+    },
+    {
+      "id": "dr-friedlander",
+      "name": "Dr. Isiah Friedlander",
+      "role": "Michael's therapist",
+      "affiliations": [
+        "Private practice"
+      ],
+      "summary": "Michael's opportunistic psychiatrist, recordable as a collectible side objective.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/dr-friedlander.svg"
+    },
+    {
+      "id": "franklin-clinton",
+      "name": "Franklin Clinton",
+      "role": "Protagonist",
+      "affiliations": [
+        "Chamberlain gang (former)",
+        "De Santa crew"
+      ],
+      "summary": "A repo man from South Los Santos who wants a bigger life than gang politics allow.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/franklin-clinton.svg"
+    },
+    {
+      "id": "jimmy-de-santa",
+      "name": "Jimmy De Santa",
+      "role": "Michael's son",
+      "affiliations": [
+        "De Santa family"
+      ],
+      "summary": "Michael's aimless son, obsessed with games and internet fame.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/jimmy-de-santa.svg"
+    },
+    {
+      "id": "lamar-davis",
+      "name": "Lamar Davis",
+      "role": "Friend",
+      "affiliations": [
+        "Chamberlain gang"
+      ],
+      "summary": "Franklin's best friend, whose schemes constantly put them both in danger.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/lamar-davis.svg"
+    },
+    {
+      "id": "lester-crest",
+      "name": "Lester Crest",
+      "role": "Heist planner",
+      "affiliations": [
+        "De Santa crew"
+      ],
+      "summary": "A reclusive hacker and strategist who plans the crew's heists.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/lester-crest.svg"
+    },
+    {
+      "id": "martin-madrazo",
+      "name": "Martin Madrazo",
+      "role": "Associate, antagonist",
+      "affiliations": [
+        "Madrazo cartel"
+      ],
+      "summary": "A Mexican drug lord with a mansion in Vinewood Hills.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/martin-madrazo.svg"
+    },
+    {
+      "id": "michael-de-santa",
+      "name": "Michael De Santa",
+      "role": "Protagonist",
+      "affiliations": [
+        "De Santa family",
+        "FIB (asset)"
+      ],
+      "summary": "A retired bank robber in witness protection whose midlife crisis drags him back into crime.",
+      "status": "Alive",
+      "first_appearance": "Grand Theft Auto V",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/michael-de-santa.svg"
+    },
+    {
+      "id": "molly-schultz",
+      "name": "Molly Schultz",
+      "role": "Weston's lawyer",
+      "affiliations": [
+        "Weston Holdings"
+      ],
+      "summary": "Devin Weston's lawyer and fixer.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/molly-schultz.svg"
+    },
+    {
+      "id": "patricia-madrazo",
+      "name": "Patricia Madrazo",
+      "role": "Ally",
+      "affiliations": [
+        "Madrazo family"
+      ],
+      "summary": "Martin's wife, who leaves him for Trevor.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/patricia-madrazo.svg"
+    },
+    {
+      "id": "ron-jakowski",
+      "name": "Ron Jakowski",
+      "role": "Associate",
+      "affiliations": [
+        "Trevor Philips Enterprises"
+      ],
+      "summary": "Trevor's paranoid radio-operator and business partner.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/ron-jakowski.svg"
+    },
+    {
+      "id": "simeon-yetarian",
+      "name": "Simeon Yetarian",
+      "role": "Employer",
+      "affiliations": [
+        "Premium Deluxe Motorsport"
+      ],
+      "summary": "A shady luxury car dealer who employs Franklin and Michael.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/simeon-yetarian.svg"
+    },
+    {
+      "id": "steve-haines",
+      "name": "Steve Haines",
+      "role": "Antagonist, FIB",
+      "affiliations": [
+        "FIB"
+      ],
+      "summary": "A publicity-hungry FIB agent who blackmails the crew into government jobs.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/steve-haines.svg"
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch",
+      "role": "Antagonist",
+      "affiliations": [
+        "Chamberlain gang"
+      ],
+      "summary": "Lamar's former associate who betrays the crew.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/stretch.svg"
+    },
+    {
+      "id": "tracey-de-santa",
+      "name": "Tracey De Santa",
+      "role": "Michael's daughter",
+      "affiliations": [
+        "De Santa family"
+      ],
+      "summary": "Michael's daughter, chasing reality-TV fame.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/tracey-de-santa.svg"
+    },
+    {
+      "id": "trevor-philips",
+      "name": "Trevor Philips",
+      "role": "Protagonist",
+      "affiliations": [
+        "Trevor Philips Enterprises",
+        "The Lost MC (former)"
+      ],
+      "summary": "A violent, unpredictable career criminal running arms and drugs out of Sandy Shores.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/trevor-philips.svg"
+    },
+    {
+      "id": "wade-hebert",
+      "name": "Wade Hebert",
+      "role": "Associate",
+      "affiliations": [
+        "Trevor Philips Enterprises"
+      ],
+      "summary": "Trevor's loyal but simple-minded friend.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-v/wade-hebert.svg"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 22,
+  "items": [
+    {
+      "id": "ap-pistol",
+      "name": "AP Pistol",
+      "type": "Handgun",
+      "damage_tier": "High",
+      "ammo": "18 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/ap-pistol.svg"
+    },
+    {
+      "id": "assault-rifle",
+      "name": "Assault Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/assault-rifle.svg"
+    },
+    {
+      "id": "assault-shotgun",
+      "name": "Assault Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "Very high",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation (later)",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/assault-shotgun.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/baseball-bat.svg"
+    },
+    {
+      "id": "carbine-rifle",
+      "name": "Carbine Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/carbine-rifle.svg"
+    },
+    {
+      "id": "combat-mg",
+      "name": "Combat MG",
+      "type": "Machine gun",
+      "damage_tier": "Very high",
+      "ammo": "100 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/combat-mg.svg"
+    },
+    {
+      "id": "combat-pistol",
+      "name": "Combat Pistol",
+      "type": "Handgun",
+      "damage_tier": "High",
+      "ammo": "12 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/combat-pistol.svg"
+    },
+    {
+      "id": "crowbar",
+      "name": "Crowbar",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/crowbar.svg"
+    },
+    {
+      "id": "fist",
+      "name": "Fists",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/fist.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "25",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/grenades.svg"
+    },
+    {
+      "id": "heavy-sniper",
+      "name": "Heavy Sniper",
+      "type": "Sniper",
+      "damage_tier": "Lethal",
+      "ammo": "6 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation (later)",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/heavy-sniper.svg"
+    },
+    {
+      "id": "knife",
+      "name": "Knife",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/knife.svg"
+    },
+    {
+      "id": "micro-smg",
+      "name": "Micro SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/micro-smg.svg"
+    },
+    {
+      "id": "minigun",
+      "name": "Minigun",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "150 rounds",
+      "price": null,
+      "unlock": "Later missions",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/minigun.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "25",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/molotov.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "12 rounds",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/pistol.svg"
+    },
+    {
+      "id": "pump-shotgun",
+      "name": "Pump Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/pump-shotgun.svg"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/rpg.svg"
+    },
+    {
+      "id": "smg",
+      "name": "SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/smg.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "10 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/sniper-rifle.svg"
+    },
+    {
+      "id": "special-carbine",
+      "name": "Special Carbine",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/special-carbine.svg"
+    },
+    {
+      "id": "sticky-bombs",
+      "name": "Sticky Bombs",
+      "type": "Thrown",
+      "damage_tier": "Lethal",
+      "ammo": "25",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-v/sticky-bombs.svg"
+    }
+  ]
+}

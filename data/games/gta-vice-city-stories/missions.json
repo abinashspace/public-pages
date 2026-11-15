@@ -1,0 +1,191 @@
+{
+  "game": "gta-vice-city-stories",
+  "game_title": "Grand Theft Auto: Vice City Stories",
+  "section": "missions",
+  "coverage": "partial",
+  "count": 13,
+  "items": [
+    {
+      "id": "soldier",
+      "order": 1,
+      "name": "Soldier",
+      "type": "Story",
+      "giver": "Jerry Martinez",
+      "location": "Fort Baxter",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Opening: Victor runs errands on the army base before being discharged.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/soldier.svg"
+    },
+    {
+      "id": "cleaning-house",
+      "order": 2,
+      "name": "Cleaning House",
+      "type": "Story",
+      "giver": "Jerry Martinez",
+      "location": "Vice Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Clean out a drug house for Martinez.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/cleaning-house.svg"
+    },
+    {
+      "id": "conduct-unbecoming",
+      "order": 3,
+      "name": "Conduct Unbecoming",
+      "type": "Story",
+      "giver": "Jerry Martinez",
+      "location": "Fort Baxter",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Cover for Martinez by taking the fall in a military drug bust.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/conduct-unbecoming.svg"
+    },
+    {
+      "id": "from-zero-to-hero",
+      "order": 4,
+      "name": "From Zero to Hero",
+      "type": "Story",
+      "giver": "Phil Cassidy",
+      "location": "Vice Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Set up the first business and start earning.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.svg"
+    },
+    {
+      "id": "fear-the-repo",
+      "order": 5,
+      "name": "Fear the Repo",
+      "type": "Story",
+      "giver": "Louise Cassidy-Williams",
+      "location": "Trailer Park",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Repossess vehicles for the family business.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/fear-the-repo.svg"
+    },
+    {
+      "id": "o-brothel-where-art-thou",
+      "order": 6,
+      "name": "O, Brothel, Where Art Thou?",
+      "type": "Story",
+      "giver": "Louise Cassidy-Williams",
+      "location": "Vice Point",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Take over a brothel from a rival operator.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/o-brothel-where-art-thou.svg"
+    },
+    {
+      "id": "havana-good-time",
+      "order": 7,
+      "name": "Havana Good Time",
+      "type": "Story",
+      "giver": "Umberto Robina",
+      "location": "Little Havana",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Help the Cubans against the Cholos.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/havana-good-time.svg"
+    },
+    {
+      "id": "the-audition",
+      "order": 8,
+      "name": "The Audition",
+      "type": "Story",
+      "giver": "Reni Wassulmaier",
+      "location": "Downtown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Film-industry work for Reni.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/the-audition.svg"
+    },
+    {
+      "id": "the-mugshot",
+      "order": 9,
+      "name": "The Mugshot",
+      "type": "Story",
+      "giver": "Reni Wassulmaier",
+      "location": "Downtown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Photograph a target for Reni's production.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/the-mugshot.svg"
+    },
+    {
+      "id": "mendez-brothers",
+      "order": 10,
+      "name": "Mendez Brothers",
+      "type": "Story",
+      "giver": "Victor Vance",
+      "location": "Starfish Island",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Move against the Mendez cartel's island base.",
+      "verified": true,
+      "image": "assets/img/mission/gta-vice-city-stories/mendez-brothers.svg"
+    },
+    {
+      "id": "last-flight",
+      "order": 11,
+      "name": "Last Flight",
+      "type": "Story",
+      "giver": "Louise Cassidy-Williams",
+      "location": "Escobar Airport",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Destroy a cartel plane before it escapes.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/last-flight.svg"
+    },
+    {
+      "id": "farewell-to-arms",
+      "order": 12,
+      "name": "Farewell to Arms",
+      "type": "Story",
+      "giver": "Phil Cassidy",
+      "location": "Vice Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Final arms deal with Phil.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/farewell-to-arms.svg"
+    },
+    {
+      "id": "the-exchange-vcs",
+      "order": 13,
+      "name": "The Exchange",
+      "type": "Story",
+      "giver": "Victor Vance",
+      "location": "Starfish Island",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Final confrontation with the Mendez cartel.",
+      "verified": false,
+      "image": "assets/img/mission/gta-vice-city-stories/the-exchange-vcs.svg"
+    }
+  ]
+}

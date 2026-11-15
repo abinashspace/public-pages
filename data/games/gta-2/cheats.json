@@ -1,0 +1,23 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "cheats",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "all-weapons",
+      "effect": "All weapons",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GUNSGUNSGUNS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Community cheat lists — string must be verified against the GTA 2 PC build",
+      "image": "assets/img/cheat/gta-2/all-weapons.svg"
+    }
+  ]
+}

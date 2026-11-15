@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "slug": "gta-advance",
+    "title": "Grand Theft Auto Advance",
+    "year": 2004,
+    "type": "Spin-off",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.539Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "empty"
+    },
+    "counts": {
+      "characters": 7,
+      "missions": 5,
+      "vehicles": 8,
+      "weapons": 6,
+      "cheats": 0,
+      "locations": 4,
+      "collectibles": 0
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-advance/cover.svg",
+      "banner": "assets/img/banner/gta-advance/banner.svg",
+      "map": "assets/img/map/gta-advance/map.svg"
+    },
+    "sources": [
+      "GTA Advance in-game mission list",
+      "Digital Eclipse / Rockstar GBA release materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "8-ball",
+        "name": "8-Ball",
+        "role": "Explosives expert",
+        "affiliations": [
+          "Liberty City underworld"
+        ],
+        "summary": "Bomb-maker who appears before the events of GTA III.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-advance/8-ball.svg"
+      },
+      {
+        "id": "asuka-kasen",
+        "name": "Asuka Kasen",
+        "role": "Yakuza co-leader",
+        "affiliations": [
+          "Yakuza"
+        ],
+        "summary": "Already running Yakuza operations in 2000.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-advance/asuka-kasen.svg"
+      },
+      {
+        "id": "cisco",
+        "name": "Cisco",
+        "role": "Associate",
+        "affiliations": [
+          "Liberty City underworld"
+        ],
+        "summary": "A contact in Mike's early jobs.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-advance/cisco.svg"
+      },
+      {
+        "id": "king-courtney",
+        "name": "King Courtney",
+        "role": "Yardies leader",
+        "affiliations": [
+          "Yardies"
+        ],
+        "summary": "Yardie boss active in Liberty City before GTA III.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-advance/king-courtney.svg"
+      },
+      {
+        "id": "mike",
+        "name": "Mike",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent",
+          "Vinnie's crew"
+        ],
+        "summary": "A small-time Liberty City criminal trying to buy his way out after a job goes wrong.",
+        "status": "Alive",
+        "first_appearance": "GTA Advance",
+        "verified": true,
+        "image": "assets/img/portrait/gta-advance/mike.svg"
+      },
+      {
+        "id": "uncle-fu-advance",
+        "name": "Uncle Fu",
+        "role": "Antagonist",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "A crime figure involved in the game's central betrayal.",
+        "status": "Deceased",
+        "verified": false,
+        "image": "assets/img/portrait/gta-advance/uncle-fu-advance.svg"
+      },
+      {
+        "id": "vinnie",
+        "name": "Vinnie",
+        "role": "Partner, antagonist",
+        "affiliations": [
+          "Liberty City underworld"
+        ],
+        "summary": "Mike's partner whose betrayal drives the story.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-advance/vinnie.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "opening-job",
+        "order": 1,
+        "name": "Opening job",
+        "type": "Story",
+        "giver": "Vinnie",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Mike and Vinnie attempt a job that leaves Mike without his share.",
+        "verified": false,
+        "image": "assets/img/mission/gta-advance/opening-job.svg"
+      },
+      {
+        "id": "payback",
+        "order": 2,
+        "name": "Payback",
+        "type": "Story",
+        "giver": "Vinnie",
+        "location": "Portland",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Mike starts working off his debt across Portland.",
+        "verified": false,
+        "image": "assets/img/mission/gta-advance/payback.svg"
+      },
+      {
+        "id": "yakuza-work",
+        "order": 3,
+        "name": "Yakuza work",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Jobs for the Yakuza as Mike climbs the Liberty City ladder.",
+        "verified": false,
+        "image": "assets/img/mission/gta-advance/yakuza-work.svg"
+      },
+      {
+        "id": "yardie-work",
+        "order": 4,
+        "name": "Yardie work",
+        "type": "Story",
+        "giver": "King Courtney",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Yardie missions in Staunton.",
+        "verified": false,
+        "image": "assets/img/mission/gta-advance/yardie-work.svg"
+      },
+      {
+        "id": "finale",
+        "order": 5,
+        "name": "Finale",
+        "type": "Story",
+        "giver": "—",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Confrontation over the stolen money and Vinnie's betrayal.",
+        "verified": false,
+        "image": "assets/img/mission/gta-advance/finale.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/banshee.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/cheetah.svg"
+      },
+      {
+        "id": "kuruma",
+        "name": "Kuruma",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/kuruma.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/police-car.svg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": null,
+        "seats": 1,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-advance/rhino.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/sentinel.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-advance/taxi.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ak-47",
+        "name": "AK-47",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/ak-47.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/grenades.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/shotgun.svg"
+      },
+      {
+        "id": "uzi",
+        "name": "Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-advance/uzi.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "Liberty City in 2000, rendered top-down for the GBA.",
+        "verified": true,
+        "image": "assets/img/location/gta-advance/liberty-city.svg"
+      },
+      {
+        "id": "portland",
+        "name": "Portland",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-advance/portland.svg"
+      },
+      {
+        "id": "shoreside-vale",
+        "name": "Shoreside Vale",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Suburban island.",
+        "verified": true,
+        "image": "assets/img/location/gta-advance/shoreside-vale.svg"
+      },
+      {
+        "id": "staunton-island",
+        "name": "Staunton Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Commercial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-advance/staunton-island.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "empty",
+    "items": []
+  }
+}

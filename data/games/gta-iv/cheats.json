@@ -1,0 +1,165 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "cheats",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "weapons-advanced",
+      "effect": "Advanced weapon set",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "486-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/weapons-advanced.svg"
+    },
+    {
+      "id": "weapons-basic",
+      "effect": "Basic weapon set",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "486-555-0150",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/weapons-basic.svg"
+    },
+    {
+      "id": "weather",
+      "effect": "Change weather",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "468-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/weather.svg"
+    },
+    {
+      "id": "clear-wanted",
+      "effect": "Clear wanted level",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "267-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/clear-wanted.svg"
+    },
+    {
+      "id": "full-armor",
+      "effect": "Full armor",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "362-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/full-armor.svg"
+    },
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "482-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/full-health.svg"
+    },
+    {
+      "id": "raise-wanted",
+      "effect": "Raise wanted level",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "267-555-0150",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/raise-wanted.svg"
+    },
+    {
+      "id": "spawn-banshee",
+      "effect": "Spawn a Banshee",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "227-555-0142",
+          "input": "phone"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-iv/spawn-banshee.svg"
+    },
+    {
+      "id": "spawn-comet",
+      "effect": "Spawn a Comet",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "227-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/spawn-comet.svg"
+    },
+    {
+      "id": "spawn-turismo",
+      "effect": "Spawn a Turismo",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "625-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/spawn-turismo.svg"
+    },
+    {
+      "id": "spawn-annihilator",
+      "effect": "Spawn an Annihilator",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "359-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/spawn-annihilator.svg"
+    },
+    {
+      "id": "spawn-nrg-900",
+      "effect": "Spawn an NRG-900",
+      "codes": [
+        {
+          "platform": "Mobile phone",
+          "code": "938-555-0100",
+          "input": "phone"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iv/spawn-nrg-900.svg"
+    }
+  ]
+}

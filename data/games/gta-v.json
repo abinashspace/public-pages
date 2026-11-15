@@ -1,0 +1,1836 @@
+{
+  "meta": {
+    "slug": "gta-v",
+    "title": "Grand Theft Auto V",
+    "year": 2013,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.656Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "partial",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 19,
+      "missions": 43,
+      "vehicles": 35,
+      "weapons": 22,
+      "cheats": 12,
+      "locations": 14,
+      "collectibles": 6
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-v/cover.svg",
+      "banner": "assets/img/banner/gta-v/banner.svg",
+      "map": "assets/img/map/gta-v/map.svg"
+    },
+    "sources": [
+      "GTA V in-game mission list",
+      "Rockstar Games official GTA V materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "amanda-de-santa",
+        "name": "Amanda De Santa",
+        "role": "Michael's wife",
+        "affiliations": [
+          "De Santa family"
+        ],
+        "summary": "Michael's estranged wife, spending his money and testing the marriage.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/amanda-de-santa.svg"
+      },
+      {
+        "id": "dave-norton",
+        "name": "Dave Norton",
+        "role": "FIB agent",
+        "affiliations": [
+          "FIB"
+        ],
+        "summary": "The agent who put Michael in witness protection and keeps pulling him back in.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/dave-norton.svg"
+      },
+      {
+        "id": "devin-weston",
+        "name": "Devin Weston",
+        "role": "Antagonist",
+        "affiliations": [
+          "Weston Holdings"
+        ],
+        "summary": "A billionaire who treats the crew as disposable contractors.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/devin-weston.svg"
+      },
+      {
+        "id": "dr-friedlander",
+        "name": "Dr. Isiah Friedlander",
+        "role": "Michael's therapist",
+        "affiliations": [
+          "Private practice"
+        ],
+        "summary": "Michael's opportunistic psychiatrist, recordable as a collectible side objective.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/dr-friedlander.svg"
+      },
+      {
+        "id": "franklin-clinton",
+        "name": "Franklin Clinton",
+        "role": "Protagonist",
+        "affiliations": [
+          "Chamberlain gang (former)",
+          "De Santa crew"
+        ],
+        "summary": "A repo man from South Los Santos who wants a bigger life than gang politics allow.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/franklin-clinton.svg"
+      },
+      {
+        "id": "jimmy-de-santa",
+        "name": "Jimmy De Santa",
+        "role": "Michael's son",
+        "affiliations": [
+          "De Santa family"
+        ],
+        "summary": "Michael's aimless son, obsessed with games and internet fame.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/jimmy-de-santa.svg"
+      },
+      {
+        "id": "lamar-davis",
+        "name": "Lamar Davis",
+        "role": "Friend",
+        "affiliations": [
+          "Chamberlain gang"
+        ],
+        "summary": "Franklin's best friend, whose schemes constantly put them both in danger.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/lamar-davis.svg"
+      },
+      {
+        "id": "lester-crest",
+        "name": "Lester Crest",
+        "role": "Heist planner",
+        "affiliations": [
+          "De Santa crew"
+        ],
+        "summary": "A reclusive hacker and strategist who plans the crew's heists.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/lester-crest.svg"
+      },
+      {
+        "id": "martin-madrazo",
+        "name": "Martin Madrazo",
+        "role": "Associate, antagonist",
+        "affiliations": [
+          "Madrazo cartel"
+        ],
+        "summary": "A Mexican drug lord with a mansion in Vinewood Hills.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/martin-madrazo.svg"
+      },
+      {
+        "id": "michael-de-santa",
+        "name": "Michael De Santa",
+        "role": "Protagonist",
+        "affiliations": [
+          "De Santa family",
+          "FIB (asset)"
+        ],
+        "summary": "A retired bank robber in witness protection whose midlife crisis drags him back into crime.",
+        "status": "Alive",
+        "first_appearance": "Grand Theft Auto V",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/michael-de-santa.svg"
+      },
+      {
+        "id": "molly-schultz",
+        "name": "Molly Schultz",
+        "role": "Weston's lawyer",
+        "affiliations": [
+          "Weston Holdings"
+        ],
+        "summary": "Devin Weston's lawyer and fixer.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/molly-schultz.svg"
+      },
+      {
+        "id": "patricia-madrazo",
+        "name": "Patricia Madrazo",
+        "role": "Ally",
+        "affiliations": [
+          "Madrazo family"
+        ],
+        "summary": "Martin's wife, who leaves him for Trevor.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/patricia-madrazo.svg"
+      },
+      {
+        "id": "ron-jakowski",
+        "name": "Ron Jakowski",
+        "role": "Associate",
+        "affiliations": [
+          "Trevor Philips Enterprises"
+        ],
+        "summary": "Trevor's paranoid radio-operator and business partner.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/ron-jakowski.svg"
+      },
+      {
+        "id": "simeon-yetarian",
+        "name": "Simeon Yetarian",
+        "role": "Employer",
+        "affiliations": [
+          "Premium Deluxe Motorsport"
+        ],
+        "summary": "A shady luxury car dealer who employs Franklin and Michael.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/simeon-yetarian.svg"
+      },
+      {
+        "id": "steve-haines",
+        "name": "Steve Haines",
+        "role": "Antagonist, FIB",
+        "affiliations": [
+          "FIB"
+        ],
+        "summary": "A publicity-hungry FIB agent who blackmails the crew into government jobs.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/steve-haines.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "role": "Antagonist",
+        "affiliations": [
+          "Chamberlain gang"
+        ],
+        "summary": "Lamar's former associate who betrays the crew.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/stretch.svg"
+      },
+      {
+        "id": "tracey-de-santa",
+        "name": "Tracey De Santa",
+        "role": "Michael's daughter",
+        "affiliations": [
+          "De Santa family"
+        ],
+        "summary": "Michael's daughter, chasing reality-TV fame.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/tracey-de-santa.svg"
+      },
+      {
+        "id": "trevor-philips",
+        "name": "Trevor Philips",
+        "role": "Protagonist",
+        "affiliations": [
+          "Trevor Philips Enterprises",
+          "The Lost MC (former)"
+        ],
+        "summary": "A violent, unpredictable career criminal running arms and drugs out of Sandy Shores.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/trevor-philips.svg"
+      },
+      {
+        "id": "wade-hebert",
+        "name": "Wade Hebert",
+        "role": "Associate",
+        "affiliations": [
+          "Trevor Philips Enterprises"
+        ],
+        "summary": "Trevor's loyal but simple-minded friend.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-v/wade-hebert.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "franklin-and-lamar",
+        "order": 1,
+        "name": "Franklin and Lamar",
+        "type": "Story",
+        "giver": "Simeon Yetarian",
+        "location": "Vespucci",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Repossess two cars for Simeon and race Lamar back to the dealership.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/franklin-and-lamar.svg"
+      },
+      {
+        "id": "repossession",
+        "order": 2,
+        "name": "Repossession",
+        "type": "Story",
+        "giver": "Simeon Yetarian",
+        "location": "Vespucci",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recover a car from a gang-controlled housing project.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/repossession.svg"
+      },
+      {
+        "id": "complications",
+        "order": 3,
+        "name": "Complications",
+        "type": "Story",
+        "giver": "Simeon Yetarian",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Repossess a car from Michael De Santa, who turns the tables.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/complications.svg"
+      },
+      {
+        "id": "chop",
+        "order": 4,
+        "name": "Chop",
+        "type": "Story",
+        "giver": "Lamar Davis",
+        "location": "Chamberlain Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Use Chop to track down a rival gang member.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/chop.svg"
+      },
+      {
+        "id": "father-son",
+        "order": 5,
+        "name": "Father/Son",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Michael and Franklin rescue Jimmy from a boat chase.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/father-son.svg"
+      },
+      {
+        "id": "marriage-counseling",
+        "order": 6,
+        "name": "Marriage Counseling",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Chase Amanda's tennis coach and accidentally destroy a mansion.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/marriage-counseling.svg"
+      },
+      {
+        "id": "daddys-little-girl",
+        "order": 7,
+        "name": "Daddy's Little Girl",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Tracey from a reality-TV setup.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/daddys-little-girl.svg"
+      },
+      {
+        "id": "friend-request",
+        "order": 8,
+        "name": "Friend Request",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hack Lifeinvader and assassinate its CEO.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/friend-request.svg"
+      },
+      {
+        "id": "the-long-stretch",
+        "order": 9,
+        "name": "The Long Stretch",
+        "type": "Story",
+        "giver": "Lamar Davis",
+        "location": "Chamberlain Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A gang meeting turns into a firefight.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-long-stretch.svg"
+      },
+      {
+        "id": "casing-the-jewel-store",
+        "order": 10,
+        "name": "Casing the Jewel Store",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Scout Vangelico Jewellers and choose the approach.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/casing-the-jewel-store.svg"
+      },
+      {
+        "id": "carbine-rifles",
+        "order": 11,
+        "name": "Carbine Rifles",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a police convoy's carbine rifles for the loud approach.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/carbine-rifles.svg"
+      },
+      {
+        "id": "bugstars",
+        "order": 12,
+        "name": "Bugstars",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Pose as pest control to plant gas in the jewellery store.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/bugstars.svg"
+      },
+      {
+        "id": "the-jewel-store-job",
+        "order": 13,
+        "name": "The Jewel Store Job",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob Vangelico Jewellers and escape on motorbikes.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-jewel-store-job.svg"
+      },
+      {
+        "id": "mr-philips",
+        "order": 14,
+        "name": "Mr. Philips",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Sandy Shores",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Trevor takes over the Lost MC's meth business by force.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/mr-philips.svg"
+      },
+      {
+        "id": "trevor-philips-industries",
+        "order": 15,
+        "name": "Trevor Philips Industries",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Sandy Shores",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Defend the meth lab from rival dealers.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/trevor-philips-industries.svg"
+      },
+      {
+        "id": "nervous-ron",
+        "order": 16,
+        "name": "Nervous Ron",
+        "type": "Story",
+        "giver": "Ron Jakowski",
+        "location": "Sandy Shores",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a plane for Trevor's arms business.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/nervous-ron.svg"
+      },
+      {
+        "id": "crystal-maze",
+        "order": 17,
+        "name": "Crystal Maze",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Sandy Shores",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Raid a rival meth operation.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/crystal-maze.svg"
+      },
+      {
+        "id": "friends-reunited",
+        "order": 18,
+        "name": "Friends Reunited",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Trevor tracks down Michael in Los Santos.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/friends-reunited.svg"
+      },
+      {
+        "id": "fame-or-shame",
+        "order": 19,
+        "name": "Fame or Shame",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Wreck Tracey's talent show.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/fame-or-shame.svg"
+      },
+      {
+        "id": "dead-man-walking",
+        "order": 20,
+        "name": "Dead Man Walking",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Infiltrate a morgue and steal a body for the FIB.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/dead-man-walking.svg"
+      },
+      {
+        "id": "did-somebody-say-yoga",
+        "order": 21,
+        "name": "Did Somebody Say Yoga?",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Rockford Hills",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A family therapy session ends with Michael drugged and stranded.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/did-somebody-say-yoga.svg"
+      },
+      {
+        "id": "threes-company",
+        "order": 22,
+        "name": "Three's Company",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Extract a target from the IAA building.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/threes-company.svg"
+      },
+      {
+        "id": "by-the-book",
+        "order": 23,
+        "name": "By the Book",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Torture interrogation for the FIB.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/by-the-book.svg"
+      },
+      {
+        "id": "blitz-play",
+        "order": 24,
+        "name": "Blitz Play",
+        "type": "Heist",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Three-way ambush of an armored car with a fire truck.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/blitz-play.svg"
+      },
+      {
+        "id": "mr-richards",
+        "order": 25,
+        "name": "Mr. Richards",
+        "type": "Story",
+        "giver": "Solomon Richards",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Help a film producer deal with a star's scandal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/mr-richards.svg"
+      },
+      {
+        "id": "i-fought-the-law",
+        "order": 26,
+        "name": "I Fought the Law",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal two supercars for the FIB's evidence lockup.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/i-fought-the-law.svg"
+      },
+      {
+        "id": "eye-in-the-sky",
+        "order": 27,
+        "name": "Eye in the Sky",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Use a police helicopter's camera to identify a target.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/eye-in-the-sky.svg"
+      },
+      {
+        "id": "deep-inside",
+        "order": 28,
+        "name": "Deep Inside",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Infiltrate the FIB building disguised as cleaners.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/deep-inside.svg"
+      },
+      {
+        "id": "minor-turbulence",
+        "order": 29,
+        "name": "Minor Turbulence",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Blaine County",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hijack a cargo plane mid-flight.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/minor-turbulence.svg"
+      },
+      {
+        "id": "the-paleto-score",
+        "order": 30,
+        "name": "The Paleto Score",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Paleto Bay",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob a small-town bank with military-grade firepower.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-paleto-score.svg"
+      },
+      {
+        "id": "derailed",
+        "order": 31,
+        "name": "Derailed",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "Blaine County",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Stop a train to steal its cargo.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/derailed.svg"
+      },
+      {
+        "id": "monkey-business",
+        "order": 32,
+        "name": "Monkey Business",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Humane Labs",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a chemical weapon from Humane Labs.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/monkey-business.svg"
+      },
+      {
+        "id": "predator",
+        "order": 33,
+        "name": "Predator",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Blaine County",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Snipe mercenaries in the woods.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/predator.svg"
+      },
+      {
+        "id": "surveying-the-score",
+        "order": 34,
+        "name": "Surveying the Score",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Case the Union Depository for the final heist.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/surveying-the-score.svg"
+      },
+      {
+        "id": "bury-the-hatchet",
+        "order": 35,
+        "name": "Bury the Hatchet",
+        "type": "Story",
+        "giver": "Trevor Philips",
+        "location": "North Yankton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Trevor learns the truth about Brad and Michael.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/bury-the-hatchet.svg"
+      },
+      {
+        "id": "pack-man",
+        "order": 36,
+        "name": "Pack Man",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a convoy of cars for Devin Weston.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/pack-man.svg"
+      },
+      {
+        "id": "fresh-meat",
+        "order": 37,
+        "name": "Fresh Meat",
+        "type": "Story",
+        "giver": "Michael De Santa",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Michael from kidnappers.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/fresh-meat.svg"
+      },
+      {
+        "id": "the-wrap-up",
+        "order": 38,
+        "name": "The Wrap Up",
+        "type": "Story",
+        "giver": "FIB",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A deal at the Kortz Center ends in a shootout.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-wrap-up.svg"
+      },
+      {
+        "id": "lamar-down",
+        "order": 39,
+        "name": "Lamar Down",
+        "type": "Story",
+        "giver": "Lamar Davis",
+        "location": "Blaine County",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Lamar from a Sawmill shootout.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/lamar-down.svg"
+      },
+      {
+        "id": "meltdown",
+        "order": 40,
+        "name": "Meltdown",
+        "type": "Story",
+        "giver": "Devin Weston",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Stop Devin Weston's lawyers from moving his assets.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/meltdown.svg"
+      },
+      {
+        "id": "the-third-way",
+        "order": 41,
+        "name": "The Third Way",
+        "type": "Story",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ending: keep all three protagonists alive and settle every score.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-third-way.svg"
+      },
+      {
+        "id": "something-sensible",
+        "order": 42,
+        "name": "Something Sensible",
+        "type": "Story",
+        "giver": "Devin Weston",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ending: Franklin sides with Weston against Trevor.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/something-sensible.svg"
+      },
+      {
+        "id": "the-times-come",
+        "order": 43,
+        "name": "The Time's Come",
+        "type": "Story",
+        "giver": "Devin Weston",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ending: Franklin sides with Weston against Michael.",
+        "verified": true,
+        "image": "assets/img/mission/gta-v/the-times-come.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "adder",
+        "name": "Adder",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 400,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/adder.svg"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": 165,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 330,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/banshee.svg"
+      },
+      {
+        "id": "bison",
+        "name": "Bison",
+        "category": "Car",
+        "class": "Pickup",
+        "top_speed_kph": 260,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/bison.svg"
+      },
+      {
+        "id": "buffalo",
+        "name": "Buffalo",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 300,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/buffalo.svg"
+      },
+      {
+        "id": "buzzard",
+        "name": "Buzzard",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/buzzard.svg"
+      },
+      {
+        "id": "carbonizzare",
+        "name": "Carbonizzare",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 330,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/carbonizzare.svg"
+      },
+      {
+        "id": "cargobob",
+        "name": "Cargobob",
+        "category": "Aircraft",
+        "class": "Transport helicopter",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/cargobob.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 380,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/cheetah.svg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 320,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/comet.svg"
+      },
+      {
+        "id": "dominator",
+        "name": "Dominator",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 310,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/dominator.svg"
+      },
+      {
+        "id": "elegy-rh8",
+        "name": "Elegy RH8",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 330,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/elegy-rh8.svg"
+      },
+      {
+        "id": "entity-xf",
+        "name": "Entity XF",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 390,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/entity-xf.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": 150,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/fire-truck.svg"
+      },
+      {
+        "id": "gauntlet",
+        "name": "Gauntlet",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 305,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/gauntlet.svg"
+      },
+      {
+        "id": "hydra",
+        "name": "Hydra",
+        "category": "Aircraft",
+        "class": "Jump jet",
+        "top_speed_kph": 500,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/hydra.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 370,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/infernus.svg"
+      },
+      {
+        "id": "insurgent",
+        "name": "Insurgent",
+        "category": "Car",
+        "class": "Armored",
+        "top_speed_kph": 260,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/insurgent.svg"
+      },
+      {
+        "id": "lazer",
+        "name": "P-996 Lazer",
+        "category": "Aircraft",
+        "class": "Fighter jet",
+        "top_speed_kph": 600,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/lazer.svg"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 300,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/phoenix.svg"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 290,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/police-cruiser.svg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": 60,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/rhino.svg"
+      },
+      {
+        "id": "sabre-turbo",
+        "name": "Sabre Turbo",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 305,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/sabre-turbo.svg"
+      },
+      {
+        "id": "sandking-xl",
+        "name": "Sandking XL",
+        "category": "Car",
+        "class": "Off-road",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/sandking-xl.svg"
+      },
+      {
+        "id": "savage",
+        "name": "Savage",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/savage.svg"
+      },
+      {
+        "id": "schafter",
+        "name": "Schafter",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 285,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/schafter.svg"
+      },
+      {
+        "id": "seashark",
+        "name": "Seashark",
+        "category": "Boat",
+        "class": "Jet ski",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/seashark.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 280,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/sentinel.svg"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 140,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/speeder.svg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Car",
+        "class": "Sports sedan",
+        "top_speed_kph": 300,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/sultan.svg"
+      },
+      {
+        "id": "sultan-rs",
+        "name": "Sultan RS",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 360,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/sultan-rs.svg"
+      },
+      {
+        "id": "tailgater",
+        "name": "Tailgater",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 280,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/tailgater.svg"
+      },
+      {
+        "id": "titan",
+        "name": "Titan",
+        "category": "Aircraft",
+        "class": "Cargo plane",
+        "top_speed_kph": 400,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/titan.svg"
+      },
+      {
+        "id": "turismo-r",
+        "name": "Turismo R",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 380,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/turismo-r.svg"
+      },
+      {
+        "id": "z-type",
+        "name": "Z-Type",
+        "category": "Car",
+        "class": "Sports classic",
+        "top_speed_kph": 300,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-v/z-type.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ap-pistol",
+        "name": "AP Pistol",
+        "type": "Handgun",
+        "damage_tier": "High",
+        "ammo": "18 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/ap-pistol.svg"
+      },
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/assault-rifle.svg"
+      },
+      {
+        "id": "assault-shotgun",
+        "name": "Assault Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "Very high",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Ammu-Nation (later)",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/assault-shotgun.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/baseball-bat.svg"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/carbine-rifle.svg"
+      },
+      {
+        "id": "combat-mg",
+        "name": "Combat MG",
+        "type": "Machine gun",
+        "damage_tier": "Very high",
+        "ammo": "100 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/combat-mg.svg"
+      },
+      {
+        "id": "combat-pistol",
+        "name": "Combat Pistol",
+        "type": "Handgun",
+        "damage_tier": "High",
+        "ammo": "12 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/combat-pistol.svg"
+      },
+      {
+        "id": "crowbar",
+        "name": "Crowbar",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/crowbar.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/fist.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/grenades.svg"
+      },
+      {
+        "id": "heavy-sniper",
+        "name": "Heavy Sniper",
+        "type": "Sniper",
+        "damage_tier": "Lethal",
+        "ammo": "6 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation (later)",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/heavy-sniper.svg"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/knife.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/micro-smg.svg"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "150 rounds",
+        "price": null,
+        "unlock": "Later missions",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/minigun.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "12 rounds",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/pistol.svg"
+      },
+      {
+        "id": "pump-shotgun",
+        "name": "Pump Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/pump-shotgun.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/rpg.svg"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/smg.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "10 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/sniper-rifle.svg"
+      },
+      {
+        "id": "special-carbine",
+        "name": "Special Carbine",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/special-carbine.svg"
+      },
+      {
+        "id": "sticky-bombs",
+        "name": "Sticky Bombs",
+        "type": "Thrown",
+        "damage_tier": "Lethal",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-v/sticky-bombs.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "all-weapons",
+        "effect": "All weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TOOLUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/all-weapons.svg"
+      },
+      {
+        "id": "clear-wanted",
+        "effect": "Clear wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "LAWYERUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/clear-wanted.svg"
+      },
+      {
+        "id": "drunk",
+        "effect": "Drunk mode",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "LIQUOR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-v/drunk.svg"
+      },
+      {
+        "id": "explosive-ammo",
+        "effect": "Explosive ammunition",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "INCENDIARY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/explosive-ammo.svg"
+      },
+      {
+        "id": "skyfall",
+        "effect": "Fall from the sky",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SKYFALL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/skyfall.svg"
+      },
+      {
+        "id": "super-sprint",
+        "effect": "Fast run and swim",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CATCHME",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/super-sprint.svg"
+      },
+      {
+        "id": "health-armor",
+        "effect": "Full health and armor",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TURTLE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/health-armor.svg"
+      },
+      {
+        "id": "invincibility",
+        "effect": "Invincibility (5 minutes)",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "PAINKILLER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/invincibility.svg"
+      },
+      {
+        "id": "moon-gravity",
+        "effect": "Low gravity",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FLOATER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/moon-gravity.svg"
+      },
+      {
+        "id": "slow-mo-aim",
+        "effect": "Slow-motion aiming",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DEADEYE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/slow-mo-aim.svg"
+      },
+      {
+        "id": "snow",
+        "effect": "Snowy weather",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SNOWDAY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/snow.svg"
+      },
+      {
+        "id": "storm",
+        "effect": "Thunderstorm",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "MAKEITRAIN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-v/storm.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "blaine-county",
+        "name": "Blaine County",
+        "type": "Region",
+        "parent": "San Andreas",
+        "summary": "Rural desert and mountain county north of the city.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/blaine-county.svg"
+      },
+      {
+        "id": "chamberlain-hills",
+        "name": "Chamberlain Hills",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Franklin and Lamar's home neighbourhood.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/chamberlain-hills.svg"
+      },
+      {
+        "id": "downtown-los-santos",
+        "name": "Downtown Los Santos",
+        "type": "District",
+        "parent": "Los Santos",
+        "summary": "Skyscraper business district and the FIB tower.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/downtown-los-santos.svg"
+      },
+      {
+        "id": "fort-zancudo",
+        "name": "Fort Zancudo",
+        "type": "Landmark",
+        "parent": "Blaine County",
+        "summary": "Military base with restricted airspace.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/fort-zancudo.svg"
+      },
+      {
+        "id": "humane-labs",
+        "name": "Humane Labs and Research",
+        "type": "Landmark",
+        "parent": "Blaine County",
+        "summary": "Research facility raided in Monkey Business.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/humane-labs.svg"
+      },
+      {
+        "id": "los-santos",
+        "name": "Los Santos",
+        "type": "City",
+        "parent": "San Andreas",
+        "summary": "Los Angeles analogue and the game's main urban area.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/los-santos.svg"
+      },
+      {
+        "id": "mount-chiliad",
+        "name": "Mount Chiliad",
+        "type": "Landmark",
+        "parent": "Blaine County",
+        "summary": "Tallest mountain in the state, tied to the mystery egg and jetpack hunt.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/mount-chiliad.svg"
+      },
+      {
+        "id": "paleto-bay",
+        "name": "Paleto Bay",
+        "type": "Town",
+        "parent": "Blaine County",
+        "summary": "Small northern town and bank heist location.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/paleto-bay.svg"
+      },
+      {
+        "id": "rockford-hills",
+        "name": "Rockford Hills",
+        "type": "District",
+        "parent": "Los Santos",
+        "summary": "Affluent district and Michael's mansion.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/rockford-hills.svg"
+      },
+      {
+        "id": "san-andreas",
+        "name": "San Andreas",
+        "type": "Region",
+        "parent": null,
+        "summary": "The state containing Los Santos and Blaine County.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/san-andreas.svg"
+      },
+      {
+        "id": "sandy-shores",
+        "name": "Sandy Shores",
+        "type": "Town",
+        "parent": "Blaine County",
+        "summary": "Desert town and Trevor's base of operations.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/sandy-shores.svg"
+      },
+      {
+        "id": "union-depository",
+        "name": "Union Depository",
+        "type": "Landmark",
+        "parent": "Los Santos",
+        "summary": "Target of the final heist.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/union-depository.svg"
+      },
+      {
+        "id": "vespucci",
+        "name": "Vespucci",
+        "type": "District",
+        "parent": "Los Santos",
+        "summary": "Beach district and the boardwalk.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/vespucci.svg"
+      },
+      {
+        "id": "vinewood",
+        "name": "Vinewood",
+        "type": "District",
+        "parent": "Los Santos",
+        "summary": "Hollywood analogue with the sign and studios.",
+        "verified": true,
+        "image": "assets/img/location/gta-v/vinewood.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "letter-scraps",
+        "name": "Letter Scraps",
+        "type": "Scrap",
+        "total": 50,
+        "reward": "Unlocks a murder-mystery side story",
+        "verified": true,
+        "image": "assets/img/collectible/gta-v/letter-scraps.svg"
+      },
+      {
+        "id": "monkey-mosaics",
+        "name": "Monkey Mosaics",
+        "type": "Mosaic",
+        "total": 50,
+        "reward": "Unlocks the Go Go Monkey Blista (enhanced editions)",
+        "verified": false,
+        "image": "assets/img/collectible/gta-v/monkey-mosaics.svg"
+      },
+      {
+        "id": "nuclear-waste",
+        "name": "Nuclear Waste",
+        "type": "Barrel",
+        "total": 30,
+        "reward": "Cash and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-v/nuclear-waste.svg"
+      },
+      {
+        "id": "peyote-plants",
+        "name": "Peyote Plants",
+        "type": "Plant",
+        "total": 30,
+        "reward": "Play as animals (enhanced editions)",
+        "verified": false,
+        "image": "assets/img/collectible/gta-v/peyote-plants.svg"
+      },
+      {
+        "id": "spaceship-parts",
+        "name": "Spaceship Parts",
+        "type": "Part",
+        "total": 50,
+        "reward": "Unlocks the Space Docker vehicle",
+        "verified": true,
+        "image": "assets/img/collectible/gta-v/spaceship-parts.svg"
+      },
+      {
+        "id": "stunt-jumps",
+        "name": "Stunt Jumps",
+        "type": "Stunt",
+        "total": 50,
+        "reward": "Cash and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-v/stunt-jumps.svg"
+      }
+    ]
+  }
+}

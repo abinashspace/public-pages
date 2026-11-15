@@ -1,0 +1,107 @@
+{
+  "game": "gta-online",
+  "game_title": "Grand Theft Auto Online",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "agatha-baker",
+      "name": "Agatha Baker",
+      "role": "Contact",
+      "affiliations": [
+        "The Diamond Casino & Resort"
+      ],
+      "summary": "Casino contact for the Diamond Casino & Resort storyline.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/agatha-baker.svg"
+    },
+    {
+      "id": "agent-14",
+      "name": "Agent 14",
+      "role": "Contact",
+      "affiliations": [
+        "IAA"
+      ],
+      "summary": "Government handler for the Doomsday Heist and bunker research.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/agent-14.svg"
+    },
+    {
+      "id": "lamar-davis",
+      "name": "Lamar Davis",
+      "role": "Contact",
+      "affiliations": [
+        "Chamberlain gang",
+        "CEO organisations"
+      ],
+      "summary": "Returns as a contact for early low-level jobs and the Lowriders storyline.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/lamar-davis.svg"
+    },
+    {
+      "id": "lester-crest",
+      "name": "Lester Crest",
+      "role": "Heist planner",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "Plans the original apartment heists and the Doomsday Scenario.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/lester-crest.svg"
+    },
+    {
+      "id": "miguel-madrazo",
+      "name": "Miguel Madrazo",
+      "role": "Contact",
+      "affiliations": [
+        "Madrazo cartel"
+      ],
+      "summary": "Ranch-hand turned contact after his father's fall.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/miguel-madrazo.svg"
+    },
+    {
+      "id": "online-player",
+      "name": "Online protagonist",
+      "role": "Protagonist",
+      "affiliations": [
+        "Player-chosen organisations"
+      ],
+      "summary": "A player-created criminal operating across Southern San Andreas with no fixed backstory.",
+      "status": "Varies",
+      "first_appearance": "Grand Theft Auto Online",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/online-player.svg"
+    },
+    {
+      "id": "pavel",
+      "name": "Pavel",
+      "role": "Contact",
+      "affiliations": [
+        "Kosatka crew"
+      ],
+      "summary": "Submarine commander and planner of the Cayo Perico Heist.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/pavel.svg"
+    },
+    {
+      "id": "tom-connors",
+      "name": "Tom Connors",
+      "role": "Contact",
+      "affiliations": [
+        "Diamond Casino"
+      ],
+      "summary": "Casino manager tied to the Diamond Casino Heist.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-online/tom-connors.svg"
+    }
+  ]
+}

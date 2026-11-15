@@ -1,0 +1,23 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "cheats",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GESUNDHEIT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Cheat string carried over from the 3D era; verify against the 1997 PC build",
+      "image": "assets/img/cheat/gta/full-health.svg"
+    }
+  ]
+}

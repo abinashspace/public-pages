@@ -1,0 +1,359 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 35,
+  "items": [
+    {
+      "id": "adder",
+      "name": "Adder",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 400,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/adder.svg"
+    },
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": 165,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 330,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/banshee.svg"
+    },
+    {
+      "id": "bison",
+      "name": "Bison",
+      "category": "Car",
+      "class": "Pickup",
+      "top_speed_kph": 260,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/bison.svg"
+    },
+    {
+      "id": "buffalo",
+      "name": "Buffalo",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 300,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/buffalo.svg"
+    },
+    {
+      "id": "buzzard",
+      "name": "Buzzard",
+      "category": "Aircraft",
+      "class": "Attack helicopter",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/buzzard.svg"
+    },
+    {
+      "id": "carbonizzare",
+      "name": "Carbonizzare",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 330,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/carbonizzare.svg"
+    },
+    {
+      "id": "cargobob",
+      "name": "Cargobob",
+      "category": "Aircraft",
+      "class": "Transport helicopter",
+      "top_speed_kph": 220,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/cargobob.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 380,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/cheetah.svg"
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 320,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/comet.svg"
+    },
+    {
+      "id": "dominator",
+      "name": "Dominator",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 310,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/dominator.svg"
+    },
+    {
+      "id": "elegy-rh8",
+      "name": "Elegy RH8",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 330,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/elegy-rh8.svg"
+    },
+    {
+      "id": "entity-xf",
+      "name": "Entity XF",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 390,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/entity-xf.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": 150,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/fire-truck.svg"
+    },
+    {
+      "id": "gauntlet",
+      "name": "Gauntlet",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 305,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/gauntlet.svg"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "category": "Aircraft",
+      "class": "Jump jet",
+      "top_speed_kph": 500,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/hydra.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 370,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/infernus.svg"
+    },
+    {
+      "id": "insurgent",
+      "name": "Insurgent",
+      "category": "Car",
+      "class": "Armored",
+      "top_speed_kph": 260,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/insurgent.svg"
+    },
+    {
+      "id": "lazer",
+      "name": "P-996 Lazer",
+      "category": "Aircraft",
+      "class": "Fighter jet",
+      "top_speed_kph": 600,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/lazer.svg"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 300,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/phoenix.svg"
+    },
+    {
+      "id": "police-cruiser",
+      "name": "Police Cruiser",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 290,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/police-cruiser.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": 60,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/rhino.svg"
+    },
+    {
+      "id": "sabre-turbo",
+      "name": "Sabre Turbo",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 305,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/sabre-turbo.svg"
+    },
+    {
+      "id": "sandking-xl",
+      "name": "Sandking XL",
+      "category": "Car",
+      "class": "Off-road",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/sandking-xl.svg"
+    },
+    {
+      "id": "savage",
+      "name": "Savage",
+      "category": "Aircraft",
+      "class": "Attack helicopter",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/savage.svg"
+    },
+    {
+      "id": "schafter",
+      "name": "Schafter",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 285,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/schafter.svg"
+    },
+    {
+      "id": "seashark",
+      "name": "Seashark",
+      "category": "Boat",
+      "class": "Jet ski",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/seashark.svg"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 280,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/sentinel.svg"
+    },
+    {
+      "id": "speeder",
+      "name": "Speeder",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 140,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/speeder.svg"
+    },
+    {
+      "id": "sultan",
+      "name": "Sultan",
+      "category": "Car",
+      "class": "Sports sedan",
+      "top_speed_kph": 300,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/sultan.svg"
+    },
+    {
+      "id": "sultan-rs",
+      "name": "Sultan RS",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 360,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/sultan-rs.svg"
+    },
+    {
+      "id": "tailgater",
+      "name": "Tailgater",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 280,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/tailgater.svg"
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "category": "Aircraft",
+      "class": "Cargo plane",
+      "top_speed_kph": 400,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/titan.svg"
+    },
+    {
+      "id": "turismo-r",
+      "name": "Turismo R",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 380,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/turismo-r.svg"
+    },
+    {
+      "id": "z-type",
+      "name": "Z-Type",
+      "category": "Car",
+      "class": "Sports classic",
+      "top_speed_kph": 300,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-v/z-type.svg"
+    }
+  ]
+}

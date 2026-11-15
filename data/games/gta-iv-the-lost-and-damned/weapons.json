@@ -1,0 +1,97 @@
+{
+  "game": "gta-iv-the-lost-and-damned",
+  "game_title": "Grand Theft Auto IV: The Lost and Damned",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 8,
+  "items": [
+    {
+      "id": "assault-rifle",
+      "name": "Assault Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Terry Thorpe",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-rifle.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.svg"
+    },
+    {
+      "id": "glock-17",
+      "name": "Glock 17",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/glock-17.svg"
+    },
+    {
+      "id": "grenade-launcher",
+      "name": "Grenade Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "6 rounds",
+      "price": null,
+      "unlock": "Club supply",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.svg"
+    },
+    {
+      "id": "micro-smg",
+      "name": "Micro SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Club supply",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/micro-smg.svg"
+    },
+    {
+      "id": "pipe-bomb",
+      "name": "Pipe Bomb",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Club supply",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.svg"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Club supply",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/rpg.svg"
+    },
+    {
+      "id": "sawn-off-shotgun",
+      "name": "Sawn-off Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "Very high",
+      "ammo": "2 shells",
+      "price": null,
+      "unlock": "Club supply",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sawn-off-shotgun.svg"
+    }
+  ]
+}

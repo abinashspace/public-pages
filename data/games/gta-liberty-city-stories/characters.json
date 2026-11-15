@@ -1,0 +1,179 @@
+{
+  "game": "gta-liberty-city-stories",
+  "game_title": "Grand Theft Auto: Liberty City Stories",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "8-ball",
+      "name": "8-Ball",
+      "role": "Explosives expert",
+      "affiliations": [
+        "Liberty City underworld"
+      ],
+      "summary": "Bomb-maker and fixer, already established before GTA III.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/8-ball.svg"
+    },
+    {
+      "id": "donald-love",
+      "name": "Donald Love",
+      "role": "Media mogul",
+      "affiliations": [
+        "Love Media"
+      ],
+      "summary": "A young Donald Love building his media empire in 1998.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/donald-love.svg"
+    },
+    {
+      "id": "franco-forelli",
+      "name": "Franco Forelli",
+      "role": "Forelli boss",
+      "affiliations": [
+        "Forelli Crime Family"
+      ],
+      "summary": "Forelli leader attempting to take over Leone territory.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/franco-forelli.svg"
+    },
+    {
+      "id": "jd-otoole",
+      "name": "JD O'Toole",
+      "role": "Pimp, informant",
+      "affiliations": [
+        "Leone Crime Family",
+        "Sindacco Family"
+      ],
+      "summary": "A pimp and police informant who drags Toni into Triad and Sindacco trouble.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/jd-otoole.svg"
+    },
+    {
+      "id": "joey-leone",
+      "name": "Joey Leone",
+      "role": "Leone capo",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Salvatore's son, running the Portland garage.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/joey-leone.svg"
+    },
+    {
+      "id": "leon-mcaffrey",
+      "name": "Leon McAffrey",
+      "role": "Corrupt cop",
+      "affiliations": [
+        "Liberty City Police Department"
+      ],
+      "summary": "A corrupt detective who hires Toni for off-the-books work.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/leon-mcaffrey.svg"
+    },
+    {
+      "id": "luigi-goterelli",
+      "name": "Luigi Goterelli",
+      "role": "Leone capo",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Runs the Red Light District club before the events of GTA III.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/luigi-goterelli.svg"
+    },
+    {
+      "id": "ma-cipriani",
+      "name": "Ma Cipriani",
+      "role": "Toni's mother",
+      "affiliations": [
+        "Cipriani family"
+      ],
+      "summary": "Toni's overbearing mother and a side-mission contact.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/ma-cipriani.svg"
+    },
+    {
+      "id": "maria-latare",
+      "name": "Maria Latore",
+      "role": "Salvatore's girlfriend",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Salvatore's partner and a recurring source of chaos for Toni.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/maria-latare.svg"
+    },
+    {
+      "id": "massimo-torini",
+      "name": "Massimo Torini",
+      "role": "Antagonist, Sicilian don",
+      "affiliations": [
+        "Sicilian Mafia"
+      ],
+      "summary": "Sicilian envoy manipulating the Liberty City families.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/massimo-torini.svg"
+    },
+    {
+      "id": "paulie-sindacco",
+      "name": "Paulie Sindacco",
+      "role": "Sindacco boss",
+      "affiliations": [
+        "Sindacco Family"
+      ],
+      "summary": "Head of the Sindacco family pushing into Liberty City.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/paulie-sindacco.svg"
+    },
+    {
+      "id": "salvatore-leone",
+      "name": "Salvatore Leone",
+      "role": "Leone don",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "The don Toni serves, fighting off Sicilian and Forelli challenges to his rule.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/salvatore-leone.svg"
+    },
+    {
+      "id": "toni-cipriani",
+      "name": "Toni Cipriani",
+      "role": "Protagonist",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Returns to Liberty City after killing a made man and works to earn back Salvatore's trust.",
+      "status": "Alive",
+      "first_appearance": "GTA: Liberty City Stories",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/toni-cipriani.svg"
+    },
+    {
+      "id": "vincenzo-cilli",
+      "name": "Vincenzo Cilli",
+      "role": "Leone associate",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Toni's early employer and rival within the family.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-liberty-city-stories/vincenzo-cilli.svg"
+    }
+  ]
+}

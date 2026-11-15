@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "slug": "gta-2",
+    "title": "Grand Theft Auto 2",
+    "year": 1999,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.460Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "limited"
+    },
+    "counts": {
+      "characters": 8,
+      "missions": 4,
+      "vehicles": 9,
+      "weapons": 8,
+      "cheats": 1,
+      "locations": 4,
+      "collectibles": 1
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-2/cover.svg",
+      "banner": "assets/img/banner/gta-2/banner.svg",
+      "map": "assets/img/map/gta-2/map.svg"
+    },
+    "sources": [
+      "GTA 2 in-game district and gang systems",
+      "Rockstar Games GTA 2 materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "claude-speed",
+        "name": "Claude Speed",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "A nameless-until-the-ending criminal working for Anywhere City's seven gangs.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto 2",
+        "verified": true,
+        "image": "assets/img/portrait/gta-2/claude-speed.svg"
+      },
+      {
+        "id": "hare-krishna-leader",
+        "name": "Hare Krishna leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Hare Krishna"
+        ],
+        "summary": "Leader of the Hare Krishna gang.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/hare-krishna-leader.svg"
+      },
+      {
+        "id": "loonies-leader",
+        "name": "Loonies leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Loonies"
+        ],
+        "summary": "Leader of the insane asylum-based Loonies gang.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/loonies-leader.svg"
+      },
+      {
+        "id": "rednecks-leader",
+        "name": "Rednecks leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Rednecks"
+        ],
+        "summary": "Leader of the Rednecks in the Industrial district.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/rednecks-leader.svg"
+      },
+      {
+        "id": "russian-boss",
+        "name": "Russian boss",
+        "role": "Gang leader",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "Head of the Russian Mafia in Anywhere City.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/russian-boss.svg"
+      },
+      {
+        "id": "srs-leader",
+        "name": "SRS leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "SRS Scientists"
+        ],
+        "summary": "Leader of the SRS Scientists, a research-gang operating from a lab.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/srs-leader.svg"
+      },
+      {
+        "id": "yakuza-boss",
+        "name": "Yakuza boss",
+        "role": "Gang leader",
+        "affiliations": [
+          "Yakuza"
+        ],
+        "summary": "Head of the Yakuza in Anywhere City's Downtown district.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/yakuza-boss.svg"
+      },
+      {
+        "id": "zaibatsu-boss",
+        "name": "Zaibatsu boss",
+        "role": "Corporation boss",
+        "affiliations": [
+          "Zaibatsu Corporation"
+        ],
+        "summary": "Head of the Zaibatsu Corporation, the city's dominant corporate power.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/zaibatsu-boss.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "downtown-jobs",
+        "order": 1,
+        "name": "Downtown jobs",
+        "type": "Story",
+        "giver": "Downtown gang bosses",
+        "location": "Downtown",
+        "reward": {
+          "money": 0,
+          "other": "Respect with Downtown gangs"
+        },
+        "summary": "First district mission chain; completing jobs raises respect and unlocks better weapons.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/downtown-jobs.svg"
+      },
+      {
+        "id": "residential-jobs",
+        "order": 2,
+        "name": "Residential jobs",
+        "type": "Story",
+        "giver": "Residential gang bosses",
+        "location": "Residential",
+        "reward": {
+          "money": 0,
+          "other": "Respect progression"
+        },
+        "summary": "Second district chain with tougher rivals and better payouts.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/residential-jobs.svg"
+      },
+      {
+        "id": "industrial-jobs",
+        "order": 3,
+        "name": "Industrial jobs",
+        "type": "Story",
+        "giver": "Industrial gang bosses",
+        "location": "Industrial",
+        "reward": {
+          "money": 0,
+          "other": "Respect progression"
+        },
+        "summary": "Third district chain based around the docks and factories.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/industrial-jobs.svg"
+      },
+      {
+        "id": "final-jobs",
+        "order": 4,
+        "name": "Final jobs",
+        "type": "Story",
+        "giver": "Zaibatsu",
+        "location": "Anywhere City",
+        "reward": {
+          "money": 0,
+          "other": "Ending"
+        },
+        "summary": "Endgame chain against the Zaibatsu Corporation.",
+        "verified": false,
+        "image": "assets/img/mission/gta-2/final-jobs.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/banshee.svg"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/bus.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/fire-truck.svg"
+      },
+      {
+        "id": "garbage-truck",
+        "name": "Garbage Truck",
+        "category": "Industrial",
+        "class": "Truck",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/garbage-truck.svg"
+      },
+      {
+        "id": "ice-cream-van",
+        "name": "Ice Cream Van",
+        "category": "Van",
+        "class": "Special",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/ice-cream-van.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/police-car.svg"
+      },
+      {
+        "id": "tank",
+        "name": "Tank",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": null,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/tank.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/taxi.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "electro-gun",
+        "name": "Electro Gun",
+        "type": "Heavy",
+        "damage_tier": "High",
+        "ammo": "Charge",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/electro-gun.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Fuel",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/grenades.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/shotgun.svg"
+      },
+      {
+        "id": "silenced-uzi",
+        "name": "Silenced Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/silenced-uzi.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "all-weapons",
+        "effect": "All weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GUNSGUNSGUNS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Community cheat lists — string must be verified against the GTA 2 PC build",
+        "image": "assets/img/cheat/gta-2/all-weapons.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "anywhere-city",
+        "name": "Anywhere City",
+        "type": "City",
+        "parent": null,
+        "summary": "Dystopian city of 2013 split into three districts by bridges and water.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/anywhere-city.svg"
+      },
+      {
+        "id": "downtown",
+        "name": "Downtown",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Corporate skyscrapers, the Zaibatsu tower and Yakuza turf.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/downtown.svg"
+      },
+      {
+        "id": "industrial",
+        "name": "Industrial",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Docks, factories and the Rednecks.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/industrial.svg"
+      },
+      {
+        "id": "residential",
+        "name": "Residential",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Suburban and asylum district, home to the Loonies.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/residential.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "kf-radio-tokens",
+        "name": "Kill Frenzy tokens",
+        "type": "Token",
+        "total": 0,
+        "reward": "Cash and weapons; part of 100% completion",
+        "verified": false,
+        "source": "Count varies by platform",
+        "image": "assets/img/collectible/gta-2/kf-radio-tokens.svg"
+      }
+    ]
+  }
+}

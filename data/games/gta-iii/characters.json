@@ -1,0 +1,243 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 19,
+  "items": [
+    {
+      "id": "8-ball",
+      "name": "8-Ball",
+      "role": "Explosives expert, first ally",
+      "affiliations": [
+        "Liberty City underworld",
+        "Leone Crime Family"
+      ],
+      "summary": "Frees Claude from the police convoy at the start of the game and runs a bomb shop in Portland.",
+      "status": "Alive",
+      "first_appearance": "Grand Theft Auto III",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/8-ball.svg"
+    },
+    {
+      "id": "asuka-kasen",
+      "name": "Asuka Kasen",
+      "role": "Yakuza co-leader",
+      "affiliations": [
+        "Yakuza"
+      ],
+      "summary": "Runs the Yakuza's Staunton Island operations and becomes Claude's main employer after Portland.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/asuka-kasen.svg"
+    },
+    {
+      "id": "catalina",
+      "name": "Catalina",
+      "role": "Antagonist, Colombian Cartel",
+      "affiliations": [
+        "Colombian Cartel"
+      ],
+      "summary": "Claude's ex-girlfriend who shoots him at the start and later leads the Cartel.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/catalina.svg"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "role": "Protagonist",
+      "affiliations": [
+        "Independent",
+        "Leone Crime Family (associate)",
+        "Yakuza (associate)"
+      ],
+      "summary": "A silent career criminal shot and left for dead by Catalina, who works his way up through Liberty City's underworld to settle the score.",
+      "status": "Alive",
+      "first_appearance": "Grand Theft Auto III",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/claude.svg"
+    },
+    {
+      "id": "d-ice",
+      "name": "D-Ice",
+      "role": "Red Jacks leader",
+      "affiliations": [
+        "Red Jacks"
+      ],
+      "summary": "Wichita Gardens gang leader whose phone missions target the Purple Nines.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/d-ice.svg"
+    },
+    {
+      "id": "donald-love",
+      "name": "Donald Love",
+      "role": "Media mogul",
+      "affiliations": [
+        "Love Media"
+      ],
+      "summary": "A reclusive businessman whose real-estate ambitions involve the Cartel and the Colombian drug trade.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/donald-love.svg"
+    },
+    {
+      "id": "el-burro",
+      "name": "El Burro",
+      "role": "Diablos leader",
+      "affiliations": [
+        "Diablos"
+      ],
+      "summary": "Puerto Rican gang leader in Hepburn Heights who pays in vehicles and cash for chaos.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/el-burro.svg"
+    },
+    {
+      "id": "joey-leone",
+      "name": "Joey Leone",
+      "role": "Garage owner, Leone capo",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Salvatore's son, based at a Portland garage; assigns car-theft and disposal jobs.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/joey-leone.svg"
+    },
+    {
+      "id": "kenji-kasen",
+      "name": "Kenji Kasen",
+      "role": "Yakuza co-leader",
+      "affiliations": [
+        "Yakuza"
+      ],
+      "summary": "Asuka's brother, based at a Staunton casino; assigns jobs against the Triads and Cartel.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/kenji-kasen.svg"
+    },
+    {
+      "id": "king-courtney",
+      "name": "King Courtney",
+      "role": "Yardies leader",
+      "affiliations": [
+        "Yardies"
+      ],
+      "summary": "Jamaican gang boss in Staunton who sets Claude up during a later job.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/king-courtney.svg"
+    },
+    {
+      "id": "luigi-goterelli",
+      "name": "Luigi Goterelli",
+      "role": "Strip club owner, Leone capo",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Runs Luigi's Sex Club 7 and gives Claude his first paying work in Portland.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/luigi-goterelli.svg"
+    },
+    {
+      "id": "maria-latare",
+      "name": "Maria Latore",
+      "role": "Salvatore's girlfriend",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Salvatore's unpredictable partner, who attaches herself to Claude after leaving the don.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/maria-latare.svg"
+    },
+    {
+      "id": "marty-chonks",
+      "name": "Marty Chonks",
+      "role": "Cannibal business owner",
+      "affiliations": [
+        "Bitch'n' Dog Food"
+      ],
+      "summary": "Runs a dog food factory and asks Claude to dispose of people who threaten him.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/marty-chonks.svg"
+    },
+    {
+      "id": "miguel",
+      "name": "Miguel",
+      "role": "Cartel lieutenant",
+      "affiliations": [
+        "Colombian Cartel"
+      ],
+      "summary": "Catalina's partner in the Cartel's SPANK drug operation.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/miguel.svg"
+    },
+    {
+      "id": "phil-cassidy",
+      "name": "Phil Cassidy",
+      "role": "Gun runner",
+      "affiliations": [
+        "Liberty City underworld"
+      ],
+      "summary": "One-armed arms dealer operating out of a Portland warehouse.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/phil-cassidy.svg"
+    },
+    {
+      "id": "ray-machowski",
+      "name": "Ray Machowski",
+      "role": "Corrupt LCPD detective",
+      "affiliations": [
+        "Liberty City Police Department",
+        "Yakuza"
+      ],
+      "summary": "A dirty cop selling protection and information, eventually forced to flee the city.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/ray-machowski.svg"
+    },
+    {
+      "id": "salvatore-leone",
+      "name": "Salvatore Leone",
+      "role": "Don of the Leone family",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Aging head of the Leone family who takes Claude on before suspecting him of betrayal.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/salvatore-leone.svg"
+    },
+    {
+      "id": "toni-cipriani",
+      "name": "Toni Cipriani",
+      "role": "Leone capo",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Salvatore's trusted enforcer in Portland. Later the protagonist of Liberty City Stories.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iii/toni-cipriani.svg"
+    },
+    {
+      "id": "toni-the-tiger",
+      "name": "Toni the Tiger",
+      "role": "Triad enforcer",
+      "affiliations": [
+        "Liberty City Triads"
+      ],
+      "summary": "A Triad figure involved in the fish factory and Chinatown disputes.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-iii/toni-the-tiger.svg"
+    }
+  ]
+}

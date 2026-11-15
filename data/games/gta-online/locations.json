@@ -1,0 +1,54 @@
+{
+  "game": "gta-online",
+  "game_title": "Grand Theft Auto Online",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 5,
+  "items": [
+    {
+      "id": "blaine-county",
+      "name": "Blaine County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Desert and mountain region used for bunkers and facilities.",
+      "verified": true,
+      "image": "assets/img/location/gta-online/blaine-county.svg"
+    },
+    {
+      "id": "cayo-perico",
+      "name": "Cayo Perico",
+      "type": "Island",
+      "parent": null,
+      "summary": "Private Caribbean island added with the Cayo Perico Heist.",
+      "verified": true,
+      "image": "assets/img/location/gta-online/cayo-perico.svg"
+    },
+    {
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "The shared GTA V map, plus interiors added for Online.",
+      "verified": true,
+      "image": "assets/img/location/gta-online/los-santos.svg"
+    },
+    {
+      "id": "los-santos-international",
+      "name": "Los Santos International Airport",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Airport and hangar base of operations.",
+      "verified": true,
+      "image": "assets/img/location/gta-online/los-santos-international.svg"
+    },
+    {
+      "id": "the-diamond-casino",
+      "name": "The Diamond Casino & Resort",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Casino and resort added in 2019.",
+      "verified": true,
+      "image": "assets/img/location/gta-online/the-diamond-casino.svg"
+    }
+  ]
+}

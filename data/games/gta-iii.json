@@ -1,0 +1,2115 @@
+{
+  "meta": {
+    "slug": "gta-iii",
+    "title": "Grand Theft Auto III",
+    "year": 2001,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.478Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "partial",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 19,
+      "missions": 57,
+      "vehicles": 50,
+      "weapons": 12,
+      "cheats": 14,
+      "locations": 18,
+      "collectibles": 3
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-iii/cover.svg",
+      "banner": "assets/img/banner/gta-iii/banner.svg",
+      "map": "assets/img/map/gta-iii/map.svg"
+    },
+    "sources": [
+      "In-game mission list and pause-menu statistics",
+      "Rockstar Games official GTA III materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "8-ball",
+        "name": "8-Ball",
+        "role": "Explosives expert, first ally",
+        "affiliations": [
+          "Liberty City underworld",
+          "Leone Crime Family"
+        ],
+        "summary": "Frees Claude from the police convoy at the start of the game and runs a bomb shop in Portland.",
+        "status": "Alive",
+        "first_appearance": "Grand Theft Auto III",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/8-ball.svg"
+      },
+      {
+        "id": "asuka-kasen",
+        "name": "Asuka Kasen",
+        "role": "Yakuza co-leader",
+        "affiliations": [
+          "Yakuza"
+        ],
+        "summary": "Runs the Yakuza's Staunton Island operations and becomes Claude's main employer after Portland.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/asuka-kasen.svg"
+      },
+      {
+        "id": "catalina",
+        "name": "Catalina",
+        "role": "Antagonist, Colombian Cartel",
+        "affiliations": [
+          "Colombian Cartel"
+        ],
+        "summary": "Claude's ex-girlfriend who shoots him at the start and later leads the Cartel.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/catalina.svg"
+      },
+      {
+        "id": "claude",
+        "name": "Claude",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent",
+          "Leone Crime Family (associate)",
+          "Yakuza (associate)"
+        ],
+        "summary": "A silent career criminal shot and left for dead by Catalina, who works his way up through Liberty City's underworld to settle the score.",
+        "status": "Alive",
+        "first_appearance": "Grand Theft Auto III",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/claude.svg"
+      },
+      {
+        "id": "d-ice",
+        "name": "D-Ice",
+        "role": "Red Jacks leader",
+        "affiliations": [
+          "Red Jacks"
+        ],
+        "summary": "Wichita Gardens gang leader whose phone missions target the Purple Nines.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/d-ice.svg"
+      },
+      {
+        "id": "donald-love",
+        "name": "Donald Love",
+        "role": "Media mogul",
+        "affiliations": [
+          "Love Media"
+        ],
+        "summary": "A reclusive businessman whose real-estate ambitions involve the Cartel and the Colombian drug trade.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/donald-love.svg"
+      },
+      {
+        "id": "el-burro",
+        "name": "El Burro",
+        "role": "Diablos leader",
+        "affiliations": [
+          "Diablos"
+        ],
+        "summary": "Puerto Rican gang leader in Hepburn Heights who pays in vehicles and cash for chaos.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/el-burro.svg"
+      },
+      {
+        "id": "joey-leone",
+        "name": "Joey Leone",
+        "role": "Garage owner, Leone capo",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Salvatore's son, based at a Portland garage; assigns car-theft and disposal jobs.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/joey-leone.svg"
+      },
+      {
+        "id": "kenji-kasen",
+        "name": "Kenji Kasen",
+        "role": "Yakuza co-leader",
+        "affiliations": [
+          "Yakuza"
+        ],
+        "summary": "Asuka's brother, based at a Staunton casino; assigns jobs against the Triads and Cartel.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/kenji-kasen.svg"
+      },
+      {
+        "id": "king-courtney",
+        "name": "King Courtney",
+        "role": "Yardies leader",
+        "affiliations": [
+          "Yardies"
+        ],
+        "summary": "Jamaican gang boss in Staunton who sets Claude up during a later job.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/king-courtney.svg"
+      },
+      {
+        "id": "luigi-goterelli",
+        "name": "Luigi Goterelli",
+        "role": "Strip club owner, Leone capo",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Runs Luigi's Sex Club 7 and gives Claude his first paying work in Portland.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/luigi-goterelli.svg"
+      },
+      {
+        "id": "maria-latare",
+        "name": "Maria Latore",
+        "role": "Salvatore's girlfriend",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Salvatore's unpredictable partner, who attaches herself to Claude after leaving the don.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/maria-latare.svg"
+      },
+      {
+        "id": "marty-chonks",
+        "name": "Marty Chonks",
+        "role": "Cannibal business owner",
+        "affiliations": [
+          "Bitch'n' Dog Food"
+        ],
+        "summary": "Runs a dog food factory and asks Claude to dispose of people who threaten him.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/marty-chonks.svg"
+      },
+      {
+        "id": "miguel",
+        "name": "Miguel",
+        "role": "Cartel lieutenant",
+        "affiliations": [
+          "Colombian Cartel"
+        ],
+        "summary": "Catalina's partner in the Cartel's SPANK drug operation.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/miguel.svg"
+      },
+      {
+        "id": "phil-cassidy",
+        "name": "Phil Cassidy",
+        "role": "Gun runner",
+        "affiliations": [
+          "Liberty City underworld"
+        ],
+        "summary": "One-armed arms dealer operating out of a Portland warehouse.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/phil-cassidy.svg"
+      },
+      {
+        "id": "ray-machowski",
+        "name": "Ray Machowski",
+        "role": "Corrupt LCPD detective",
+        "affiliations": [
+          "Liberty City Police Department",
+          "Yakuza"
+        ],
+        "summary": "A dirty cop selling protection and information, eventually forced to flee the city.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/ray-machowski.svg"
+      },
+      {
+        "id": "salvatore-leone",
+        "name": "Salvatore Leone",
+        "role": "Don of the Leone family",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Aging head of the Leone family who takes Claude on before suspecting him of betrayal.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/salvatore-leone.svg"
+      },
+      {
+        "id": "toni-cipriani",
+        "name": "Toni Cipriani",
+        "role": "Leone capo",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Salvatore's trusted enforcer in Portland. Later the protagonist of Liberty City Stories.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iii/toni-cipriani.svg"
+      },
+      {
+        "id": "toni-the-tiger",
+        "name": "Toni the Tiger",
+        "role": "Triad enforcer",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "A Triad figure involved in the fish factory and Chinatown disputes.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-iii/toni-the-tiger.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "give-me-liberty",
+        "order": 1,
+        "name": "Give Me Liberty",
+        "type": "Story",
+        "giver": "8-Ball",
+        "location": "Portland",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening sequence: escape the police convoy with 8-Ball and reach the Portland hideout.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/give-me-liberty.svg"
+      },
+      {
+        "id": "luigis-girls",
+        "order": 2,
+        "name": "Luigi's Girls",
+        "type": "Story",
+        "giver": "Luigi Goterelli",
+        "location": "Luigi's Sex Club 7, Red Light District",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Drive Misty to Luigi's club and learn the basics of the Portland job loop.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/luigis-girls.svg"
+      },
+      {
+        "id": "dont-spank-ma-bitch-up",
+        "order": 3,
+        "name": "Don't Spank Ma Bitch Up",
+        "type": "Story",
+        "giver": "Luigi Goterelli",
+        "location": "Portland",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Beat up Luigi's abusive client and leave him in the street.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/dont-spank-ma-bitch-up.svg"
+      },
+      {
+        "id": "drive-misty-for-me",
+        "order": 4,
+        "name": "Drive Misty for Me",
+        "type": "Story",
+        "giver": "Luigi Goterelli",
+        "location": "Red Light District",
+        "reward": {
+          "money": 3000
+        },
+        "summary": "Chauffeur Misty to a meeting while rivals try to run her off the road.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/drive-misty-for-me.svg"
+      },
+      {
+        "id": "pump-action-pimp",
+        "order": 5,
+        "name": "Pump-Action Pimp",
+        "type": "Story",
+        "giver": "Luigi Goterelli",
+        "location": "Hepburn Heights",
+        "reward": {
+          "money": 4000
+        },
+        "summary": "Kill a rival pimp and take his girls off the street.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/pump-action-pimp.svg"
+      },
+      {
+        "id": "the-fuzz-ball",
+        "order": 6,
+        "name": "The Fuzz Ball",
+        "type": "Story",
+        "giver": "Luigi Goterelli",
+        "location": "Portland",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Escort two prostitutes past corrupt cops without letting them get arrested.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-fuzz-ball.svg"
+      },
+      {
+        "id": "mike-lips-last-lunch",
+        "order": 7,
+        "name": "Mike Lips Last Lunch",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Saint Mark's",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Steal Mike Lips' car, rig it with a bomb and return it before he drives off.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/mike-lips-last-lunch.svg"
+      },
+      {
+        "id": "farewell-chunky-lee-chong",
+        "order": 8,
+        "name": "Farewell 'Chunky' Lee Chong",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Chinatown",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Break into a Triad fish factory and kill Chunky Lee Chong with a meat cleaver.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/farewell-chunky-lee-chong.svg"
+      },
+      {
+        "id": "van-heist",
+        "order": 9,
+        "name": "Van Heist",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Portland Harbor",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Hijack an armored van and deliver it to Joey's garage intact.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/van-heist.svg"
+      },
+      {
+        "id": "ciprianis-chauffeur",
+        "order": 10,
+        "name": "Cipriani's Chauffeur",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Trenton",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Drive Toni Cipriani to a sit-down and get him out alive.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/ciprianis-chauffeur.svg"
+      },
+      {
+        "id": "dead-skunk-in-the-trunk",
+        "order": 11,
+        "name": "Dead Skunk in the Trunk",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Harwood",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Dispose of a Triad body in the back of a car before the police find it.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/dead-skunk-in-the-trunk.svg"
+      },
+      {
+        "id": "the-getaway",
+        "order": 12,
+        "name": "The Getaway",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Portland",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Drive three robbers away from a botched bank job and lose the cops.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-getaway.svg"
+      },
+      {
+        "id": "taking-out-the-laundry",
+        "order": 13,
+        "name": "Taking Out the Laundry",
+        "type": "Story",
+        "giver": "Toni Cipriani",
+        "location": "Trenton",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Destroy three Triad laundry vans without wrecking your own ride.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/taking-out-the-laundry.svg"
+      },
+      {
+        "id": "the-pickup",
+        "order": 14,
+        "name": "The Pickup",
+        "type": "Story",
+        "giver": "Toni Cipriani",
+        "location": "Portland Harbor",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Collect a protection payment from a Triad laundry and survive the ambush.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-pickup.svg"
+      },
+      {
+        "id": "salvatores-called-a-meeting",
+        "order": 15,
+        "name": "Salvatore's Called a Meeting",
+        "type": "Story",
+        "giver": "Toni Cipriani",
+        "location": "Saint Mark's",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Pick up the Leone capos from the airport and bring them to Salvatore's mansion.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/salvatores-called-a-meeting.svg"
+      },
+      {
+        "id": "triads-and-tribulations",
+        "order": 16,
+        "name": "Triads and Tribulations",
+        "type": "Story",
+        "giver": "Toni Cipriani",
+        "location": "Chinatown",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Wipe out a Triad meeting in Chinatown.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/triads-and-tribulations.svg"
+      },
+      {
+        "id": "blow-fish",
+        "order": 17,
+        "name": "Blow Fish",
+        "type": "Story",
+        "giver": "Toni Cipriani",
+        "location": "Portland Harbor",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Destroy the Triad fish factory using a truck bomb.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/blow-fish.svg"
+      },
+      {
+        "id": "cutting-the-grass",
+        "order": 18,
+        "name": "Cutting the Grass",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Saint Mark's",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Follow a suspected informant and eliminate him without being seen.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/cutting-the-grass.svg"
+      },
+      {
+        "id": "bomb-da-base-act-i",
+        "order": 19,
+        "name": "Bomb da Base: Act I",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Portland Harbor",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Snipe the Cartel guards on the freighter to clear the way for the bombing run.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/bomb-da-base-act-i.svg"
+      },
+      {
+        "id": "bomb-da-base-act-ii",
+        "order": 20,
+        "name": "Bomb da Base: Act II",
+        "type": "Story",
+        "giver": "8-Ball",
+        "location": "Portland Harbor",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Plant eight bombs on the Cartel freighter while under fire.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/bomb-da-base-act-ii.svg"
+      },
+      {
+        "id": "last-requests",
+        "order": 21,
+        "name": "Last Requests",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Saint Mark's",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Salvatore turns on Claude; escape the mansion ambush and leave Portland.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/last-requests.svg"
+      },
+      {
+        "id": "sayonara-salvatore",
+        "order": 22,
+        "name": "Sayonara Salvatore",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Saint Mark's",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Assassinate Salvatore Leone outside his own club.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/sayonara-salvatore.svg"
+      },
+      {
+        "id": "under-surveillance",
+        "order": 23,
+        "name": "Under Surveillance",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill the Cartel men watching Asuka's construction site.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/under-surveillance.svg"
+      },
+      {
+        "id": "paparazzi-purge",
+        "order": 24,
+        "name": "Paparazzi Purge",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Take out a photographer who has compromising pictures of Asuka.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/paparazzi-purge.svg"
+      },
+      {
+        "id": "payday-for-ray",
+        "order": 25,
+        "name": "Payday for Ray",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Collect Ray Machowski's bribe money and shake off the tail he sent.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/payday-for-ray.svg"
+      },
+      {
+        "id": "two-faced-tanner",
+        "order": 26,
+        "name": "Two-Faced Tanner",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill an undercover cop who is following Ray.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/two-faced-tanner.svg"
+      },
+      {
+        "id": "kanbu-bust-out",
+        "order": 27,
+        "name": "Kanbu Bust-out",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Break a Yakuza associate out of police custody.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/kanbu-bust-out.svg"
+      },
+      {
+        "id": "grand-theft-auto",
+        "order": 28,
+        "name": "Grand Theft Auto",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Steal three specific cars for Kenji's showroom.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/grand-theft-auto.svg"
+      },
+      {
+        "id": "deal-steal",
+        "order": 29,
+        "name": "Deal Steal",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Ambush a Cartel drug deal and take the cash.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/deal-steal.svg"
+      },
+      {
+        "id": "shima",
+        "order": 30,
+        "name": "Shima",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Protect Kenji during a meeting with a Triad boss.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/shima.svg"
+      },
+      {
+        "id": "smack-down",
+        "order": 31,
+        "name": "Smack Down",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill eight SPANK dealers across Staunton before time runs out.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/smack-down.svg"
+      },
+      {
+        "id": "silence-the-sneak",
+        "order": 32,
+        "name": "Silence the Sneak",
+        "type": "Story",
+        "giver": "Kenji Kasen",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill a witness before he reaches the courthouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/silence-the-sneak.svg"
+      },
+      {
+        "id": "arms-shortage",
+        "order": 33,
+        "name": "Arms Shortage",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Defend Phil Cassidy's warehouse from a Cartel raid.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/arms-shortage.svg"
+      },
+      {
+        "id": "evidence-dash",
+        "order": 34,
+        "name": "Evidence Dash",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Destroy a police vehicle carrying evidence against Ray.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/evidence-dash.svg"
+      },
+      {
+        "id": "gone-fishing",
+        "order": 35,
+        "name": "Gone Fishing",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill a cop who is about to testify, then escape by boat.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/gone-fishing.svg"
+      },
+      {
+        "id": "plaster-blaster",
+        "order": 36,
+        "name": "Plaster Blaster",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Ambush a police convoy and destroy the armored van.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/plaster-blaster.svg"
+      },
+      {
+        "id": "liberator",
+        "order": 37,
+        "name": "Liberator",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Rescue an undercover operative from a Cartel stronghold.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/liberator.svg"
+      },
+      {
+        "id": "waka-gashira-wipeout",
+        "order": 38,
+        "name": "Waka-Gashira Wipeout!",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Kill Kenji Kasen while disguised as a Cartel gunman to start a gang war.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/waka-gashira-wipeout.svg"
+      },
+      {
+        "id": "a-drop-in-the-ocean",
+        "order": 39,
+        "name": "A Drop in the Ocean",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Pick up a floating package dropped by plane and deliver it to Love.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/a-drop-in-the-ocean.svg"
+      },
+      {
+        "id": "grand-theft-aero",
+        "order": 40,
+        "name": "Grand Theft Aero",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Francis International Airport",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Steal a plane from the airport and deliver it to Love's contact.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/grand-theft-aero.svg"
+      },
+      {
+        "id": "escort-service",
+        "order": 41,
+        "name": "Escort Service",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Escort a Securicar full of evidence through Cartel roadblocks.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/escort-service.svg"
+      },
+      {
+        "id": "decoy",
+        "order": 42,
+        "name": "Decoy",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Survive a Cartel assault while a decoy convoy draws them off.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/decoy.svg"
+      },
+      {
+        "id": "loves-disappearance",
+        "order": 43,
+        "name": "Love's Disappearance",
+        "type": "Story",
+        "giver": "Donald Love",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Find out why Donald Love has vanished from his own building.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/loves-disappearance.svg"
+      },
+      {
+        "id": "bait",
+        "order": 44,
+        "name": "Bait",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Shoreside Vale",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Use yourself as bait to draw three Cartel kill-squads into the open.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/bait.svg"
+      },
+      {
+        "id": "espresso-2-go",
+        "order": 45,
+        "name": "Espresso-2-Go!",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Liberty City",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Destroy all SPANK stands across the three islands before the Cartel expands.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/espresso-2-go.svg"
+      },
+      {
+        "id": "s-a-m",
+        "order": 46,
+        "name": "S.A.M.",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Francis International Airport",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Destroy the Cartel seaplane delivering a drug shipment.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/s-a-m.svg"
+      },
+      {
+        "id": "ransom",
+        "order": 47,
+        "name": "Ransom",
+        "type": "Story",
+        "giver": "Asuka Kasen",
+        "location": "Shoreside Vale",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Deliver a ransom and survive the Cartel trap.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/ransom.svg"
+      },
+      {
+        "id": "the-exchange",
+        "order": 48,
+        "name": "The Exchange",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Cochrane Dam",
+        "reward": {
+          "money": 30000
+        },
+        "summary": "Final mission: assault Catalina's Cartel base and rescue Maria.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-exchange.svg"
+      },
+      {
+        "id": "turismo",
+        "order": 49,
+        "name": "Turismo",
+        "type": "Vehicle",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Win an illegal street race through Portland.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/turismo.svg"
+      },
+      {
+        "id": "i-scream-you-scream",
+        "order": 50,
+        "name": "I Scream, You Scream",
+        "type": "Vehicle",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Use an ice cream van to kill a rival gang member.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/i-scream-you-scream.svg"
+      },
+      {
+        "id": "trial-by-fire",
+        "order": 51,
+        "name": "Trial by Fire",
+        "type": "Side",
+        "giver": "El Burro",
+        "location": "Hepburn Heights",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Kill 25 Diablos within a time limit using a flamethrower.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/trial-by-fire.svg"
+      },
+      {
+        "id": "bling-bling-scramble",
+        "order": 52,
+        "name": "Bling-Bling Scramble",
+        "type": "Side",
+        "giver": "King Courtney",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Collect 15 packages in a Yardie gang car within the time limit.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/bling-bling-scramble.svg"
+      },
+      {
+        "id": "kingdom-come",
+        "order": 53,
+        "name": "Kingdom Come",
+        "type": "Side",
+        "giver": "King Courtney",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Drive a car rigged with a bomb to a Yardie target.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/kingdom-come.svg"
+      },
+      {
+        "id": "uzi-rider",
+        "order": 54,
+        "name": "Uzi Rider",
+        "type": "Side",
+        "giver": "D-Ice",
+        "location": "Wichita Gardens",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Kill 20 Purple Nines with an Uzi.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/uzi-rider.svg"
+      },
+      {
+        "id": "gangcar-round-up",
+        "order": 55,
+        "name": "Gangcar Round-up",
+        "type": "Vehicle",
+        "giver": "D-Ice",
+        "location": "Wichita Gardens",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Steal three gang cars and deliver them to D-Ice.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/gangcar-round-up.svg"
+      },
+      {
+        "id": "the-crook",
+        "order": 56,
+        "name": "The Crook",
+        "type": "Side",
+        "giver": "Marty Chonks",
+        "location": "Trenton",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Kill a thief who tried to rob Marty's factory.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-crook.svg"
+      },
+      {
+        "id": "the-wife",
+        "order": 57,
+        "name": "The Wife",
+        "type": "Side",
+        "giver": "Marty Chonks",
+        "location": "Trenton",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Dispose of Marty's wife after she discovers his operation.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iii/the-wife.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": 140,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/banshee.svg"
+      },
+      {
+        "id": "barracks-ol",
+        "name": "Barracks OL",
+        "category": "Military",
+        "class": "Truck",
+        "top_speed_kph": 90,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/barracks-ol.svg"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Car",
+        "class": "Buggy",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/bf-injection.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Car",
+        "class": "Pickup",
+        "top_speed_kph": 155,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/bobcat.svg"
+      },
+      {
+        "id": "borgnine",
+        "name": "Borgnine",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/borgnine.svg"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": 110,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/bus.svg"
+      },
+      {
+        "id": "cabbie",
+        "name": "Cabbie",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/cabbie.svg"
+      },
+      {
+        "id": "cartel-cruiser",
+        "name": "Cartel Cruiser",
+        "category": "Car",
+        "class": "Gang",
+        "top_speed_kph": 190,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/cartel-cruiser.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 220,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/cheetah.svg"
+      },
+      {
+        "id": "coach",
+        "name": "Coach",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": 120,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/coach.svg"
+      },
+      {
+        "id": "diablo-stallion",
+        "name": "Diablo Stallion",
+        "category": "Car",
+        "class": "Gang",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/diablo-stallion.svg"
+      },
+      {
+        "id": "dodo",
+        "name": "Dodo",
+        "category": "Aircraft",
+        "class": "Plane",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/dodo.svg"
+      },
+      {
+        "id": "dozer",
+        "name": "Dozer",
+        "category": "Industrial",
+        "class": "Construction",
+        "top_speed_kph": 30,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/dozer.svg"
+      },
+      {
+        "id": "dumper",
+        "name": "Dumper",
+        "category": "Industrial",
+        "class": "Construction",
+        "top_speed_kph": 50,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/dumper.svg"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency",
+        "class": "Police van",
+        "top_speed_kph": 130,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/enforcer.svg"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Car",
+        "class": "Coupe",
+        "top_speed_kph": 165,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/esperanto.svg"
+      },
+      {
+        "id": "fbi-car",
+        "name": "FBI Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/fbi-car.svg"
+      },
+      {
+        "id": "firetruck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": 120,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/firetruck.svg"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Industrial",
+        "class": "Truck",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/flatbed.svg"
+      },
+      {
+        "id": "hoods-rumpo-xl",
+        "name": "Hoods Rumpo XL",
+        "category": "Van",
+        "class": "Gang",
+        "top_speed_kph": 150,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.svg"
+      },
+      {
+        "id": "idaho",
+        "name": "Idaho",
+        "category": "Car",
+        "class": "Coupe",
+        "top_speed_kph": 165,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/idaho.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 220,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/infernus.svg"
+      },
+      {
+        "id": "kuruma",
+        "name": "Kuruma",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 170,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/kuruma.svg"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 160,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/landstalker.svg"
+      },
+      {
+        "id": "linerunner",
+        "name": "Linerunner",
+        "category": "Industrial",
+        "class": "Semi",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/linerunner.svg"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Car",
+        "class": "Coupe",
+        "top_speed_kph": 160,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/manana.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/maverick.svg"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "Car",
+        "class": "Van",
+        "top_speed_kph": 150,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/moonbeam.svg"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Industrial",
+        "class": "Truck",
+        "top_speed_kph": 120,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/mule.svg"
+      },
+      {
+        "id": "packer",
+        "name": "Packer",
+        "category": "Industrial",
+        "class": "Car carrier",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/packer.svg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 170,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/patriot.svg"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Car",
+        "class": "Station wagon",
+        "top_speed_kph": 150,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/perennial.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/police-car.svg"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 3,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/police-maverick.svg"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Van",
+        "class": "Van",
+        "top_speed_kph": 145,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/pony.svg"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Boat",
+        "class": "Police boat",
+        "top_speed_kph": 90,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/predator.svg"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boat",
+        "class": "Boat",
+        "top_speed_kph": 60,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/reefer.svg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": 60,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/rhino.svg"
+      },
+      {
+        "id": "rumpo",
+        "name": "Rumpo",
+        "category": "Van",
+        "class": "Van",
+        "top_speed_kph": 145,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/rumpo.svg"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Industrial",
+        "class": "Armored van",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/securicar.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/sentinel.svg"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 100,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/speeder.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/stallion.svg"
+      },
+      {
+        "id": "stinger",
+        "name": "Stinger",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/stinger.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Car",
+        "class": "Limousine",
+        "top_speed_kph": 170,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/stretch.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 170,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/taxi.svg"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Industrial",
+        "class": "Truck",
+        "top_speed_kph": 100,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/trashmaster.svg"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Industrial",
+        "class": "Truck",
+        "top_speed_kph": 115,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/yankee.svg"
+      },
+      {
+        "id": "yardie-lobo",
+        "name": "Yardie Lobo",
+        "category": "Car",
+        "class": "Gang",
+        "top_speed_kph": 185,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iii/yardie-lobo.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ak-47",
+        "name": "AK-47",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation (later)",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/ak-47.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/baseball-bat.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/fist.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Continuous",
+        "price": null,
+        "unlock": "El Burro mission / pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/grenades.svg"
+      },
+      {
+        "id": "m16",
+        "name": "M16",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "60 rounds",
+        "price": null,
+        "unlock": "Hidden packages reward",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/m16.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Default sidearm; Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Phil Cassidy / hidden packages",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/shotgun.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/sniper-rifle.svg"
+      },
+      {
+        "id": "uzi",
+        "name": "Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "25 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation / 8-Ball",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iii/uzi.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "money",
+        "effect": "$250,000",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "IFIWEREARICHMAN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/money.svg"
+      },
+      {
+        "id": "all-weapons",
+        "effect": "All weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GUNSGUNSGUNS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/all-weapons.svg"
+      },
+      {
+        "id": "flying-cars",
+        "effect": "Cars can fly",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CHITTYCHITTYBB",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/flying-cars.svg"
+      },
+      {
+        "id": "change-clothes",
+        "effect": "Change player clothes",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ILIKEDRESSINGUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-iii/change-clothes.svg"
+      },
+      {
+        "id": "wanted-clear",
+        "effect": "Clear wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NOPOLICEPLEASE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/wanted-clear.svg"
+      },
+      {
+        "id": "blow-up-cars",
+        "effect": "Destroy all vehicles",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BANGBANGBANG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/blow-up-cars.svg"
+      },
+      {
+        "id": "fast-time",
+        "effect": "Faster game clock",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TIME FLIES BY WHEN YOU'RE DRIVING",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-iii/fast-time.svg"
+      },
+      {
+        "id": "full-armor",
+        "effect": "Full armor",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TURTOISE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/full-armor.svg"
+      },
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GESUNDHEIT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation 2",
+            "code": "R2 R2 L1 R1 L2 L2 L2 L1",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/full-health.svg"
+      },
+      {
+        "id": "wanted-up",
+        "effect": "Increase wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "MOREPOLICEPLEASE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/wanted-up.svg"
+      },
+      {
+        "id": "pedestrians-attack",
+        "effect": "Pedestrians attack you",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NOBODYLIKESME",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-iii/pedestrians-attack.svg"
+      },
+      {
+        "id": "pedestrians-riot",
+        "effect": "Pedestrians riot",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NASTYLIMBSCHEAT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Community cheat databases — spelling varies by edition",
+        "image": "assets/img/cheat/gta-iii/pedestrians-riot.svg"
+      },
+      {
+        "id": "slow-motion",
+        "effect": "Slow motion",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BOOOOORING",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-iii/slow-motion.svg"
+      },
+      {
+        "id": "spawn-tank",
+        "effect": "Spawn a Rhino tank",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GIVEUSATANK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iii/spawn-tank.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bedford-point",
+        "name": "Bedford Point",
+        "type": "District",
+        "parent": "Staunton Island",
+        "summary": "Downtown district with the Liberty Tree offices.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/bedford-point.svg"
+      },
+      {
+        "id": "belleville-park",
+        "name": "Belleville Park",
+        "type": "District",
+        "parent": "Staunton Island",
+        "summary": "Central park area of Staunton.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/belleville-park.svg"
+      },
+      {
+        "id": "cedar-grove",
+        "name": "Cedar Grove",
+        "type": "District",
+        "parent": "Shoreside Vale",
+        "summary": "Affluent hillside district with the Cartel mansion.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/cedar-grove.svg"
+      },
+      {
+        "id": "chinatown",
+        "name": "Chinatown",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Triad territory and the fish factory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/chinatown.svg"
+      },
+      {
+        "id": "cochrane-dam",
+        "name": "Cochrane Dam",
+        "type": "Landmark",
+        "parent": "Shoreside Vale",
+        "summary": "The dam where the final mission takes place.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/cochrane-dam.svg"
+      },
+      {
+        "id": "francis-international-airport",
+        "name": "Francis International Airport",
+        "type": "Landmark",
+        "parent": "Shoreside Vale",
+        "summary": "Airport used in A Drop in the Ocean and S.A.M.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/francis-international-airport.svg"
+      },
+      {
+        "id": "harwood",
+        "name": "Harwood",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Industrial area near the Callahan Bridge.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/harwood.svg"
+      },
+      {
+        "id": "hephurn-heights",
+        "name": "Hepburn Heights",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Diablos territory and El Burro's base.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/hephurn-heights.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "The game's setting: three islands modelled on New York City.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/liberty-city.svg"
+      },
+      {
+        "id": "pike-creek",
+        "name": "Pike Creek",
+        "type": "District",
+        "parent": "Shoreside Vale",
+        "summary": "Residential area near the dam.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/pike-creek.svg"
+      },
+      {
+        "id": "portland",
+        "name": "Portland",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial starting island with the Leone heartland and the docks.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/portland.svg"
+      },
+      {
+        "id": "red-light-district",
+        "name": "Red Light District",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Luigi's Sex Club 7 and the early mission hub.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/red-light-district.svg"
+      },
+      {
+        "id": "saint-marks",
+        "name": "Saint Mark's",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Leone family stronghold and Salvatore's mansion.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/saint-marks.svg"
+      },
+      {
+        "id": "shoreside-vale",
+        "name": "Shoreside Vale",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Suburban island with the airport, dam and Cochrane Dam finale.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/shoreside-vale.svg"
+      },
+      {
+        "id": "staunton-island",
+        "name": "Staunton Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Commercial and financial island, unlocked after Last Requests.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/staunton-island.svg"
+      },
+      {
+        "id": "torrington",
+        "name": "Torrington",
+        "type": "District",
+        "parent": "Staunton Island",
+        "summary": "Business district and Asuka's construction site.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/torrington.svg"
+      },
+      {
+        "id": "trenton",
+        "name": "Trenton",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Industrial district with Marty Chonks' dog food factory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/trenton.svg"
+      },
+      {
+        "id": "wichita-gardens",
+        "name": "Wichita Gardens",
+        "type": "District",
+        "parent": "Shoreside Vale",
+        "summary": "Housing projects and Red Jacks territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iii/wichita-gardens.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "hidden-packages",
+        "name": "Hidden Packages",
+        "type": "Package",
+        "total": 100,
+        "reward": "Weapons at safehouses at 10/20/30/40/50/60/70/80/90/100 packages",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iii/hidden-packages.svg"
+      },
+      {
+        "id": "rampages",
+        "name": "Rampages",
+        "type": "Rampage",
+        "total": 20,
+        "reward": "Cash and weapon pickups",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iii/rampages.svg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Jumps",
+        "type": "Stunt",
+        "total": 20,
+        "reward": "Cash, counted toward 100% completion",
+        "verified": false,
+        "image": "assets/img/collectible/gta-iii/unique-jumps.svg"
+      }
+    ]
+  }
+}

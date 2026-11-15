@@ -1,0 +1,79 @@
+{
+  "game": "gta-advance",
+  "game_title": "Grand Theft Auto Advance",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 5,
+  "items": [
+    {
+      "id": "opening-job",
+      "order": 1,
+      "name": "Opening job",
+      "type": "Story",
+      "giver": "Vinnie",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Mike and Vinnie attempt a job that leaves Mike without his share.",
+      "verified": false,
+      "image": "assets/img/mission/gta-advance/opening-job.svg"
+    },
+    {
+      "id": "payback",
+      "order": 2,
+      "name": "Payback",
+      "type": "Story",
+      "giver": "Vinnie",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Mike starts working off his debt across Portland.",
+      "verified": false,
+      "image": "assets/img/mission/gta-advance/payback.svg"
+    },
+    {
+      "id": "yakuza-work",
+      "order": 3,
+      "name": "Yakuza work",
+      "type": "Story",
+      "giver": "Asuka Kasen",
+      "location": "Staunton Island",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Jobs for the Yakuza as Mike climbs the Liberty City ladder.",
+      "verified": false,
+      "image": "assets/img/mission/gta-advance/yakuza-work.svg"
+    },
+    {
+      "id": "yardie-work",
+      "order": 4,
+      "name": "Yardie work",
+      "type": "Story",
+      "giver": "King Courtney",
+      "location": "Staunton Island",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Yardie missions in Staunton.",
+      "verified": false,
+      "image": "assets/img/mission/gta-advance/yardie-work.svg"
+    },
+    {
+      "id": "finale",
+      "order": 5,
+      "name": "Finale",
+      "type": "Story",
+      "giver": "—",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Confrontation over the stolen money and Vinnie's betrayal.",
+      "verified": false,
+      "image": "assets/img/mission/gta-advance/finale.svg"
+    }
+  ]
+}

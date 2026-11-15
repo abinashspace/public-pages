@@ -1,0 +1,135 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "blaine-county",
+      "name": "Blaine County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Rural desert and mountain county north of the city.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/blaine-county.svg"
+    },
+    {
+      "id": "chamberlain-hills",
+      "name": "Chamberlain Hills",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Franklin and Lamar's home neighbourhood.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/chamberlain-hills.svg"
+    },
+    {
+      "id": "downtown-los-santos",
+      "name": "Downtown Los Santos",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Skyscraper business district and the FIB tower.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/downtown-los-santos.svg"
+    },
+    {
+      "id": "fort-zancudo",
+      "name": "Fort Zancudo",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Military base with restricted airspace.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/fort-zancudo.svg"
+    },
+    {
+      "id": "humane-labs",
+      "name": "Humane Labs and Research",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Research facility raided in Monkey Business.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/humane-labs.svg"
+    },
+    {
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Los Angeles analogue and the game's main urban area.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/los-santos.svg"
+    },
+    {
+      "id": "mount-chiliad",
+      "name": "Mount Chiliad",
+      "type": "Landmark",
+      "parent": "Blaine County",
+      "summary": "Tallest mountain in the state, tied to the mystery egg and jetpack hunt.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/mount-chiliad.svg"
+    },
+    {
+      "id": "paleto-bay",
+      "name": "Paleto Bay",
+      "type": "Town",
+      "parent": "Blaine County",
+      "summary": "Small northern town and bank heist location.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/paleto-bay.svg"
+    },
+    {
+      "id": "rockford-hills",
+      "name": "Rockford Hills",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Affluent district and Michael's mansion.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/rockford-hills.svg"
+    },
+    {
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "Region",
+      "parent": null,
+      "summary": "The state containing Los Santos and Blaine County.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/san-andreas.svg"
+    },
+    {
+      "id": "sandy-shores",
+      "name": "Sandy Shores",
+      "type": "Town",
+      "parent": "Blaine County",
+      "summary": "Desert town and Trevor's base of operations.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/sandy-shores.svg"
+    },
+    {
+      "id": "union-depository",
+      "name": "Union Depository",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Target of the final heist.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/union-depository.svg"
+    },
+    {
+      "id": "vespucci",
+      "name": "Vespucci",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Beach district and the boardwalk.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/vespucci.svg"
+    },
+    {
+      "id": "vinewood",
+      "name": "Vinewood",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Hollywood analogue with the sign and studios.",
+      "verified": true,
+      "image": "assets/img/location/gta-v/vinewood.svg"
+    }
+  ]
+}

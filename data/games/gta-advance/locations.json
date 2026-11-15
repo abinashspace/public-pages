@@ -1,0 +1,45 @@
+{
+  "game": "gta-advance",
+  "game_title": "Grand Theft Auto Advance",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 4,
+  "items": [
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Liberty City in 2000, rendered top-down for the GBA.",
+      "verified": true,
+      "image": "assets/img/location/gta-advance/liberty-city.svg"
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island.",
+      "verified": true,
+      "image": "assets/img/location/gta-advance/portland.svg"
+    },
+    {
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island.",
+      "verified": true,
+      "image": "assets/img/location/gta-advance/shoreside-vale.svg"
+    },
+    {
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island.",
+      "verified": true,
+      "image": "assets/img/location/gta-advance/staunton-island.svg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "game": "gta-london-1969",
+  "game_title": "Grand Theft Auto: London 1969",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 3,
+  "items": [
+    {
+      "id": "harold-cartwright",
+      "name": "Harold Cartwright",
+      "role": "Mission contact",
+      "affiliations": [
+        "London firms"
+      ],
+      "summary": "One of the London mission contacts in the expansion.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-london-1969/harold-cartwright.svg"
+    },
+    {
+      "id": "player-character",
+      "name": "Player-named protagonist",
+      "role": "Protagonist",
+      "affiliations": [
+        "London underworld"
+      ],
+      "summary": "A London criminal working through the city's firms in 1969.",
+      "status": "Varies",
+      "first_appearance": "GTA: London 1969",
+      "verified": true,
+      "image": "assets/img/portrait/gta-london-1969/player-character.svg"
+    },
+    {
+      "id": "sister-anna",
+      "name": "Sister Anna",
+      "role": "Mission contact",
+      "affiliations": [
+        "London firms"
+      ],
+      "summary": "Contact tied to the London mission chain.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-london-1969/sister-anna.svg"
+    }
+  ]
+}

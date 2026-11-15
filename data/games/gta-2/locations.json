@@ -1,0 +1,45 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 4,
+  "items": [
+    {
+      "id": "anywhere-city",
+      "name": "Anywhere City",
+      "type": "City",
+      "parent": null,
+      "summary": "Dystopian city of 2013 split into three districts by bridges and water.",
+      "verified": true,
+      "image": "assets/img/location/gta-2/anywhere-city.svg"
+    },
+    {
+      "id": "downtown",
+      "name": "Downtown",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Corporate skyscrapers, the Zaibatsu tower and Yakuza turf.",
+      "verified": true,
+      "image": "assets/img/location/gta-2/downtown.svg"
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Docks, factories and the Rednecks.",
+      "verified": true,
+      "image": "assets/img/location/gta-2/industrial.svg"
+    },
+    {
+      "id": "residential",
+      "name": "Residential",
+      "type": "District",
+      "parent": "Anywhere City",
+      "summary": "Suburban and asylum district, home to the Loonies.",
+      "verified": true,
+      "image": "assets/img/location/gta-2/residential.svg"
+    }
+  ]
+}

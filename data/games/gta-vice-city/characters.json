@@ -1,0 +1,253 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 20,
+  "items": [
+    {
+      "id": "alex-shrub",
+      "name": "Alex Shrub",
+      "role": "Politician",
+      "affiliations": [
+        "Vice City politics"
+      ],
+      "summary": "Congressman whose campaign Tommy rigs through the film studio.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/alex-shrub.svg"
+    },
+    {
+      "id": "auntie-poulet",
+      "name": "Auntie Poulet",
+      "role": "Haitian gang matriarch",
+      "affiliations": [
+        "Haitian Gang"
+      ],
+      "summary": "Haitian community leader and drug cook who uses voodoo imagery.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/auntie-poulet.svg"
+    },
+    {
+      "id": "big-mitch-baker",
+      "name": "Big Mitch Baker",
+      "role": "Biker gang leader",
+      "affiliations": [
+        "Vice City bikers"
+      ],
+      "summary": "Runs the biker bar and tests Tommy with a gang ride.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/big-mitch-baker.svg"
+    },
+    {
+      "id": "bj-smith",
+      "name": "BJ Smith",
+      "role": "Car dealer",
+      "affiliations": [
+        "Sunshine Autos"
+      ],
+      "summary": "Runs Sunshine Autos and buys stolen cars from Tommy.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/bj-smith.svg"
+    },
+    {
+      "id": "cam-jones",
+      "name": "Cam Jones",
+      "role": "Safecracker",
+      "affiliations": [
+        "Malibu Club crew"
+      ],
+      "summary": "Safe-cracker broken out of police custody for the Malibu heist.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/cam-jones.svg"
+    },
+    {
+      "id": "candy-suxxx",
+      "name": "Candy Suxxx",
+      "role": "Adult film actress",
+      "affiliations": [
+        "InterGlobal Films"
+      ],
+      "summary": "Star of the studio's productions and later a public figure.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/candy-suxxx.svg"
+    },
+    {
+      "id": "colonel-cortes",
+      "name": "Colonel Juan García Cortés",
+      "role": "Arms dealer",
+      "affiliations": [
+        "Cortés network"
+      ],
+      "summary": "Ex-military arms dealer based on a yacht and a Starfish Island mansion.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/colonel-cortes.svg"
+    },
+    {
+      "id": "gonzalez",
+      "name": "Gonzalez",
+      "role": "Diaz associate",
+      "affiliations": [
+        "Diaz Cartel"
+      ],
+      "summary": "Diaz's nervous middleman, used by Tommy to reach the cartel.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/gonzalez.svg"
+    },
+    {
+      "id": "hilary-king",
+      "name": "Hilary King",
+      "role": "Getaway driver",
+      "affiliations": [
+        "Malibu Club crew"
+      ],
+      "summary": "Nervous racing driver recruited for the bank job.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/hilary-king.svg"
+    },
+    {
+      "id": "ken-rosenberg",
+      "name": "Ken Rosenberg",
+      "role": "Lawyer, fixer",
+      "affiliations": [
+        "Vercetti Gang",
+        "Forelli Crime Family"
+      ],
+      "summary": "Cocaine-addled lawyer who introduces Tommy to Vice City's underworld.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/ken-rosenberg.svg"
+    },
+    {
+      "id": "kent-paul",
+      "name": "Kent Paul",
+      "role": "Music scene fixer",
+      "affiliations": [
+        "Vice City music industry"
+      ],
+      "summary": "Sleazy music-business contact who knows everyone in the clubs.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/kent-paul.svg"
+    },
+    {
+      "id": "lance-vance",
+      "name": "Lance Vance",
+      "role": "Ally, later betrayer",
+      "affiliations": [
+        "Vance Crime Family",
+        "Vercetti Gang"
+      ],
+      "summary": "The surviving Vance brother, who partners with Tommy before turning on him.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/lance-vance.svg"
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes Cortez",
+      "role": "Socialite",
+      "affiliations": [
+        "Cortés network"
+      ],
+      "summary": "The colonel's daughter, who introduces Tommy to the club scene.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/mercedes.svg"
+    },
+    {
+      "id": "pastor-richards",
+      "name": "Pastor Richards",
+      "role": "Televangelist",
+      "affiliations": [
+        "Richards ministry"
+      ],
+      "summary": "Scam televangelist selling salvation and real estate.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/pastor-richards.svg"
+    },
+    {
+      "id": "phil-cassidy",
+      "name": "Phil Cassidy",
+      "role": "Gun runner",
+      "affiliations": [
+        "Cortés network"
+      ],
+      "summary": "One-armed weapons dealer running the shooting range and the Malibu heist guns.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/phil-cassidy.svg"
+    },
+    {
+      "id": "ricardo-diaz",
+      "name": "Ricardo Diaz",
+      "role": "Antagonist, drug baron",
+      "affiliations": [
+        "Diaz Cartel"
+      ],
+      "summary": "Paranoid cocaine kingpin whose mansion Tommy eventually takes.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/ricardo-diaz.svg"
+    },
+    {
+      "id": "sonny-forelli",
+      "name": "Sonny Forelli",
+      "role": "Antagonist, Forelli boss",
+      "affiliations": [
+        "Forelli Crime Family"
+      ],
+      "summary": "Liberty City mob boss who sends Tommy to Vice City and expects a cut of everything.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/sonny-forelli.svg"
+    },
+    {
+      "id": "steve-scott",
+      "name": "Steve Scott",
+      "role": "Film director",
+      "affiliations": [
+        "InterGlobal Films"
+      ],
+      "summary": "Porn director at the film studio asset.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/steve-scott.svg"
+    },
+    {
+      "id": "tommy-vercetti",
+      "name": "Tommy Vercetti",
+      "role": "Protagonist",
+      "affiliations": [
+        "Forelli Crime Family (former)",
+        "Vercetti Gang"
+      ],
+      "summary": "Released after 15 years in prison, Tommy is sent to Vice City and ends up building his own criminal empire.",
+      "status": "Alive",
+      "first_appearance": "Grand Theft Auto: Vice City",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/tommy-vercetti.svg"
+    },
+    {
+      "id": "umberto-robina",
+      "name": "Umberto Robina",
+      "role": "Cuban gang leader",
+      "affiliations": [
+        "Los Cabrones"
+      ],
+      "summary": "Cuban gang boss in Little Havana who wants the Cholos wiped out.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city/umberto-robina.svg"
+    }
+  ]
+}

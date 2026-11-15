@@ -1,0 +1,39 @@
+{
+  "game": "gta-london-1961",
+  "game_title": "Grand Theft Auto: London 1961",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 2,
+  "items": [
+    {
+      "id": "london-1961-chapter",
+      "order": 1,
+      "name": "London 1961 chapter",
+      "type": "Story",
+      "giver": "London firms",
+      "location": "London",
+      "reward": {
+        "money": 0,
+        "other": "Score progression in pre-decimal currency"
+      },
+      "summary": "Add-on campaign set in 1961 London with period vehicles and adjusted economy.",
+      "verified": true,
+      "image": "assets/img/mission/gta-london-1961/london-1961-chapter.svg"
+    },
+    {
+      "id": "london-1961-finale",
+      "order": 2,
+      "name": "London 1961 finale",
+      "type": "Story",
+      "giver": "London firms",
+      "location": "London",
+      "reward": {
+        "money": 0,
+        "other": "Completion"
+      },
+      "summary": "Closing job of the free add-on.",
+      "verified": false,
+      "image": "assets/img/mission/gta-london-1961/london-1961-finale.svg"
+    }
+  ]
+}

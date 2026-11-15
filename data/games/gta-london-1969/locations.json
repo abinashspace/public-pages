@@ -1,0 +1,45 @@
+{
+  "game": "gta-london-1969",
+  "game_title": "Grand Theft Auto: London 1969",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 4,
+  "items": [
+    {
+      "id": "east-end",
+      "name": "East End",
+      "type": "District",
+      "parent": "London",
+      "summary": "Docks and working-class streets.",
+      "verified": false,
+      "image": "assets/img/location/gta-london-1969/east-end.svg"
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "type": "City",
+      "parent": null,
+      "summary": "1969 London rendered in the GTA 1 top-down engine, with period landmarks and vehicles.",
+      "verified": true,
+      "image": "assets/img/location/gta-london-1969/london.svg"
+    },
+    {
+      "id": "soho",
+      "name": "Soho",
+      "type": "District",
+      "parent": "London",
+      "summary": "Nightlife district used in several missions.",
+      "verified": false,
+      "image": "assets/img/location/gta-london-1969/soho.svg"
+    },
+    {
+      "id": "westminster",
+      "name": "Westminster",
+      "type": "District",
+      "parent": "London",
+      "summary": "Central district with Parliament and period architecture.",
+      "verified": false,
+      "image": "assets/img/location/gta-london-1969/westminster.svg"
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "meta": {
+    "slug": "gta-iv-the-lost-and-damned",
+    "title": "Grand Theft Auto IV: The Lost and Damned",
+    "year": 2009,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.606Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "partial"
+    },
+    "counts": {
+      "characters": 12,
+      "missions": 14,
+      "vehicles": 14,
+      "weapons": 8,
+      "cheats": 0,
+      "locations": 6,
+      "collectibles": 3
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-iv-the-lost-and-damned/cover.svg",
+      "banner": "assets/img/banner/gta-iv-the-lost-and-damned/banner.svg",
+      "map": "assets/img/map/gta-iv-the-lost-and-damned/map.svg"
+    },
+    "sources": [
+      "TLAD in-game mission list",
+      "Rockstar Games Episodes from Liberty City materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "angus-martin",
+        "name": "Angus Martin",
+        "role": "Club member",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Wheelchair-bound club member and mechanic.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/angus-martin.svg"
+      },
+      {
+        "id": "ashley-butler",
+        "name": "Ashley Butler",
+        "role": "Johnny's ex",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Johnny's ex-girlfriend, struggling with addiction and tied to Billy.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ashley-butler.svg"
+      },
+      {
+        "id": "billy-grey",
+        "name": "Billy Grey",
+        "role": "Club president, antagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "The Lost's unstable president, whose feud with the Angels of Death escalates everything.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/billy-grey.svg"
+      },
+      {
+        "id": "brian-jeremy",
+        "name": "Brian Jeremy",
+        "role": "Club member, antagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Billy loyalist who turns on Johnny after the leadership split.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/brian-jeremy.svg"
+      },
+      {
+        "id": "clay-simons",
+        "name": "Clay Simons",
+        "role": "Road captain",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "The club's road captain and Johnny's right hand.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/clay-simons.svg"
+      },
+      {
+        "id": "elizabeta-torres",
+        "name": "Elizabeta Torres",
+        "role": "Associate",
+        "affiliations": [
+          "Bohan drug trade"
+        ],
+        "summary": "Bohan drug queenpin connected to the Lost's business.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/elizabeta-torres.svg"
+      },
+      {
+        "id": "jim-fitzgerald",
+        "name": "Jim Fitzgerald",
+        "role": "Treasurer, ally",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Johnny's most trusted club brother and the chapter's voice of reason.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/jim-fitzgerald.svg"
+      },
+      {
+        "id": "johnny-klebitz",
+        "name": "Johnny Klebitz",
+        "role": "Protagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Vice-president of the Lost MC's Liberty City chapter, trying to hold the club together.",
+        "status": "Varies",
+        "first_appearance": "GTA IV: The Lost and Damned",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/johnny-klebitz.svg"
+      },
+      {
+        "id": "niko-bellic",
+        "name": "Niko Bellic",
+        "role": "Crossover character",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "Appears in shared scenes during the diamond storyline.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/niko-bellic.svg"
+      },
+      {
+        "id": "ray-boccino",
+        "name": "Ray Boccino",
+        "role": "Associate",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "The mob contact who hires the Lost for diamond-related work.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ray-boccino.svg"
+      },
+      {
+        "id": "terry-thorpe",
+        "name": "Terry Thorpe",
+        "role": "Sergeant-at-arms",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Heavy weapons specialist and loyal club member.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/terry-thorpe.svg"
+      },
+      {
+        "id": "thomas-stubbs",
+        "name": "Thomas Stubbs",
+        "role": "Politician",
+        "affiliations": [
+          "Liberty City politics"
+        ],
+        "summary": "Corrupt congressman who pays the Lost for dirty work.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/thomas-stubbs.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "clean-and-serene",
+        "order": 1,
+        "name": "Clean and Serene",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening: collect Billy from prison and ride back to the clubhouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/clean-and-serene.svg"
+      },
+      {
+        "id": "angels-in-america",
+        "order": 2,
+        "name": "Angels in America",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hit an Angels of Death clubhouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/angels-in-america.svg"
+      },
+      {
+        "id": "its-war",
+        "order": 3,
+        "name": "It's War",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Retaliate after the Angels strike back.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/its-war.svg"
+      },
+      {
+        "id": "action-reaction",
+        "order": 4,
+        "name": "Action/Reaction",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A robbery that raises the stakes with the club's rivals.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/action-reaction.svg"
+      },
+      {
+        "id": "buyers-market",
+        "order": 5,
+        "name": "Buyer's Market",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "A drug deal that goes sideways.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/buyers-market.svg"
+      },
+      {
+        "id": "politics",
+        "order": 6,
+        "name": "Politics",
+        "type": "Story",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Dirty work for Congressman Stubbs.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/politics.svg"
+      },
+      {
+        "id": "coming-down",
+        "order": 7,
+        "name": "Coming Down",
+        "type": "Story",
+        "giver": "Ashley Butler",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Ashley from a drug den.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.svg"
+      },
+      {
+        "id": "off-route",
+        "order": 8,
+        "name": "Off Route",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hijack a prison transport.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/off-route.svg"
+      },
+      {
+        "id": "shifting-weight",
+        "order": 9,
+        "name": "Shifting Weight",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Move a heroin shipment under police pressure.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.svg"
+      },
+      {
+        "id": "heavy-toll",
+        "order": 10,
+        "name": "Heavy Toll",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob an armored truck on the turnpike.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.svg"
+      },
+      {
+        "id": "bad-standing",
+        "order": 11,
+        "name": "Bad Standing",
+        "type": "Story",
+        "giver": "Johnny Klebitz",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Deal with Billy loyalists inside the club.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/bad-standing.svg"
+      },
+      {
+        "id": "diamonds-in-the-rough",
+        "order": 12,
+        "name": "Diamonds in the Rough",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "The diamond exchange seen from the Lost's side.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/diamonds-in-the-rough.svg"
+      },
+      {
+        "id": "was-it-worth-it",
+        "order": 13,
+        "name": "Was It Worth It?",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Aftermath of the diamond deal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/was-it-worth-it.svg"
+      },
+      {
+        "id": "get-lost",
+        "order": 14,
+        "name": "Get Lost",
+        "type": "Story",
+        "giver": "Johnny Klebitz",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Final mission: settle the club's future.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/get-lost.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bagger",
+        "name": "Bagger",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bagger.svg"
+      },
+      {
+        "id": "bati-800",
+        "name": "Bati 800",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-800.svg"
+      },
+      {
+        "id": "daemon",
+        "name": "Daemon",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/daemon.svg"
+      },
+      {
+        "id": "double-t",
+        "name": "Double T",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t.svg"
+      },
+      {
+        "id": "fbi-buffalo",
+        "name": "FBI Buffalo",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fbi-buffalo.svg"
+      },
+      {
+        "id": "gang-burrito",
+        "name": "Gang Burrito",
+        "category": "Van",
+        "class": "Gang",
+        "top_speed_kph": 160,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/gang-burrito.svg"
+      },
+      {
+        "id": "hexer",
+        "name": "Hexer",
+        "category": "Motorcycle",
+        "class": "Custom cruiser",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hexer.svg"
+      },
+      {
+        "id": "innovation",
+        "name": "Innovation",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/innovation.svg"
+      },
+      {
+        "id": "lycan",
+        "name": "Lycan",
+        "category": "Motorcycle",
+        "class": "Custom cruiser",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lycan.svg"
+      },
+      {
+        "id": "nightblade",
+        "name": "Nightblade",
+        "category": "Motorcycle",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nightblade.svg"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-cruiser.svg"
+      },
+      {
+        "id": "revenant",
+        "name": "Revenant",
+        "category": "Motorcycle",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/revenant.svg"
+      },
+      {
+        "id": "slamvan",
+        "name": "Slamvan",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/slamvan.svg"
+      },
+      {
+        "id": "wolfsbane",
+        "name": "Wolfsbane",
+        "category": "Motorcycle",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wolfsbane.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Terry Thorpe",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-rifle.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.svg"
+      },
+      {
+        "id": "glock-17",
+        "name": "Glock 17",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/glock-17.svg"
+      },
+      {
+        "id": "grenade-launcher",
+        "name": "Grenade Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "6 rounds",
+        "price": null,
+        "unlock": "Club supply",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Club supply",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/micro-smg.svg"
+      },
+      {
+        "id": "pipe-bomb",
+        "name": "Pipe Bomb",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Club supply",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Club supply",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/rpg.svg"
+      },
+      {
+        "id": "sawn-off-shotgun",
+        "name": "Sawn-off Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "Very high",
+        "ammo": "2 shells",
+        "price": null,
+        "unlock": "Club supply",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sawn-off-shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "acton-hill",
+        "name": "Acton Hill",
+        "type": "Neighbourhood",
+        "parent": "Alderney",
+        "summary": "Industrial area near the Lost clubhouse.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/acton-hill.svg"
+      },
+      {
+        "id": "alderney",
+        "name": "Alderney",
+        "type": "State",
+        "parent": "Liberty City",
+        "summary": "The Lost MC clubhouse and main operating area.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.svg"
+      },
+      {
+        "id": "algonquin",
+        "name": "Algonquin",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Manhattan analogue used for diamond-related missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.svg"
+      },
+      {
+        "id": "bohan",
+        "name": "Bohan",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.svg"
+      },
+      {
+        "id": "broker",
+        "name": "Broker",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Eastern borough visited during club business.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "Same map as GTA IV, used from the Lost's Alderney base.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/liberty-city.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bike-races",
+        "name": "Bike Races",
+        "type": "Race",
+        "total": 1,
+        "reward": "Cash and bike unlocks",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/bike-races.svg"
+      },
+      {
+        "id": "gang-wars",
+        "name": "Gang Wars",
+        "type": "Side job",
+        "total": 1,
+        "reward": "Club territory and weapon caches",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.svg"
+      },
+      {
+        "id": "seagulls",
+        "name": "Seagulls",
+        "type": "Seagull",
+        "total": 50,
+        "reward": "Weapons at the clubhouse",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.svg"
+      }
+    ]
+  }
+}

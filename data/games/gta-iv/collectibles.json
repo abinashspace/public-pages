@@ -1,0 +1,45 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 4,
+  "items": [
+    {
+      "id": "flying-rats",
+      "name": "Flying Rats",
+      "type": "Pigeon",
+      "total": 200,
+      "reward": "Weapons at safehouses per borough",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv/flying-rats.svg"
+    },
+    {
+      "id": "most-wanted",
+      "name": "Most Wanted",
+      "type": "Side job",
+      "total": 30,
+      "reward": "Cash and weapon rewards",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv/most-wanted.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Stunt Jumps",
+      "type": "Stunt",
+      "total": 50,
+      "reward": "Cash and 100% progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv/unique-jumps.svg"
+    },
+    {
+      "id": "vigilante-levels",
+      "name": "Vigilante",
+      "type": "Side job",
+      "total": 1,
+      "reward": "Armor and cash",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv/vigilante-levels.svg"
+    }
+  ]
+}

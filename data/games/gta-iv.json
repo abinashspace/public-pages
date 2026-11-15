@@ -1,0 +1,1828 @@
+{
+  "meta": {
+    "slug": "gta-iv",
+    "title": "Grand Theft Auto IV",
+    "year": 2008,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.589Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "partial",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 18,
+      "missions": 50,
+      "vehicles": 38,
+      "weapons": 14,
+      "cheats": 12,
+      "locations": 12,
+      "collectibles": 4
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-iv/cover.svg",
+      "banner": "assets/img/banner/gta-iv/banner.svg",
+      "map": "assets/img/map/gta-iv/map.svg"
+    },
+    "sources": [
+      "GTA IV in-game mission list",
+      "Rockstar Games official GTA IV materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bernie-crane",
+        "name": "Bernie Crane",
+        "role": "Friend",
+        "affiliations": [
+          "Liberty City politics"
+        ],
+        "summary": "An old friend of Niko's from the war, now a flamboyant political fixer.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/bernie-crane.svg"
+      },
+      {
+        "id": "brucie-kibbutz",
+        "name": "Brucie Kibbutz",
+        "role": "Ally, car dealer",
+        "affiliations": [
+          "Kibbutz Motors"
+        ],
+        "summary": "Steroid-obsessed car dealer and adrenaline junkie.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/brucie-kibbutz.svg"
+      },
+      {
+        "id": "dimitri-rascalov",
+        "name": "Dimitri Rascalov",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "A manipulative Russian gangster who betrays everyone he works with.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/dimitri-rascalov.svg"
+      },
+      {
+        "id": "dwayne-forge",
+        "name": "Dwayne Forge",
+        "role": "Ally",
+        "affiliations": [
+          "North Holland crew"
+        ],
+        "summary": "An ex-con trying to rebuild his life after prison.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/dwayne-forge.svg"
+      },
+      {
+        "id": "francis-mcreary",
+        "name": "Francis McReary",
+        "role": "Corrupt cop",
+        "affiliations": [
+          "Liberty City Police Department",
+          "McReary Crime Family"
+        ],
+        "summary": "A police detective who blackmails Niko into cleaning up his problems.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/francis-mcreary.svg"
+      },
+      {
+        "id": "gerald-mcreary",
+        "name": "Gerald McReary",
+        "role": "McReary patriarch",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "The eldest McReary brother, running the family business from prison.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/gerald-mcreary.svg"
+      },
+      {
+        "id": "jimmy-pegorino",
+        "name": "Jimmy Pegorino",
+        "role": "Boss",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "The head of the Alderney family and Niko's final employer.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/jimmy-pegorino.svg"
+      },
+      {
+        "id": "kate-mcreary",
+        "name": "Kate McReary",
+        "role": "Girlfriend",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "Packie's sister and Niko's moral counterweight.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/kate-mcreary.svg"
+      },
+      {
+        "id": "little-jacob",
+        "name": "Little Jacob",
+        "role": "Ally, arms dealer",
+        "affiliations": [
+          "Yardies",
+          "Bellic crew"
+        ],
+        "summary": "Jamaican arms dealer and Niko's most loyal friend.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/little-jacob.svg"
+      },
+      {
+        "id": "mikhail-faustin",
+        "name": "Mikhail Faustin",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "Volatile Russian crime boss whose paranoia starts a war.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/mikhail-faustin.svg"
+      },
+      {
+        "id": "niko-bellic",
+        "name": "Niko Bellic",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent",
+          "McReary crew (associate)"
+        ],
+        "summary": "A Balkan war veteran who comes to Liberty City chasing the man who betrayed his unit.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto IV",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/niko-bellic.svg"
+      },
+      {
+        "id": "packie-mcreary",
+        "name": "Patrick 'Packie' McReary",
+        "role": "Ally, bank robber",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "The youngest McReary brother, a skilled bank robber and Niko's heist partner.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/packie-mcreary.svg"
+      },
+      {
+        "id": "phil-bell",
+        "name": "Phil Bell",
+        "role": "Associate",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "A Pegorino associate running truck hijackings.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/phil-bell.svg"
+      },
+      {
+        "id": "playboy-x",
+        "name": "Playboy X",
+        "role": "Ally, drug dealer",
+        "affiliations": [
+          "North Holland crew"
+        ],
+        "summary": "An ambitious dealer whose partnership with Niko ends in a choice.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/playboy-x.svg"
+      },
+      {
+        "id": "ray-boccino",
+        "name": "Ray Boccino",
+        "role": "Associate, capo",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "A Pegorino capo and diamond dealer.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/ray-boccino.svg"
+      },
+      {
+        "id": "roman-bellic",
+        "name": "Roman Bellic",
+        "role": "Cousin, taxi depot owner",
+        "affiliations": [
+          "Bellic Enterprises"
+        ],
+        "summary": "Niko's cousin, whose exaggerated stories hide a gambling problem and loan-shark debt.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/roman-bellic.svg"
+      },
+      {
+        "id": "ul-paper-contact",
+        "name": "United Liberty Paper contact",
+        "role": "Handler",
+        "affiliations": [
+          "Federal intelligence"
+        ],
+        "summary": "A shadowy agent who trades favours for information about Niko's past.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/ul-paper-contact.svg"
+      },
+      {
+        "id": "vladimir-glebov",
+        "name": "Vladimir Glebov",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "A petty loan shark running a small crew out of Hove Beach.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/vladimir-glebov.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "the-cousins-bellic",
+        "order": 1,
+        "name": "The Cousins Bellic",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Niko arrives in Liberty City and sees the reality behind Roman's stories.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/the-cousins-bellic.svg"
+      },
+      {
+        "id": "its-your-call",
+        "order": 2,
+        "name": "It's Your Call",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "First job: pick up a car and deal with the owner.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/its-your-call.svg"
+      },
+      {
+        "id": "threes-a-crowd",
+        "order": 3,
+        "name": "Three's a Crowd",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Meet Michelle and escort her safely.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/threes-a-crowd.svg"
+      },
+      {
+        "id": "bleed-out",
+        "order": 4,
+        "name": "Bleed Out",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Save Roman from loan sharks at the basketball court.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/bleed-out.svg"
+      },
+      {
+        "id": "easy-fare",
+        "order": 5,
+        "name": "Easy Fare",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Drive a fare who turns out to be a fugitive.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/easy-fare.svg"
+      },
+      {
+        "id": "bull-in-a-china-shop",
+        "order": 6,
+        "name": "Bull in a China Shop",
+        "type": "Story",
+        "giver": "Vladimir Glebov",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Strong-arm a shopkeeper for Vlad.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/bull-in-a-china-shop.svg"
+      },
+      {
+        "id": "hung-out-to-dry",
+        "order": 7,
+        "name": "Hung Out to Dry",
+        "type": "Story",
+        "giver": "Vladimir Glebov",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recover stolen laundry money for Vlad.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/hung-out-to-dry.svg"
+      },
+      {
+        "id": "clean-getaway",
+        "order": 8,
+        "name": "Clean Getaway",
+        "type": "Story",
+        "giver": "Vladimir Glebov",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a car from a parking garage and deliver it clean.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/clean-getaway.svg"
+      },
+      {
+        "id": "ivan-the-not-so-terrible",
+        "order": 9,
+        "name": "Ivan the Not So Terrible",
+        "type": "Story",
+        "giver": "Vladimir Glebov",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Chase down the man who betrayed Vlad.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/ivan-the-not-so-terrible.svg"
+      },
+      {
+        "id": "concrete-jungle",
+        "order": 10,
+        "name": "Concrete Jungle",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Broker",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Cover Jacob in a drug deal gone wrong.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/concrete-jungle.svg"
+      },
+      {
+        "id": "uncle-vlad",
+        "order": 11,
+        "name": "Uncle Vlad",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Confront Vlad about his affair with Mallorie.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/uncle-vlad.svg"
+      },
+      {
+        "id": "crime-and-punishment",
+        "order": 12,
+        "name": "Crime and Punishment",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Raid a warehouse for a police van full of goods.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/crime-and-punishment.svg"
+      },
+      {
+        "id": "do-you-have-protection",
+        "order": 13,
+        "name": "Do You Have Protection?",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Broker",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Collect protection money with Dimitri's men.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/do-you-have-protection.svg"
+      },
+      {
+        "id": "final-destination",
+        "order": 14,
+        "name": "Final Destination",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Faustin's mansion",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill a target on his wedding day for Faustin.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/final-destination.svg"
+      },
+      {
+        "id": "no-love-lost",
+        "order": 15,
+        "name": "No Love Lost",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Broker",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill Faustin's son's rival gang in a park.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/no-love-lost.svg"
+      },
+      {
+        "id": "rigged-to-blow",
+        "order": 16,
+        "name": "Rigged to Blow",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Bomb a truck without triggering the payload early.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/rigged-to-blow.svg"
+      },
+      {
+        "id": "the-master-and-the-molotov",
+        "order": 17,
+        "name": "The Master and the Molotov",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Faustin's club",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill Mikhail Faustin on Dimitri's orders.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/the-master-and-the-molotov.svg"
+      },
+      {
+        "id": "russian-revolution",
+        "order": 18,
+        "name": "Russian Revolution",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Warehouse",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Survive Dimitri's betrayal at a warehouse meet.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/russian-revolution.svg"
+      },
+      {
+        "id": "romans-sorrow",
+        "order": 19,
+        "name": "Roman's Sorrow",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Broker",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Escape the burning apartment and taxi depot.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/romans-sorrow.svg"
+      },
+      {
+        "id": "shadow",
+        "order": 20,
+        "name": "Shadow",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Follow a drug dealer through Bohan.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/shadow.svg"
+      },
+      {
+        "id": "jamaican-heat",
+        "order": 21,
+        "name": "Jamaican Heat",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Cover Jacob during a deal in an apartment block.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/jamaican-heat.svg"
+      },
+      {
+        "id": "escuela-of-the-streets",
+        "order": 22,
+        "name": "Escuela of the Streets",
+        "type": "Story",
+        "giver": "Manny Escuela",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Clear a gang hangout for Manny's documentary.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/escuela-of-the-streets.svg"
+      },
+      {
+        "id": "street-sweeper",
+        "order": 23,
+        "name": "Street Sweeper",
+        "type": "Story",
+        "giver": "Manny Escuela",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy gang vehicles for Manny.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/street-sweeper.svg"
+      },
+      {
+        "id": "luck-of-the-irish",
+        "order": 24,
+        "name": "Luck of the Irish",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Dukes",
+        "reward": {
+          "money": 0
+        },
+        "summary": "First McReary job: hit a drug deal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/luck-of-the-irish.svg"
+      },
+      {
+        "id": "blow-your-cover",
+        "order": 25,
+        "name": "Blow Your Cover",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Survive an undercover buy that turns into a shootout.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/blow-your-cover.svg"
+      },
+      {
+        "id": "the-snow-storm",
+        "order": 26,
+        "name": "The Snow Storm",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Colony Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal cocaine from a guarded warehouse in a storm.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/the-snow-storm.svg"
+      },
+      {
+        "id": "have-a-heart",
+        "order": 27,
+        "name": "Have a Heart",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Deliver a heart for a transplant while the police close in.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/have-a-heart.svg"
+      },
+      {
+        "id": "three-leaf-clover",
+        "order": 28,
+        "name": "Three Leaf Clover",
+        "type": "Heist",
+        "giver": "Packie McReary",
+        "location": "Bank of Liberty",
+        "reward": {
+          "money": 0
+        },
+        "summary": "The bank robbery that goes loud, ending in a subway escape.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/three-leaf-clover.svg"
+      },
+      {
+        "id": "actions-speak-louder-than-words",
+        "order": 29,
+        "name": "Actions Speak Louder than Words",
+        "type": "Story",
+        "giver": "Gerald McReary",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy a rival crew's base of operations.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/actions-speak-louder-than-words.svg"
+      },
+      {
+        "id": "hostile-negotiation",
+        "order": 30,
+        "name": "Hostile Negotiation",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Bohan",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Roman from kidnappers in a warehouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/hostile-negotiation.svg"
+      },
+      {
+        "id": "the-holland-play",
+        "order": 31,
+        "name": "The Holland Play",
+        "type": "Story",
+        "giver": "Playboy X",
+        "location": "North Holland",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Choose between Playboy X and Dwayne Forge.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/the-holland-play.svg"
+      },
+      {
+        "id": "diamonds-are-a-girls-best-friend",
+        "order": 32,
+        "name": "Diamonds Are a Girl's Best Friend",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "The diamond deal that goes wrong, tying the episodes together.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.svg"
+      },
+      {
+        "id": "museum-piece",
+        "order": 33,
+        "name": "Museum Piece",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Libertonian Museum",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Diamond exchange at the museum, with three factions converging.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/museum-piece.svg"
+      },
+      {
+        "id": "no-way-on-the-subway",
+        "order": 34,
+        "name": "No Way on the Subway",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Subway",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Chase bikers through the subway tunnels.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/no-way-on-the-subway.svg"
+      },
+      {
+        "id": "late-checkout",
+        "order": 35,
+        "name": "Late Checkout",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Majestic Hotel",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill a target in his hotel penthouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/late-checkout.svg"
+      },
+      {
+        "id": "truck-hustle",
+        "order": 36,
+        "name": "Truck Hustle",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a truck full of heroin.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/truck-hustle.svg"
+      },
+      {
+        "id": "pegorinos-pride",
+        "order": 37,
+        "name": "Pegorino's Pride",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Protect a Pegorino heroin deal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/pegorinos-pride.svg"
+      },
+      {
+        "id": "payback",
+        "order": 38,
+        "name": "Payback",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Retaliate against the crew that hit the deal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/payback.svg"
+      },
+      {
+        "id": "catch-the-wave",
+        "order": 39,
+        "name": "Catch the Wave",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a boat shipment from the docks.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/catch-the-wave.svg"
+      },
+      {
+        "id": "trespass",
+        "order": 40,
+        "name": "Trespass",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hit a rival operation in a derelict building.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/trespass.svg"
+      },
+      {
+        "id": "to-live-and-die-in-alderney",
+        "order": 41,
+        "name": "To Live and Die in Alderney",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Escape a police siege with Phil.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/to-live-and-die-in-alderney.svg"
+      },
+      {
+        "id": "flatline",
+        "order": 42,
+        "name": "Flatline",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill a mobster in protective custody at a hospital.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/flatline.svg"
+      },
+      {
+        "id": "pest-control",
+        "order": 43,
+        "name": "Pest Control",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Eliminate both targets in the Pegorino conflict.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/pest-control.svg"
+      },
+      {
+        "id": "entourage",
+        "order": 44,
+        "name": "Entourage",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Protect a visiting dignitary from hitmen.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/entourage.svg"
+      },
+      {
+        "id": "dining-out",
+        "order": 45,
+        "name": "Dining Out",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hit a target at a restaurant.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/dining-out.svg"
+      },
+      {
+        "id": "liquidize-the-assets",
+        "order": 46,
+        "name": "Liquidize the Assets",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy a heroin shipment.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/liquidize-the-assets.svg"
+      },
+      {
+        "id": "if-the-price-is-right",
+        "order": 47,
+        "name": "If the Price is Right",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "money": 0
+        },
+        "summary": "The final deal with Dimitri.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/if-the-price-is-right.svg"
+      },
+      {
+        "id": "mr-and-mrs-bellic",
+        "order": 48,
+        "name": "Mr. and Mrs. Bellic",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Roman's wedding and the choice that decides the ending.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/mr-and-mrs-bellic.svg"
+      },
+      {
+        "id": "out-of-commission",
+        "order": 49,
+        "name": "Out of Commission",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ending path: chase Pegorino to the end of the line.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/out-of-commission.svg"
+      },
+      {
+        "id": "a-revengers-tragedy",
+        "order": 50,
+        "name": "A Revenger's Tragedy",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ending path: the deal ending and its consequences.",
+        "verified": true,
+        "image": "assets/img/mission/gta-iv/a-revengers-tragedy.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": 165,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/ambulance.svg"
+      },
+      {
+        "id": "annihilator",
+        "name": "Annihilator",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 260,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/annihilator.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 255,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/banshee.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Car",
+        "class": "Pickup",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/bobcat.svg"
+      },
+      {
+        "id": "cavalcade",
+        "name": "Cavalcade",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/cavalcade.svg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/comet.svg"
+      },
+      {
+        "id": "coquette",
+        "name": "Coquette",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/coquette.svg"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/dukes.svg"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency",
+        "class": "Police van",
+        "top_speed_kph": 160,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/enforcer.svg"
+      },
+      {
+        "id": "fbi-buffalo",
+        "name": "FBI Buffalo",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/fbi-buffalo.svg"
+      },
+      {
+        "id": "feltzer",
+        "name": "Feltzer",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 245,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/feltzer.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": 150,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/fire-truck.svg"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/freeway.svg"
+      },
+      {
+        "id": "hellfury",
+        "name": "Hellfury",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/hellfury.svg"
+      },
+      {
+        "id": "huntley-sport",
+        "name": "Huntley Sport",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 210,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/huntley-sport.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 290,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/infernus.svg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 130,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/jetmax.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 230,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/maverick.svg"
+      },
+      {
+        "id": "nrg-900",
+        "name": "NRG-900",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 260,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/nrg-900.svg"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/oracle.svg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 205,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/patriot.svg"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ-600",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/pcj-600.svg"
+      },
+      {
+        "id": "pmp-600",
+        "name": "PMP 600",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/pmp-600.svg"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/police-cruiser.svg"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 230,
+        "seats": 3,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/police-maverick.svg"
+      },
+      {
+        "id": "presidente",
+        "name": "Presidente",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/presidente.svg"
+      },
+      {
+        "id": "romans-taxi",
+        "name": "Roman's Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/romans-taxi.svg"
+      },
+      {
+        "id": "ruiner",
+        "name": "Ruiner",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 235,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/ruiner.svg"
+      },
+      {
+        "id": "sabre-gt",
+        "name": "Sabre GT",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/sabre-gt.svg"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycle",
+        "class": "Dirt bike",
+        "top_speed_kph": 210,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/sanchez.svg"
+      },
+      {
+        "id": "schafter",
+        "name": "Schafter",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/schafter.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 215,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/sentinel.svg"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 120,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/squalo.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/stallion.svg"
+      },
+      {
+        "id": "sultan-rs",
+        "name": "Sultan RS",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 255,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/sultan-rs.svg"
+      },
+      {
+        "id": "super-gt",
+        "name": "Super GT",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 265,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/super-gt.svg"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boat",
+        "class": "Boat",
+        "top_speed_kph": 100,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/tropic.svg"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 285,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/turismo.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/assault-rifle.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/baseball-bat.svg"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Little Jacob (later)",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/carbine-rifle.svg"
+      },
+      {
+        "id": "desert-eagle",
+        "name": "Desert Eagle",
+        "type": "Handgun",
+        "damage_tier": "Very high",
+        "ammo": "7 rounds",
+        "price": null,
+        "unlock": "Little Jacob / gun van",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/desert-eagle.svg"
+      },
+      {
+        "id": "fists",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/fists.svg"
+      },
+      {
+        "id": "glock-17",
+        "name": "Glock 17",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Default sidearm",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/glock-17.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/grenades.svg"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/knife.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/micro-smg.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/molotov.svg"
+      },
+      {
+        "id": "mp5",
+        "name": "MP5",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/mp5.svg"
+      },
+      {
+        "id": "pump-shotgun",
+        "name": "Pump Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/pump-shotgun.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/rpg.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/sniper-rifle.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "weapons-advanced",
+        "effect": "Advanced weapon set",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "486-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/weapons-advanced.svg"
+      },
+      {
+        "id": "weapons-basic",
+        "effect": "Basic weapon set",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "486-555-0150",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/weapons-basic.svg"
+      },
+      {
+        "id": "weather",
+        "effect": "Change weather",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "468-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/weather.svg"
+      },
+      {
+        "id": "clear-wanted",
+        "effect": "Clear wanted level",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "267-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/clear-wanted.svg"
+      },
+      {
+        "id": "full-armor",
+        "effect": "Full armor",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "362-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/full-armor.svg"
+      },
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "482-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/full-health.svg"
+      },
+      {
+        "id": "raise-wanted",
+        "effect": "Raise wanted level",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "267-555-0150",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/raise-wanted.svg"
+      },
+      {
+        "id": "spawn-banshee",
+        "effect": "Spawn a Banshee",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "227-555-0142",
+            "input": "phone"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-iv/spawn-banshee.svg"
+      },
+      {
+        "id": "spawn-comet",
+        "effect": "Spawn a Comet",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "227-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/spawn-comet.svg"
+      },
+      {
+        "id": "spawn-turismo",
+        "effect": "Spawn a Turismo",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "625-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/spawn-turismo.svg"
+      },
+      {
+        "id": "spawn-annihilator",
+        "effect": "Spawn an Annihilator",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "359-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/spawn-annihilator.svg"
+      },
+      {
+        "id": "spawn-nrg-900",
+        "effect": "Spawn an NRG-900",
+        "codes": [
+          {
+            "platform": "Mobile phone",
+            "code": "938-555-0100",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-iv/spawn-nrg-900.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "alderney",
+        "name": "Alderney",
+        "type": "State",
+        "parent": "Liberty City",
+        "summary": "New Jersey analogue across the river, Pegorino territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/alderney.svg"
+      },
+      {
+        "id": "algonquin",
+        "name": "Algonquin",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Manhattan analogue and the city's centre.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/algonquin.svg"
+      },
+      {
+        "id": "bohan",
+        "name": "Bohan",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Bronx analogue, northern borough.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/bohan.svg"
+      },
+      {
+        "id": "broker",
+        "name": "Broker",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/broker.svg"
+      },
+      {
+        "id": "colon-island",
+        "name": "Colony Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial island with the warehouse from The Snow Storm.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/colon-island.svg"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Queens analogue with the airport and McReary territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/dukes.svg"
+      },
+      {
+        "id": "francis-international-airport",
+        "name": "Francis International Airport",
+        "type": "Landmark",
+        "parent": "Dukes",
+        "summary": "Liberty City's main airport.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/francis-international-airport.svg"
+      },
+      {
+        "id": "happiness-island",
+        "name": "Happiness Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Statue island in the bay, significant in the endgame.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/happiness-island.svg"
+      },
+      {
+        "id": "hove-beach",
+        "name": "Hove Beach",
+        "type": "Neighbourhood",
+        "parent": "Broker",
+        "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/hove-beach.svg"
+      },
+      {
+        "id": "libertian-museum",
+        "name": "Libertonian Museum",
+        "type": "Landmark",
+        "parent": "Algonquin",
+        "summary": "Museum where the diamond deal takes place.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/libertian-museum.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "The HD-era Liberty City, modelled on New York and New Jersey.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/liberty-city.svg"
+      },
+      {
+        "id": "north-holland",
+        "name": "North Holland",
+        "type": "Neighbourhood",
+        "parent": "Algonquin",
+        "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/north-holland.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "flying-rats",
+        "name": "Flying Rats",
+        "type": "Pigeon",
+        "total": 200,
+        "reward": "Weapons at safehouses per borough",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/flying-rats.svg"
+      },
+      {
+        "id": "most-wanted",
+        "name": "Most Wanted",
+        "type": "Side job",
+        "total": 30,
+        "reward": "Cash and weapon rewards",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/most-wanted.svg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Stunt Jumps",
+        "type": "Stunt",
+        "total": 50,
+        "reward": "Cash and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/unique-jumps.svg"
+      },
+      {
+        "id": "vigilante-levels",
+        "name": "Vigilante",
+        "type": "Side job",
+        "total": 1,
+        "reward": "Armor and cash",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/vigilante-levels.svg"
+      }
+    ]
+  }
+}

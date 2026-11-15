@@ -1,0 +1,2675 @@
+{
+  "meta": {
+    "slug": "gta-san-andreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "year": 2004,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.516Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "partial",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 23,
+      "missions": 69,
+      "vehicles": 54,
+      "weapons": 21,
+      "cheats": 25,
+      "locations": 22,
+      "collectibles": 6
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-san-andreas/cover.svg",
+      "banner": "assets/img/banner/gta-san-andreas/banner.svg",
+      "map": "assets/img/map/gta-san-andreas/map.svg"
+    },
+    "sources": [
+      "In-game mission and statistics menus",
+      "Rockstar Games official San Andreas materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "carl-johnson",
+        "name": "Carl 'CJ' Johnson",
+        "role": "Protagonist",
+        "affiliations": [
+          "Grove Street Families"
+        ],
+        "summary": "Returns to Los Santos after five years away for his mother's funeral and rebuilds the Grove Street Families.",
+        "status": "Alive",
+        "first_appearance": "Grand Theft Auto: San Andreas",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/carl-johnson.svg"
+      },
+      {
+        "id": "catalina",
+        "name": "Catalina",
+        "role": "Ally, robber",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "CJ's brief girlfriend in the Badlands; robs stores with him in a series of missions.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/catalina.svg"
+      },
+      {
+        "id": "cesar-vialpando",
+        "name": "Cesar Vialpando",
+        "role": "Ally, Aztecas leader",
+        "affiliations": [
+          "Varrios Los Aztecas"
+        ],
+        "summary": "Kendl's boyfriend and leader of the Aztecas; CJ's most reliable ally.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/cesar-vialpando.svg"
+      },
+      {
+        "id": "denise-robinson",
+        "name": "Denise Robinson",
+        "role": "Girlfriend",
+        "affiliations": [
+          "Grove Street Families"
+        ],
+        "summary": "Grove Street affiliate and one of CJ's girlfriends.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/denise-robinson.svg"
+      },
+      {
+        "id": "eddie-pulaski",
+        "name": "Eddie Pulaski",
+        "role": "Antagonist, corrupt officer",
+        "affiliations": [
+          "C.R.A.S.H."
+        ],
+        "summary": "Tenpenny's brutal partner, killed by CJ in the desert.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/eddie-pulaski.svg"
+      },
+      {
+        "id": "frank-tenpenny",
+        "name": "Frank Tenpenny",
+        "role": "Antagonist, corrupt C.R.A.S.H. officer",
+        "affiliations": [
+          "C.R.A.S.H.",
+          "Los Santos Police Department"
+        ],
+        "summary": "The primary antagonist, a corrupt cop who manipulates every gang in the state.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/frank-tenpenny.svg"
+      },
+      {
+        "id": "hernandez",
+        "name": "Jimmy Hernandez",
+        "role": "Corrupt officer, informant",
+        "affiliations": [
+          "C.R.A.S.H."
+        ],
+        "summary": "The youngest C.R.A.S.H. officer, torn between loyalty and doing the right thing.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/hernandez.svg"
+      },
+      {
+        "id": "jizzy-b",
+        "name": "Jizzy B",
+        "role": "Pimp, drug dealer",
+        "affiliations": [
+          "Loco Syndicate"
+        ],
+        "summary": "Pimp whose club fronts the Loco Syndicate's drug operation.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/jizzy-b.svg"
+      },
+      {
+        "id": "ken-rosenberg",
+        "name": "Ken Rosenberg",
+        "role": "Lawyer, casino manager",
+        "affiliations": [
+          "Leone Crime Family",
+          "Caligula's Palace"
+        ],
+        "summary": "Vice City lawyer now managing a Las Venturas casino for the mob.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/ken-rosenberg.svg"
+      },
+      {
+        "id": "kendl",
+        "name": "Kendl Johnson",
+        "role": "CJ's sister",
+        "affiliations": [
+          "Grove Street Families"
+        ],
+        "summary": "CJ and Sweet's sister, partner of Cesar Vialpando.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/kendl.svg"
+      },
+      {
+        "id": "kent-paul",
+        "name": "Kent Paul",
+        "role": "Music manager",
+        "affiliations": [
+          "Madd Dogg Records"
+        ],
+        "summary": "Lewd music-business fixer encountered in San Fierro and Las Venturas.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/kent-paul.svg"
+      },
+      {
+        "id": "ryder",
+        "name": "Lance 'Ryder' Wilson",
+        "role": "Antagonist, former Grove member",
+        "affiliations": [
+          "Grove Street Families (former)",
+          "Ballas (secretly)"
+        ],
+        "summary": "Hot-headed Grove member who turns on the family.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/ryder.svg"
+      },
+      {
+        "id": "madd-dogg",
+        "name": "Madd Dogg",
+        "role": "Rapper",
+        "affiliations": [
+          "Madd Dogg Records"
+        ],
+        "summary": "Famous rapper whose career CJ manages after OG Loc steals his work.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/madd-dogg.svg"
+      },
+      {
+        "id": "big-smoke",
+        "name": "Melvin 'Big Smoke' Harris",
+        "role": "Antagonist, former Grove member",
+        "affiliations": [
+          "Grove Street Families (former)",
+          "Ballas (secretly)"
+        ],
+        "summary": "CJ's childhood friend whose ambition leads him to betray Grove Street.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/big-smoke.svg"
+      },
+      {
+        "id": "mike-toreno",
+        "name": "Mike Toreno",
+        "role": "Ally, covert agent",
+        "affiliations": [
+          "US government (covert)"
+        ],
+        "summary": "A shadowy federal agent who blackmails CJ into running missions for him.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/mike-toreno.svg"
+      },
+      {
+        "id": "millie-perkins",
+        "name": "Millie Perkins",
+        "role": "Caligula's manager",
+        "affiliations": [
+          "Caligula's Palace"
+        ],
+        "summary": "Casino manager CJ dates to obtain the key card for the Caligula's heist.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/millie-perkins.svg"
+      },
+      {
+        "id": "og-loc",
+        "name": "OG Loc",
+        "role": "Rapper, comic relief",
+        "affiliations": [
+          "Grove Street Families"
+        ],
+        "summary": "Aspiring rapper whose career CJ helps launch by stealing Madd Dogg's rhymes.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/og-loc.svg"
+      },
+      {
+        "id": "ran-fa-li",
+        "name": "Ran Fa Li",
+        "role": "Triad elder",
+        "affiliations": [
+          "San Fierro Triads"
+        ],
+        "summary": "Senior Triad figure whose protection is a recurring obligation.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/ran-fa-li.svg"
+      },
+      {
+        "id": "salvatore-leone",
+        "name": "Salvatore Leone",
+        "role": "Leone don",
+        "affiliations": [
+          "Leone Crime Family"
+        ],
+        "summary": "Liberty City don who owns Caligula's Palace and is targeted by the Triads.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/salvatore-leone.svg"
+      },
+      {
+        "id": "sweet",
+        "name": "Sean 'Sweet' Johnson",
+        "role": "Grove Street leader, brother",
+        "affiliations": [
+          "Grove Street Families"
+        ],
+        "summary": "CJ's older brother and the stubborn leader of Grove Street.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/sweet.svg"
+      },
+      {
+        "id": "the-truth",
+        "name": "The Truth",
+        "role": "Ally, conspiracy theorist",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "A hippie conspiracy theorist who supplies CJ with vehicles and information.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/the-truth.svg"
+      },
+      {
+        "id": "wu-zi-mu",
+        "name": "Wu Zi Mu ('Woozie')",
+        "role": "Ally, Triad leader",
+        "affiliations": [
+          "San Fierro Triads"
+        ],
+        "summary": "Blind Triad boss who becomes CJ's business partner in San Fierro and Las Venturas.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/wu-zi-mu.svg"
+      },
+      {
+        "id": "zero",
+        "name": "Zero",
+        "role": "Ally, electronics expert",
+        "affiliations": [
+          "Zero's RC"
+        ],
+        "summary": "RC hobbyist and electronics genius with a shop in San Fierro.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-san-andreas/zero.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "in-the-beginning",
+        "order": 1,
+        "name": "In the Beginning",
+        "type": "Story",
+        "giver": "—",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening: CJ returns to Los Santos and is picked up by Tenpenny and Pulaski.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/in-the-beginning.svg"
+      },
+      {
+        "id": "big-smoke",
+        "order": 2,
+        "name": "Big Smoke",
+        "type": "Story",
+        "giver": "Big Smoke",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ride with Big Smoke and take out the Ballas chasing him.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/big-smoke.svg"
+      },
+      {
+        "id": "sweets-girl",
+        "order": 3,
+        "name": "Sweet's Girl",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Idlewood",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Sweet and his girlfriend from Ballas in a house shootout.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/sweets-girl.svg"
+      },
+      {
+        "id": "cesar-vialpando",
+        "order": 4,
+        "name": "Cesar Vialpando",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "El Corona",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Enter a low-rider hydraulic competition to win money for Sweet.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg"
+      },
+      {
+        "id": "robbing-uncle-sam",
+        "order": 5,
+        "name": "Robbing Uncle Sam",
+        "type": "Story",
+        "giver": "Ryder",
+        "location": "Ocean Docks",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Raid the National Guard depot with Ryder using a forklift.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg"
+      },
+      {
+        "id": "tagging-up-turf",
+        "order": 6,
+        "name": "Tagging Up Turf",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Spray over Ballas graffiti across the neighbourhood.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/tagging-up-turf.svg"
+      },
+      {
+        "id": "cleaning-the-hood",
+        "order": 7,
+        "name": "Cleaning the Hood",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Clear drug dealers out of Grove Street territory.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/cleaning-the-hood.svg"
+      },
+      {
+        "id": "drive-thru",
+        "order": 8,
+        "name": "Drive-Thru",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Chase down Ballas who shot up a Cluckin' Bell drive-thru.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/drive-thru.svg"
+      },
+      {
+        "id": "nines-and-aks",
+        "order": 9,
+        "name": "Nines and AK's",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Buy guns from Emmet and practise shooting with Sweet.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/nines-and-aks.svg"
+      },
+      {
+        "id": "drive-by",
+        "order": 10,
+        "name": "Drive-By",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Glen Park",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Drive through Ballas territory and eliminate rival gang members.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/drive-by.svg"
+      },
+      {
+        "id": "sweet-girl",
+        "order": 11,
+        "name": "Sweet's Girl",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Idlewood",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Sweet's girlfriend from a Ballas ambush.",
+        "verified": false,
+        "source": "Order reported differently across guides",
+        "image": "assets/img/mission/gta-san-andreas/sweet-girl.svg"
+      },
+      {
+        "id": "doberman",
+        "order": 12,
+        "name": "Doberman",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Glen Park",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Take over the first Ballas territory to start the gang war system.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/doberman.svg"
+      },
+      {
+        "id": "los-sepulcros",
+        "order": 13,
+        "name": "Los Sepulcros",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Los Sepulcros",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hit a Ballas funeral to weaken their leadership.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/los-sepulcros.svg"
+      },
+      {
+        "id": "house-party",
+        "order": 14,
+        "name": "House Party",
+        "type": "Story",
+        "giver": "OG Loc",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Defend OG Loc's house party from a Ballas attack.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/house-party.svg"
+      },
+      {
+        "id": "reuniting-the-families",
+        "order": 15,
+        "name": "Reuniting the Families",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Jefferson Motel",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Escape a police raid on the Grove Street leadership meeting.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/reuniting-the-families.svg"
+      },
+      {
+        "id": "the-green-sabre",
+        "order": 16,
+        "name": "The Green Sabre",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Mulholland Intersection",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Act one finale: discover the traitors and lose everything in Los Santos.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/the-green-sabre.svg"
+      },
+      {
+        "id": "badlands",
+        "order": 17,
+        "name": "Badlands",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Whetstone",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Reach the Badlands safehouse and shake the police tail.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/badlands.svg"
+      },
+      {
+        "id": "tanker-commander",
+        "order": 18,
+        "name": "Tanker Commander",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Dillimore",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a tanker truck for Catalina's robbery crew.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/tanker-commander.svg"
+      },
+      {
+        "id": "against-all-odds",
+        "order": 19,
+        "name": "Against All Odds",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Las Barrancas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Robbing spree with Catalina across the Badlands.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/against-all-odds.svg"
+      },
+      {
+        "id": "local-liquor-store",
+        "order": 20,
+        "name": "Local Liquor Store",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Blueberry",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob a liquor store with Catalina and escape the cops.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/local-liquor-store.svg"
+      },
+      {
+        "id": "small-town-bank",
+        "order": 21,
+        "name": "Small Town Bank",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Fort Carson",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob a small-town bank with Catalina.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/small-town-bank.svg"
+      },
+      {
+        "id": "body-harvest",
+        "order": 22,
+        "name": "Body Harvest",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "Leafy Hollow",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a combine harvester for the Truth's farm.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/body-harvest.svg"
+      },
+      {
+        "id": "first-date",
+        "order": 23,
+        "name": "First Date",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "Leafy Hollow",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Take Catalina on a date that turns into a police chase.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/first-date.svg"
+      },
+      {
+        "id": "king-in-exile",
+        "order": 24,
+        "name": "King in Exile",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "Leafy Hollow",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Meet the Truth and learn about the San Fierro connection.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/king-in-exile.svg"
+      },
+      {
+        "id": "wu-zi-mu",
+        "order": 25,
+        "name": "Wu Zi Mu",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "Whetstone",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Race Wu Zi Mu's associate to earn a meeting with the Triads.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/wu-zi-mu.svg"
+      },
+      {
+        "id": "farewell-my-love",
+        "order": 26,
+        "name": "Farewell, My Love...",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "Whetstone",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Race Catalina on a winding mountain road.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/farewell-my-love.svg"
+      },
+      {
+        "id": "are-you-going-to-san-fierro",
+        "order": 27,
+        "name": "Are You Going to San Fierro?",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Burn the Truth's weed farm and drive to San Fierro.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/are-you-going-to-san-fierro.svg"
+      },
+      {
+        "id": "wear-flowers-in-your-hair",
+        "order": 28,
+        "name": "Wear Flowers in Your Hair",
+        "type": "Story",
+        "giver": "The Truth",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recruit the Truth's associates and open the San Fierro safehouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/wear-flowers-in-your-hair.svg"
+      },
+      {
+        "id": "555-we-tip",
+        "order": 29,
+        "name": "555 WE TIP",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Plant evidence on a D.A.'s car to discredit him.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/555-we-tip.svg"
+      },
+      {
+        "id": "deconstruction",
+        "order": 30,
+        "name": "Deconstruction",
+        "type": "Story",
+        "giver": "Kendl",
+        "location": "Doherty",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy a construction site to protect the garage.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/deconstruction.svg"
+      },
+      {
+        "id": "photo-opportunity",
+        "order": 31,
+        "name": "Photo Opportunity",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Photograph a Loco Syndicate meeting from a rooftop.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/photo-opportunity.svg"
+      },
+      {
+        "id": "jizzy",
+        "order": 32,
+        "name": "Jizzy",
+        "type": "Story",
+        "giver": "Jizzy B",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Work for Jizzy to infiltrate the Loco Syndicate.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/jizzy.svg"
+      },
+      {
+        "id": "outrider",
+        "order": 33,
+        "name": "Outrider",
+        "type": "Story",
+        "giver": "Jizzy B",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Escort a drug shipment across the city.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/outrider.svg"
+      },
+      {
+        "id": "ice-cold-killa",
+        "order": 34,
+        "name": "Ice Cold Killa",
+        "type": "Story",
+        "giver": "Jizzy B",
+        "location": "San Fierro",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill Jizzy B and take his club.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/ice-cold-killa.svg"
+      },
+      {
+        "id": "pier-69",
+        "order": 35,
+        "name": "Pier 69",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "Pier 69",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ambush the Loco Syndicate at the pier.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/pier-69.svg"
+      },
+      {
+        "id": "torenos-last-flight",
+        "order": 36,
+        "name": "Toreno's Last Flight",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Easter Basin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy Toreno's helicopter before it leaves the docks.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/torenos-last-flight.svg"
+      },
+      {
+        "id": "mountain-cloud-boys",
+        "order": 37,
+        "name": "Mountain Cloud Boys",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Chinatown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Earn Wu Zi Mu's trust by helping the Triads.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/mountain-cloud-boys.svg"
+      },
+      {
+        "id": "ran-fa-li",
+        "order": 38,
+        "name": "Ran Fa Li",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Chinatown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Pick up Ran Fa Li from the airport while hitmen pursue.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/ran-fa-li.svg"
+      },
+      {
+        "id": "lure",
+        "order": 39,
+        "name": "Lure",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Chinatown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Draw Da Nang boys away from the Triad headquarters.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/lure.svg"
+      },
+      {
+        "id": "amphibious-assault",
+        "order": 40,
+        "name": "Amphibious Assault",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Bayside",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Swim to a cargo ship and steal the manifest.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/amphibious-assault.svg"
+      },
+      {
+        "id": "the-da-nang-thang",
+        "order": 41,
+        "name": "The Da Nang Thang",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Easter Basin",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Clear the Da Nang gang from a freighter.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/the-da-nang-thang.svg"
+      },
+      {
+        "id": "monster",
+        "order": 42,
+        "name": "Monster",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Las Barrancas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Drive a Monster truck through a desert checkpoint course.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/monster.svg"
+      },
+      {
+        "id": "highjack",
+        "order": 43,
+        "name": "Highjack",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Hijack a truck on the highway for Toreno.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/highjack.svg"
+      },
+      {
+        "id": "interdiction",
+        "order": 44,
+        "name": "Interdiction",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Las Brujas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recover a package from a desert airstrip.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/interdiction.svg"
+      },
+      {
+        "id": "verdant-meadows",
+        "order": 45,
+        "name": "Verdant Meadows",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Verdant Meadows",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Buy the abandoned airstrip to unlock flight school.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/verdant-meadows.svg"
+      },
+      {
+        "id": "learning-to-fly",
+        "order": 46,
+        "name": "Learning to Fly",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Verdant Meadows",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Complete flight school tests to earn a pilot's licence.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/learning-to-fly.svg"
+      },
+      {
+        "id": "n-o-e",
+        "order": 47,
+        "name": "N.O.E.",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Verdant Meadows",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Fly a plane low under radar to drop supplies.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/n-o-e.svg"
+      },
+      {
+        "id": "stowaway",
+        "order": 48,
+        "name": "Stowaway",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Verdant Meadows",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Board a moving plane and plant a bomb.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/stowaway.svg"
+      },
+      {
+        "id": "black-project",
+        "order": 49,
+        "name": "Black Project",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Area 69",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Infiltrate Area 69 and steal the jetpack.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/black-project.svg"
+      },
+      {
+        "id": "green-goo",
+        "order": 50,
+        "name": "Green Goo",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Area 69",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Use the jetpack to steal a train shipment.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/green-goo.svg"
+      },
+      {
+        "id": "fender-ketchup",
+        "order": 51,
+        "name": "Fender Ketchup",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Intimidate a casino manager by hanging him from a car.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/fender-ketchup.svg"
+      },
+      {
+        "id": "explosive-situation",
+        "order": 52,
+        "name": "Explosive Situation",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal explosives from a quarry for the casino heist.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/explosive-situation.svg"
+      },
+      {
+        "id": "youve-had-your-chips",
+        "order": 53,
+        "name": "You've Had Your Chips",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy a counterfeit chip factory.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/youve-had-your-chips.svg"
+      },
+      {
+        "id": "don-peyote",
+        "order": 54,
+        "name": "Don Peyote",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Kent Paul and Maccer from a desert cult.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/don-peyote.svg"
+      },
+      {
+        "id": "architectural-espionage",
+        "order": 55,
+        "name": "Architectural Espionage",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal the Caligula's Palace blueprints.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/architectural-espionage.svg"
+      },
+      {
+        "id": "key-to-her-heart",
+        "order": 56,
+        "name": "Key to Her Heart",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Date Millie to obtain the casino key card.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/key-to-her-heart.svg"
+      },
+      {
+        "id": "dam-and-blast",
+        "order": 57,
+        "name": "Dam and Blast",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Sabotage the dam's power supply before the heist.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/dam-and-blast.svg"
+      },
+      {
+        "id": "cop-wheels",
+        "order": 58,
+        "name": "Cop Wheels",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal four police bikes for the heist crew.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/cop-wheels.svg"
+      },
+      {
+        "id": "up-up-and-away",
+        "order": 59,
+        "name": "Up, Up and Away!",
+        "type": "Heist",
+        "giver": "Wu Zi Mu",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a helicopter from a military convoy.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/up-up-and-away.svg"
+      },
+      {
+        "id": "breaking-the-bank-at-caligulas",
+        "order": 60,
+        "name": "Breaking the Bank at Caligula's",
+        "type": "Heist",
+        "giver": "Wu Zi Mu",
+        "location": "Caligula's Palace",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob Caligula's Palace casino.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/breaking-the-bank-at-caligulas.svg"
+      },
+      {
+        "id": "a-home-in-the-hills",
+        "order": 61,
+        "name": "A Home in the Hills",
+        "type": "Story",
+        "giver": "Wu Zi Mu",
+        "location": "Mulholland",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Reclaim Madd Dogg's mansion from Big Poppa.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/a-home-in-the-hills.svg"
+      },
+      {
+        "id": "vertical-bird",
+        "order": 62,
+        "name": "Vertical Bird",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Las Venturas",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a Harrier jet from an aircraft carrier.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/vertical-bird.svg"
+      },
+      {
+        "id": "home-coming",
+        "order": 63,
+        "name": "Home Coming",
+        "type": "Story",
+        "giver": "Mike Toreno",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Return to Los Santos and rejoin Sweet.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/home-coming.svg"
+      },
+      {
+        "id": "cut-throat-business",
+        "order": 64,
+        "name": "Cut Throat Business",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Chase down a record producer who cheated Madd Dogg.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/cut-throat-business.svg"
+      },
+      {
+        "id": "beat-down-on-b-dup",
+        "order": 65,
+        "name": "Beat Down on B Dup",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Take back Grove Street territory from B Dup.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/beat-down-on-b-dup.svg"
+      },
+      {
+        "id": "grove-4-life",
+        "order": 66,
+        "name": "Grove 4 Life",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Ganton",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Defend Grove Street from a Ballas assault.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/grove-4-life.svg"
+      },
+      {
+        "id": "riot",
+        "order": 67,
+        "name": "Riot",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Survive the city-wide riots after Tenpenny's trial.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/riot.svg"
+      },
+      {
+        "id": "los-desperados",
+        "order": 68,
+        "name": "Los Desperados",
+        "type": "Story",
+        "giver": "Cesar Vialpando",
+        "location": "El Corona",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Help Cesar retake Aztecas territory.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/los-desperados.svg"
+      },
+      {
+        "id": "end-of-the-line",
+        "order": 69,
+        "name": "End of the Line",
+        "type": "Story",
+        "giver": "Sweet",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Final mission: assault Big Smoke's crack palace and confront Tenpenny.",
+        "verified": true,
+        "image": "assets/img/mission/gta-san-andreas/end-of-the-line.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": 145,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/ambulance.svg"
+      },
+      {
+        "id": "bandito",
+        "name": "Bandito",
+        "category": "Car",
+        "class": "Buggy",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/bandito.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/banshee.svg"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Car",
+        "class": "Buggy",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/bf-injection.svg"
+      },
+      {
+        "id": "blade",
+        "name": "Blade",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/blade.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Car",
+        "class": "Pickup",
+        "top_speed_kph": 160,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/bobcat.svg"
+      },
+      {
+        "id": "buffalo",
+        "name": "Buffalo",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 205,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/buffalo.svg"
+      },
+      {
+        "id": "bullet",
+        "name": "Bullet",
+        "category": "Car",
+        "class": "Super",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/bullet.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 235,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/cheetah.svg"
+      },
+      {
+        "id": "coastguard",
+        "name": "Coast Guard",
+        "category": "Boat",
+        "class": "Patrol boat",
+        "top_speed_kph": 100,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/coastguard.svg"
+      },
+      {
+        "id": "elegy",
+        "name": "Elegy",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 215,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/elegy.svg"
+      },
+      {
+        "id": "fbi-truck",
+        "name": "FBI Truck",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/fbi-truck.svg"
+      },
+      {
+        "id": "fcr-900",
+        "name": "FCR-900",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 220,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/fcr-900.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": 125,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/fire-truck.svg"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/freeway.svg"
+      },
+      {
+        "id": "hunter",
+        "name": "Hunter",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 220,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/hunter.svg"
+      },
+      {
+        "id": "huntley",
+        "name": "Huntley",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/huntley.svg"
+      },
+      {
+        "id": "hydra",
+        "name": "Hydra",
+        "category": "Aircraft",
+        "class": "Jump jet",
+        "top_speed_kph": 400,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/hydra.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/infernus.svg"
+      },
+      {
+        "id": "jester",
+        "name": "Jester",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 215,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/jester.svg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 115,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/jetmax.svg"
+      },
+      {
+        "id": "leviathan",
+        "name": "Leviathan",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 180,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/leviathan.svg"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boat",
+        "class": "Yacht",
+        "top_speed_kph": 60,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/marquis.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/maverick.svg"
+      },
+      {
+        "id": "mesa",
+        "name": "Mesa",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 160,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/mesa.svg"
+      },
+      {
+        "id": "monster",
+        "name": "Monster",
+        "category": "Car",
+        "class": "Monster truck",
+        "top_speed_kph": 150,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/monster.svg"
+      },
+      {
+        "id": "nevada",
+        "name": "Nevada",
+        "category": "Aircraft",
+        "class": "Cargo plane",
+        "top_speed_kph": 280,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/nevada.svg"
+      },
+      {
+        "id": "nrg-500",
+        "name": "NRG-500",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/nrg-500.svg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 180,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/patriot.svg"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ-600",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 210,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/pcj-600.svg"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/phoenix.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 190,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/police-car.svg"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Boat",
+        "class": "Police boat",
+        "top_speed_kph": 95,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/predator.svg"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/rancher.svg"
+      },
+      {
+        "id": "remington",
+        "name": "Remington",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/remington.svg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": 60,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/rhino.svg"
+      },
+      {
+        "id": "rustler",
+        "name": "Rustler",
+        "category": "Aircraft",
+        "class": "Prop plane",
+        "top_speed_kph": 300,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/rustler.svg"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/sabre.svg"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycle",
+        "class": "Dirt bike",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/sanchez.svg"
+      },
+      {
+        "id": "sandking",
+        "name": "Sandking",
+        "category": "Car",
+        "class": "Off-road",
+        "top_speed_kph": 170,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/sandking.svg"
+      },
+      {
+        "id": "savanna",
+        "name": "Savanna",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/savanna.svg"
+      },
+      {
+        "id": "sea-sparrow",
+        "name": "Sea Sparrow",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/sea-sparrow.svg"
+      },
+      {
+        "id": "shamal",
+        "name": "Shamal",
+        "category": "Aircraft",
+        "class": "Private jet",
+        "top_speed_kph": 350,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/shamal.svg"
+      },
+      {
+        "id": "slamvan",
+        "name": "Slamvan",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/slamvan.svg"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/squalo.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/stallion.svg"
+      },
+      {
+        "id": "stuntplane",
+        "name": "Stuntplane",
+        "category": "Aircraft",
+        "class": "Prop plane",
+        "top_speed_kph": 250,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/stuntplane.svg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Car",
+        "class": "Sports sedan",
+        "top_speed_kph": 210,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/sultan.svg"
+      },
+      {
+        "id": "swat-tank",
+        "name": "SWAT Tank",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 120,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/swat-tank.svg"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boat",
+        "class": "Boat",
+        "top_speed_kph": 90,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/tropic.svg"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 235,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/turismo.svg"
+      },
+      {
+        "id": "vortex",
+        "name": "Vortex",
+        "category": "Hovercraft",
+        "class": "Hovercraft",
+        "top_speed_kph": 140,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/vortex.svg"
+      },
+      {
+        "id": "wayfarer",
+        "name": "Wayfarer",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/wayfarer.svg"
+      },
+      {
+        "id": "zr-350",
+        "name": "ZR-350",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-san-andreas/zr-350.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "ak-47",
+        "name": "AK-47",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/ak-47.svg"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/baseball-bat.svg"
+      },
+      {
+        "id": "chainsaw",
+        "name": "Chainsaw",
+        "type": "Melee",
+        "damage_tier": "Very high",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/chainsaw.svg"
+      },
+      {
+        "id": "combat-shotgun",
+        "name": "Combat Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "Very high",
+        "ammo": "7 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/combat-shotgun.svg"
+      },
+      {
+        "id": "desert-eagle",
+        "name": "Desert Eagle",
+        "type": "Handgun",
+        "damage_tier": "Very high",
+        "ammo": "7 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/desert-eagle.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/fist.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Continuous",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/grenades.svg"
+      },
+      {
+        "id": "heat-seeking-rpg",
+        "name": "Heat-Seeking RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/heat-seeking-rpg.svg"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee",
+        "damage_tier": "High",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/katana.svg"
+      },
+      {
+        "id": "m4",
+        "name": "M4",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/m4.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "50 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/micro-smg.svg"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "150 rounds",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/minigun.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/molotov.svg"
+      },
+      {
+        "id": "mp5",
+        "name": "MP5",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/mp5.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/rocket-launcher.svg"
+      },
+      {
+        "id": "satchel-charges",
+        "name": "Satchel Charges",
+        "type": "Thrown",
+        "damage_tier": "Lethal",
+        "ammo": "10",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/satchel-charges.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/shotgun.svg"
+      },
+      {
+        "id": "silenced-pistol",
+        "name": "Silenced Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/silenced-pistol.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-san-andreas/sniper-rifle.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "cars-fly-away",
+        "effect": "Cars fly away when hit",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BSXSGGC",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-san-andreas/cars-fly-away.svg"
+      },
+      {
+        "id": "clear-wanted",
+        "effect": "Clear wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ASNAEB",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/clear-wanted.svg"
+      },
+      {
+        "id": "suicide",
+        "effect": "Commit suicide",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SZCMAWO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/suicide.svg"
+      },
+      {
+        "id": "drive-by-aim",
+        "effect": "Drive-by from any car",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "OUIQDMW",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/drive-by-aim.svg"
+      },
+      {
+        "id": "fast-time",
+        "effect": "Faster game clock",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "YSOHNUL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/fast-time.svg"
+      },
+      {
+        "id": "health-armor-money",
+        "effect": "Full health, armor and $250,000",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "HESOYAM",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation 2",
+            "code": "R1 R2 L1 X LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/health-armor-money.svg"
+      },
+      {
+        "id": "ghost-town",
+        "effect": "Ghost town (no pedestrians)",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GHOSTTOWN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/ghost-town.svg"
+      },
+      {
+        "id": "infinite-ammo",
+        "effect": "Infinite ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "WANRLTW",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/infinite-ammo.svg"
+      },
+      {
+        "id": "infinite-oxygen",
+        "effect": "Infinite lung capacity",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CVWKXAM",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/infinite-oxygen.svg"
+      },
+      {
+        "id": "infinite-health",
+        "effect": "Invincibility",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BAGUVIX",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/infinite-health.svg"
+      },
+      {
+        "id": "lower-wanted",
+        "effect": "Lower wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TURNDOWNTHEHEAT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/lower-wanted.svg"
+      },
+      {
+        "id": "mega-jump",
+        "effect": "Mega jump",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "KANGAROO",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/mega-jump.svg"
+      },
+      {
+        "id": "never-wanted",
+        "effect": "Never gain wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "AEZAKMI",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/never-wanted.svg"
+      },
+      {
+        "id": "no-hunger",
+        "effect": "No hunger",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "AEDUWNV",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/no-hunger.svg"
+      },
+      {
+        "id": "pedestrians-attack",
+        "effect": "Pedestrians attack you",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BAGOWPG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-attack.svg"
+      },
+      {
+        "id": "armed-pedestrians",
+        "effect": "Pedestrians carry weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FOOOXFT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/armed-pedestrians.svg"
+      },
+      {
+        "id": "pedestrians-riot",
+        "effect": "Pedestrians riot",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "AJLOJYQY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/pedestrians-riot.svg"
+      },
+      {
+        "id": "raise-wanted",
+        "effect": "Raise wanted level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TURNUPTHEHEAT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/raise-wanted.svg"
+      },
+      {
+        "id": "recruit-anyone",
+        "effect": "Recruit anyone into your gang",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SJMAHPE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/recruit-anyone.svg"
+      },
+      {
+        "id": "jetpack",
+        "effect": "Spawn jetpack",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ROCKETMAN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/jetpack.svg"
+      },
+      {
+        "id": "storm-weather",
+        "effect": "Storm weather",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "MGHXYRM",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/storm-weather.svg"
+      },
+      {
+        "id": "sunny-weather",
+        "effect": "Sunny weather",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "TOODAMNHOT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/sunny-weather.svg"
+      },
+      {
+        "id": "weapons-tier-3",
+        "effect": "Weapons: heavy tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "UZUMYMW",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-3.svg"
+      },
+      {
+        "id": "weapons-tier-1",
+        "effect": "Weapons: light tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "LXGIWYL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-1.svg"
+      },
+      {
+        "id": "weapons-tier-2",
+        "effect": "Weapons: medium tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "KJKSZPJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-san-andreas/weapons-tier-2.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "area-69",
+        "name": "Area 69",
+        "type": "Landmark",
+        "parent": "San Andreas",
+        "summary": "Secret military base in the desert.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/area-69.svg"
+      },
+      {
+        "id": "bone-county",
+        "name": "Bone County",
+        "type": "Region",
+        "parent": "San Andreas",
+        "summary": "Desert region containing Area 69 and Las Barrancas.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/bone-county.svg"
+      },
+      {
+        "id": "caligulas-palace",
+        "name": "Caligula's Palace",
+        "type": "Landmark",
+        "parent": "Las Venturas",
+        "summary": "Casino owned by the Leones and robbed in the finale of the LV act.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/caligulas-palace.svg"
+      },
+      {
+        "id": "chinatown-sf",
+        "name": "Chinatown",
+        "type": "Neighbourhood",
+        "parent": "San Fierro",
+        "summary": "Triad headquarters and Woozie's base.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/chinatown-sf.svg"
+      },
+      {
+        "id": "doherty",
+        "name": "Doherty",
+        "type": "Neighbourhood",
+        "parent": "San Fierro",
+        "summary": "Industrial district with CJ's garage.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/doherty.svg"
+      },
+      {
+        "id": "east-los-santos",
+        "name": "East Los Santos",
+        "type": "District",
+        "parent": "Los Santos",
+        "summary": "Industrial and residential area near the docks.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/east-los-santos.svg"
+      },
+      {
+        "id": "easter-basin",
+        "name": "Easter Basin",
+        "type": "District",
+        "parent": "San Fierro",
+        "summary": "Docks and naval area.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/easter-basin.svg"
+      },
+      {
+        "id": "ganton",
+        "name": "Ganton",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Grove Street Families home turf and CJ's safehouse.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/ganton.svg"
+      },
+      {
+        "id": "glen-park",
+        "name": "Glen Park",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Contested neighbourhood during the gang war.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/glen-park.svg"
+      },
+      {
+        "id": "idlewood",
+        "name": "Idlewood",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Ballas territory south of Ganton.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/idlewood.svg"
+      },
+      {
+        "id": "jefferson",
+        "name": "Jefferson",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Motel district and site of Reuniting the Families.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/jefferson.svg"
+      },
+      {
+        "id": "las-venturas",
+        "name": "Las Venturas",
+        "type": "City",
+        "parent": "San Andreas",
+        "summary": "Las Vegas-inspired casino city in the desert.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/las-venturas.svg"
+      },
+      {
+        "id": "los-santos",
+        "name": "Los Santos",
+        "type": "City",
+        "parent": "San Andreas",
+        "summary": "Los Angeles-inspired southern city and Grove Street's home.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/los-santos.svg"
+      },
+      {
+        "id": "los-santos-international",
+        "name": "Los Santos International Airport",
+        "type": "Landmark",
+        "parent": "Los Santos",
+        "summary": "Main airport, unlocked for flight.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/los-santos-international.svg"
+      },
+      {
+        "id": "mount-chiliad",
+        "name": "Mount Chiliad",
+        "type": "Landmark",
+        "parent": "San Andreas",
+        "summary": "Tallest mountain in the state.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/mount-chiliad.svg"
+      },
+      {
+        "id": "mulholland",
+        "name": "Mulholland",
+        "type": "Neighbourhood",
+        "parent": "Los Santos",
+        "summary": "Hillside district with Madd Dogg's mansion.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/mulholland.svg"
+      },
+      {
+        "id": "pier-69",
+        "name": "Pier 69",
+        "type": "Landmark",
+        "parent": "San Fierro",
+        "summary": "Pier used for the Loco Syndicate ambush.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/pier-69.svg"
+      },
+      {
+        "id": "san-andreas",
+        "name": "San Andreas",
+        "type": "Region",
+        "parent": null,
+        "summary": "The fictional state containing three cities, desert, forest and countryside.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/san-andreas.svg"
+      },
+      {
+        "id": "san-fierro",
+        "name": "San Fierro",
+        "type": "City",
+        "parent": "San Andreas",
+        "summary": "San Francisco-inspired city on the western coast.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/san-fierro.svg"
+      },
+      {
+        "id": "the-strip",
+        "name": "The Strip",
+        "type": "District",
+        "parent": "Las Venturas",
+        "summary": "Main casino boulevard of Las Venturas.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/the-strip.svg"
+      },
+      {
+        "id": "verdant-meadows",
+        "name": "Verdant Meadows",
+        "type": "Landmark",
+        "parent": "San Andreas",
+        "summary": "Abandoned airstrip bought during the Toreno missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/verdant-meadows.svg"
+      },
+      {
+        "id": "whetstone",
+        "name": "Whetstone",
+        "type": "Region",
+        "parent": "San Andreas",
+        "summary": "Rural south-western region where the Badlands act begins.",
+        "verified": true,
+        "image": "assets/img/location/gta-san-andreas/whetstone.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "gang-tags",
+        "name": "Gang Tags",
+        "type": "Graffiti",
+        "total": 100,
+        "reward": "Weapons at the Johnson house",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/gang-tags.svg"
+      },
+      {
+        "id": "hidden-packages",
+        "name": "Hidden Packages",
+        "type": "Package",
+        "total": 100,
+        "reward": "Weapons at the Johnson house",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/hidden-packages.svg"
+      },
+      {
+        "id": "horseshoes",
+        "name": "Horseshoes",
+        "type": "Horseshoe",
+        "total": 50,
+        "reward": "Weapons and cash at the Four Dragons Casino",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/horseshoes.svg"
+      },
+      {
+        "id": "oysters",
+        "name": "Oysters",
+        "type": "Oyster",
+        "total": 50,
+        "reward": "Increased lung capacity and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/oysters.svg"
+      },
+      {
+        "id": "snapshots",
+        "name": "Snapshots",
+        "type": "Snapshot",
+        "total": 50,
+        "reward": "Weapons at the San Fierro garage",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/snapshots.svg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Stunt Jumps",
+        "type": "Stunt",
+        "total": 70,
+        "reward": "Cash, counted toward 100% completion",
+        "verified": true,
+        "image": "assets/img/collectible/gta-san-andreas/unique-jumps.svg"
+      }
+    ]
+  }
+}

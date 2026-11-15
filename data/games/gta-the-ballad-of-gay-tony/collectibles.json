@@ -1,0 +1,45 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 4,
+  "items": [
+    {
+      "id": "base-jumps",
+      "name": "Base Jumps",
+      "type": "Stunt",
+      "total": 15,
+      "reward": "Cash and completion",
+      "verified": true,
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.svg"
+    },
+    {
+      "id": "golden-guns",
+      "name": "Golden Guns",
+      "type": "Weapon",
+      "total": 8,
+      "reward": "Gold-plated weapon variants",
+      "verified": true,
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/golden-guns.svg"
+    },
+    {
+      "id": "seagulls",
+      "name": "Seagulls",
+      "type": "Seagull",
+      "total": 50,
+      "reward": "Weapons and cash",
+      "verified": true,
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.svg"
+    },
+    {
+      "id": "triathlons",
+      "name": "Triathlons",
+      "type": "Race",
+      "total": 3,
+      "reward": "Cash and clothing",
+      "verified": true,
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.svg"
+    }
+  ]
+}

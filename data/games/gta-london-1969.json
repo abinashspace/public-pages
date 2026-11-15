@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "slug": "gta-london-1969",
+    "title": "Grand Theft Auto: London 1969",
+    "year": 1999,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.427Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "empty"
+    },
+    "counts": {
+      "characters": 3,
+      "missions": 3,
+      "vehicles": 6,
+      "weapons": 5,
+      "cheats": 1,
+      "locations": 4,
+      "collectibles": 0
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-london-1969/cover.svg",
+      "banner": "assets/img/banner/gta-london-1969/banner.svg",
+      "map": "assets/img/map/gta-london-1969/map.svg"
+    },
+    "sources": [
+      "GTA: London 1969 mission pack documentation"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "harold-cartwright",
+        "name": "Harold Cartwright",
+        "role": "Mission contact",
+        "affiliations": [
+          "London firms"
+        ],
+        "summary": "One of the London mission contacts in the expansion.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-london-1969/harold-cartwright.svg"
+      },
+      {
+        "id": "player-character",
+        "name": "Player-named protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "London underworld"
+        ],
+        "summary": "A London criminal working through the city's firms in 1969.",
+        "status": "Varies",
+        "first_appearance": "GTA: London 1969",
+        "verified": true,
+        "image": "assets/img/portrait/gta-london-1969/player-character.svg"
+      },
+      {
+        "id": "sister-anna",
+        "name": "Sister Anna",
+        "role": "Mission contact",
+        "affiliations": [
+          "London firms"
+        ],
+        "summary": "Contact tied to the London mission chain.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-london-1969/sister-anna.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "london-chapter-1",
+        "order": 1,
+        "name": "London chapter 1",
+        "type": "Story",
+        "giver": "London firms",
+        "location": "London",
+        "reward": {
+          "money": 0,
+          "other": "Rank progression"
+        },
+        "summary": "Opening jobs in 1969 London, using period cars and the original GTA mission loop.",
+        "verified": true,
+        "image": "assets/img/mission/gta-london-1969/london-chapter-1.svg"
+      },
+      {
+        "id": "london-chapter-2",
+        "order": 2,
+        "name": "London chapter 2",
+        "type": "Story",
+        "giver": "London firms",
+        "location": "London",
+        "reward": {
+          "money": 0,
+          "other": "Rank progression"
+        },
+        "summary": "Mid-game London jobs with heavier police response.",
+        "verified": false,
+        "image": "assets/img/mission/gta-london-1969/london-chapter-2.svg"
+      },
+      {
+        "id": "london-chapter-3",
+        "order": 3,
+        "name": "London chapter 3",
+        "type": "Story",
+        "giver": "London firms",
+        "location": "London",
+        "reward": {
+          "money": 0,
+          "other": "Final rank"
+        },
+        "summary": "Closing London chapter.",
+        "verified": false,
+        "image": "assets/img/mission/gta-london-1969/london-chapter-3.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1969/ambulance.svg"
+      },
+      {
+        "id": "double-decker-bus",
+        "name": "Double-Decker Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1969/double-decker-bus.svg"
+      },
+      {
+        "id": "jaguar",
+        "name": "Jaguar",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-london-1969/jaguar.svg"
+      },
+      {
+        "id": "london-cab",
+        "name": "London Cab",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1969/london-cab.svg"
+      },
+      {
+        "id": "mini",
+        "name": "Mini",
+        "category": "Car",
+        "class": "Compact",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1969/mini.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1969/police-car.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Fuel",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1969/flamethrower.svg"
+      },
+      {
+        "id": "machine-gun",
+        "name": "Machine Gun",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": false,
+        "image": "assets/img/weapon/gta-london-1969/machine-gun.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1969/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1969/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1969/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GESUNDHEIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Shared GTA 1 engine cheat; verify against the London 1969 build",
+        "image": "assets/img/cheat/gta-london-1969/full-health.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "east-end",
+        "name": "East End",
+        "type": "District",
+        "parent": "London",
+        "summary": "Docks and working-class streets.",
+        "verified": false,
+        "image": "assets/img/location/gta-london-1969/east-end.svg"
+      },
+      {
+        "id": "london",
+        "name": "London",
+        "type": "City",
+        "parent": null,
+        "summary": "1969 London rendered in the GTA 1 top-down engine, with period landmarks and vehicles.",
+        "verified": true,
+        "image": "assets/img/location/gta-london-1969/london.svg"
+      },
+      {
+        "id": "soho",
+        "name": "Soho",
+        "type": "District",
+        "parent": "London",
+        "summary": "Nightlife district used in several missions.",
+        "verified": false,
+        "image": "assets/img/location/gta-london-1969/soho.svg"
+      },
+      {
+        "id": "westminster",
+        "name": "Westminster",
+        "type": "District",
+        "parent": "London",
+        "summary": "Central district with Parliament and period architecture.",
+        "verified": false,
+        "image": "assets/img/location/gta-london-1969/westminster.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "empty",
+    "items": []
+  }
+}

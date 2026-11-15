@@ -1,0 +1,23 @@
+{
+  "game": "gta-london-1961",
+  "game_title": "Grand Theft Auto: London 1961",
+  "section": "cheats",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GESUNDHEIT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Inherited GTA 1 engine cheat; verify against the 1961 add-on",
+      "image": "assets/img/cheat/gta-london-1961/full-health.svg"
+    }
+  ]
+}

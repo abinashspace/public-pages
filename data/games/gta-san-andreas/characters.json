@@ -1,0 +1,290 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 23,
+  "items": [
+    {
+      "id": "carl-johnson",
+      "name": "Carl 'CJ' Johnson",
+      "role": "Protagonist",
+      "affiliations": [
+        "Grove Street Families"
+      ],
+      "summary": "Returns to Los Santos after five years away for his mother's funeral and rebuilds the Grove Street Families.",
+      "status": "Alive",
+      "first_appearance": "Grand Theft Auto: San Andreas",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/carl-johnson.svg"
+    },
+    {
+      "id": "catalina",
+      "name": "Catalina",
+      "role": "Ally, robber",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "CJ's brief girlfriend in the Badlands; robs stores with him in a series of missions.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/catalina.svg"
+    },
+    {
+      "id": "cesar-vialpando",
+      "name": "Cesar Vialpando",
+      "role": "Ally, Aztecas leader",
+      "affiliations": [
+        "Varrios Los Aztecas"
+      ],
+      "summary": "Kendl's boyfriend and leader of the Aztecas; CJ's most reliable ally.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/cesar-vialpando.svg"
+    },
+    {
+      "id": "denise-robinson",
+      "name": "Denise Robinson",
+      "role": "Girlfriend",
+      "affiliations": [
+        "Grove Street Families"
+      ],
+      "summary": "Grove Street affiliate and one of CJ's girlfriends.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/denise-robinson.svg"
+    },
+    {
+      "id": "eddie-pulaski",
+      "name": "Eddie Pulaski",
+      "role": "Antagonist, corrupt officer",
+      "affiliations": [
+        "C.R.A.S.H."
+      ],
+      "summary": "Tenpenny's brutal partner, killed by CJ in the desert.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/eddie-pulaski.svg"
+    },
+    {
+      "id": "frank-tenpenny",
+      "name": "Frank Tenpenny",
+      "role": "Antagonist, corrupt C.R.A.S.H. officer",
+      "affiliations": [
+        "C.R.A.S.H.",
+        "Los Santos Police Department"
+      ],
+      "summary": "The primary antagonist, a corrupt cop who manipulates every gang in the state.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/frank-tenpenny.svg"
+    },
+    {
+      "id": "hernandez",
+      "name": "Jimmy Hernandez",
+      "role": "Corrupt officer, informant",
+      "affiliations": [
+        "C.R.A.S.H."
+      ],
+      "summary": "The youngest C.R.A.S.H. officer, torn between loyalty and doing the right thing.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/hernandez.svg"
+    },
+    {
+      "id": "jizzy-b",
+      "name": "Jizzy B",
+      "role": "Pimp, drug dealer",
+      "affiliations": [
+        "Loco Syndicate"
+      ],
+      "summary": "Pimp whose club fronts the Loco Syndicate's drug operation.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/jizzy-b.svg"
+    },
+    {
+      "id": "ken-rosenberg",
+      "name": "Ken Rosenberg",
+      "role": "Lawyer, casino manager",
+      "affiliations": [
+        "Leone Crime Family",
+        "Caligula's Palace"
+      ],
+      "summary": "Vice City lawyer now managing a Las Venturas casino for the mob.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/ken-rosenberg.svg"
+    },
+    {
+      "id": "kendl",
+      "name": "Kendl Johnson",
+      "role": "CJ's sister",
+      "affiliations": [
+        "Grove Street Families"
+      ],
+      "summary": "CJ and Sweet's sister, partner of Cesar Vialpando.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/kendl.svg"
+    },
+    {
+      "id": "kent-paul",
+      "name": "Kent Paul",
+      "role": "Music manager",
+      "affiliations": [
+        "Madd Dogg Records"
+      ],
+      "summary": "Lewd music-business fixer encountered in San Fierro and Las Venturas.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/kent-paul.svg"
+    },
+    {
+      "id": "ryder",
+      "name": "Lance 'Ryder' Wilson",
+      "role": "Antagonist, former Grove member",
+      "affiliations": [
+        "Grove Street Families (former)",
+        "Ballas (secretly)"
+      ],
+      "summary": "Hot-headed Grove member who turns on the family.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/ryder.svg"
+    },
+    {
+      "id": "madd-dogg",
+      "name": "Madd Dogg",
+      "role": "Rapper",
+      "affiliations": [
+        "Madd Dogg Records"
+      ],
+      "summary": "Famous rapper whose career CJ manages after OG Loc steals his work.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/madd-dogg.svg"
+    },
+    {
+      "id": "big-smoke",
+      "name": "Melvin 'Big Smoke' Harris",
+      "role": "Antagonist, former Grove member",
+      "affiliations": [
+        "Grove Street Families (former)",
+        "Ballas (secretly)"
+      ],
+      "summary": "CJ's childhood friend whose ambition leads him to betray Grove Street.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/big-smoke.svg"
+    },
+    {
+      "id": "mike-toreno",
+      "name": "Mike Toreno",
+      "role": "Ally, covert agent",
+      "affiliations": [
+        "US government (covert)"
+      ],
+      "summary": "A shadowy federal agent who blackmails CJ into running missions for him.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/mike-toreno.svg"
+    },
+    {
+      "id": "millie-perkins",
+      "name": "Millie Perkins",
+      "role": "Caligula's manager",
+      "affiliations": [
+        "Caligula's Palace"
+      ],
+      "summary": "Casino manager CJ dates to obtain the key card for the Caligula's heist.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/millie-perkins.svg"
+    },
+    {
+      "id": "og-loc",
+      "name": "OG Loc",
+      "role": "Rapper, comic relief",
+      "affiliations": [
+        "Grove Street Families"
+      ],
+      "summary": "Aspiring rapper whose career CJ helps launch by stealing Madd Dogg's rhymes.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/og-loc.svg"
+    },
+    {
+      "id": "ran-fa-li",
+      "name": "Ran Fa Li",
+      "role": "Triad elder",
+      "affiliations": [
+        "San Fierro Triads"
+      ],
+      "summary": "Senior Triad figure whose protection is a recurring obligation.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/ran-fa-li.svg"
+    },
+    {
+      "id": "salvatore-leone",
+      "name": "Salvatore Leone",
+      "role": "Leone don",
+      "affiliations": [
+        "Leone Crime Family"
+      ],
+      "summary": "Liberty City don who owns Caligula's Palace and is targeted by the Triads.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/salvatore-leone.svg"
+    },
+    {
+      "id": "sweet",
+      "name": "Sean 'Sweet' Johnson",
+      "role": "Grove Street leader, brother",
+      "affiliations": [
+        "Grove Street Families"
+      ],
+      "summary": "CJ's older brother and the stubborn leader of Grove Street.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/sweet.svg"
+    },
+    {
+      "id": "the-truth",
+      "name": "The Truth",
+      "role": "Ally, conspiracy theorist",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "A hippie conspiracy theorist who supplies CJ with vehicles and information.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/the-truth.svg"
+    },
+    {
+      "id": "wu-zi-mu",
+      "name": "Wu Zi Mu ('Woozie')",
+      "role": "Ally, Triad leader",
+      "affiliations": [
+        "San Fierro Triads"
+      ],
+      "summary": "Blind Triad boss who becomes CJ's business partner in San Fierro and Las Venturas.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/wu-zi-mu.svg"
+    },
+    {
+      "id": "zero",
+      "name": "Zero",
+      "role": "Ally, electronics expert",
+      "affiliations": [
+        "Zero's RC"
+      ],
+      "summary": "RC hobbyist and electronics genius with a shop in San Fierro.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-san-andreas/zero.svg"
+    }
+  ]
+}

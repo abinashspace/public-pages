@@ -1,0 +1,2147 @@
+{
+  "meta": {
+    "slug": "gta-vice-city",
+    "title": "Grand Theft Auto: Vice City",
+    "year": 2002,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.498Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "partial",
+      "vehicles": "partial",
+      "weapons": "partial",
+      "cheats": "partial",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 20,
+      "missions": 46,
+      "vehicles": 51,
+      "weapons": 20,
+      "cheats": 20,
+      "locations": 17,
+      "collectibles": 4
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-vice-city/cover.svg",
+      "banner": "assets/img/banner/gta-vice-city/banner.svg",
+      "map": "assets/img/map/gta-vice-city/map.svg"
+    },
+    "sources": [
+      "In-game mission list",
+      "Rockstar Games official Vice City materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "alex-shrub",
+        "name": "Alex Shrub",
+        "role": "Politician",
+        "affiliations": [
+          "Vice City politics"
+        ],
+        "summary": "Congressman whose campaign Tommy rigs through the film studio.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/alex-shrub.svg"
+      },
+      {
+        "id": "auntie-poulet",
+        "name": "Auntie Poulet",
+        "role": "Haitian gang matriarch",
+        "affiliations": [
+          "Haitian Gang"
+        ],
+        "summary": "Haitian community leader and drug cook who uses voodoo imagery.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/auntie-poulet.svg"
+      },
+      {
+        "id": "big-mitch-baker",
+        "name": "Big Mitch Baker",
+        "role": "Biker gang leader",
+        "affiliations": [
+          "Vice City bikers"
+        ],
+        "summary": "Runs the biker bar and tests Tommy with a gang ride.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/big-mitch-baker.svg"
+      },
+      {
+        "id": "bj-smith",
+        "name": "BJ Smith",
+        "role": "Car dealer",
+        "affiliations": [
+          "Sunshine Autos"
+        ],
+        "summary": "Runs Sunshine Autos and buys stolen cars from Tommy.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/bj-smith.svg"
+      },
+      {
+        "id": "cam-jones",
+        "name": "Cam Jones",
+        "role": "Safecracker",
+        "affiliations": [
+          "Malibu Club crew"
+        ],
+        "summary": "Safe-cracker broken out of police custody for the Malibu heist.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/cam-jones.svg"
+      },
+      {
+        "id": "candy-suxxx",
+        "name": "Candy Suxxx",
+        "role": "Adult film actress",
+        "affiliations": [
+          "InterGlobal Films"
+        ],
+        "summary": "Star of the studio's productions and later a public figure.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/candy-suxxx.svg"
+      },
+      {
+        "id": "colonel-cortes",
+        "name": "Colonel Juan García Cortés",
+        "role": "Arms dealer",
+        "affiliations": [
+          "Cortés network"
+        ],
+        "summary": "Ex-military arms dealer based on a yacht and a Starfish Island mansion.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/colonel-cortes.svg"
+      },
+      {
+        "id": "gonzalez",
+        "name": "Gonzalez",
+        "role": "Diaz associate",
+        "affiliations": [
+          "Diaz Cartel"
+        ],
+        "summary": "Diaz's nervous middleman, used by Tommy to reach the cartel.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/gonzalez.svg"
+      },
+      {
+        "id": "hilary-king",
+        "name": "Hilary King",
+        "role": "Getaway driver",
+        "affiliations": [
+          "Malibu Club crew"
+        ],
+        "summary": "Nervous racing driver recruited for the bank job.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/hilary-king.svg"
+      },
+      {
+        "id": "ken-rosenberg",
+        "name": "Ken Rosenberg",
+        "role": "Lawyer, fixer",
+        "affiliations": [
+          "Vercetti Gang",
+          "Forelli Crime Family"
+        ],
+        "summary": "Cocaine-addled lawyer who introduces Tommy to Vice City's underworld.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/ken-rosenberg.svg"
+      },
+      {
+        "id": "kent-paul",
+        "name": "Kent Paul",
+        "role": "Music scene fixer",
+        "affiliations": [
+          "Vice City music industry"
+        ],
+        "summary": "Sleazy music-business contact who knows everyone in the clubs.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/kent-paul.svg"
+      },
+      {
+        "id": "lance-vance",
+        "name": "Lance Vance",
+        "role": "Ally, later betrayer",
+        "affiliations": [
+          "Vance Crime Family",
+          "Vercetti Gang"
+        ],
+        "summary": "The surviving Vance brother, who partners with Tommy before turning on him.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/lance-vance.svg"
+      },
+      {
+        "id": "mercedes",
+        "name": "Mercedes Cortez",
+        "role": "Socialite",
+        "affiliations": [
+          "Cortés network"
+        ],
+        "summary": "The colonel's daughter, who introduces Tommy to the club scene.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/mercedes.svg"
+      },
+      {
+        "id": "pastor-richards",
+        "name": "Pastor Richards",
+        "role": "Televangelist",
+        "affiliations": [
+          "Richards ministry"
+        ],
+        "summary": "Scam televangelist selling salvation and real estate.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/pastor-richards.svg"
+      },
+      {
+        "id": "phil-cassidy",
+        "name": "Phil Cassidy",
+        "role": "Gun runner",
+        "affiliations": [
+          "Cortés network"
+        ],
+        "summary": "One-armed weapons dealer running the shooting range and the Malibu heist guns.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/phil-cassidy.svg"
+      },
+      {
+        "id": "ricardo-diaz",
+        "name": "Ricardo Diaz",
+        "role": "Antagonist, drug baron",
+        "affiliations": [
+          "Diaz Cartel"
+        ],
+        "summary": "Paranoid cocaine kingpin whose mansion Tommy eventually takes.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/ricardo-diaz.svg"
+      },
+      {
+        "id": "sonny-forelli",
+        "name": "Sonny Forelli",
+        "role": "Antagonist, Forelli boss",
+        "affiliations": [
+          "Forelli Crime Family"
+        ],
+        "summary": "Liberty City mob boss who sends Tommy to Vice City and expects a cut of everything.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/sonny-forelli.svg"
+      },
+      {
+        "id": "steve-scott",
+        "name": "Steve Scott",
+        "role": "Film director",
+        "affiliations": [
+          "InterGlobal Films"
+        ],
+        "summary": "Porn director at the film studio asset.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/steve-scott.svg"
+      },
+      {
+        "id": "tommy-vercetti",
+        "name": "Tommy Vercetti",
+        "role": "Protagonist",
+        "affiliations": [
+          "Forelli Crime Family (former)",
+          "Vercetti Gang"
+        ],
+        "summary": "Released after 15 years in prison, Tommy is sent to Vice City and ends up building his own criminal empire.",
+        "status": "Alive",
+        "first_appearance": "Grand Theft Auto: Vice City",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/tommy-vercetti.svg"
+      },
+      {
+        "id": "umberto-robina",
+        "name": "Umberto Robina",
+        "role": "Cuban gang leader",
+        "affiliations": [
+          "Los Cabrones"
+        ],
+        "summary": "Cuban gang boss in Little Havana who wants the Cholos wiped out.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city/umberto-robina.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "in-the-beginning",
+        "order": 1,
+        "name": "In the Beginning...",
+        "type": "Story",
+        "giver": "Sonny Forelli",
+        "location": "Liberty City / Vice City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening: Sonny sends Tommy to Vice City with cash and a contact.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/in-the-beginning.svg"
+      },
+      {
+        "id": "an-old-friend",
+        "order": 2,
+        "name": "An Old Friend",
+        "type": "Story",
+        "giver": "Sonny Forelli",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Meet Ken Rosenberg at his office and collect the first job.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/an-old-friend.svg"
+      },
+      {
+        "id": "the-party",
+        "order": 3,
+        "name": "The Party",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Attend Diaz's party at his mansion and meet the players.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-party.svg"
+      },
+      {
+        "id": "back-alley-brawl",
+        "order": 4,
+        "name": "Back Alley Brawl",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Ocean Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Deal with Diaz's men and meet Lance Vance in the alley.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/back-alley-brawl.svg"
+      },
+      {
+        "id": "jury-fury",
+        "order": 5,
+        "name": "Jury Fury",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Washington Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Terrorise two jurors to force a mistrial for a Forelli associate.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/jury-fury.svg"
+      },
+      {
+        "id": "riot",
+        "order": 6,
+        "name": "Riot",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Washington Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Start a strike at the docks so a shipment gets delayed.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/riot.svg"
+      },
+      {
+        "id": "treacherous-swine",
+        "order": 7,
+        "name": "Treacherous Swine",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill Gonzalez with a chainsaw on the beach.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/treacherous-swine.svg"
+      },
+      {
+        "id": "mall-shootout",
+        "order": 8,
+        "name": "Mall Shootout",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Washington Mall",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Exchange briefcases with a courier in the mall and escape the ambush.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/mall-shootout.svg"
+      },
+      {
+        "id": "guardian-angels",
+        "order": 9,
+        "name": "Guardian Angels",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Back up Lance and Diaz during a drug deal in the park.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/guardian-angels.svg"
+      },
+      {
+        "id": "the-chase",
+        "order": 10,
+        "name": "The Chase",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Follow a dealer to Diaz's mansion without being spotted.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-chase.svg"
+      },
+      {
+        "id": "phnom-penh-86",
+        "order": 11,
+        "name": "Phnom Penh '86",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Starfish Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ride shotgun in a helicopter to raid a drug deal.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/phnom-penh-86.svg"
+      },
+      {
+        "id": "the-fastest-boat",
+        "order": 12,
+        "name": "The Fastest Boat",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Docks",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal a racing boat from the boatyard for Diaz.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-fastest-boat.svg"
+      },
+      {
+        "id": "supply-and-demand",
+        "order": 13,
+        "name": "Supply & Demand",
+        "type": "Story",
+        "giver": "Ken Rosenberg",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Pick up a drug shipment by boat and survive a rival ambush.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/supply-and-demand.svg"
+      },
+      {
+        "id": "sir-yes-sir",
+        "order": 14,
+        "name": "Sir, Yes Sir!",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal an army truck from a road convoy for Diaz.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/sir-yes-sir.svg"
+      },
+      {
+        "id": "two-bit-hit",
+        "order": 15,
+        "name": "Two Bit Hit",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Little Haiti",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Assassinate a Haitian gang leader during a funeral.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/two-bit-hit.svg"
+      },
+      {
+        "id": "the-shootist",
+        "order": 16,
+        "name": "The Shootist",
+        "type": "Asset",
+        "giver": "Ricardo Diaz",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Beat Phil Cassidy's shooting range challenge for the Malibu job.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-shootist.svg"
+      },
+      {
+        "id": "the-driver",
+        "order": 17,
+        "name": "The Driver",
+        "type": "Asset",
+        "giver": "Ricardo Diaz",
+        "location": "Ocean Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recruit Hilary by beating him in a street race.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-driver.svg"
+      },
+      {
+        "id": "the-job",
+        "order": 18,
+        "name": "The Job",
+        "type": "Heist",
+        "giver": "Ricardo Diaz",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rob the El Banco Corrupto bank with the Malibu crew.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-job.svg"
+      },
+      {
+        "id": "rub-out",
+        "order": 19,
+        "name": "Rub Out",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Starfish Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Take Diaz's mansion in a gunfight and inherit it.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/rub-out.svg"
+      },
+      {
+        "id": "death-row",
+        "order": 20,
+        "name": "Death Row",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Little Haiti",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Rescue Lance from the junkyard before Diaz's men kill him.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/death-row.svg"
+      },
+      {
+        "id": "shakedown",
+        "order": 21,
+        "name": "Shakedown",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "North Point Mall",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Smash up shops in the mall until the owners pay protection.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/shakedown.svg"
+      },
+      {
+        "id": "bar-brawl",
+        "order": 22,
+        "name": "Bar Brawl",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill a rival crew in a bar and escape the police.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/bar-brawl.svg"
+      },
+      {
+        "id": "cop-land",
+        "order": 23,
+        "name": "Cop Land",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Plant a bomb in a police station and get out alive.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/cop-land.svg"
+      },
+      {
+        "id": "no-escape",
+        "order": 24,
+        "name": "No Escape?",
+        "type": "Asset",
+        "giver": "Cam Jones",
+        "location": "Police Station",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Break Cam Jones out of the police station for the Malibu heist.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/no-escape.svg"
+      },
+      {
+        "id": "recruitment-drive",
+        "order": 25,
+        "name": "Recruitment Drive",
+        "type": "Asset",
+        "giver": "Steve Scott",
+        "location": "InterGlobal Films",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recruit Candy Suxxx for the studio's next production.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/recruitment-drive.svg"
+      },
+      {
+        "id": "dildo-dodo",
+        "order": 26,
+        "name": "Dildo Dodo",
+        "type": "Asset",
+        "giver": "Steve Scott",
+        "location": "InterGlobal Films",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Fly a seaplane low over the bay to drop leaflets.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/dildo-dodo.svg"
+      },
+      {
+        "id": "marthas-mug-shot",
+        "order": 27,
+        "name": "Martha's Mug Shot",
+        "type": "Asset",
+        "giver": "Steve Scott",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Photograph a politician in a compromising position.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/marthas-mug-shot.svg"
+      },
+      {
+        "id": "g-spotlight",
+        "order": 28,
+        "name": "G-Spotlight",
+        "type": "Asset",
+        "giver": "Steve Scott",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Ride a rooftop course to place spotlights for the premiere.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/g-spotlight.svg"
+      },
+      {
+        "id": "spilling-the-beans",
+        "order": 29,
+        "name": "Spilling the Beans",
+        "type": "Asset",
+        "giver": "Print Works",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Kill the witness who can link the Vercetti gang to the counterfeiting operation.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/spilling-the-beans.svg"
+      },
+      {
+        "id": "hit-the-courier",
+        "order": 30,
+        "name": "Hit the Courier",
+        "type": "Asset",
+        "giver": "Print Works",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Intercept a courier carrying counterfeit plates.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/hit-the-courier.svg"
+      },
+      {
+        "id": "vip",
+        "order": 31,
+        "name": "VIP",
+        "type": "Asset",
+        "giver": "Kaufman Cabs",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Pick up a VIP before a rival cab company does.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/vip.svg"
+      },
+      {
+        "id": "friendly-rivalry",
+        "order": 32,
+        "name": "Friendly Rivalry",
+        "type": "Asset",
+        "giver": "Kaufman Cabs",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy a rival firm's taxis.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/friendly-rivalry.svg"
+      },
+      {
+        "id": "cabmageddon",
+        "order": 33,
+        "name": "Cabmageddon",
+        "type": "Asset",
+        "giver": "Kaufman Cabs",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Survive a mass taxi ambush at the depot.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/cabmageddon.svg"
+      },
+      {
+        "id": "love-juice",
+        "order": 34,
+        "name": "Love Juice",
+        "type": "Asset",
+        "giver": "Love Fist",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Buy drugs for the band and make it back in time.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/love-juice.svg"
+      },
+      {
+        "id": "psycho-killer",
+        "order": 35,
+        "name": "Psycho Killer",
+        "type": "Asset",
+        "giver": "Love Fist",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Protect the band from a stalker during a concert.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/psycho-killer.svg"
+      },
+      {
+        "id": "publicity-tour",
+        "order": 36,
+        "name": "Publicity Tour",
+        "type": "Asset",
+        "giver": "Love Fist",
+        "location": "Downtown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Drive the band to a gig with a bomb wired to the limo.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/publicity-tour.svg"
+      },
+      {
+        "id": "distribution",
+        "order": 37,
+        "name": "Distribution",
+        "type": "Asset",
+        "giver": "Cherry Popper Ice Cream",
+        "location": "Little Haiti",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Sell drugs from an ice cream van to fifty customers.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/distribution.svg"
+      },
+      {
+        "id": "check-out-at-the-check-in",
+        "order": 38,
+        "name": "Check Out at the Check In",
+        "type": "Asset",
+        "giver": "Boatyard",
+        "location": "Vice Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Follow and rob a drug courier arriving by boat.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/check-out-at-the-check-in.svg"
+      },
+      {
+        "id": "cap-the-collector",
+        "order": 39,
+        "name": "Cap the Collector",
+        "type": "Story",
+        "giver": "Vercetti Estate",
+        "location": "Vice City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Stop Sonny's collectors from taking your businesses' money.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/cap-the-collector.svg"
+      },
+      {
+        "id": "keep-your-friends-close",
+        "order": 40,
+        "name": "Keep Your Friends Close...",
+        "type": "Story",
+        "giver": "Sonny Forelli",
+        "location": "Vercetti Estate",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Final mission: defend the mansion from Sonny and Lance.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/keep-your-friends-close.svg"
+      },
+      {
+        "id": "all-hands-on-deck",
+        "order": 41,
+        "name": "All Hands on Deck!",
+        "type": "Story",
+        "giver": "Colonel Cortés",
+        "location": "Starfish Island",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Protect the colonel's yacht from a government raid.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/all-hands-on-deck.svg"
+      },
+      {
+        "id": "trojan-voodoo",
+        "order": 42,
+        "name": "Trojan Voodoo",
+        "type": "Story",
+        "giver": "Auntie Poulet",
+        "location": "Little Haiti",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Destroy the Cholos' drug factory with the Haitians.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/trojan-voodoo.svg"
+      },
+      {
+        "id": "cannon-fodder",
+        "order": 43,
+        "name": "Cannon Fodder",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Clear a Cholo-held alley for the Cubans.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/cannon-fodder.svg"
+      },
+      {
+        "id": "stunt-boat-challenge",
+        "order": 44,
+        "name": "Stunt Boat Challenge",
+        "type": "Side",
+        "giver": "Umberto Robina",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Complete a boat stunt course in under three minutes.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/stunt-boat-challenge.svg"
+      },
+      {
+        "id": "sunshine-autos-imports",
+        "order": 45,
+        "name": "Sunshine Autos Imports",
+        "type": "Vehicle",
+        "giver": "BJ Smith",
+        "location": "Little Havana",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Steal all cars on the import list to unlock new vehicles.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/sunshine-autos-imports.svg"
+      },
+      {
+        "id": "the-pole-position",
+        "order": 46,
+        "name": "The Pole Position Club",
+        "type": "Asset",
+        "giver": "Pole Position",
+        "location": "Ocean Beach",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Spend $300 in the club to complete the asset.",
+        "verified": true,
+        "image": "assets/img/mission/gta-vice-city/the-pole-position.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/admiral.svg"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": 145,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/ambulance.svg"
+      },
+      {
+        "id": "angel",
+        "name": "Angel",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/angel.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 215,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/banshee.svg"
+      },
+      {
+        "id": "barracks-ol",
+        "name": "Barracks OL",
+        "category": "Military",
+        "class": "Truck",
+        "top_speed_kph": 95,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/barracks-ol.svg"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Car",
+        "class": "Buggy",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/bf-injection.svg"
+      },
+      {
+        "id": "bloodring-banger",
+        "name": "Bloodring Banger",
+        "category": "Car",
+        "class": "Demolition",
+        "top_speed_kph": 190,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/bloodring-banger.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Car",
+        "class": "Pickup",
+        "top_speed_kph": 160,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/bobcat.svg"
+      },
+      {
+        "id": "cabbie",
+        "name": "Cabbie",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 170,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/cabbie.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/cheetah.svg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 205,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/comet.svg"
+      },
+      {
+        "id": "cuban-hermes",
+        "name": "Cuban Hermes",
+        "category": "Car",
+        "class": "Gang",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/cuban-hermes.svg"
+      },
+      {
+        "id": "deluxo",
+        "name": "Deluxo",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/deluxo.svg"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boat",
+        "class": "Inflatable",
+        "top_speed_kph": 70,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/dinghy.svg"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency",
+        "class": "Police van",
+        "top_speed_kph": 135,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/enforcer.svg"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycle",
+        "class": "Scooter",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/faggio.svg"
+      },
+      {
+        "id": "fbi-washington",
+        "name": "FBI Washington",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 205,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/fbi-washington.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": 125,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/fire-truck.svg"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/freeway.svg"
+      },
+      {
+        "id": "gang-burrito",
+        "name": "Gang Burrito",
+        "category": "Van",
+        "class": "Gang",
+        "top_speed_kph": 150,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/gang-burrito.svg"
+      },
+      {
+        "id": "hotring-racer",
+        "name": "Hotring Racer",
+        "category": "Car",
+        "class": "Race car",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/hotring-racer.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/infernus.svg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 115,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/jetmax.svg"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boat",
+        "class": "Yacht",
+        "top_speed_kph": 60,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/marquis.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/maverick.svg"
+      },
+      {
+        "id": "mesa-grande",
+        "name": "Mesa Grande",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/mesa-grande.svg"
+      },
+      {
+        "id": "mr-whoopee",
+        "name": "Mr Whoopee",
+        "category": "Van",
+        "class": "Ice cream",
+        "top_speed_kph": 120,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/mr-whoopee.svg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/patriot.svg"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ-600",
+        "category": "Motorcycle",
+        "class": "Sport bike",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/pcj-600.svg"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/phoenix.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 185,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/police-car.svg"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 3,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/police-maverick.svg"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Boat",
+        "class": "Police boat",
+        "top_speed_kph": 95,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/predator.svg"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/rancher.svg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Military",
+        "class": "Tank",
+        "top_speed_kph": 60,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/rhino.svg"
+      },
+      {
+        "id": "sabre-turbo",
+        "name": "Sabre Turbo",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 205,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/sabre-turbo.svg"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycle",
+        "class": "Dirt bike",
+        "top_speed_kph": 170,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/sanchez.svg"
+      },
+      {
+        "id": "sea-sparrow",
+        "name": "Sea Sparrow",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/sea-sparrow.svg"
+      },
+      {
+        "id": "sentinel-xs",
+        "name": "Sentinel XS",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 190,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/sentinel-xs.svg"
+      },
+      {
+        "id": "skimmer",
+        "name": "Skimmer",
+        "category": "Aircraft",
+        "class": "Seaplane",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/skimmer.svg"
+      },
+      {
+        "id": "sparrow",
+        "name": "Sparrow",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/sparrow.svg"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 105,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/speeder.svg"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boat",
+        "class": "Speedboat",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/squalo.svg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Car",
+        "class": "Muscle",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/stallion.svg"
+      },
+      {
+        "id": "stinger",
+        "name": "Stinger",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 210,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/stinger.svg"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Car",
+        "class": "Limousine",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/stretch.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/taxi.svg"
+      },
+      {
+        "id": "vcpd-cheetah",
+        "name": "VCPD Cheetah",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/vcpd-cheetah.svg"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Car",
+        "class": "Lowrider",
+        "top_speed_kph": 180,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/voodoo.svg"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/washington.svg"
+      },
+      {
+        "id": "zebra-cab",
+        "name": "Zebra Cab",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city/zebra-cab.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/baseball-bat.svg"
+      },
+      {
+        "id": "brass-knuckles",
+        "name": "Brass Knuckles",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/brass-knuckles.svg"
+      },
+      {
+        "id": "chainsaw",
+        "name": "Chainsaw",
+        "type": "Melee",
+        "damage_tier": "Very high",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Treacherous Swine / pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/chainsaw.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "damage_tier": "Very high",
+        "ammo": "Continuous",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/grenades.svg"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee",
+        "damage_tier": "High",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/katana.svg"
+      },
+      {
+        "id": "m4",
+        "name": "M4",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation / pickup",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/m4.svg"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "150 rounds",
+        "price": null,
+        "unlock": "Hidden packages reward",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/minigun.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/molotov.svg"
+      },
+      {
+        "id": "mp5",
+        "name": "MP5",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/mp5.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/pistol.svg"
+      },
+      {
+        "id": "python",
+        "name": "Python",
+        "type": "Handgun",
+        "damage_tier": "Very high",
+        "ammo": "6 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation (later)",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/python.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Phil Cassidy / pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/rocket-launcher.svg"
+      },
+      {
+        "id": "ruger",
+        "name": "Ruger",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/ruger.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/shotgun.svg"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/sniper-rifle.svg"
+      },
+      {
+        "id": "spas-12",
+        "name": "SPAS-12",
+        "type": "Shotgun",
+        "damage_tier": "Very high",
+        "ammo": "7 shells",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/spas-12.svg"
+      },
+      {
+        "id": "tear-gas",
+        "name": "Tear Gas",
+        "type": "Thrown",
+        "damage_tier": "Low",
+        "ammo": "20",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/tear-gas.svg"
+      },
+      {
+        "id": "tec-9",
+        "name": "Tec-9",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/tec-9.svg"
+      },
+      {
+        "id": "uzi",
+        "name": "Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city/uzi.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "flying-boats",
+        "effect": "Cars drive and fly on water",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SEAWAYS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/flying-boats.svg"
+      },
+      {
+        "id": "media-level",
+        "effect": "Change media attention level",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CHASESTAT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/media-level.svg"
+      },
+      {
+        "id": "weather",
+        "effect": "Change weather",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ALOVELYDAY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Community cheat databases",
+        "image": "assets/img/cheat/gta-vice-city/weather.svg"
+      },
+      {
+        "id": "suicide",
+        "effect": "Commit suicide",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ICANTTAKEITANYMORE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/suicide.svg"
+      },
+      {
+        "id": "blow-up-cars",
+        "effect": "Destroy all vehicles",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BIGBANG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/blow-up-cars.svg"
+      },
+      {
+        "id": "full-armor",
+        "effect": "Full armor",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "PRECIOUSPROTECTION",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/full-armor.svg"
+      },
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ASPIRINE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation 2",
+            "code": "R1 R2 L1 R2 LEFT DOWN RIGHT UP",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/full-health.svg"
+      },
+      {
+        "id": "fat",
+        "effect": "Maximum fat",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DEEPFRIEDMARSBARS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/fat.svg"
+      },
+      {
+        "id": "thin",
+        "effect": "Minimum fat",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "PROGRAMMER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/thin.svg"
+      },
+      {
+        "id": "armed-pedestrians",
+        "effect": "Pedestrians carry weapons",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "OURGODGIVENRIGHTTOBEARARMS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/armed-pedestrians.svg"
+      },
+      {
+        "id": "pedestrians-hate",
+        "effect": "Pedestrians hate you",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NOBODYLIKESME",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/pedestrians-hate.svg"
+      },
+      {
+        "id": "pedestrians-riot",
+        "effect": "Pedestrians riot",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FIGHTFIGHTFIGHT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/pedestrians-riot.svg"
+      },
+      {
+        "id": "random-outfit",
+        "effect": "Random outfit",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "STILLLIKEDRESSINGUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/random-outfit.svg"
+      },
+      {
+        "id": "spawn-tank",
+        "effect": "Spawn a Rhino tank",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "PANZER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/spawn-tank.svg"
+      },
+      {
+        "id": "spawn-tour-bus",
+        "effect": "Spawn a Tour Bus",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "LOADSOFLITTLETHINGS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "image": "assets/img/cheat/gta-vice-city/spawn-tour-bus.svg"
+      },
+      {
+        "id": "weapons-tier-3",
+        "effect": "Weapons: heavy tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NUTTERTOOLS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/weapons-tier-3.svg"
+      },
+      {
+        "id": "weapons-tier-1",
+        "effect": "Weapons: light tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "THUGSTOOLS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/weapons-tier-1.svg"
+      },
+      {
+        "id": "weapons-tier-2",
+        "effect": "Weapons: medium tier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "PROFESSIONALTOOLS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/weapons-tier-2.svg"
+      },
+      {
+        "id": "women-with-guns",
+        "effect": "Women carry guns",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "CHICKSWITHGUNS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/women-with-guns.svg"
+      },
+      {
+        "id": "women-follow",
+        "effect": "Women follow you",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FANNYMAGNET",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "image": "assets/img/cheat/gta-vice-city/women-follow.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "downtown",
+        "name": "Downtown",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Skyscraper district with the stadium and Hyman Condo.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/downtown.svg"
+      },
+      {
+        "id": "escobar-intl-airport",
+        "name": "Escobar International Airport",
+        "type": "Landmark",
+        "parent": "Vice Mainland",
+        "summary": "Main airport, used in smuggling and escape missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/escobar-intl-airport.svg"
+      },
+      {
+        "id": "hyman-memorial-stadium",
+        "name": "Hyman Memorial Stadium",
+        "type": "Landmark",
+        "parent": "Downtown",
+        "summary": "Stadium hosting the Hotring Racer and Bloodring Banger events.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/hyman-memorial-stadium.svg"
+      },
+      {
+        "id": "little-cuba",
+        "name": "Little Cuba",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Cuban area around Umberto's cafe.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/little-cuba.svg"
+      },
+      {
+        "id": "little-haiti",
+        "name": "Little Haiti",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Haitian gang territory and Auntie Poulet's house.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/little-haiti.svg"
+      },
+      {
+        "id": "little-havana",
+        "name": "Little Havana",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Cuban gang territory, Sunshine Autos and the print works.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/little-havana.svg"
+      },
+      {
+        "id": "ocean-beach",
+        "name": "Ocean Beach",
+        "type": "Neighbourhood",
+        "parent": "Vice Beach",
+        "summary": "Southern tip of the beach island, home to the Ocean View Hotel.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/ocean-beach.svg"
+      },
+      {
+        "id": "prairie-avenue",
+        "name": "Prairie Avenue",
+        "type": "Landmark",
+        "parent": "Vice Beach",
+        "summary": "Shopping street with Ammu-Nation and the mall.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/prairie-avenue.svg"
+      },
+      {
+        "id": "starfish-island",
+        "name": "Starfish Island",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Mansion island housing Diaz and later Tommy.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/starfish-island.svg"
+      },
+      {
+        "id": "the-malibu-club",
+        "name": "The Malibu Club",
+        "type": "Landmark",
+        "parent": "Vice Point",
+        "summary": "Nightclub asset that unlocks the bank heist missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/the-malibu-club.svg"
+      },
+      {
+        "id": "vice-beach",
+        "name": "Vice Beach",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Eastern island with the beach, Ocean Beach and Washington Beach.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-beach.svg"
+      },
+      {
+        "id": "vice-city",
+        "name": "Vice City",
+        "type": "City",
+        "parent": null,
+        "summary": "1986 Miami-inspired city split into two islands.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-city.svg"
+      },
+      {
+        "id": "vice-mainland",
+        "name": "Vice City Mainland",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Western island with Downtown, Little Haiti, Little Havana and the airport.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-mainland.svg"
+      },
+      {
+        "id": "vice-city-stadium",
+        "name": "Vice City Stadium",
+        "type": "Landmark",
+        "parent": "Downtown",
+        "summary": "Stadium used for Hotring and Bloodring events.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-city-stadium.svg"
+      },
+      {
+        "id": "vice-point",
+        "name": "Vice Point",
+        "type": "Neighbourhood",
+        "parent": "Vice Beach",
+        "summary": "Northern beach neighbourhood with the Malibu Club.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-point.svg"
+      },
+      {
+        "id": "vice-port",
+        "name": "Vice Port",
+        "type": "District",
+        "parent": "Vice Mainland",
+        "summary": "Docks and warehouses on the west side.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/vice-port.svg"
+      },
+      {
+        "id": "washington-beach",
+        "name": "Washington Beach",
+        "type": "Neighbourhood",
+        "parent": "Vice Beach",
+        "summary": "Beach strip with the mall and Ken's office nearby.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city/washington-beach.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "hidden-packages",
+        "name": "Hidden Packages",
+        "type": "Package",
+        "total": 100,
+        "reward": "Weapons at the Ocean View Hotel at 10-package milestones",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city/hidden-packages.svg"
+      },
+      {
+        "id": "rampages",
+        "name": "Rampages",
+        "type": "Rampage",
+        "total": 35,
+        "reward": "Cash and weapon pickups",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city/rampages.svg"
+      },
+      {
+        "id": "stores-robberies",
+        "name": "Store Robberies",
+        "type": "Robbery",
+        "total": 15,
+        "reward": "Cash and 100% completion progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city/stores-robberies.svg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Jumps",
+        "type": "Stunt",
+        "total": 36,
+        "reward": "Cash, counted toward 100% completion",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city/unique-jumps.svg"
+      }
+    ]
+  }
+}

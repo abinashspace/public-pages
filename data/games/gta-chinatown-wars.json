@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "slug": "gta-chinatown-wars",
+    "title": "Grand Theft Auto: Chinatown Wars",
+    "year": 2009,
+    "type": "Spin-off",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.639Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "partial"
+    },
+    "counts": {
+      "characters": 10,
+      "missions": 6,
+      "vehicles": 10,
+      "weapons": 10,
+      "cheats": 0,
+      "locations": 5,
+      "collectibles": 2
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-chinatown-wars/cover.svg",
+      "banner": "assets/img/banner/gta-chinatown-wars/banner.svg",
+      "map": "assets/img/map/gta-chinatown-wars/map.svg"
+    },
+    "sources": [
+      "Chinatown Wars in-game mission list",
+      "Rockstar Leeds DS/PSP release materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "chan-jaoming",
+        "name": "Chan Jaoming",
+        "role": "Triad heir",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Hsin's son and one claimant to the Triad leadership.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/chan-jaoming.svg"
+      },
+      {
+        "id": "hsin-jaoming",
+        "name": "Hsin Jaoming",
+        "role": "Triad boss",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Aging Triad leader whose succession struggle drives the plot.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/hsin-jaoming.svg"
+      },
+      {
+        "id": "huang-lee",
+        "name": "Huang Lee",
+        "role": "Protagonist",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Returns to Liberty City with a stolen sword and a murdered father's legacy to untangle.",
+        "status": "Alive",
+        "first_appearance": "GTA: Chinatown Wars",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/huang-lee.svg"
+      },
+      {
+        "id": "lester-leroc",
+        "name": "Lester Leroc",
+        "role": "Crime scene investigator",
+        "affiliations": [
+          "Liberty City forensics"
+        ],
+        "summary": "Forensics contact who provides Huang with information.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-chinatown-wars/lester-leroc.svg"
+      },
+      {
+        "id": "ling",
+        "name": "Ling",
+        "role": "Ally",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Huang's ally within the Triad power struggle.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-chinatown-wars/ling.svg"
+      },
+      {
+        "id": "melanie-mallard",
+        "name": "Melanie Mallard",
+        "role": "Journalist",
+        "affiliations": [
+          "Liberty City press"
+        ],
+        "summary": "Investigative journalist working the Triad succession story.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/melanie-mallard.svg"
+      },
+      {
+        "id": "rudy-davanzo",
+        "name": "Rudy D'Avanzo",
+        "role": "Mafia associate",
+        "affiliations": [
+          "Liberty City Mafia"
+        ],
+        "summary": "Italian mob contact who pulls Huang into Mafia business.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/rudy-davanzo.svg"
+      },
+      {
+        "id": "wade-heston",
+        "name": "Wade Heston",
+        "role": "Undercover agent",
+        "affiliations": [
+          "Federal law enforcement"
+        ],
+        "summary": "Undercover operative who recruits Huang's help.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/wade-heston.svg"
+      },
+      {
+        "id": "wu-lee",
+        "name": "Wu Lee",
+        "role": "Uncle, Triad elder",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Huang's uncle and the Triad elder he reports to.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/wu-lee.svg"
+      },
+      {
+        "id": "zhou-ming",
+        "name": "Zhou Ming",
+        "role": "Triad rival",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "The other claimant to the Triad leadership.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/zhou-ming.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "counterfeit-gangster",
+        "order": 1,
+        "name": "Counterfeit Gangster",
+        "type": "Story",
+        "giver": "Wu Lee",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Opening arc: Huang's arrival and the stolen sword go wrong.",
+        "verified": true,
+        "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.svg"
+      },
+      {
+        "id": "the-sword",
+        "order": 2,
+        "name": "The Sword",
+        "type": "Story",
+        "giver": "Wu Lee",
+        "location": "Chinatown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Recover the family sword from the people who took it.",
+        "verified": false,
+        "image": "assets/img/mission/gta-chinatown-wars/the-sword.svg"
+      },
+      {
+        "id": "triad-succession",
+        "order": 3,
+        "name": "Triad succession",
+        "type": "Story",
+        "giver": "Hsin Jaoming",
+        "location": "Chinatown",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Huang works both claimants in the Triad succession fight.",
+        "verified": false,
+        "image": "assets/img/mission/gta-chinatown-wars/triad-succession.svg"
+      },
+      {
+        "id": "mafia-favour",
+        "order": 4,
+        "name": "Mafia favour",
+        "type": "Story",
+        "giver": "Rudy D'Avanzo",
+        "location": "Portland",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Jobs for the Liberty City Mafia.",
+        "verified": false,
+        "image": "assets/img/mission/gta-chinatown-wars/mafia-favour.svg"
+      },
+      {
+        "id": "undercover-work",
+        "order": 5,
+        "name": "Undercover work",
+        "type": "Story",
+        "giver": "Wade Heston",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Federal operation that pulls Huang deeper into the conspiracy.",
+        "verified": false,
+        "image": "assets/img/mission/gta-chinatown-wars/undercover-work.svg"
+      },
+      {
+        "id": "finale",
+        "order": 6,
+        "name": "Finale",
+        "type": "Story",
+        "giver": "—",
+        "location": "Liberty City",
+        "reward": {
+          "money": 0
+        },
+        "summary": "Resolution of the Triad succession and the sword's fate.",
+        "verified": false,
+        "image": "assets/img/mission/gta-chinatown-wars/finale.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/ambulance.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/banshee.svg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/cheetah.svg"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency",
+        "class": "Fire",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/fire-truck.svg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/infernus.svg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-chinatown-wars/maverick.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-car.svg"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Boat",
+        "class": "Police boat",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-chinatown-wars/predator.svg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/sentinel.svg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/taxi.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.svg"
+      },
+      {
+        "id": "fists",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/fists.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/grenades.svg"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee",
+        "damage_tier": "High",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Story",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/katana.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Ammu-Nation equivalent",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/pistol.svg"
+      },
+      {
+        "id": "rifle",
+        "name": "Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Later missions",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/rifle.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "chinatown",
+        "name": "Chinatown",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Triad heartland and the game's opening area.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/chinatown.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "Liberty City in 2009, rendered top-down with a stylised cel-shaded look.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/liberty-city.svg"
+      },
+      {
+        "id": "portland",
+        "name": "Portland",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/portland.svg"
+      },
+      {
+        "id": "shoreside-vale",
+        "name": "Shoreside Vale",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Suburban island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/shoreside-vale.svg"
+      },
+      {
+        "id": "staunton-island",
+        "name": "Staunton Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Commercial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/staunton-island.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "drug-deals",
+        "name": "Drug deals",
+        "type": "Trade",
+        "total": 0,
+        "reward": "Profit and safehouse upgrades",
+        "verified": false,
+        "source": "Continuous economy, not a fixed collectible set",
+        "image": "assets/img/collectible/gta-chinatown-wars/drug-deals.svg"
+      },
+      {
+        "id": "lions-of-south",
+        "name": "Lions of South America",
+        "type": "Collectible",
+        "total": 0,
+        "reward": "Cash and 100% progress",
+        "verified": false,
+        "image": "assets/img/collectible/gta-chinatown-wars/lions-of-south.svg"
+      }
+    ]
+  }
+}

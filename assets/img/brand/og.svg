@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="GTA Hub — placeholder image">
+<title>GTA Hub — placeholder</title>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4a0000"/><stop offset="1" stop-color="#810000"/>
+</linearGradient>
+<pattern id="p" width="30" height="30" patternUnits="userSpaceOnUse" patternTransform="rotate(21)">
+<rect width="5" height="30" fill="#ffa9a9" opacity="0.07"/>
+</pattern>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#p)"/>
+<rect x="10" y="10" width="1180" height="610" fill="none" stroke="#ffa9a9" stroke-opacity="0.25" stroke-width="5"/>
+<text x="600" y="297.99" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="113.39999999999999" fill="#ffa9a9" fill-opacity="0.22" letter-spacing="5.67">GH</text>
+<text x="600" y="353.4" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="64" fill="#ffa9a9">GTA Hub</text>
+<text x="600" y="417.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="22" fill="#ffa9a9" fill-opacity="0.72">Every Grand Theft Auto game, every record, one static repository.</text>
+<text x="600" y="605" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="17.6" fill="#ffa9a9" fill-opacity="0.45">BRAND · 1200×630 · PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,129 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 255,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/banshee.svg"
+    },
+    {
+      "id": "bati-800",
+      "name": "Bati 800",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 250,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/bati-800.svg"
+    },
+    {
+      "id": "buzzard",
+      "name": "Buzzard",
+      "category": "Aircraft",
+      "class": "Attack helicopter",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/buzzard.svg"
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 250,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/comet.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 290,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/infernus.svg"
+    },
+    {
+      "id": "jetmax",
+      "name": "Jetmax",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 130,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/jetmax.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 230,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/maverick.svg"
+    },
+    {
+      "id": "nrg-900",
+      "name": "NRG-900",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 260,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/nrg-900.svg"
+    },
+    {
+      "id": "police-cruiser",
+      "name": "Police Cruiser",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 225,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/police-cruiser.svg"
+    },
+    {
+      "id": "schafter",
+      "name": "Schafter",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 220,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/schafter.svg"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 215,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/sentinel.svg"
+    },
+    {
+      "id": "turismo",
+      "name": "Turismo",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 285,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-the-ballad-of-gay-tony/turismo.svg"
+    }
+  ]
+}

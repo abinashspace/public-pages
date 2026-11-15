@@ -1,0 +1,622 @@
+{
+  "generated": "2026-11-15T15:53:40.703Z",
+  "games": [
+    {
+      "slug": "gta",
+      "title": "Grand Theft Auto",
+      "status": "released",
+      "records": 28,
+      "sections": {
+        "characters": {
+          "count": 4,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 3,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 9,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 7,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 1,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 3,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 1,
+          "coverage": "limited"
+        }
+      }
+    },
+    {
+      "slug": "gta-london-1969",
+      "title": "Grand Theft Auto: London 1969",
+      "status": "released",
+      "records": 22,
+      "sections": {
+        "characters": {
+          "count": 3,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 3,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 6,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 5,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 1,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 4,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 0,
+          "coverage": "empty"
+        }
+      }
+    },
+    {
+      "slug": "gta-london-1961",
+      "title": "Grand Theft Auto: London 1961",
+      "status": "released",
+      "records": 15,
+      "sections": {
+        "characters": {
+          "count": 2,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 2,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 5,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 4,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 1,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 1,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 0,
+          "coverage": "empty"
+        }
+      }
+    },
+    {
+      "slug": "gta-2",
+      "title": "Grand Theft Auto 2",
+      "status": "released",
+      "records": 35,
+      "sections": {
+        "characters": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 4,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 9,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 1,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 4,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 1,
+          "coverage": "limited"
+        }
+      }
+    },
+    {
+      "slug": "gta-iii",
+      "title": "Grand Theft Auto III",
+      "status": "released",
+      "records": 173,
+      "sections": {
+        "characters": {
+          "count": 19,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 57,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 50,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "locations": {
+          "count": 18,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 3,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-vice-city",
+      "title": "Grand Theft Auto: Vice City",
+      "status": "released",
+      "records": 178,
+      "sections": {
+        "characters": {
+          "count": 20,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 46,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 51,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 20,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 20,
+          "coverage": "partial"
+        },
+        "locations": {
+          "count": 17,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 4,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-san-andreas",
+      "title": "Grand Theft Auto: San Andreas",
+      "status": "released",
+      "records": 220,
+      "sections": {
+        "characters": {
+          "count": 23,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 69,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 54,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 21,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 25,
+          "coverage": "partial"
+        },
+        "locations": {
+          "count": 22,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 6,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-advance",
+      "title": "Grand Theft Auto Advance",
+      "status": "released",
+      "records": 30,
+      "sections": {
+        "characters": {
+          "count": 7,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 5,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 6,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 4,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 0,
+          "coverage": "empty"
+        }
+      }
+    },
+    {
+      "slug": "gta-liberty-city-stories",
+      "title": "Grand Theft Auto: Liberty City Stories",
+      "status": "released",
+      "records": 71,
+      "sections": {
+        "characters": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 16,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 10,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 5,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-vice-city-stories",
+      "title": "Grand Theft Auto: Vice City Stories",
+      "status": "released",
+      "records": 73,
+      "sections": {
+        "characters": {
+          "count": 13,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 13,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 19,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 13,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 10,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 5,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-iv",
+      "title": "Grand Theft Auto IV",
+      "status": "released",
+      "records": 148,
+      "sections": {
+        "characters": {
+          "count": 18,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 50,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 38,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "locations": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 4,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-iv-the-lost-and-damned",
+      "title": "Grand Theft Auto IV: The Lost and Damned",
+      "status": "released",
+      "records": 57,
+      "sections": {
+        "characters": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 8,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 6,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 3,
+          "coverage": "partial"
+        }
+      }
+    },
+    {
+      "slug": "gta-the-ballad-of-gay-tony",
+      "title": "Grand Theft Auto: The Ballad of Gay Tony",
+      "status": "released",
+      "records": 58,
+      "sections": {
+        "characters": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 15,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 8,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 7,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 4,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-chinatown-wars",
+      "title": "Grand Theft Auto: Chinatown Wars",
+      "status": "released",
+      "records": 43,
+      "sections": {
+        "characters": {
+          "count": 10,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 6,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 10,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 10,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "limited"
+        },
+        "locations": {
+          "count": 5,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 2,
+          "coverage": "partial"
+        }
+      }
+    },
+    {
+      "slug": "gta-v",
+      "title": "Grand Theft Auto V",
+      "status": "released",
+      "records": 151,
+      "sections": {
+        "characters": {
+          "count": 19,
+          "coverage": "partial"
+        },
+        "missions": {
+          "count": 43,
+          "coverage": "partial"
+        },
+        "vehicles": {
+          "count": 35,
+          "coverage": "partial"
+        },
+        "weapons": {
+          "count": 22,
+          "coverage": "partial"
+        },
+        "cheats": {
+          "count": 12,
+          "coverage": "partial"
+        },
+        "locations": {
+          "count": 14,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 6,
+          "coverage": "complete"
+        }
+      }
+    },
+    {
+      "slug": "gta-online",
+      "title": "Grand Theft Auto Online",
+      "status": "live",
+      "records": 38,
+      "sections": {
+        "characters": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "missions": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "vehicles": {
+          "count": 8,
+          "coverage": "limited"
+        },
+        "weapons": {
+          "count": 6,
+          "coverage": "limited"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "empty"
+        },
+        "locations": {
+          "count": 5,
+          "coverage": "partial"
+        },
+        "collectibles": {
+          "count": 3,
+          "coverage": "limited"
+        }
+      }
+    },
+    {
+      "slug": "gta-vi",
+      "title": "Grand Theft Auto VI",
+      "status": "upcoming",
+      "records": 4,
+      "sections": {
+        "characters": {
+          "count": 2,
+          "coverage": "official-only"
+        },
+        "missions": {
+          "count": 0,
+          "coverage": "empty"
+        },
+        "vehicles": {
+          "count": 0,
+          "coverage": "empty"
+        },
+        "weapons": {
+          "count": 0,
+          "coverage": "empty"
+        },
+        "cheats": {
+          "count": 0,
+          "coverage": "empty"
+        },
+        "locations": {
+          "count": 2,
+          "coverage": "official-only"
+        },
+        "collectibles": {
+          "count": 0,
+          "coverage": "empty"
+        }
+      }
+    }
+  ],
+  "images": {
+    "total": 1395,
+    "real": 0,
+    "placeholder": 1395
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "game": "gta-iv-the-lost-and-damned",
+  "game_title": "Grand Theft Auto IV: The Lost and Damned",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "bagger",
+      "name": "Bagger",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bagger.svg"
+    },
+    {
+      "id": "bati-800",
+      "name": "Bati 800",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 250,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-800.svg"
+    },
+    {
+      "id": "daemon",
+      "name": "Daemon",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/daemon.svg"
+    },
+    {
+      "id": "double-t",
+      "name": "Double T",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 240,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t.svg"
+    },
+    {
+      "id": "fbi-buffalo",
+      "name": "FBI Buffalo",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 250,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fbi-buffalo.svg"
+    },
+    {
+      "id": "gang-burrito",
+      "name": "Gang Burrito",
+      "category": "Van",
+      "class": "Gang",
+      "top_speed_kph": 160,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/gang-burrito.svg"
+    },
+    {
+      "id": "hexer",
+      "name": "Hexer",
+      "category": "Motorcycle",
+      "class": "Custom cruiser",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hexer.svg"
+    },
+    {
+      "id": "innovation",
+      "name": "Innovation",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/innovation.svg"
+    },
+    {
+      "id": "lycan",
+      "name": "Lycan",
+      "category": "Motorcycle",
+      "class": "Custom cruiser",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lycan.svg"
+    },
+    {
+      "id": "nightblade",
+      "name": "Nightblade",
+      "category": "Motorcycle",
+      "class": "Custom cruiser",
+      "top_speed_kph": 185,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nightblade.svg"
+    },
+    {
+      "id": "police-cruiser",
+      "name": "Police Cruiser",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 225,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-cruiser.svg"
+    },
+    {
+      "id": "revenant",
+      "name": "Revenant",
+      "category": "Motorcycle",
+      "class": "Custom cruiser",
+      "top_speed_kph": 185,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/revenant.svg"
+    },
+    {
+      "id": "slamvan",
+      "name": "Slamvan",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/slamvan.svg"
+    },
+    {
+      "id": "wolfsbane",
+      "name": "Wolfsbane",
+      "category": "Motorcycle",
+      "class": "Custom cruiser",
+      "top_speed_kph": 185,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wolfsbane.svg"
+    }
+  ]
+}

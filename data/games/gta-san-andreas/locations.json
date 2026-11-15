@@ -1,0 +1,207 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 22,
+  "items": [
+    {
+      "id": "area-69",
+      "name": "Area 69",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Secret military base in the desert.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/area-69.svg"
+    },
+    {
+      "id": "bone-county",
+      "name": "Bone County",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Desert region containing Area 69 and Las Barrancas.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/bone-county.svg"
+    },
+    {
+      "id": "caligulas-palace",
+      "name": "Caligula's Palace",
+      "type": "Landmark",
+      "parent": "Las Venturas",
+      "summary": "Casino owned by the Leones and robbed in the finale of the LV act.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/caligulas-palace.svg"
+    },
+    {
+      "id": "chinatown-sf",
+      "name": "Chinatown",
+      "type": "Neighbourhood",
+      "parent": "San Fierro",
+      "summary": "Triad headquarters and Woozie's base.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/chinatown-sf.svg"
+    },
+    {
+      "id": "doherty",
+      "name": "Doherty",
+      "type": "Neighbourhood",
+      "parent": "San Fierro",
+      "summary": "Industrial district with CJ's garage.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/doherty.svg"
+    },
+    {
+      "id": "east-los-santos",
+      "name": "East Los Santos",
+      "type": "District",
+      "parent": "Los Santos",
+      "summary": "Industrial and residential area near the docks.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/east-los-santos.svg"
+    },
+    {
+      "id": "easter-basin",
+      "name": "Easter Basin",
+      "type": "District",
+      "parent": "San Fierro",
+      "summary": "Docks and naval area.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/easter-basin.svg"
+    },
+    {
+      "id": "ganton",
+      "name": "Ganton",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Grove Street Families home turf and CJ's safehouse.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/ganton.svg"
+    },
+    {
+      "id": "glen-park",
+      "name": "Glen Park",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Contested neighbourhood during the gang war.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/glen-park.svg"
+    },
+    {
+      "id": "idlewood",
+      "name": "Idlewood",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Ballas territory south of Ganton.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/idlewood.svg"
+    },
+    {
+      "id": "jefferson",
+      "name": "Jefferson",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Motel district and site of Reuniting the Families.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/jefferson.svg"
+    },
+    {
+      "id": "las-venturas",
+      "name": "Las Venturas",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Las Vegas-inspired casino city in the desert.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/las-venturas.svg"
+    },
+    {
+      "id": "los-santos",
+      "name": "Los Santos",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "Los Angeles-inspired southern city and Grove Street's home.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/los-santos.svg"
+    },
+    {
+      "id": "los-santos-international",
+      "name": "Los Santos International Airport",
+      "type": "Landmark",
+      "parent": "Los Santos",
+      "summary": "Main airport, unlocked for flight.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/los-santos-international.svg"
+    },
+    {
+      "id": "mount-chiliad",
+      "name": "Mount Chiliad",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Tallest mountain in the state.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/mount-chiliad.svg"
+    },
+    {
+      "id": "mulholland",
+      "name": "Mulholland",
+      "type": "Neighbourhood",
+      "parent": "Los Santos",
+      "summary": "Hillside district with Madd Dogg's mansion.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/mulholland.svg"
+    },
+    {
+      "id": "pier-69",
+      "name": "Pier 69",
+      "type": "Landmark",
+      "parent": "San Fierro",
+      "summary": "Pier used for the Loco Syndicate ambush.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/pier-69.svg"
+    },
+    {
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "Region",
+      "parent": null,
+      "summary": "The fictional state containing three cities, desert, forest and countryside.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/san-andreas.svg"
+    },
+    {
+      "id": "san-fierro",
+      "name": "San Fierro",
+      "type": "City",
+      "parent": "San Andreas",
+      "summary": "San Francisco-inspired city on the western coast.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/san-fierro.svg"
+    },
+    {
+      "id": "the-strip",
+      "name": "The Strip",
+      "type": "District",
+      "parent": "Las Venturas",
+      "summary": "Main casino boulevard of Las Venturas.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/the-strip.svg"
+    },
+    {
+      "id": "verdant-meadows",
+      "name": "Verdant Meadows",
+      "type": "Landmark",
+      "parent": "San Andreas",
+      "summary": "Abandoned airstrip bought during the Toreno missions.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/verdant-meadows.svg"
+    },
+    {
+      "id": "whetstone",
+      "name": "Whetstone",
+      "type": "Region",
+      "parent": "San Andreas",
+      "summary": "Rural south-western region where the Badlands act begins.",
+      "verified": true,
+      "image": "assets/img/location/gta-san-andreas/whetstone.svg"
+    }
+  ]
+}

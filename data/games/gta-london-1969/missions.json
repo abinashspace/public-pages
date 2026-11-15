@@ -1,0 +1,54 @@
+{
+  "game": "gta-london-1969",
+  "game_title": "Grand Theft Auto: London 1969",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 3,
+  "items": [
+    {
+      "id": "london-chapter-1",
+      "order": 1,
+      "name": "London chapter 1",
+      "type": "Story",
+      "giver": "London firms",
+      "location": "London",
+      "reward": {
+        "money": 0,
+        "other": "Rank progression"
+      },
+      "summary": "Opening jobs in 1969 London, using period cars and the original GTA mission loop.",
+      "verified": true,
+      "image": "assets/img/mission/gta-london-1969/london-chapter-1.svg"
+    },
+    {
+      "id": "london-chapter-2",
+      "order": 2,
+      "name": "London chapter 2",
+      "type": "Story",
+      "giver": "London firms",
+      "location": "London",
+      "reward": {
+        "money": 0,
+        "other": "Rank progression"
+      },
+      "summary": "Mid-game London jobs with heavier police response.",
+      "verified": false,
+      "image": "assets/img/mission/gta-london-1969/london-chapter-2.svg"
+    },
+    {
+      "id": "london-chapter-3",
+      "order": 3,
+      "name": "London chapter 3",
+      "type": "Story",
+      "giver": "London firms",
+      "location": "London",
+      "reward": {
+        "money": 0,
+        "other": "Final rank"
+      },
+      "summary": "Closing London chapter.",
+      "verified": false,
+      "image": "assets/img/mission/gta-london-1969/london-chapter-3.svg"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 4,
+  "items": [
+    {
+      "id": "hidden-packages",
+      "name": "Hidden Packages",
+      "type": "Package",
+      "total": 100,
+      "reward": "Weapons at the Ocean View Hotel at 10-package milestones",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city/hidden-packages.svg"
+    },
+    {
+      "id": "rampages",
+      "name": "Rampages",
+      "type": "Rampage",
+      "total": 35,
+      "reward": "Cash and weapon pickups",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city/rampages.svg"
+    },
+    {
+      "id": "stores-robberies",
+      "name": "Store Robberies",
+      "type": "Robbery",
+      "total": 15,
+      "reward": "Cash and 100% completion progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city/stores-robberies.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Jumps",
+      "type": "Stunt",
+      "total": 36,
+      "reward": "Cash, counted toward 100% completion",
+      "verified": true,
+      "image": "assets/img/collectible/gta-vice-city/unique-jumps.svg"
+    }
+  ]
+}

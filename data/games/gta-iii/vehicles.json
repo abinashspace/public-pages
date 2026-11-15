@@ -1,0 +1,509 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 50,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": 140,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/banshee.svg"
+    },
+    {
+      "id": "barracks-ol",
+      "name": "Barracks OL",
+      "category": "Military",
+      "class": "Truck",
+      "top_speed_kph": 90,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/barracks-ol.svg"
+    },
+    {
+      "id": "bf-injection",
+      "name": "BF Injection",
+      "category": "Car",
+      "class": "Buggy",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/bf-injection.svg"
+    },
+    {
+      "id": "bobcat",
+      "name": "Bobcat",
+      "category": "Car",
+      "class": "Pickup",
+      "top_speed_kph": 155,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/bobcat.svg"
+    },
+    {
+      "id": "borgnine",
+      "name": "Borgnine",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/borgnine.svg"
+    },
+    {
+      "id": "bus",
+      "name": "Bus",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": 110,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/bus.svg"
+    },
+    {
+      "id": "cabbie",
+      "name": "Cabbie",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/cabbie.svg"
+    },
+    {
+      "id": "cartel-cruiser",
+      "name": "Cartel Cruiser",
+      "category": "Car",
+      "class": "Gang",
+      "top_speed_kph": 190,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/cartel-cruiser.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 220,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/cheetah.svg"
+    },
+    {
+      "id": "coach",
+      "name": "Coach",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": 120,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/coach.svg"
+    },
+    {
+      "id": "diablo-stallion",
+      "name": "Diablo Stallion",
+      "category": "Car",
+      "class": "Gang",
+      "top_speed_kph": 195,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/diablo-stallion.svg"
+    },
+    {
+      "id": "dodo",
+      "name": "Dodo",
+      "category": "Aircraft",
+      "class": "Plane",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/dodo.svg"
+    },
+    {
+      "id": "dozer",
+      "name": "Dozer",
+      "category": "Industrial",
+      "class": "Construction",
+      "top_speed_kph": 30,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/dozer.svg"
+    },
+    {
+      "id": "dumper",
+      "name": "Dumper",
+      "category": "Industrial",
+      "class": "Construction",
+      "top_speed_kph": 50,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/dumper.svg"
+    },
+    {
+      "id": "enforcer",
+      "name": "Enforcer",
+      "category": "Emergency",
+      "class": "Police van",
+      "top_speed_kph": 130,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/enforcer.svg"
+    },
+    {
+      "id": "esperanto",
+      "name": "Esperanto",
+      "category": "Car",
+      "class": "Coupe",
+      "top_speed_kph": 165,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/esperanto.svg"
+    },
+    {
+      "id": "fbi-car",
+      "name": "FBI Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 200,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/fbi-car.svg"
+    },
+    {
+      "id": "firetruck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": 120,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/firetruck.svg"
+    },
+    {
+      "id": "flatbed",
+      "name": "Flatbed",
+      "category": "Industrial",
+      "class": "Truck",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/flatbed.svg"
+    },
+    {
+      "id": "hoods-rumpo-xl",
+      "name": "Hoods Rumpo XL",
+      "category": "Van",
+      "class": "Gang",
+      "top_speed_kph": 150,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.svg"
+    },
+    {
+      "id": "idaho",
+      "name": "Idaho",
+      "category": "Car",
+      "class": "Coupe",
+      "top_speed_kph": 165,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/idaho.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 220,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/infernus.svg"
+    },
+    {
+      "id": "kuruma",
+      "name": "Kuruma",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 170,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/kuruma.svg"
+    },
+    {
+      "id": "landstalker",
+      "name": "Landstalker",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 160,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/landstalker.svg"
+    },
+    {
+      "id": "linerunner",
+      "name": "Linerunner",
+      "category": "Industrial",
+      "class": "Semi",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/linerunner.svg"
+    },
+    {
+      "id": "manana",
+      "name": "Manana",
+      "category": "Car",
+      "class": "Coupe",
+      "top_speed_kph": 160,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/manana.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/maverick.svg"
+    },
+    {
+      "id": "moonbeam",
+      "name": "Moonbeam",
+      "category": "Car",
+      "class": "Van",
+      "top_speed_kph": 150,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/moonbeam.svg"
+    },
+    {
+      "id": "mule",
+      "name": "Mule",
+      "category": "Industrial",
+      "class": "Truck",
+      "top_speed_kph": 120,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/mule.svg"
+    },
+    {
+      "id": "packer",
+      "name": "Packer",
+      "category": "Industrial",
+      "class": "Car carrier",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/packer.svg"
+    },
+    {
+      "id": "patriot",
+      "name": "Patriot",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 170,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/patriot.svg"
+    },
+    {
+      "id": "perennial",
+      "name": "Perennial",
+      "category": "Car",
+      "class": "Station wagon",
+      "top_speed_kph": 150,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/perennial.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/police-car.svg"
+    },
+    {
+      "id": "police-maverick",
+      "name": "Police Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 3,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/police-maverick.svg"
+    },
+    {
+      "id": "pony",
+      "name": "Pony",
+      "category": "Van",
+      "class": "Van",
+      "top_speed_kph": 145,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/pony.svg"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "category": "Boat",
+      "class": "Police boat",
+      "top_speed_kph": 90,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/predator.svg"
+    },
+    {
+      "id": "reefer",
+      "name": "Reefer",
+      "category": "Boat",
+      "class": "Boat",
+      "top_speed_kph": 60,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/reefer.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": 60,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/rhino.svg"
+    },
+    {
+      "id": "rumpo",
+      "name": "Rumpo",
+      "category": "Van",
+      "class": "Van",
+      "top_speed_kph": 145,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/rumpo.svg"
+    },
+    {
+      "id": "securicar",
+      "name": "Securicar",
+      "category": "Industrial",
+      "class": "Armored van",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/securicar.svg"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/sentinel.svg"
+    },
+    {
+      "id": "speeder",
+      "name": "Speeder",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 100,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/speeder.svg"
+    },
+    {
+      "id": "stallion",
+      "name": "Stallion",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/stallion.svg"
+    },
+    {
+      "id": "stinger",
+      "name": "Stinger",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/stinger.svg"
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch",
+      "category": "Car",
+      "class": "Limousine",
+      "top_speed_kph": 170,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/stretch.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 170,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/taxi.svg"
+    },
+    {
+      "id": "trashmaster",
+      "name": "Trashmaster",
+      "category": "Industrial",
+      "class": "Truck",
+      "top_speed_kph": 100,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/trashmaster.svg"
+    },
+    {
+      "id": "yankee",
+      "name": "Yankee",
+      "category": "Industrial",
+      "class": "Truck",
+      "top_speed_kph": 115,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/yankee.svg"
+    },
+    {
+      "id": "yardie-lobo",
+      "name": "Yardie Lobo",
+      "category": "Car",
+      "class": "Gang",
+      "top_speed_kph": 185,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-iii/yardie-lobo.svg"
+    }
+  ]
+}

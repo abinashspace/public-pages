@@ -1,0 +1,197 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "cheats",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "money",
+      "effect": "$250,000",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "IFIWEREARICHMAN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/money.svg"
+    },
+    {
+      "id": "all-weapons",
+      "effect": "All weapons",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GUNSGUNSGUNS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/all-weapons.svg"
+    },
+    {
+      "id": "flying-cars",
+      "effect": "Cars can fly",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "CHITTYCHITTYBB",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/flying-cars.svg"
+    },
+    {
+      "id": "change-clothes",
+      "effect": "Change player clothes",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ILIKEDRESSINGUP",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-iii/change-clothes.svg"
+    },
+    {
+      "id": "wanted-clear",
+      "effect": "Clear wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "NOPOLICEPLEASE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/wanted-clear.svg"
+    },
+    {
+      "id": "blow-up-cars",
+      "effect": "Destroy all vehicles",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BANGBANGBANG",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/blow-up-cars.svg"
+    },
+    {
+      "id": "fast-time",
+      "effect": "Faster game clock",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TIME FLIES BY WHEN YOU'RE DRIVING",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-iii/fast-time.svg"
+    },
+    {
+      "id": "full-armor",
+      "effect": "Full armor",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TURTOISE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/full-armor.svg"
+    },
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GESUNDHEIT",
+          "input": "keyboard"
+        },
+        {
+          "platform": "PlayStation 2",
+          "code": "R2 R2 L1 R1 L2 L2 L2 L1",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/full-health.svg"
+    },
+    {
+      "id": "wanted-up",
+      "effect": "Increase wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "MOREPOLICEPLEASE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/wanted-up.svg"
+    },
+    {
+      "id": "pedestrians-attack",
+      "effect": "Pedestrians attack you",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "NOBODYLIKESME",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-iii/pedestrians-attack.svg"
+    },
+    {
+      "id": "pedestrians-riot",
+      "effect": "Pedestrians riot",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "NASTYLIMBSCHEAT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Community cheat databases — spelling varies by edition",
+      "image": "assets/img/cheat/gta-iii/pedestrians-riot.svg"
+    },
+    {
+      "id": "slow-motion",
+      "effect": "Slow motion",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BOOOOORING",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-iii/slow-motion.svg"
+    },
+    {
+      "id": "spawn-tank",
+      "effect": "Spawn a Rhino tank",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GIVEUSATANK",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-iii/spawn-tank.svg"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "game": "gta-online",
+  "game_title": "Grand Theft Auto Online",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "contact-missions",
+      "order": 1,
+      "name": "Contact missions",
+      "type": "Contact",
+      "giver": "Lamar Davis",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and RP"
+      },
+      "summary": "Repeatable jobs issued by phone contacts; the backbone of early progression.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/contact-missions.svg"
+    },
+    {
+      "id": "apartment-heists",
+      "order": 2,
+      "name": "Apartment Heists",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and RP"
+      },
+      "summary": "Five original heists: Fleeca, Prison Break, Humane Labs, Series A, Pacific Standard.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/apartment-heists.svg"
+    },
+    {
+      "id": "doomsday-heist",
+      "order": 3,
+      "name": "Doomsday Heist",
+      "type": "Heist",
+      "giver": "Agent 14",
+      "location": "San Andreas",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and RP"
+      },
+      "summary": "Three-act heist chain involving the IAA and a nuclear threat.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/doomsday-heist.svg"
+    },
+    {
+      "id": "diamond-casino-heist",
+      "order": 4,
+      "name": "Diamond Casino Heist",
+      "type": "Heist",
+      "giver": "Tom Connors",
+      "location": "The Diamond Casino",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and RP"
+      },
+      "summary": "Player-planned robbery of the Diamond Casino with multiple approaches.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/diamond-casino-heist.svg"
+    },
+    {
+      "id": "cayo-perico-heist",
+      "order": 5,
+      "name": "Cayo Perico Heist",
+      "type": "Heist",
+      "giver": "Pavel",
+      "location": "Cayo Perico",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and RP"
+      },
+      "summary": "Solo-friendly island heist against El Rubio's compound.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/cayo-perico-heist.svg"
+    },
+    {
+      "id": "business-battles",
+      "order": 6,
+      "name": "Business Battles",
+      "type": "Business",
+      "giver": "Free mode",
+      "location": "San Andreas",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ and goods"
+      },
+      "summary": "Free-mode events fought over cargo and nightclub stock.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/business-battles.svg"
+    },
+    {
+      "id": "nightclub-management",
+      "order": 7,
+      "name": "Nightclub management",
+      "type": "Business",
+      "giver": "Tony Prince",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0,
+        "other": "Passive income"
+      },
+      "summary": "Own and promote a nightclub while running linked businesses.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/nightclub-management.svg"
+    },
+    {
+      "id": "vehicle-cargo",
+      "order": 8,
+      "name": "Vehicle Cargo",
+      "type": "Business",
+      "giver": "CEO office",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0,
+        "other": "GTA$ per delivery"
+      },
+      "summary": "Source and sell high-value vehicles from a CEO warehouse.",
+      "verified": true,
+      "image": "assets/img/mission/gta-online/vehicle-cargo.svg"
+    }
+  ]
+}

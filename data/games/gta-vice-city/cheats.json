@@ -1,0 +1,275 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "cheats",
+  "coverage": "partial",
+  "count": 20,
+  "items": [
+    {
+      "id": "flying-boats",
+      "effect": "Cars drive and fly on water",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SEAWAYS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/flying-boats.svg"
+    },
+    {
+      "id": "media-level",
+      "effect": "Change media attention level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "CHASESTAT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/media-level.svg"
+    },
+    {
+      "id": "weather",
+      "effect": "Change weather",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ALOVELYDAY",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Community cheat databases",
+      "image": "assets/img/cheat/gta-vice-city/weather.svg"
+    },
+    {
+      "id": "suicide",
+      "effect": "Commit suicide",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ICANTTAKEITANYMORE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/suicide.svg"
+    },
+    {
+      "id": "blow-up-cars",
+      "effect": "Destroy all vehicles",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BIGBANG",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/blow-up-cars.svg"
+    },
+    {
+      "id": "full-armor",
+      "effect": "Full armor",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "PRECIOUSPROTECTION",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/full-armor.svg"
+    },
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ASPIRINE",
+          "input": "keyboard"
+        },
+        {
+          "platform": "PlayStation 2",
+          "code": "R1 R2 L1 R2 LEFT DOWN RIGHT UP",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/full-health.svg"
+    },
+    {
+      "id": "fat",
+      "effect": "Maximum fat",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "DEEPFRIEDMARSBARS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/fat.svg"
+    },
+    {
+      "id": "thin",
+      "effect": "Minimum fat",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "PROGRAMMER",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/thin.svg"
+    },
+    {
+      "id": "armed-pedestrians",
+      "effect": "Pedestrians carry weapons",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "OURGODGIVENRIGHTTOBEARARMS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/armed-pedestrians.svg"
+    },
+    {
+      "id": "pedestrians-hate",
+      "effect": "Pedestrians hate you",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "NOBODYLIKESME",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/pedestrians-hate.svg"
+    },
+    {
+      "id": "pedestrians-riot",
+      "effect": "Pedestrians riot",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "FIGHTFIGHTFIGHT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/pedestrians-riot.svg"
+    },
+    {
+      "id": "random-outfit",
+      "effect": "Random outfit",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "STILLLIKEDRESSINGUP",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/random-outfit.svg"
+    },
+    {
+      "id": "spawn-tank",
+      "effect": "Spawn a Rhino tank",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "PANZER",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/spawn-tank.svg"
+    },
+    {
+      "id": "spawn-tour-bus",
+      "effect": "Spawn a Tour Bus",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "LOADSOFLITTLETHINGS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-vice-city/spawn-tour-bus.svg"
+    },
+    {
+      "id": "weapons-tier-3",
+      "effect": "Weapons: heavy tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "NUTTERTOOLS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/weapons-tier-3.svg"
+    },
+    {
+      "id": "weapons-tier-1",
+      "effect": "Weapons: light tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "THUGSTOOLS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/weapons-tier-1.svg"
+    },
+    {
+      "id": "weapons-tier-2",
+      "effect": "Weapons: medium tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "PROFESSIONALTOOLS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/weapons-tier-2.svg"
+    },
+    {
+      "id": "women-with-guns",
+      "effect": "Women carry guns",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "CHICKSWITHGUNS",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/women-with-guns.svg"
+    },
+    {
+      "id": "women-follow",
+      "effect": "Women follow you",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "FANNYMAGNET",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-vice-city/women-follow.svg"
+    }
+  ]
+}

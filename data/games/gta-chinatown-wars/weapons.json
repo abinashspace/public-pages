@@ -1,0 +1,119 @@
+{
+  "game": "gta-chinatown-wars",
+  "game_title": "Grand Theft Auto: Chinatown Wars",
+  "section": "weapons",
+  "coverage": "limited",
+  "count": 10,
+  "items": [
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.svg"
+    },
+    {
+      "id": "fists",
+      "name": "Fists",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/fists.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/grenades.svg"
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "type": "Melee",
+      "damage_tier": "High",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Story",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/katana.svg"
+    },
+    {
+      "id": "micro-smg",
+      "name": "Micro SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/molotov.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Ammu-Nation equivalent",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/pistol.svg"
+    },
+    {
+      "id": "rifle",
+      "name": "Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Later missions",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/rifle.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "Rockets",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/rocket-launcher.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "Shells",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-chinatown-wars/shotgun.svg"
+    }
+  ]
+}

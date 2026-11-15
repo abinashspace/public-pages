@@ -1,0 +1,33 @@
+{
+  "game": "gta-vi",
+  "game_title": "Grand Theft Auto VI",
+  "section": "characters",
+  "coverage": "official-only",
+  "count": 2,
+  "items": [
+    {
+      "id": "jason",
+      "name": "Jason",
+      "role": "Protagonist",
+      "affiliations": [],
+      "summary": "Confirmed by Rockstar as the second playable protagonist, partnered with Lucia in the Bonnie-and-Clyde premise.",
+      "status": "Unknown",
+      "first_appearance": "Grand Theft Auto VI",
+      "verified": true,
+      "source": "Rockstar Games GTA VI Trailer 1",
+      "image": "assets/img/portrait/gta-vi/jason.svg"
+    },
+    {
+      "id": "lucia",
+      "name": "Lucia",
+      "role": "Protagonist",
+      "affiliations": [],
+      "summary": "Confirmed by Rockstar as one of two playable protagonists, shown being released from prison in the first trailer.",
+      "status": "Unknown",
+      "first_appearance": "Grand Theft Auto VI",
+      "verified": true,
+      "source": "Rockstar Games GTA VI Trailer 1",
+      "image": "assets/img/portrait/gta-vi/lucia.svg"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 18,
+  "items": [
+    {
+      "id": "bedford-point",
+      "name": "Bedford Point",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Downtown district with the Liberty Tree offices.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/bedford-point.svg"
+    },
+    {
+      "id": "belleville-park",
+      "name": "Belleville Park",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Central park area of Staunton.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/belleville-park.svg"
+    },
+    {
+      "id": "cedar-grove",
+      "name": "Cedar Grove",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Affluent hillside district with the Cartel mansion.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/cedar-grove.svg"
+    },
+    {
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad territory and the fish factory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/chinatown.svg"
+    },
+    {
+      "id": "cochrane-dam",
+      "name": "Cochrane Dam",
+      "type": "Landmark",
+      "parent": "Shoreside Vale",
+      "summary": "The dam where the final mission takes place.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/cochrane-dam.svg"
+    },
+    {
+      "id": "francis-international-airport",
+      "name": "Francis International Airport",
+      "type": "Landmark",
+      "parent": "Shoreside Vale",
+      "summary": "Airport used in A Drop in the Ocean and S.A.M.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/francis-international-airport.svg"
+    },
+    {
+      "id": "harwood",
+      "name": "Harwood",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Industrial area near the Callahan Bridge.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/harwood.svg"
+    },
+    {
+      "id": "hephurn-heights",
+      "name": "Hepburn Heights",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Diablos territory and El Burro's base.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/hephurn-heights.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The game's setting: three islands modelled on New York City.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/liberty-city.svg"
+    },
+    {
+      "id": "pike-creek",
+      "name": "Pike Creek",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Residential area near the dam.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/pike-creek.svg"
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial starting island with the Leone heartland and the docks.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/portland.svg"
+    },
+    {
+      "id": "red-light-district",
+      "name": "Red Light District",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Luigi's Sex Club 7 and the early mission hub.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/red-light-district.svg"
+    },
+    {
+      "id": "saint-marks",
+      "name": "Saint Mark's",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Leone family stronghold and Salvatore's mansion.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/saint-marks.svg"
+    },
+    {
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island with the airport, dam and Cochrane Dam finale.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/shoreside-vale.svg"
+    },
+    {
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial and financial island, unlocked after Last Requests.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/staunton-island.svg"
+    },
+    {
+      "id": "torrington",
+      "name": "Torrington",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Business district and Asuka's construction site.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/torrington.svg"
+    },
+    {
+      "id": "trenton",
+      "name": "Trenton",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Industrial district with Marty Chonks' dog food factory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/trenton.svg"
+    },
+    {
+      "id": "wichita-gardens",
+      "name": "Wichita Gardens",
+      "type": "District",
+      "parent": "Shoreside Vale",
+      "summary": "Housing projects and Red Jacks territory.",
+      "verified": true,
+      "image": "assets/img/location/gta-iii/wichita-gardens.svg"
+    }
+  ]
+}

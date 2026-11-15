@@ -1,0 +1,36 @@
+{
+  "game": "gta-iv-the-lost-and-damned",
+  "game_title": "Grand Theft Auto IV: The Lost and Damned",
+  "section": "collectibles",
+  "coverage": "partial",
+  "count": 3,
+  "items": [
+    {
+      "id": "bike-races",
+      "name": "Bike Races",
+      "type": "Race",
+      "total": 1,
+      "reward": "Cash and bike unlocks",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/bike-races.svg"
+    },
+    {
+      "id": "gang-wars",
+      "name": "Gang Wars",
+      "type": "Side job",
+      "total": 1,
+      "reward": "Club territory and weapon caches",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.svg"
+    },
+    {
+      "id": "seagulls",
+      "name": "Seagulls",
+      "type": "Seagull",
+      "total": 50,
+      "reward": "Weapons at the clubhouse",
+      "verified": true,
+      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.svg"
+    }
+  ]
+}

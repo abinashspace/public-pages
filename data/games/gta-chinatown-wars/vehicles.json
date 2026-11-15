@@ -1,0 +1,109 @@
+{
+  "game": "gta-chinatown-wars",
+  "game_title": "Grand Theft Auto: Chinatown Wars",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 10,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/banshee.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/cheetah.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/fire-truck.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/infernus.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": false,
+      "image": "assets/img/vehicle/gta-chinatown-wars/maverick.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/police-car.svg"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "category": "Boat",
+      "class": "Police boat",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": false,
+      "image": "assets/img/vehicle/gta-chinatown-wars/predator.svg"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/sentinel.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-chinatown-wars/taxi.svg"
+    }
+  ]
+}

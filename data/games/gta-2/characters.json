@@ -1,0 +1,106 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "claude-speed",
+      "name": "Claude Speed",
+      "role": "Protagonist",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "A nameless-until-the-ending criminal working for Anywhere City's seven gangs.",
+      "status": "Varies",
+      "first_appearance": "Grand Theft Auto 2",
+      "verified": true,
+      "image": "assets/img/portrait/gta-2/claude-speed.svg"
+    },
+    {
+      "id": "hare-krishna-leader",
+      "name": "Hare Krishna leader",
+      "role": "Gang leader",
+      "affiliations": [
+        "Hare Krishna"
+      ],
+      "summary": "Leader of the Hare Krishna gang.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/hare-krishna-leader.svg"
+    },
+    {
+      "id": "loonies-leader",
+      "name": "Loonies leader",
+      "role": "Gang leader",
+      "affiliations": [
+        "Loonies"
+      ],
+      "summary": "Leader of the insane asylum-based Loonies gang.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/loonies-leader.svg"
+    },
+    {
+      "id": "rednecks-leader",
+      "name": "Rednecks leader",
+      "role": "Gang leader",
+      "affiliations": [
+        "Rednecks"
+      ],
+      "summary": "Leader of the Rednecks in the Industrial district.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/rednecks-leader.svg"
+    },
+    {
+      "id": "russian-boss",
+      "name": "Russian boss",
+      "role": "Gang leader",
+      "affiliations": [
+        "Russian Mafia"
+      ],
+      "summary": "Head of the Russian Mafia in Anywhere City.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/russian-boss.svg"
+    },
+    {
+      "id": "srs-leader",
+      "name": "SRS leader",
+      "role": "Gang leader",
+      "affiliations": [
+        "SRS Scientists"
+      ],
+      "summary": "Leader of the SRS Scientists, a research-gang operating from a lab.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/srs-leader.svg"
+    },
+    {
+      "id": "yakuza-boss",
+      "name": "Yakuza boss",
+      "role": "Gang leader",
+      "affiliations": [
+        "Yakuza"
+      ],
+      "summary": "Head of the Yakuza in Anywhere City's Downtown district.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/yakuza-boss.svg"
+    },
+    {
+      "id": "zaibatsu-boss",
+      "name": "Zaibatsu boss",
+      "role": "Corporation boss",
+      "affiliations": [
+        "Zaibatsu Corporation"
+      ],
+      "summary": "Head of the Zaibatsu Corporation, the city's dominant corporate power.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-2/zaibatsu-boss.svg"
+    }
+  ]
+}

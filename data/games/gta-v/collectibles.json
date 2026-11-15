@@ -1,0 +1,63 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 6,
+  "items": [
+    {
+      "id": "letter-scraps",
+      "name": "Letter Scraps",
+      "type": "Scrap",
+      "total": 50,
+      "reward": "Unlocks a murder-mystery side story",
+      "verified": true,
+      "image": "assets/img/collectible/gta-v/letter-scraps.svg"
+    },
+    {
+      "id": "monkey-mosaics",
+      "name": "Monkey Mosaics",
+      "type": "Mosaic",
+      "total": 50,
+      "reward": "Unlocks the Go Go Monkey Blista (enhanced editions)",
+      "verified": false,
+      "image": "assets/img/collectible/gta-v/monkey-mosaics.svg"
+    },
+    {
+      "id": "nuclear-waste",
+      "name": "Nuclear Waste",
+      "type": "Barrel",
+      "total": 30,
+      "reward": "Cash and 100% progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-v/nuclear-waste.svg"
+    },
+    {
+      "id": "peyote-plants",
+      "name": "Peyote Plants",
+      "type": "Plant",
+      "total": 30,
+      "reward": "Play as animals (enhanced editions)",
+      "verified": false,
+      "image": "assets/img/collectible/gta-v/peyote-plants.svg"
+    },
+    {
+      "id": "spaceship-parts",
+      "name": "Spaceship Parts",
+      "type": "Part",
+      "total": 50,
+      "reward": "Unlocks the Space Docker vehicle",
+      "verified": true,
+      "image": "assets/img/collectible/gta-v/spaceship-parts.svg"
+    },
+    {
+      "id": "stunt-jumps",
+      "name": "Stunt Jumps",
+      "type": "Stunt",
+      "total": 50,
+      "reward": "Cash and 100% progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-v/stunt-jumps.svg"
+    }
+  ]
+}

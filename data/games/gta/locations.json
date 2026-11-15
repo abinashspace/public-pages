@@ -1,0 +1,36 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 3,
+  "items": [
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "New York-inspired city with three islands, one of three selectable cities.",
+      "verified": true,
+      "image": "assets/img/location/gta/liberty-city.svg"
+    },
+    {
+      "id": "san-andreas",
+      "name": "San Andreas",
+      "type": "City",
+      "parent": null,
+      "summary": "West-coast-inspired city in the original game (unrelated to the 2004 state).",
+      "verified": true,
+      "image": "assets/img/location/gta/san-andreas.svg"
+    },
+    {
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": null,
+      "summary": "Miami-inspired city with beach and downtown areas.",
+      "verified": true,
+      "image": "assets/img/location/gta/vice-city.svg"
+    }
+  ]
+}

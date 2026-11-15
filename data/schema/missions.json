@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://abinashspace.github.io/gta-hub/data/schema/missions.json",
+  "title": "Mission record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "order",
+    "name",
+    "type",
+    "giver",
+    "location",
+    "reward",
+    "summary",
+    "verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Permanent slug, unique within the game."
+    },
+    "order": {
+      "type": "integer",
+      "required": true,
+      "minimum": 1
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true,
+      "enum": [
+        "Story",
+        "Side",
+        "Asset",
+        "Heist",
+        "Contact",
+        "Strangers & Freaks",
+        "Business",
+        "Vehicle",
+        "Random Event"
+      ]
+    },
+    "giver": {
+      "type": "string",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "reward": {
+      "type": "object",
+      "required": true,
+      "properties": {
+        "money": {
+          "type": "integer"
+        },
+        "other": {
+          "type": "string"
+        }
+      }
+    },
+    "summary": {
+      "type": "string",
+      "required": true
+    },
+    "requirements": {
+      "type": "array",
+      "items": "string"
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified": {
+      "type": "boolean",
+      "required": true
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

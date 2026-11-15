@@ -1,0 +1,54 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 3,
+  "items": [
+    {
+      "id": "liberty-city-chapter",
+      "order": 1,
+      "name": "Liberty City chapter",
+      "type": "Story",
+      "giver": "City bosses",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0,
+        "other": "Score and rank progression"
+      },
+      "summary": "A chain of phone-briefed jobs across Liberty City's three islands, driving the score counter toward the next city.",
+      "verified": false,
+      "image": "assets/img/mission/gta/liberty-city-chapter.svg"
+    },
+    {
+      "id": "san-andreas-chapter",
+      "order": 2,
+      "name": "San Andreas chapter",
+      "type": "Story",
+      "giver": "City bosses",
+      "location": "San Andreas",
+      "reward": {
+        "money": 0,
+        "other": "Score and rank progression"
+      },
+      "summary": "Second city chapter: higher-value jobs with heavier police response.",
+      "verified": false,
+      "image": "assets/img/mission/gta/san-andreas-chapter.svg"
+    },
+    {
+      "id": "vice-city-chapter",
+      "order": 3,
+      "name": "Vice City chapter",
+      "type": "Story",
+      "giver": "City bosses",
+      "location": "Vice City",
+      "reward": {
+        "money": 0,
+        "other": "Final rank"
+      },
+      "summary": "Final city chapter, ending in the highest-score finale.",
+      "verified": false,
+      "image": "assets/img/mission/gta/vice-city-chapter.svg"
+    }
+  ]
+}

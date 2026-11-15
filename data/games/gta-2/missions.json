@@ -1,0 +1,69 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 4,
+  "items": [
+    {
+      "id": "downtown-jobs",
+      "order": 1,
+      "name": "Downtown jobs",
+      "type": "Story",
+      "giver": "Downtown gang bosses",
+      "location": "Downtown",
+      "reward": {
+        "money": 0,
+        "other": "Respect with Downtown gangs"
+      },
+      "summary": "First district mission chain; completing jobs raises respect and unlocks better weapons.",
+      "verified": true,
+      "image": "assets/img/mission/gta-2/downtown-jobs.svg"
+    },
+    {
+      "id": "residential-jobs",
+      "order": 2,
+      "name": "Residential jobs",
+      "type": "Story",
+      "giver": "Residential gang bosses",
+      "location": "Residential",
+      "reward": {
+        "money": 0,
+        "other": "Respect progression"
+      },
+      "summary": "Second district chain with tougher rivals and better payouts.",
+      "verified": true,
+      "image": "assets/img/mission/gta-2/residential-jobs.svg"
+    },
+    {
+      "id": "industrial-jobs",
+      "order": 3,
+      "name": "Industrial jobs",
+      "type": "Story",
+      "giver": "Industrial gang bosses",
+      "location": "Industrial",
+      "reward": {
+        "money": 0,
+        "other": "Respect progression"
+      },
+      "summary": "Third district chain based around the docks and factories.",
+      "verified": true,
+      "image": "assets/img/mission/gta-2/industrial-jobs.svg"
+    },
+    {
+      "id": "final-jobs",
+      "order": 4,
+      "name": "Final jobs",
+      "type": "Story",
+      "giver": "Zaibatsu",
+      "location": "Anywhere City",
+      "reward": {
+        "money": 0,
+        "other": "Ending"
+      },
+      "summary": "Endgame chain against the Zaibatsu Corporation.",
+      "verified": false,
+      "image": "assets/img/mission/gta-2/final-jobs.svg"
+    }
+  ]
+}

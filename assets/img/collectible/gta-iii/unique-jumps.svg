@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Unique Jumps — placeholder image">
+<title>Unique Jumps — placeholder</title>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#00002c"/><stop offset="1" stop-color="#001263"/>
+</linearGradient>
+<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(29)">
+<rect width="2" height="12" fill="#91e9ff" opacity="0.07"/>
+</pattern>
+</defs>
+<rect width="256" height="256" fill="url(#g)"/>
+<rect width="256" height="256" fill="url(#p)"/>
+<rect x="4" y="4" width="248" height="248" fill="none" stroke="#91e9ff" stroke-opacity="0.25" stroke-width="2"/>
+<text x="128" y="121.088" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="46.08" fill="#91e9ff" fill-opacity="0.22" letter-spacing="2.304">UJ</text>
+<text x="128" y="140.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="21" fill="#91e9ff">Unique Jumps</text>
+<text x="128" y="161.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#91e9ff" fill-opacity="0.72">gta-iii</text>
+<text x="128" y="246" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#91e9ff" fill-opacity="0.45">COLLECTIBLE · 256×256 · PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,59 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 4,
+  "items": [
+    {
+      "id": "el-burro-gta1",
+      "name": "El Burro",
+      "role": "Boss (San Andreas)",
+      "affiliations": [
+        "San Andreas gangs"
+      ],
+      "summary": "A San Andreas mission boss in the original top-down game.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta/el-burro-gta1.svg"
+    },
+    {
+      "id": "player-character",
+      "name": "Player-named protagonist",
+      "role": "Protagonist",
+      "affiliations": [
+        "Independent"
+      ],
+      "summary": "The player picks one of several starting characters; all follow the same three-city crime ladder.",
+      "status": "Varies",
+      "first_appearance": "Grand Theft Auto",
+      "verified": false,
+      "source": "Character select roster needs verification",
+      "image": "assets/img/portrait/gta/player-character.svg"
+    },
+    {
+      "id": "samuel-deever",
+      "name": "Samuel Deever",
+      "role": "Boss (Vice City)",
+      "affiliations": [
+        "Vice City gangs"
+      ],
+      "summary": "Vice City mission contact in the original game.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta/samuel-deever.svg"
+    },
+    {
+      "id": "uncle-fu",
+      "name": "Uncle Fu",
+      "role": "Boss (Liberty City)",
+      "affiliations": [
+        "Liberty City gangs"
+      ],
+      "summary": "One of the city bosses who hands out missions in Liberty City.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta/uncle-fu.svg"
+    }
+  ]
+}

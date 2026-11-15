@@ -1,0 +1,141 @@
+{
+  "game": "gta-iii",
+  "game_title": "Grand Theft Auto III",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 12,
+  "items": [
+    {
+      "id": "ak-47",
+      "name": "AK-47",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation (later)",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/ak-47.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/baseball-bat.svg"
+    },
+    {
+      "id": "fist",
+      "name": "Fists",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/fist.svg"
+    },
+    {
+      "id": "flamethrower",
+      "name": "Flamethrower",
+      "type": "Heavy",
+      "damage_tier": "Very high",
+      "ammo": "Continuous",
+      "price": null,
+      "unlock": "El Burro mission / pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/flamethrower.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/grenades.svg"
+    },
+    {
+      "id": "m16",
+      "name": "M16",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "60 rounds",
+      "price": null,
+      "unlock": "Hidden packages reward",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/m16.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/molotov.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Default sidearm; Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/pistol.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Phil Cassidy / hidden packages",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/rocket-launcher.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/shotgun.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/sniper-rifle.svg"
+    },
+    {
+      "id": "uzi",
+      "name": "Uzi",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "25 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation / 8-Ball",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iii/uzi.svg"
+    }
+  ]
+}

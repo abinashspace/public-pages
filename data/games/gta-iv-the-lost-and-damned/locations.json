@@ -1,0 +1,63 @@
+{
+  "game": "gta-iv-the-lost-and-damned",
+  "game_title": "Grand Theft Auto IV: The Lost and Damned",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 6,
+  "items": [
+    {
+      "id": "acton-hill",
+      "name": "Acton Hill",
+      "type": "Neighbourhood",
+      "parent": "Alderney",
+      "summary": "Industrial area near the Lost clubhouse.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/acton-hill.svg"
+    },
+    {
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "The Lost MC clubhouse and main operating area.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.svg"
+    },
+    {
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue used for diamond-related missions.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.svg"
+    },
+    {
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.svg"
+    },
+    {
+      "id": "broker",
+      "name": "Broker",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Eastern borough visited during club business.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Same map as GTA IV, used from the Lost's Alderney base.",
+      "verified": true,
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/liberty-city.svg"
+    }
+  ]
+}

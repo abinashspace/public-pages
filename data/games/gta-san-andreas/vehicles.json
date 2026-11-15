@@ -1,0 +1,549 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 54,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": 145,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/ambulance.svg"
+    },
+    {
+      "id": "bandito",
+      "name": "Bandito",
+      "category": "Car",
+      "class": "Buggy",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/bandito.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 230,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/banshee.svg"
+    },
+    {
+      "id": "bf-injection",
+      "name": "BF Injection",
+      "category": "Car",
+      "class": "Buggy",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/bf-injection.svg"
+    },
+    {
+      "id": "blade",
+      "name": "Blade",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/blade.svg"
+    },
+    {
+      "id": "bobcat",
+      "name": "Bobcat",
+      "category": "Car",
+      "class": "Pickup",
+      "top_speed_kph": 160,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/bobcat.svg"
+    },
+    {
+      "id": "buffalo",
+      "name": "Buffalo",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 205,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/buffalo.svg"
+    },
+    {
+      "id": "bullet",
+      "name": "Bullet",
+      "category": "Car",
+      "class": "Super",
+      "top_speed_kph": 250,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/bullet.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 235,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/cheetah.svg"
+    },
+    {
+      "id": "coastguard",
+      "name": "Coast Guard",
+      "category": "Boat",
+      "class": "Patrol boat",
+      "top_speed_kph": 100,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/coastguard.svg"
+    },
+    {
+      "id": "elegy",
+      "name": "Elegy",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 215,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/elegy.svg"
+    },
+    {
+      "id": "fbi-truck",
+      "name": "FBI Truck",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/fbi-truck.svg"
+    },
+    {
+      "id": "fcr-900",
+      "name": "FCR-900",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 220,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/fcr-900.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": 125,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/fire-truck.svg"
+    },
+    {
+      "id": "freeway",
+      "name": "Freeway",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 185,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/freeway.svg"
+    },
+    {
+      "id": "hunter",
+      "name": "Hunter",
+      "category": "Aircraft",
+      "class": "Attack helicopter",
+      "top_speed_kph": 220,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/hunter.svg"
+    },
+    {
+      "id": "huntley",
+      "name": "Huntley",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/huntley.svg"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "category": "Aircraft",
+      "class": "Jump jet",
+      "top_speed_kph": 400,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/hydra.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 240,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/infernus.svg"
+    },
+    {
+      "id": "jester",
+      "name": "Jester",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 215,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/jester.svg"
+    },
+    {
+      "id": "jetmax",
+      "name": "Jetmax",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 115,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/jetmax.svg"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 180,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/leviathan.svg"
+    },
+    {
+      "id": "marquis",
+      "name": "Marquis",
+      "category": "Boat",
+      "class": "Yacht",
+      "top_speed_kph": 60,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/marquis.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/maverick.svg"
+    },
+    {
+      "id": "mesa",
+      "name": "Mesa",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 160,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/mesa.svg"
+    },
+    {
+      "id": "monster",
+      "name": "Monster",
+      "category": "Car",
+      "class": "Monster truck",
+      "top_speed_kph": 150,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/monster.svg"
+    },
+    {
+      "id": "nevada",
+      "name": "Nevada",
+      "category": "Aircraft",
+      "class": "Cargo plane",
+      "top_speed_kph": 280,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/nevada.svg"
+    },
+    {
+      "id": "nrg-500",
+      "name": "NRG-500",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 230,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/nrg-500.svg"
+    },
+    {
+      "id": "patriot",
+      "name": "Patriot",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 180,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/patriot.svg"
+    },
+    {
+      "id": "pcj-600",
+      "name": "PCJ-600",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 210,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/pcj-600.svg"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/phoenix.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 190,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/police-car.svg"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "category": "Boat",
+      "class": "Police boat",
+      "top_speed_kph": 95,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/predator.svg"
+    },
+    {
+      "id": "rancher",
+      "name": "Rancher",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/rancher.svg"
+    },
+    {
+      "id": "remington",
+      "name": "Remington",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/remington.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": 60,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/rhino.svg"
+    },
+    {
+      "id": "rustler",
+      "name": "Rustler",
+      "category": "Aircraft",
+      "class": "Prop plane",
+      "top_speed_kph": 300,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/rustler.svg"
+    },
+    {
+      "id": "sabre",
+      "name": "Sabre",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/sabre.svg"
+    },
+    {
+      "id": "sanchez",
+      "name": "Sanchez",
+      "category": "Motorcycle",
+      "class": "Dirt bike",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/sanchez.svg"
+    },
+    {
+      "id": "sandking",
+      "name": "Sandking",
+      "category": "Car",
+      "class": "Off-road",
+      "top_speed_kph": 170,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/sandking.svg"
+    },
+    {
+      "id": "savanna",
+      "name": "Savanna",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 185,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/savanna.svg"
+    },
+    {
+      "id": "sea-sparrow",
+      "name": "Sea Sparrow",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/sea-sparrow.svg"
+    },
+    {
+      "id": "shamal",
+      "name": "Shamal",
+      "category": "Aircraft",
+      "class": "Private jet",
+      "top_speed_kph": 350,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/shamal.svg"
+    },
+    {
+      "id": "slamvan",
+      "name": "Slamvan",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/slamvan.svg"
+    },
+    {
+      "id": "squalo",
+      "name": "Squalo",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/squalo.svg"
+    },
+    {
+      "id": "stallion",
+      "name": "Stallion",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 195,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/stallion.svg"
+    },
+    {
+      "id": "stuntplane",
+      "name": "Stuntplane",
+      "category": "Aircraft",
+      "class": "Prop plane",
+      "top_speed_kph": 250,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/stuntplane.svg"
+    },
+    {
+      "id": "sultan",
+      "name": "Sultan",
+      "category": "Car",
+      "class": "Sports sedan",
+      "top_speed_kph": 210,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/sultan.svg"
+    },
+    {
+      "id": "swat-tank",
+      "name": "SWAT Tank",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 120,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/swat-tank.svg"
+    },
+    {
+      "id": "tropic",
+      "name": "Tropic",
+      "category": "Boat",
+      "class": "Boat",
+      "top_speed_kph": 90,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/tropic.svg"
+    },
+    {
+      "id": "turismo",
+      "name": "Turismo",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 235,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/turismo.svg"
+    },
+    {
+      "id": "vortex",
+      "name": "Vortex",
+      "category": "Hovercraft",
+      "class": "Hovercraft",
+      "top_speed_kph": 140,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/vortex.svg"
+    },
+    {
+      "id": "wayfarer",
+      "name": "Wayfarer",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/wayfarer.svg"
+    },
+    {
+      "id": "zr-350",
+      "name": "ZR-350",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 225,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-san-andreas/zr-350.svg"
+    }
+  ]
+}

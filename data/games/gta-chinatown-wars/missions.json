@@ -1,0 +1,93 @@
+{
+  "game": "gta-chinatown-wars",
+  "game_title": "Grand Theft Auto: Chinatown Wars",
+  "section": "missions",
+  "coverage": "limited",
+  "count": 6,
+  "items": [
+    {
+      "id": "counterfeit-gangster",
+      "order": 1,
+      "name": "Counterfeit Gangster",
+      "type": "Story",
+      "giver": "Wu Lee",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Opening arc: Huang's arrival and the stolen sword go wrong.",
+      "verified": true,
+      "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.svg"
+    },
+    {
+      "id": "the-sword",
+      "order": 2,
+      "name": "The Sword",
+      "type": "Story",
+      "giver": "Wu Lee",
+      "location": "Chinatown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Recover the family sword from the people who took it.",
+      "verified": false,
+      "image": "assets/img/mission/gta-chinatown-wars/the-sword.svg"
+    },
+    {
+      "id": "triad-succession",
+      "order": 3,
+      "name": "Triad succession",
+      "type": "Story",
+      "giver": "Hsin Jaoming",
+      "location": "Chinatown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Huang works both claimants in the Triad succession fight.",
+      "verified": false,
+      "image": "assets/img/mission/gta-chinatown-wars/triad-succession.svg"
+    },
+    {
+      "id": "mafia-favour",
+      "order": 4,
+      "name": "Mafia favour",
+      "type": "Story",
+      "giver": "Rudy D'Avanzo",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Jobs for the Liberty City Mafia.",
+      "verified": false,
+      "image": "assets/img/mission/gta-chinatown-wars/mafia-favour.svg"
+    },
+    {
+      "id": "undercover-work",
+      "order": 5,
+      "name": "Undercover work",
+      "type": "Story",
+      "giver": "Wade Heston",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Federal operation that pulls Huang deeper into the conspiracy.",
+      "verified": false,
+      "image": "assets/img/mission/gta-chinatown-wars/undercover-work.svg"
+    },
+    {
+      "id": "finale",
+      "order": 6,
+      "name": "Finale",
+      "type": "Story",
+      "giver": "—",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Resolution of the Triad succession and the sword's fate.",
+      "verified": false,
+      "image": "assets/img/mission/gta-chinatown-wars/finale.svg"
+    }
+  ]
+}

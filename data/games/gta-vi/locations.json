@@ -1,0 +1,29 @@
+{
+  "game": "gta-vi",
+  "game_title": "Grand Theft Auto VI",
+  "section": "locations",
+  "coverage": "official-only",
+  "count": 2,
+  "items": [
+    {
+      "id": "leonida",
+      "name": "Leonida",
+      "type": "Region",
+      "parent": null,
+      "summary": "Rockstar-confirmed state inspired by Florida, the game's setting.",
+      "verified": true,
+      "source": "Rockstar Games GTA VI Trailer 1",
+      "image": "assets/img/location/gta-vi/leonida.svg"
+    },
+    {
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": "Leonida",
+      "summary": "Rockstar-confirmed modern-day Vice City within Leonida.",
+      "verified": true,
+      "source": "Rockstar Games GTA VI Trailer 1",
+      "image": "assets/img/location/gta-vi/vice-city.svg"
+    }
+  ]
+}

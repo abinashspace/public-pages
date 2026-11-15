@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Data — GTA Hub</title>
+<meta name="description" content="JSON endpoints, schemas and conventions for the GTA Hub dataset.">
+<link rel="canonical" href="https://abinashspace.github.io/gta-hub/data/">
+<link rel="alternate" type="application/json" href="../data/index.json" title="Machine-readable JSON">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="generator" content="gta-hub build">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GTA Hub">
+<meta property="og:title" content="Data — GTA Hub">
+<meta property="og:description" content="JSON endpoints, schemas and conventions for the GTA Hub dataset.">
+<meta property="og:url" content="https://abinashspace.github.io/gta-hub/data/">
+<meta property="og:image" content="https://abinashspace.github.io/gta-hub/assets/img/brand/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="../assets/img/brand/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script src="../assets/js/site.js" defer></script>
+</head>
+<body data-page="data">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head">
+  <a class="brand" href="../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../data/">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../">Games</a></li><li><span aria-current="page">Data</span></li></ol></nav>
+<main id="main" tabindex="-1">
+<header class="page-head">
+  <p class="eyebrow">Machine interface</p>
+  <h1>Data</h1>
+  <p class="lead">Everything on this site is generated from these files. All paths are relative to the repository root and available on the live site.</p>
+  
+</header>
+<dl class="stats"><div class="stat"><dt>Game bundles</dt><dd>17</dd></div><div class="stat"><dt>Section files</dt><dd>119</dd></div><div class="stat"><dt>Records</dt><dd>1344</dd></div><div class="stat"><dt>Images tracked</dt><dd>1395</dd></div></dl>
+<h2>Entry points</h2>
+<div class="table-wrap"><table class="data-table">
+<caption>Stable data endpoints</caption>
+<thead><tr><th scope="col">Path</th><th scope="col">Type</th><th scope="col">Description</th></tr></thead>
+<tbody>
+<tr><td><a href="index.json"><code>/data/index.json</code></a></td><td>Index</td><td>Site, sections, all games with counts and links</td></tr>
+<tr><td><a href="search-index.json"><code>/data/search-index.json</code></a></td><td>Corpus</td><td>One object per record; powers /search/</td></tr>
+<tr><td><a href="images.json"><code>/data/images.json</code></a></td><td>Manifest</td><td>Every image path, dimension and status</td></tr>
+<tr><td><a href="status.json"><code>/data/status.json</code></a></td><td>Status</td><td>Per-game coverage and totals</td></tr>
+<tr><td><a href="games/gta-iii.json"><code>/data/games/&lt;slug&gt;.json</code></a></td><td>Bundle</td><td>All seven sections for one game</td></tr>
+<tr><td><a href="games/gta-iii/characters.json"><code>/data/games/&lt;slug&gt;/&lt;section&gt;.json</code></a></td><td>Collection</td><td>One section, sorted, with coverage metadata</td></tr>
+</tbody></table></div>
+<h2>Schemas</h2>
+<div class="table-wrap"><table class="data-table">
+<caption>JSON Schema (draft 2020-12) per record type</caption>
+<thead><tr><th scope="col">Path</th><th scope="col">Record</th><th scope="col">Description</th></tr></thead>
+<tbody><tr><td><code>data/schema/characters.json</code></td><td>Characters</td><td>Named characters with role, affiliations and a short summary.</td></tr><tr><td><code>data/schema/missions.json</code></td><td>Missions</td><td>Story and side missions in order, with giver, location and reward.</td></tr><tr><td><code>data/schema/vehicles.json</code></td><td>Vehicles</td><td>Cars, bikes, boats, aircraft and special vehicles with class and capacity.</td></tr><tr><td><code>data/schema/weapons.json</code></td><td>Weapons</td><td>Weapons by type with damage tier, ammo cap, price and unlock source.</td></tr><tr><td><code>data/schema/cheats.json</code></td><td>Cheat codes</td><td>Effects with the code for each platform and edition.</td></tr><tr><td><code>data/schema/locations.json</code></td><td>Locations</td><td>Cities, districts and landmarks, with parent areas.</td></tr><tr><td><code>data/schema/collectibles.json</code></td><td>Collectibles</td><td>Collectible sets with totals and completion rewards.</td></tr></tbody></table></div>
+<h2>Conventions</h2>
+<ul>
+<li>Record <code>id</code> is a permanent kebab-case slug, unique inside its game and section.</li>
+<li><code>verified</code> is a boolean on every record. <code>false</code> means best-effort, not confirmed.</li>
+<li><code>source</code> is an optional URL or document name backing the record.</li>
+<li><code>coverage</code> is one of <code>complete</code>, <code>partial</code>, <code>limited</code>, <code>official-only</code>, <code>empty</code>.</li>
+<li>Missing numbers are <code>null</code>, never <code>0</code> and never a guess.</li>
+<li>Arrays are sorted deterministically; files contain no timestamps except the top-level <code>generated</code> field.</li>
+</ul>
+</main>
+<footer class="site-foot">
+  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
+  <p>Data files: <a href="../data/index.json">index.json</a> · <a href="../data/search-index.json">search-index.json</a> · <a href="../llms.txt">llms.txt</a> · <a href="../sitemap.xml">sitemap.xml</a></p>
+  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+</footer>
+</body>
+</html>

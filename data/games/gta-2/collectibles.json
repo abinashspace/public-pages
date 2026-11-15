@@ -1,0 +1,19 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "collectibles",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "kf-radio-tokens",
+      "name": "Kill Frenzy tokens",
+      "type": "Token",
+      "total": 0,
+      "reward": "Cash and weapons; part of 100% completion",
+      "verified": false,
+      "source": "Count varies by platform",
+      "image": "assets/img/collectible/gta-2/kf-radio-tokens.svg"
+    }
+  ]
+}

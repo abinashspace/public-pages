@@ -1,0 +1,709 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "missions",
+  "coverage": "partial",
+  "count": 50,
+  "items": [
+    {
+      "id": "the-cousins-bellic",
+      "order": 1,
+      "name": "The Cousins Bellic",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Niko arrives in Liberty City and sees the reality behind Roman's stories.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/the-cousins-bellic.svg"
+    },
+    {
+      "id": "its-your-call",
+      "order": 2,
+      "name": "It's Your Call",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "First job: pick up a car and deal with the owner.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/its-your-call.svg"
+    },
+    {
+      "id": "threes-a-crowd",
+      "order": 3,
+      "name": "Three's a Crowd",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Meet Michelle and escort her safely.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/threes-a-crowd.svg"
+    },
+    {
+      "id": "bleed-out",
+      "order": 4,
+      "name": "Bleed Out",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Save Roman from loan sharks at the basketball court.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/bleed-out.svg"
+    },
+    {
+      "id": "easy-fare",
+      "order": 5,
+      "name": "Easy Fare",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Drive a fare who turns out to be a fugitive.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/easy-fare.svg"
+    },
+    {
+      "id": "bull-in-a-china-shop",
+      "order": 6,
+      "name": "Bull in a China Shop",
+      "type": "Story",
+      "giver": "Vladimir Glebov",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Strong-arm a shopkeeper for Vlad.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/bull-in-a-china-shop.svg"
+    },
+    {
+      "id": "hung-out-to-dry",
+      "order": 7,
+      "name": "Hung Out to Dry",
+      "type": "Story",
+      "giver": "Vladimir Glebov",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Recover stolen laundry money for Vlad.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/hung-out-to-dry.svg"
+    },
+    {
+      "id": "clean-getaway",
+      "order": 8,
+      "name": "Clean Getaway",
+      "type": "Story",
+      "giver": "Vladimir Glebov",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a car from a parking garage and deliver it clean.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/clean-getaway.svg"
+    },
+    {
+      "id": "ivan-the-not-so-terrible",
+      "order": 9,
+      "name": "Ivan the Not So Terrible",
+      "type": "Story",
+      "giver": "Vladimir Glebov",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Chase down the man who betrayed Vlad.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/ivan-the-not-so-terrible.svg"
+    },
+    {
+      "id": "concrete-jungle",
+      "order": 10,
+      "name": "Concrete Jungle",
+      "type": "Story",
+      "giver": "Little Jacob",
+      "location": "Broker",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Cover Jacob in a drug deal gone wrong.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/concrete-jungle.svg"
+    },
+    {
+      "id": "uncle-vlad",
+      "order": 11,
+      "name": "Uncle Vlad",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Confront Vlad about his affair with Mallorie.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/uncle-vlad.svg"
+    },
+    {
+      "id": "crime-and-punishment",
+      "order": 12,
+      "name": "Crime and Punishment",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Hove Beach",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Raid a warehouse for a police van full of goods.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/crime-and-punishment.svg"
+    },
+    {
+      "id": "do-you-have-protection",
+      "order": 13,
+      "name": "Do You Have Protection?",
+      "type": "Story",
+      "giver": "Dimitri Rascalov",
+      "location": "Broker",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Collect protection money with Dimitri's men.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/do-you-have-protection.svg"
+    },
+    {
+      "id": "final-destination",
+      "order": 14,
+      "name": "Final Destination",
+      "type": "Story",
+      "giver": "Dimitri Rascalov",
+      "location": "Faustin's mansion",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill a target on his wedding day for Faustin.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/final-destination.svg"
+    },
+    {
+      "id": "no-love-lost",
+      "order": 15,
+      "name": "No Love Lost",
+      "type": "Story",
+      "giver": "Mikhail Faustin",
+      "location": "Broker",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill Faustin's son's rival gang in a park.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/no-love-lost.svg"
+    },
+    {
+      "id": "rigged-to-blow",
+      "order": 16,
+      "name": "Rigged to Blow",
+      "type": "Story",
+      "giver": "Mikhail Faustin",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Bomb a truck without triggering the payload early.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/rigged-to-blow.svg"
+    },
+    {
+      "id": "the-master-and-the-molotov",
+      "order": 17,
+      "name": "The Master and the Molotov",
+      "type": "Story",
+      "giver": "Dimitri Rascalov",
+      "location": "Faustin's club",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill Mikhail Faustin on Dimitri's orders.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/the-master-and-the-molotov.svg"
+    },
+    {
+      "id": "russian-revolution",
+      "order": 18,
+      "name": "Russian Revolution",
+      "type": "Story",
+      "giver": "Dimitri Rascalov",
+      "location": "Warehouse",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Survive Dimitri's betrayal at a warehouse meet.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/russian-revolution.svg"
+    },
+    {
+      "id": "romans-sorrow",
+      "order": 19,
+      "name": "Roman's Sorrow",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Broker",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Escape the burning apartment and taxi depot.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/romans-sorrow.svg"
+    },
+    {
+      "id": "shadow",
+      "order": 20,
+      "name": "Shadow",
+      "type": "Story",
+      "giver": "Little Jacob",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Follow a drug dealer through Bohan.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/shadow.svg"
+    },
+    {
+      "id": "jamaican-heat",
+      "order": 21,
+      "name": "Jamaican Heat",
+      "type": "Story",
+      "giver": "Little Jacob",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Cover Jacob during a deal in an apartment block.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/jamaican-heat.svg"
+    },
+    {
+      "id": "escuela-of-the-streets",
+      "order": 22,
+      "name": "Escuela of the Streets",
+      "type": "Story",
+      "giver": "Manny Escuela",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Clear a gang hangout for Manny's documentary.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/escuela-of-the-streets.svg"
+    },
+    {
+      "id": "street-sweeper",
+      "order": 23,
+      "name": "Street Sweeper",
+      "type": "Story",
+      "giver": "Manny Escuela",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Destroy gang vehicles for Manny.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/street-sweeper.svg"
+    },
+    {
+      "id": "luck-of-the-irish",
+      "order": 24,
+      "name": "Luck of the Irish",
+      "type": "Story",
+      "giver": "Packie McReary",
+      "location": "Dukes",
+      "reward": {
+        "money": 0
+      },
+      "summary": "First McReary job: hit a drug deal.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/luck-of-the-irish.svg"
+    },
+    {
+      "id": "blow-your-cover",
+      "order": 25,
+      "name": "Blow Your Cover",
+      "type": "Story",
+      "giver": "Packie McReary",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Survive an undercover buy that turns into a shootout.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/blow-your-cover.svg"
+    },
+    {
+      "id": "the-snow-storm",
+      "order": 26,
+      "name": "The Snow Storm",
+      "type": "Story",
+      "giver": "Packie McReary",
+      "location": "Colony Island",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal cocaine from a guarded warehouse in a storm.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/the-snow-storm.svg"
+    },
+    {
+      "id": "have-a-heart",
+      "order": 27,
+      "name": "Have a Heart",
+      "type": "Story",
+      "giver": "Packie McReary",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Deliver a heart for a transplant while the police close in.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/have-a-heart.svg"
+    },
+    {
+      "id": "three-leaf-clover",
+      "order": 28,
+      "name": "Three Leaf Clover",
+      "type": "Heist",
+      "giver": "Packie McReary",
+      "location": "Bank of Liberty",
+      "reward": {
+        "money": 0
+      },
+      "summary": "The bank robbery that goes loud, ending in a subway escape.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/three-leaf-clover.svg"
+    },
+    {
+      "id": "actions-speak-louder-than-words",
+      "order": 29,
+      "name": "Actions Speak Louder than Words",
+      "type": "Story",
+      "giver": "Gerald McReary",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Destroy a rival crew's base of operations.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/actions-speak-louder-than-words.svg"
+    },
+    {
+      "id": "hostile-negotiation",
+      "order": 30,
+      "name": "Hostile Negotiation",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Bohan",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rescue Roman from kidnappers in a warehouse.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/hostile-negotiation.svg"
+    },
+    {
+      "id": "the-holland-play",
+      "order": 31,
+      "name": "The Holland Play",
+      "type": "Story",
+      "giver": "Playboy X",
+      "location": "North Holland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Choose between Playboy X and Dwayne Forge.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/the-holland-play.svg"
+    },
+    {
+      "id": "diamonds-are-a-girls-best-friend",
+      "order": 32,
+      "name": "Diamonds Are a Girl's Best Friend",
+      "type": "Story",
+      "giver": "Ray Boccino",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "The diamond deal that goes wrong, tying the episodes together.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.svg"
+    },
+    {
+      "id": "museum-piece",
+      "order": 33,
+      "name": "Museum Piece",
+      "type": "Story",
+      "giver": "Ray Boccino",
+      "location": "Libertonian Museum",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Diamond exchange at the museum, with three factions converging.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/museum-piece.svg"
+    },
+    {
+      "id": "no-way-on-the-subway",
+      "order": 34,
+      "name": "No Way on the Subway",
+      "type": "Story",
+      "giver": "Ray Boccino",
+      "location": "Subway",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Chase bikers through the subway tunnels.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/no-way-on-the-subway.svg"
+    },
+    {
+      "id": "late-checkout",
+      "order": 35,
+      "name": "Late Checkout",
+      "type": "Story",
+      "giver": "Ray Boccino",
+      "location": "Majestic Hotel",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill a target in his hotel penthouse.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/late-checkout.svg"
+    },
+    {
+      "id": "truck-hustle",
+      "order": 36,
+      "name": "Truck Hustle",
+      "type": "Story",
+      "giver": "Phil Bell",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a truck full of heroin.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/truck-hustle.svg"
+    },
+    {
+      "id": "pegorinos-pride",
+      "order": 37,
+      "name": "Pegorino's Pride",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Protect a Pegorino heroin deal.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/pegorinos-pride.svg"
+    },
+    {
+      "id": "payback",
+      "order": 38,
+      "name": "Payback",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Retaliate against the crew that hit the deal.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/payback.svg"
+    },
+    {
+      "id": "catch-the-wave",
+      "order": 39,
+      "name": "Catch the Wave",
+      "type": "Story",
+      "giver": "Phil Bell",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a boat shipment from the docks.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/catch-the-wave.svg"
+    },
+    {
+      "id": "trespass",
+      "order": 40,
+      "name": "Trespass",
+      "type": "Story",
+      "giver": "Phil Bell",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Hit a rival operation in a derelict building.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/trespass.svg"
+    },
+    {
+      "id": "to-live-and-die-in-alderney",
+      "order": 41,
+      "name": "To Live and Die in Alderney",
+      "type": "Story",
+      "giver": "Phil Bell",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Escape a police siege with Phil.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/to-live-and-die-in-alderney.svg"
+    },
+    {
+      "id": "flatline",
+      "order": 42,
+      "name": "Flatline",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill a mobster in protective custody at a hospital.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/flatline.svg"
+    },
+    {
+      "id": "pest-control",
+      "order": 43,
+      "name": "Pest Control",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Eliminate both targets in the Pegorino conflict.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/pest-control.svg"
+    },
+    {
+      "id": "entourage",
+      "order": 44,
+      "name": "Entourage",
+      "type": "Story",
+      "giver": "Jon Gravelli",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Protect a visiting dignitary from hitmen.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/entourage.svg"
+    },
+    {
+      "id": "dining-out",
+      "order": 45,
+      "name": "Dining Out",
+      "type": "Story",
+      "giver": "Jon Gravelli",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Hit a target at a restaurant.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/dining-out.svg"
+    },
+    {
+      "id": "liquidize-the-assets",
+      "order": 46,
+      "name": "Liquidize the Assets",
+      "type": "Story",
+      "giver": "Jon Gravelli",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Destroy a heroin shipment.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/liquidize-the-assets.svg"
+    },
+    {
+      "id": "if-the-price-is-right",
+      "order": 47,
+      "name": "If the Price is Right",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Alderney",
+      "reward": {
+        "money": 0
+      },
+      "summary": "The final deal with Dimitri.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/if-the-price-is-right.svg"
+    },
+    {
+      "id": "mr-and-mrs-bellic",
+      "order": 48,
+      "name": "Mr. and Mrs. Bellic",
+      "type": "Story",
+      "giver": "Roman Bellic",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Roman's wedding and the choice that decides the ending.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/mr-and-mrs-bellic.svg"
+    },
+    {
+      "id": "out-of-commission",
+      "order": 49,
+      "name": "Out of Commission",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ending path: chase Pegorino to the end of the line.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/out-of-commission.svg"
+    },
+    {
+      "id": "a-revengers-tragedy",
+      "order": 50,
+      "name": "A Revenger's Tragedy",
+      "type": "Story",
+      "giver": "Jimmy Pegorino",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ending path: the deal ending and its consequences.",
+      "verified": true,
+      "image": "assets/img/mission/gta-iv/a-revengers-tragedy.svg"
+    }
+  ]
+}

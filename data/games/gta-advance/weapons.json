@@ -1,0 +1,75 @@
+{
+  "game": "gta-advance",
+  "game_title": "Grand Theft Auto Advance",
+  "section": "weapons",
+  "coverage": "limited",
+  "count": 6,
+  "items": [
+    {
+      "id": "ak-47",
+      "name": "AK-47",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/ak-47.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "Count",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/grenades.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/pistol.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "Rockets",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/rocket-launcher.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "Shells",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/shotgun.svg"
+    },
+    {
+      "id": "uzi",
+      "name": "Uzi",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "Magazine",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-advance/uzi.svg"
+    }
+  ]
+}

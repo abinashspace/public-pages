@@ -1,0 +1,99 @@
+{
+  "game": "gta-liberty-city-stories",
+  "game_title": "Grand Theft Auto: Liberty City Stories",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 10,
+  "items": [
+    {
+      "id": "atlantic-quays",
+      "name": "Atlantic Quays",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Docks where Vincenzo operates.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/atlantic-quays.svg"
+    },
+    {
+      "id": "belleville-park",
+      "name": "Belleville Park",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Central park and mission location.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/belleville-park.svg"
+    },
+    {
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad territory in Portland.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/chinatown.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The 1998 version of Liberty City, three years before GTA III.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/liberty-city.svg"
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island and Leone heartland.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/portland.svg"
+    },
+    {
+      "id": "red-light-district",
+      "name": "Red Light District",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Luigi's club and JD O'Toole's territory.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/red-light-district.svg"
+    },
+    {
+      "id": "saint-marks",
+      "name": "Saint Mark's",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Leone stronghold and Salvatore's mansion.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/saint-marks.svg"
+    },
+    {
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island with the airport and dam.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/shoreside-vale.svg"
+    },
+    {
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island with Belleville Park and Bedford Point.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/staunton-island.svg"
+    },
+    {
+      "id": "torrington",
+      "name": "Torrington",
+      "type": "District",
+      "parent": "Staunton Island",
+      "summary": "Business district.",
+      "verified": true,
+      "image": "assets/img/location/gta-liberty-city-stories/torrington.svg"
+    }
+  ]
+}

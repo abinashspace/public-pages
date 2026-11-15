@@ -1,0 +1,19 @@
+{
+  "game": "gta",
+  "game_title": "Grand Theft Auto",
+  "section": "collectibles",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "score-bonuses",
+      "name": "Score Bonuses",
+      "type": "Bonus",
+      "total": 0,
+      "reward": "Multipliers and rank progression",
+      "verified": false,
+      "source": "No discrete collectible set documented for this build",
+      "image": "assets/img/collectible/gta/score-bonuses.svg"
+    }
+  ]
+}

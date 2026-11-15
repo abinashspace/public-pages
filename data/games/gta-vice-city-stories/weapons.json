@@ -1,0 +1,152 @@
+{
+  "game": "gta-vice-city-stories",
+  "game_title": "Grand Theft Auto: Vice City Stories",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 13,
+  "items": [
+    {
+      "id": "brass-knuckles",
+      "name": "Brass Knuckles",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/brass-knuckles.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/grenades.svg"
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "type": "Melee",
+      "damage_tier": "High",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/katana.svg"
+    },
+    {
+      "id": "m4",
+      "name": "M4",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/m4.svg"
+    },
+    {
+      "id": "minigun",
+      "name": "Minigun",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "150 rounds",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/minigun.svg"
+    },
+    {
+      "id": "mp5",
+      "name": "MP5",
+      "type": "Submachine gun",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/mp5.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/pistol.svg"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "type": "Handgun",
+      "damage_tier": "Very high",
+      "ammo": "6 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/python.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/rocket-launcher.svg"
+    },
+    {
+      "id": "ruger",
+      "name": "Ruger",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/ruger.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/shotgun.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/sniper-rifle.svg"
+    },
+    {
+      "id": "uzi",
+      "name": "Uzi",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city-stories/uzi.svg"
+    }
+  ]
+}

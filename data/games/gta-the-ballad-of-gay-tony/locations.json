@@ -1,0 +1,72 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 7,
+  "items": [
+    {
+      "id": "alderney",
+      "name": "Alderney",
+      "type": "State",
+      "parent": "Liberty City",
+      "summary": "Industrial state across the river.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.svg"
+    },
+    {
+      "id": "algonquin",
+      "name": "Algonquin",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Manhattan analogue and the club district.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.svg"
+    },
+    {
+      "id": "bohan",
+      "name": "Bohan",
+      "type": "Borough",
+      "parent": "Liberty City",
+      "summary": "Northern borough, home turf of Luis's friends.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.svg"
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Tony's second club.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "The GTA IV map, explored through nightlife and celebrity storylines.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/liberty-city.svg"
+    },
+    {
+      "id": "maisonette-9",
+      "name": "Maisonette 9",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Tony's flagship club and Luis's base.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/maisonette-9.svg"
+    },
+    {
+      "id": "middle-park",
+      "name": "Middle Park",
+      "type": "Landmark",
+      "parent": "Algonquin",
+      "summary": "Central park used in Yusuf's missions.",
+      "verified": true,
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.svg"
+    }
+  ]
+}

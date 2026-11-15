@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>About — GTA Hub</title>
+<meta name="description" content="How the GTA Hub static site and dataset are built, verified and licensed.">
+<link rel="canonical" href="https://abinashspace.github.io/gta-hub/about/">
+
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="generator" content="gta-hub build">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GTA Hub">
+<meta property="og:title" content="About — GTA Hub">
+<meta property="og:description" content="How the GTA Hub static site and dataset are built, verified and licensed.">
+<meta property="og:url" content="https://abinashspace.github.io/gta-hub/about/">
+<meta property="og:image" content="https://abinashspace.github.io/gta-hub/assets/img/brand/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="../assets/img/brand/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script src="../assets/js/site.js" defer></script>
+</head>
+<body data-page="about">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head">
+  <a class="brand" href="../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../data/">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../">Games</a></li><li><span aria-current="page">About</span></li></ol></nav>
+<main id="main" tabindex="-1">
+<header class="page-head">
+  <p class="eyebrow">About</p>
+  <h1>How this site works</h1>
+  <p class="lead">A deliberate choice: boring, static, complete, and readable by machines before humans.</p>
+  
+</header>
+<h2 id="principles">Principles</h2>
+<ul>
+<li><strong>No runtime dependency.</strong> No CDNs, fonts, analytics, or image hotlinking. The page you load is the repository.</li>
+<li><strong>HTML and JSON are generated from one source.</strong> Tables and JSON cannot disagree because both come from <code>content/</code>.</li>
+<li><strong>Stable identifiers.</strong> Slugs are permanent; <code>data-*</code> attributes and row <code>id</code>s mirror the JSON <code>id</code>.</li>
+<li><strong>Honest coverage.</strong> A section marked <code>partial</code> is a verified core, not a claim of completeness.</li>
+<li><strong>No JavaScript required.</strong> JS adds search and nothing else.</li>
+</ul>
+<h2 id="accuracy">Accuracy</h2>
+<p>Every record has <code>verified</code>. <code>true</code> means the record was checked against the game or a documented source; <code>false</code> means it is best-effort and may contain errors. Where a field is genuinely unknown it is <code>null</code> — never a guess. GTA VI is <code>official-only</code>: nothing beyond confirmed Rockstar material is recorded.</p>
+<h2 id="images">Images</h2>
+<p>Real in-game artwork is owned by Rockstar Games and cannot be redistributed here. Each image slot currently resolves to an original generated SVG placeholder at the exact target dimensions. To swap in real art, place a file at the same path with the same basename and a real extension:</p>
+<pre><code>assets/img/portrait/gta-iii/claude.jpg
+assets/img/vehicle/gta-v/adder.png
+assets/img/weapon/gta-san-andreas/ak-47.webp</code></pre>
+<p>Rebuild: <code>node tools/build.mjs</code>. The build prefers the real file, updates <code>data/images.json</code>, and leaves every URL and record untouched.</p>
+<h2 id="build">Build</h2>
+<pre><code>node tools/validate.mjs   # data checks
+node tools/build.mjs      # content/ + assets/ → docs/
+node tools/serve.mjs      # local preview at http://localhost:8080</code></pre>
+<p>No <code>npm install</code>. Node 18+ only.</p>
+<h2 id="license">Licensing</h2>
+<p>Code: MIT. Data is an unofficial fan compilation. “Grand Theft Auto”, “GTA”, all game titles, character names and artwork are trademarks of Rockstar Games / Take-Two Interactive. This site is not affiliated with or endorsed by them.</p>
+</main>
+<footer class="site-foot">
+  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
+  <p>Data files: <a href="../data/index.json">index.json</a> · <a href="../data/search-index.json">search-index.json</a> · <a href="../llms.txt">llms.txt</a> · <a href="../sitemap.xml">sitemap.xml</a></p>
+  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+</footer>
+</body>
+</html>

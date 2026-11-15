@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="GTA Hub">
+<rect width="128" height="128" rx="18" fill="#680000"/>
+<rect x="10" y="10" width="108" height="108" rx="12" fill="none" stroke="#ff8b8b" stroke-width="3"/>
+<text x="64" y="82" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="52" fill="#ffb3b3">GTA</text>
+<text x="64" y="106" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#ff9595" letter-spacing="2">HUB</text>
+</svg>

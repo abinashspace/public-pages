@@ -1,0 +1,54 @@
+{
+  "game": "gta-chinatown-wars",
+  "game_title": "Grand Theft Auto: Chinatown Wars",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 5,
+  "items": [
+    {
+      "id": "chinatown",
+      "name": "Chinatown",
+      "type": "District",
+      "parent": "Portland",
+      "summary": "Triad heartland and the game's opening area.",
+      "verified": true,
+      "image": "assets/img/location/gta-chinatown-wars/chinatown.svg"
+    },
+    {
+      "id": "liberty-city",
+      "name": "Liberty City",
+      "type": "City",
+      "parent": null,
+      "summary": "Liberty City in 2009, rendered top-down with a stylised cel-shaded look.",
+      "verified": true,
+      "image": "assets/img/location/gta-chinatown-wars/liberty-city.svg"
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Industrial island.",
+      "verified": true,
+      "image": "assets/img/location/gta-chinatown-wars/portland.svg"
+    },
+    {
+      "id": "shoreside-vale",
+      "name": "Shoreside Vale",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Suburban island.",
+      "verified": true,
+      "image": "assets/img/location/gta-chinatown-wars/shoreside-vale.svg"
+    },
+    {
+      "id": "staunton-island",
+      "name": "Staunton Island",
+      "type": "Island",
+      "parent": "Liberty City",
+      "summary": "Commercial island.",
+      "verified": true,
+      "image": "assets/img/location/gta-chinatown-wars/staunton-island.svg"
+    }
+  ]
+}

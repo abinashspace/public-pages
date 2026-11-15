@@ -1,0 +1,219 @@
+{
+  "game": "gta-the-ballad-of-gay-tony",
+  "game_title": "Grand Theft Auto: The Ballad of Gay Tony",
+  "section": "missions",
+  "coverage": "partial",
+  "count": 15,
+  "items": [
+    {
+      "id": "i-luv-lc",
+      "order": 1,
+      "name": "I Luv LC",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Opening: Tony's club business collides with a mob debt.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/i-luv-lc.svg"
+    },
+    {
+      "id": "practice-swing",
+      "order": 2,
+      "name": "Practice Swing",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Luis handles a problem at the club.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/practice-swing.svg"
+    },
+    {
+      "id": "chinese-takeout",
+      "order": 3,
+      "name": "Chinese Takeout",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Retrieve a stolen shipment from the Triads.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/chinese-takeout.svg"
+    },
+    {
+      "id": "mommas-boy",
+      "order": 4,
+      "name": "Momma's Boy",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Help Tony's mother with a family matter.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/mommas-boy.svg"
+    },
+    {
+      "id": "corner-kids",
+      "order": 5,
+      "name": "Corner Kids",
+      "type": "Story",
+      "giver": "Armando Torres",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Drug-dealing job with Luis's childhood friends.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/corner-kids.svg"
+    },
+    {
+      "id": "clocking-off",
+      "order": 6,
+      "name": "Clocking Off",
+      "type": "Story",
+      "giver": "Armando Torres",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A deal that ends in a running gunfight.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/clocking-off.svg"
+    },
+    {
+      "id": "sexy-time",
+      "order": 7,
+      "name": "Sexy Time",
+      "type": "Story",
+      "giver": "Yusuf Amir",
+      "location": "Middle Park",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Yusuf's boat and helicopter antics.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/sexy-time.svg"
+    },
+    {
+      "id": "high-dive",
+      "order": 8,
+      "name": "High Dive",
+      "type": "Story",
+      "giver": "Yusuf Amir",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Base jump from a skyscraper to escape.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/high-dive.svg"
+    },
+    {
+      "id": "dropping-in",
+      "order": 9,
+      "name": "Dropping In",
+      "type": "Story",
+      "giver": "Yusuf Amir",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Parachute assault on a construction site.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/dropping-in.svg"
+    },
+    {
+      "id": "in-the-crosshairs",
+      "order": 10,
+      "name": "In the Crosshairs",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Sniper support for a club associate.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/in-the-crosshairs.svg"
+    },
+    {
+      "id": "caught-with-your-pants-down",
+      "order": 11,
+      "name": "Caught with Your Pants Down",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A heist that goes embarrassingly wrong.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg"
+    },
+    {
+      "id": "bang-bang",
+      "order": 12,
+      "name": "Bang Bang",
+      "type": "Story",
+      "giver": "Rocco Pelosi",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ancelotti job that escalates into a massacre.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg"
+    },
+    {
+      "id": "boulevard-baby",
+      "order": 13,
+      "name": "Boulevard Baby",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Club business on the boulevard.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg"
+    },
+    {
+      "id": "frosting-on-the-cake",
+      "order": 14,
+      "name": "Frosting on the Cake",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Algonquin",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Late-game club and mob escalation.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg"
+    },
+    {
+      "id": "departure-time",
+      "order": 15,
+      "name": "Departure Time",
+      "type": "Story",
+      "giver": "Tony Prince",
+      "location": "Liberty City",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Final mission against Bulgarin.",
+      "verified": true,
+      "image": "assets/img/mission/gta-the-ballad-of-gay-tony/departure-time.svg"
+    }
+  ]
+}

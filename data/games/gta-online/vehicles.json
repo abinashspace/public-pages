@@ -1,0 +1,89 @@
+{
+  "game": "gta-online",
+  "game_title": "Grand Theft Auto Online",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 8,
+  "items": [
+    {
+      "id": "buzzard-attack",
+      "name": "Buzzard Attack Chopper",
+      "category": "Aircraft",
+      "class": "Attack helicopter",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/buzzard-attack.svg"
+    },
+    {
+      "id": "deluxo",
+      "name": "Deluxo",
+      "category": "Car",
+      "class": "Weaponised sports",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/deluxo.svg"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "category": "Aircraft",
+      "class": "Jump jet",
+      "top_speed_kph": 500,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/hydra.svg"
+    },
+    {
+      "id": "insurgent-pickup-custom",
+      "name": "Insurgent Pick-Up Custom",
+      "category": "Car",
+      "class": "Armored",
+      "top_speed_kph": 260,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.svg"
+    },
+    {
+      "id": "kosatka",
+      "name": "Kosatka",
+      "category": "Boat",
+      "class": "Submarine",
+      "top_speed_kph": 40,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/kosatka.svg"
+    },
+    {
+      "id": "nightshark",
+      "name": "Nightshark",
+      "category": "Car",
+      "class": "Armored",
+      "top_speed_kph": 250,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/nightshark.svg"
+    },
+    {
+      "id": "oppressor-mk-ii",
+      "name": "Oppressor Mk II",
+      "category": "Motorcycle",
+      "class": "Weaponised hoverbike",
+      "top_speed_kph": 220,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.svg"
+    },
+    {
+      "id": "toreador",
+      "name": "Toreador",
+      "category": "Car",
+      "class": "Weaponised sports",
+      "top_speed_kph": 230,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-online/toreador.svg"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "cheats",
+  "coverage": "partial",
+  "count": 25,
+  "items": [
+    {
+      "id": "cars-fly-away",
+      "effect": "Cars fly away when hit",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BSXSGGC",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "image": "assets/img/cheat/gta-san-andreas/cars-fly-away.svg"
+    },
+    {
+      "id": "clear-wanted",
+      "effect": "Clear wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ASNAEB",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/clear-wanted.svg"
+    },
+    {
+      "id": "suicide",
+      "effect": "Commit suicide",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SZCMAWO",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/suicide.svg"
+    },
+    {
+      "id": "drive-by-aim",
+      "effect": "Drive-by from any car",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "OUIQDMW",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/drive-by-aim.svg"
+    },
+    {
+      "id": "fast-time",
+      "effect": "Faster game clock",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "YSOHNUL",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/fast-time.svg"
+    },
+    {
+      "id": "health-armor-money",
+      "effect": "Full health, armor and $250,000",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "HESOYAM",
+          "input": "keyboard"
+        },
+        {
+          "platform": "PlayStation 2",
+          "code": "R1 R2 L1 X LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP",
+          "input": "button"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/health-armor-money.svg"
+    },
+    {
+      "id": "ghost-town",
+      "effect": "Ghost town (no pedestrians)",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GHOSTTOWN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/ghost-town.svg"
+    },
+    {
+      "id": "infinite-ammo",
+      "effect": "Infinite ammo",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "WANRLTW",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/infinite-ammo.svg"
+    },
+    {
+      "id": "infinite-oxygen",
+      "effect": "Infinite lung capacity",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "CVWKXAM",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/infinite-oxygen.svg"
+    },
+    {
+      "id": "infinite-health",
+      "effect": "Invincibility",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BAGUVIX",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/infinite-health.svg"
+    },
+    {
+      "id": "lower-wanted",
+      "effect": "Lower wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TURNDOWNTHEHEAT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/lower-wanted.svg"
+    },
+    {
+      "id": "mega-jump",
+      "effect": "Mega jump",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "KANGAROO",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/mega-jump.svg"
+    },
+    {
+      "id": "never-wanted",
+      "effect": "Never gain wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "AEZAKMI",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/never-wanted.svg"
+    },
+    {
+      "id": "no-hunger",
+      "effect": "No hunger",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "AEDUWNV",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/no-hunger.svg"
+    },
+    {
+      "id": "pedestrians-attack",
+      "effect": "Pedestrians attack you",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "BAGOWPG",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/pedestrians-attack.svg"
+    },
+    {
+      "id": "armed-pedestrians",
+      "effect": "Pedestrians carry weapons",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "FOOOXFT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/armed-pedestrians.svg"
+    },
+    {
+      "id": "pedestrians-riot",
+      "effect": "Pedestrians riot",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "AJLOJYQY",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/pedestrians-riot.svg"
+    },
+    {
+      "id": "raise-wanted",
+      "effect": "Raise wanted level",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TURNUPTHEHEAT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/raise-wanted.svg"
+    },
+    {
+      "id": "recruit-anyone",
+      "effect": "Recruit anyone into your gang",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "SJMAHPE",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/recruit-anyone.svg"
+    },
+    {
+      "id": "jetpack",
+      "effect": "Spawn jetpack",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "ROCKETMAN",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/jetpack.svg"
+    },
+    {
+      "id": "storm-weather",
+      "effect": "Storm weather",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "MGHXYRM",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/storm-weather.svg"
+    },
+    {
+      "id": "sunny-weather",
+      "effect": "Sunny weather",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "TOODAMNHOT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/sunny-weather.svg"
+    },
+    {
+      "id": "weapons-tier-3",
+      "effect": "Weapons: heavy tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "UZUMYMW",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/weapons-tier-3.svg"
+    },
+    {
+      "id": "weapons-tier-1",
+      "effect": "Weapons: light tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "LXGIWYL",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/weapons-tier-1.svg"
+    },
+    {
+      "id": "weapons-tier-2",
+      "effect": "Weapons: medium tier",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "KJKSZPJ",
+          "input": "keyboard"
+        }
+      ],
+      "verified": true,
+      "image": "assets/img/cheat/gta-san-andreas/weapons-tier-2.svg"
+    }
+  ]
+}

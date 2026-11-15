@@ -1,0 +1,162 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 17,
+  "items": [
+    {
+      "id": "downtown",
+      "name": "Downtown",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Skyscraper district with the stadium and Hyman Condo.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/downtown.svg"
+    },
+    {
+      "id": "escobar-intl-airport",
+      "name": "Escobar International Airport",
+      "type": "Landmark",
+      "parent": "Vice Mainland",
+      "summary": "Main airport, used in smuggling and escape missions.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/escobar-intl-airport.svg"
+    },
+    {
+      "id": "hyman-memorial-stadium",
+      "name": "Hyman Memorial Stadium",
+      "type": "Landmark",
+      "parent": "Downtown",
+      "summary": "Stadium hosting the Hotring Racer and Bloodring Banger events.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/hyman-memorial-stadium.svg"
+    },
+    {
+      "id": "little-cuba",
+      "name": "Little Cuba",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Cuban area around Umberto's cafe.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/little-cuba.svg"
+    },
+    {
+      "id": "little-haiti",
+      "name": "Little Haiti",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Haitian gang territory and Auntie Poulet's house.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/little-haiti.svg"
+    },
+    {
+      "id": "little-havana",
+      "name": "Little Havana",
+      "type": "Neighbourhood",
+      "parent": "Vice Mainland",
+      "summary": "Cuban gang territory, Sunshine Autos and the print works.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/little-havana.svg"
+    },
+    {
+      "id": "ocean-beach",
+      "name": "Ocean Beach",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Southern tip of the beach island, home to the Ocean View Hotel.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/ocean-beach.svg"
+    },
+    {
+      "id": "prairie-avenue",
+      "name": "Prairie Avenue",
+      "type": "Landmark",
+      "parent": "Vice Beach",
+      "summary": "Shopping street with Ammu-Nation and the mall.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/prairie-avenue.svg"
+    },
+    {
+      "id": "starfish-island",
+      "name": "Starfish Island",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Mansion island housing Diaz and later Tommy.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/starfish-island.svg"
+    },
+    {
+      "id": "the-malibu-club",
+      "name": "The Malibu Club",
+      "type": "Landmark",
+      "parent": "Vice Point",
+      "summary": "Nightclub asset that unlocks the bank heist missions.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/the-malibu-club.svg"
+    },
+    {
+      "id": "vice-beach",
+      "name": "Vice Beach",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Eastern island with the beach, Ocean Beach and Washington Beach.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-beach.svg"
+    },
+    {
+      "id": "vice-city",
+      "name": "Vice City",
+      "type": "City",
+      "parent": null,
+      "summary": "1986 Miami-inspired city split into two islands.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-city.svg"
+    },
+    {
+      "id": "vice-mainland",
+      "name": "Vice City Mainland",
+      "type": "Island",
+      "parent": "Vice City",
+      "summary": "Western island with Downtown, Little Haiti, Little Havana and the airport.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-mainland.svg"
+    },
+    {
+      "id": "vice-city-stadium",
+      "name": "Vice City Stadium",
+      "type": "Landmark",
+      "parent": "Downtown",
+      "summary": "Stadium used for Hotring and Bloodring events.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-city-stadium.svg"
+    },
+    {
+      "id": "vice-point",
+      "name": "Vice Point",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Northern beach neighbourhood with the Malibu Club.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-point.svg"
+    },
+    {
+      "id": "vice-port",
+      "name": "Vice Port",
+      "type": "District",
+      "parent": "Vice Mainland",
+      "summary": "Docks and warehouses on the west side.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/vice-port.svg"
+    },
+    {
+      "id": "washington-beach",
+      "name": "Washington Beach",
+      "type": "Neighbourhood",
+      "parent": "Vice Beach",
+      "summary": "Beach strip with the mall and Ken's office nearby.",
+      "verified": true,
+      "image": "assets/img/location/gta-vice-city/washington-beach.svg"
+    }
+  ]
+}

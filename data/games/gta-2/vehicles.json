@@ -1,0 +1,99 @@
+{
+  "game": "gta-2",
+  "game_title": "Grand Theft Auto 2",
+  "section": "vehicles",
+  "coverage": "limited",
+  "count": 9,
+  "items": [
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/ambulance.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/banshee.svg"
+    },
+    {
+      "id": "bus",
+      "name": "Bus",
+      "category": "Industrial",
+      "class": "Bus",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/bus.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/fire-truck.svg"
+    },
+    {
+      "id": "garbage-truck",
+      "name": "Garbage Truck",
+      "category": "Industrial",
+      "class": "Truck",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/garbage-truck.svg"
+    },
+    {
+      "id": "ice-cream-van",
+      "name": "Ice Cream Van",
+      "category": "Van",
+      "class": "Special",
+      "top_speed_kph": null,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/ice-cream-van.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/police-car.svg"
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": null,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/tank.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": null,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-2/taxi.svg"
+    }
+  ]
+}

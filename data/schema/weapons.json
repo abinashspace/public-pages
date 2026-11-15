@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://abinashspace.github.io/gta-hub/data/schema/weapons.json",
+  "title": "Weapon record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "type",
+    "damage_tier",
+    "ammo",
+    "unlock",
+    "verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Permanent slug, unique within the game."
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "damage_tier": {
+      "type": "string",
+      "required": true,
+      "enum": [
+        "Very low",
+        "Low",
+        "Medium",
+        "High",
+        "Very high",
+        "Lethal"
+      ]
+    },
+    "ammo": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "unlock": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verified": {
+      "type": "boolean",
+      "required": true
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

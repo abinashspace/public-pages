@@ -1,0 +1,63 @@
+{
+  "game": "gta-san-andreas",
+  "game_title": "Grand Theft Auto: San Andreas",
+  "section": "collectibles",
+  "coverage": "complete",
+  "count": 6,
+  "items": [
+    {
+      "id": "gang-tags",
+      "name": "Gang Tags",
+      "type": "Graffiti",
+      "total": 100,
+      "reward": "Weapons at the Johnson house",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/gang-tags.svg"
+    },
+    {
+      "id": "hidden-packages",
+      "name": "Hidden Packages",
+      "type": "Package",
+      "total": 100,
+      "reward": "Weapons at the Johnson house",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/hidden-packages.svg"
+    },
+    {
+      "id": "horseshoes",
+      "name": "Horseshoes",
+      "type": "Horseshoe",
+      "total": 50,
+      "reward": "Weapons and cash at the Four Dragons Casino",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/horseshoes.svg"
+    },
+    {
+      "id": "oysters",
+      "name": "Oysters",
+      "type": "Oyster",
+      "total": 50,
+      "reward": "Increased lung capacity and 100% progress",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/oysters.svg"
+    },
+    {
+      "id": "snapshots",
+      "name": "Snapshots",
+      "type": "Snapshot",
+      "total": 50,
+      "reward": "Weapons at the San Fierro garage",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/snapshots.svg"
+    },
+    {
+      "id": "unique-jumps",
+      "name": "Unique Stunt Jumps",
+      "type": "Stunt",
+      "total": 70,
+      "reward": "Cash, counted toward 100% completion",
+      "verified": true,
+      "image": "assets/img/collectible/gta-san-andreas/unique-jumps.svg"
+    }
+  ]
+}

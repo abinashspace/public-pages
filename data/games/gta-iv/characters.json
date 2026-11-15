@@ -1,0 +1,229 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 18,
+  "items": [
+    {
+      "id": "bernie-crane",
+      "name": "Bernie Crane",
+      "role": "Friend",
+      "affiliations": [
+        "Liberty City politics"
+      ],
+      "summary": "An old friend of Niko's from the war, now a flamboyant political fixer.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/bernie-crane.svg"
+    },
+    {
+      "id": "brucie-kibbutz",
+      "name": "Brucie Kibbutz",
+      "role": "Ally, car dealer",
+      "affiliations": [
+        "Kibbutz Motors"
+      ],
+      "summary": "Steroid-obsessed car dealer and adrenaline junkie.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/brucie-kibbutz.svg"
+    },
+    {
+      "id": "dimitri-rascalov",
+      "name": "Dimitri Rascalov",
+      "role": "Antagonist",
+      "affiliations": [
+        "Russian Mafia"
+      ],
+      "summary": "A manipulative Russian gangster who betrays everyone he works with.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/dimitri-rascalov.svg"
+    },
+    {
+      "id": "dwayne-forge",
+      "name": "Dwayne Forge",
+      "role": "Ally",
+      "affiliations": [
+        "North Holland crew"
+      ],
+      "summary": "An ex-con trying to rebuild his life after prison.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/dwayne-forge.svg"
+    },
+    {
+      "id": "francis-mcreary",
+      "name": "Francis McReary",
+      "role": "Corrupt cop",
+      "affiliations": [
+        "Liberty City Police Department",
+        "McReary Crime Family"
+      ],
+      "summary": "A police detective who blackmails Niko into cleaning up his problems.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/francis-mcreary.svg"
+    },
+    {
+      "id": "gerald-mcreary",
+      "name": "Gerald McReary",
+      "role": "McReary patriarch",
+      "affiliations": [
+        "McReary Crime Family"
+      ],
+      "summary": "The eldest McReary brother, running the family business from prison.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/gerald-mcreary.svg"
+    },
+    {
+      "id": "jimmy-pegorino",
+      "name": "Jimmy Pegorino",
+      "role": "Boss",
+      "affiliations": [
+        "Pegorino Crime Family"
+      ],
+      "summary": "The head of the Alderney family and Niko's final employer.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/jimmy-pegorino.svg"
+    },
+    {
+      "id": "kate-mcreary",
+      "name": "Kate McReary",
+      "role": "Girlfriend",
+      "affiliations": [
+        "McReary Crime Family"
+      ],
+      "summary": "Packie's sister and Niko's moral counterweight.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/kate-mcreary.svg"
+    },
+    {
+      "id": "little-jacob",
+      "name": "Little Jacob",
+      "role": "Ally, arms dealer",
+      "affiliations": [
+        "Yardies",
+        "Bellic crew"
+      ],
+      "summary": "Jamaican arms dealer and Niko's most loyal friend.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/little-jacob.svg"
+    },
+    {
+      "id": "mikhail-faustin",
+      "name": "Mikhail Faustin",
+      "role": "Antagonist",
+      "affiliations": [
+        "Russian Mafia"
+      ],
+      "summary": "Volatile Russian crime boss whose paranoia starts a war.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/mikhail-faustin.svg"
+    },
+    {
+      "id": "niko-bellic",
+      "name": "Niko Bellic",
+      "role": "Protagonist",
+      "affiliations": [
+        "Independent",
+        "McReary crew (associate)"
+      ],
+      "summary": "A Balkan war veteran who comes to Liberty City chasing the man who betrayed his unit.",
+      "status": "Varies",
+      "first_appearance": "Grand Theft Auto IV",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/niko-bellic.svg"
+    },
+    {
+      "id": "packie-mcreary",
+      "name": "Patrick 'Packie' McReary",
+      "role": "Ally, bank robber",
+      "affiliations": [
+        "McReary Crime Family"
+      ],
+      "summary": "The youngest McReary brother, a skilled bank robber and Niko's heist partner.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/packie-mcreary.svg"
+    },
+    {
+      "id": "phil-bell",
+      "name": "Phil Bell",
+      "role": "Associate",
+      "affiliations": [
+        "Pegorino Crime Family"
+      ],
+      "summary": "A Pegorino associate running truck hijackings.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/phil-bell.svg"
+    },
+    {
+      "id": "playboy-x",
+      "name": "Playboy X",
+      "role": "Ally, drug dealer",
+      "affiliations": [
+        "North Holland crew"
+      ],
+      "summary": "An ambitious dealer whose partnership with Niko ends in a choice.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/playboy-x.svg"
+    },
+    {
+      "id": "ray-boccino",
+      "name": "Ray Boccino",
+      "role": "Associate, capo",
+      "affiliations": [
+        "Pegorino Crime Family"
+      ],
+      "summary": "A Pegorino capo and diamond dealer.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/ray-boccino.svg"
+    },
+    {
+      "id": "roman-bellic",
+      "name": "Roman Bellic",
+      "role": "Cousin, taxi depot owner",
+      "affiliations": [
+        "Bellic Enterprises"
+      ],
+      "summary": "Niko's cousin, whose exaggerated stories hide a gambling problem and loan-shark debt.",
+      "status": "Varies",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/roman-bellic.svg"
+    },
+    {
+      "id": "ul-paper-contact",
+      "name": "United Liberty Paper contact",
+      "role": "Handler",
+      "affiliations": [
+        "Federal intelligence"
+      ],
+      "summary": "A shadowy agent who trades favours for information about Niko's past.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/ul-paper-contact.svg"
+    },
+    {
+      "id": "vladimir-glebov",
+      "name": "Vladimir Glebov",
+      "role": "Antagonist",
+      "affiliations": [
+        "Russian Mafia"
+      ],
+      "summary": "A petty loan shark running a small crew out of Hove Beach.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-iv/vladimir-glebov.svg"
+    }
+  ]
+}

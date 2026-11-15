@@ -1,0 +1,95 @@
+{
+  "game": "gta-advance",
+  "game_title": "Grand Theft Auto Advance",
+  "section": "characters",
+  "coverage": "limited",
+  "count": 7,
+  "items": [
+    {
+      "id": "8-ball",
+      "name": "8-Ball",
+      "role": "Explosives expert",
+      "affiliations": [
+        "Liberty City underworld"
+      ],
+      "summary": "Bomb-maker who appears before the events of GTA III.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-advance/8-ball.svg"
+    },
+    {
+      "id": "asuka-kasen",
+      "name": "Asuka Kasen",
+      "role": "Yakuza co-leader",
+      "affiliations": [
+        "Yakuza"
+      ],
+      "summary": "Already running Yakuza operations in 2000.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-advance/asuka-kasen.svg"
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "role": "Associate",
+      "affiliations": [
+        "Liberty City underworld"
+      ],
+      "summary": "A contact in Mike's early jobs.",
+      "status": "Alive",
+      "verified": false,
+      "image": "assets/img/portrait/gta-advance/cisco.svg"
+    },
+    {
+      "id": "king-courtney",
+      "name": "King Courtney",
+      "role": "Yardies leader",
+      "affiliations": [
+        "Yardies"
+      ],
+      "summary": "Yardie boss active in Liberty City before GTA III.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-advance/king-courtney.svg"
+    },
+    {
+      "id": "mike",
+      "name": "Mike",
+      "role": "Protagonist",
+      "affiliations": [
+        "Independent",
+        "Vinnie's crew"
+      ],
+      "summary": "A small-time Liberty City criminal trying to buy his way out after a job goes wrong.",
+      "status": "Alive",
+      "first_appearance": "GTA Advance",
+      "verified": true,
+      "image": "assets/img/portrait/gta-advance/mike.svg"
+    },
+    {
+      "id": "uncle-fu-advance",
+      "name": "Uncle Fu",
+      "role": "Antagonist",
+      "affiliations": [
+        "Liberty City Triads"
+      ],
+      "summary": "A crime figure involved in the game's central betrayal.",
+      "status": "Deceased",
+      "verified": false,
+      "image": "assets/img/portrait/gta-advance/uncle-fu-advance.svg"
+    },
+    {
+      "id": "vinnie",
+      "name": "Vinnie",
+      "role": "Partner, antagonist",
+      "affiliations": [
+        "Liberty City underworld"
+      ],
+      "summary": "Mike's partner whose betrayal drives the story.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-advance/vinnie.svg"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "game": "gta-v",
+  "game_title": "Grand Theft Auto V",
+  "section": "missions",
+  "coverage": "partial",
+  "count": 43,
+  "items": [
+    {
+      "id": "franklin-and-lamar",
+      "order": 1,
+      "name": "Franklin and Lamar",
+      "type": "Story",
+      "giver": "Simeon Yetarian",
+      "location": "Vespucci",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Repossess two cars for Simeon and race Lamar back to the dealership.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/franklin-and-lamar.svg"
+    },
+    {
+      "id": "repossession",
+      "order": 2,
+      "name": "Repossession",
+      "type": "Story",
+      "giver": "Simeon Yetarian",
+      "location": "Vespucci",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Recover a car from a gang-controlled housing project.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/repossession.svg"
+    },
+    {
+      "id": "complications",
+      "order": 3,
+      "name": "Complications",
+      "type": "Story",
+      "giver": "Simeon Yetarian",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Repossess a car from Michael De Santa, who turns the tables.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/complications.svg"
+    },
+    {
+      "id": "chop",
+      "order": 4,
+      "name": "Chop",
+      "type": "Story",
+      "giver": "Lamar Davis",
+      "location": "Chamberlain Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Use Chop to track down a rival gang member.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/chop.svg"
+    },
+    {
+      "id": "father-son",
+      "order": 5,
+      "name": "Father/Son",
+      "type": "Story",
+      "giver": "Michael De Santa",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Michael and Franklin rescue Jimmy from a boat chase.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/father-son.svg"
+    },
+    {
+      "id": "marriage-counseling",
+      "order": 6,
+      "name": "Marriage Counseling",
+      "type": "Story",
+      "giver": "Michael De Santa",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Chase Amanda's tennis coach and accidentally destroy a mansion.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/marriage-counseling.svg"
+    },
+    {
+      "id": "daddys-little-girl",
+      "order": 7,
+      "name": "Daddy's Little Girl",
+      "type": "Story",
+      "giver": "Michael De Santa",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rescue Tracey from a reality-TV setup.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/daddys-little-girl.svg"
+    },
+    {
+      "id": "friend-request",
+      "order": 8,
+      "name": "Friend Request",
+      "type": "Story",
+      "giver": "Lester Crest",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Hack Lifeinvader and assassinate its CEO.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/friend-request.svg"
+    },
+    {
+      "id": "the-long-stretch",
+      "order": 9,
+      "name": "The Long Stretch",
+      "type": "Story",
+      "giver": "Lamar Davis",
+      "location": "Chamberlain Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A gang meeting turns into a firefight.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-long-stretch.svg"
+    },
+    {
+      "id": "casing-the-jewel-store",
+      "order": 10,
+      "name": "Casing the Jewel Store",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Scout Vangelico Jewellers and choose the approach.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/casing-the-jewel-store.svg"
+    },
+    {
+      "id": "carbine-rifles",
+      "order": 11,
+      "name": "Carbine Rifles",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a police convoy's carbine rifles for the loud approach.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/carbine-rifles.svg"
+    },
+    {
+      "id": "bugstars",
+      "order": 12,
+      "name": "Bugstars",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Pose as pest control to plant gas in the jewellery store.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/bugstars.svg"
+    },
+    {
+      "id": "the-jewel-store-job",
+      "order": 13,
+      "name": "The Jewel Store Job",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rob Vangelico Jewellers and escape on motorbikes.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-jewel-store-job.svg"
+    },
+    {
+      "id": "mr-philips",
+      "order": 14,
+      "name": "Mr. Philips",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Sandy Shores",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Trevor takes over the Lost MC's meth business by force.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/mr-philips.svg"
+    },
+    {
+      "id": "trevor-philips-industries",
+      "order": 15,
+      "name": "Trevor Philips Industries",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Sandy Shores",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Defend the meth lab from rival dealers.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/trevor-philips-industries.svg"
+    },
+    {
+      "id": "nervous-ron",
+      "order": 16,
+      "name": "Nervous Ron",
+      "type": "Story",
+      "giver": "Ron Jakowski",
+      "location": "Sandy Shores",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a plane for Trevor's arms business.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/nervous-ron.svg"
+    },
+    {
+      "id": "crystal-maze",
+      "order": 17,
+      "name": "Crystal Maze",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Sandy Shores",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Raid a rival meth operation.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/crystal-maze.svg"
+    },
+    {
+      "id": "friends-reunited",
+      "order": 18,
+      "name": "Friends Reunited",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Trevor tracks down Michael in Los Santos.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/friends-reunited.svg"
+    },
+    {
+      "id": "fame-or-shame",
+      "order": 19,
+      "name": "Fame or Shame",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Wreck Tracey's talent show.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/fame-or-shame.svg"
+    },
+    {
+      "id": "dead-man-walking",
+      "order": 20,
+      "name": "Dead Man Walking",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Infiltrate a morgue and steal a body for the FIB.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/dead-man-walking.svg"
+    },
+    {
+      "id": "did-somebody-say-yoga",
+      "order": 21,
+      "name": "Did Somebody Say Yoga?",
+      "type": "Story",
+      "giver": "Michael De Santa",
+      "location": "Rockford Hills",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A family therapy session ends with Michael drugged and stranded.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/did-somebody-say-yoga.svg"
+    },
+    {
+      "id": "threes-company",
+      "order": 22,
+      "name": "Three's Company",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Extract a target from the IAA building.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/threes-company.svg"
+    },
+    {
+      "id": "by-the-book",
+      "order": 23,
+      "name": "By the Book",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Torture interrogation for the FIB.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/by-the-book.svg"
+    },
+    {
+      "id": "blitz-play",
+      "order": 24,
+      "name": "Blitz Play",
+      "type": "Heist",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Three-way ambush of an armored car with a fire truck.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/blitz-play.svg"
+    },
+    {
+      "id": "mr-richards",
+      "order": 25,
+      "name": "Mr. Richards",
+      "type": "Story",
+      "giver": "Solomon Richards",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Help a film producer deal with a star's scandal.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/mr-richards.svg"
+    },
+    {
+      "id": "i-fought-the-law",
+      "order": 26,
+      "name": "I Fought the Law",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal two supercars for the FIB's evidence lockup.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/i-fought-the-law.svg"
+    },
+    {
+      "id": "eye-in-the-sky",
+      "order": 27,
+      "name": "Eye in the Sky",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Use a police helicopter's camera to identify a target.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/eye-in-the-sky.svg"
+    },
+    {
+      "id": "deep-inside",
+      "order": 28,
+      "name": "Deep Inside",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Infiltrate the FIB building disguised as cleaners.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/deep-inside.svg"
+    },
+    {
+      "id": "minor-turbulence",
+      "order": 29,
+      "name": "Minor Turbulence",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Blaine County",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Hijack a cargo plane mid-flight.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/minor-turbulence.svg"
+    },
+    {
+      "id": "the-paleto-score",
+      "order": 30,
+      "name": "The Paleto Score",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Paleto Bay",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rob a small-town bank with military-grade firepower.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-paleto-score.svg"
+    },
+    {
+      "id": "derailed",
+      "order": 31,
+      "name": "Derailed",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "Blaine County",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Stop a train to steal its cargo.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/derailed.svg"
+    },
+    {
+      "id": "monkey-business",
+      "order": 32,
+      "name": "Monkey Business",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Humane Labs",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a chemical weapon from Humane Labs.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/monkey-business.svg"
+    },
+    {
+      "id": "predator",
+      "order": 33,
+      "name": "Predator",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Blaine County",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Snipe mercenaries in the woods.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/predator.svg"
+    },
+    {
+      "id": "surveying-the-score",
+      "order": 34,
+      "name": "Surveying the Score",
+      "type": "Heist",
+      "giver": "Lester Crest",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Case the Union Depository for the final heist.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/surveying-the-score.svg"
+    },
+    {
+      "id": "bury-the-hatchet",
+      "order": 35,
+      "name": "Bury the Hatchet",
+      "type": "Story",
+      "giver": "Trevor Philips",
+      "location": "North Yankton",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Trevor learns the truth about Brad and Michael.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/bury-the-hatchet.svg"
+    },
+    {
+      "id": "pack-man",
+      "order": 36,
+      "name": "Pack Man",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a convoy of cars for Devin Weston.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/pack-man.svg"
+    },
+    {
+      "id": "fresh-meat",
+      "order": 37,
+      "name": "Fresh Meat",
+      "type": "Story",
+      "giver": "Michael De Santa",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rescue Michael from kidnappers.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/fresh-meat.svg"
+    },
+    {
+      "id": "the-wrap-up",
+      "order": 38,
+      "name": "The Wrap Up",
+      "type": "Story",
+      "giver": "FIB",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A deal at the Kortz Center ends in a shootout.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-wrap-up.svg"
+    },
+    {
+      "id": "lamar-down",
+      "order": 39,
+      "name": "Lamar Down",
+      "type": "Story",
+      "giver": "Lamar Davis",
+      "location": "Blaine County",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Rescue Lamar from a Sawmill shootout.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/lamar-down.svg"
+    },
+    {
+      "id": "meltdown",
+      "order": 40,
+      "name": "Meltdown",
+      "type": "Story",
+      "giver": "Devin Weston",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Stop Devin Weston's lawyers from moving his assets.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/meltdown.svg"
+    },
+    {
+      "id": "the-third-way",
+      "order": 41,
+      "name": "The Third Way",
+      "type": "Story",
+      "giver": "Lester Crest",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ending: keep all three protagonists alive and settle every score.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-third-way.svg"
+    },
+    {
+      "id": "something-sensible",
+      "order": 42,
+      "name": "Something Sensible",
+      "type": "Story",
+      "giver": "Devin Weston",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ending: Franklin sides with Weston against Trevor.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/something-sensible.svg"
+    },
+    {
+      "id": "the-times-come",
+      "order": 43,
+      "name": "The Time's Come",
+      "type": "Story",
+      "giver": "Devin Weston",
+      "location": "Los Santos",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Ending: Franklin sides with Weston against Michael.",
+      "verified": true,
+      "image": "assets/img/mission/gta-v/the-times-come.svg"
+    }
+  ]
+}

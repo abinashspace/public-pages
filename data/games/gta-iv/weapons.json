@@ -1,0 +1,163 @@
+{
+  "game": "gta-iv",
+  "game_title": "Grand Theft Auto IV",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "assault-rifle",
+      "name": "Assault Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/assault-rifle.svg"
+    },
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/baseball-bat.svg"
+    },
+    {
+      "id": "carbine-rifle",
+      "name": "Carbine Rifle",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Little Jacob (later)",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/carbine-rifle.svg"
+    },
+    {
+      "id": "desert-eagle",
+      "name": "Desert Eagle",
+      "type": "Handgun",
+      "damage_tier": "Very high",
+      "ammo": "7 rounds",
+      "price": null,
+      "unlock": "Little Jacob / gun van",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/desert-eagle.svg"
+    },
+    {
+      "id": "fists",
+      "name": "Fists",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Default",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/fists.svg"
+    },
+    {
+      "id": "glock-17",
+      "name": "Glock 17",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Default sidearm",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/glock-17.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "25",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/grenades.svg"
+    },
+    {
+      "id": "knife",
+      "name": "Knife",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/knife.svg"
+    },
+    {
+      "id": "micro-smg",
+      "name": "Micro SMG",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/micro-smg.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "25",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/molotov.svg"
+    },
+    {
+      "id": "mp5",
+      "name": "MP5",
+      "type": "Submachine gun",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/mp5.svg"
+    },
+    {
+      "id": "pump-shotgun",
+      "name": "Pump Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/pump-shotgun.svg"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/rpg.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Little Jacob",
+      "verified": true,
+      "image": "assets/img/weapon/gta-iv/sniper-rifle.svg"
+    }
+  ]
+}

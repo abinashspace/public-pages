@@ -1,0 +1,205 @@
+{
+  "game": "gta-liberty-city-stories",
+  "game_title": "Grand Theft Auto: Liberty City Stories",
+  "section": "missions",
+  "coverage": "partial",
+  "count": 14,
+  "items": [
+    {
+      "id": "home-sweet-home",
+      "order": 1,
+      "name": "Home Sweet Home",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Toni returns to Liberty City and reports to Salvatore.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/home-sweet-home.svg"
+    },
+    {
+      "id": "slacker",
+      "order": 2,
+      "name": "Slacker",
+      "type": "Story",
+      "giver": "Vincenzo Cilli",
+      "location": "Atlantic Quays",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Escort Vincenzo's contact through the docks.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/slacker.svg"
+    },
+    {
+      "id": "dealing-revenge",
+      "order": 3,
+      "name": "Dealing Revenge",
+      "type": "Story",
+      "giver": "Vincenzo Cilli",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Steal a car and deal with a rival dealer.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/dealing-revenge.svg"
+    },
+    {
+      "id": "snuff",
+      "order": 4,
+      "name": "Snuff",
+      "type": "Story",
+      "giver": "JD O'Toole",
+      "location": "Red Light District",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Stop a snuff film being made in the Red Light District.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/snuff.svg"
+    },
+    {
+      "id": "the-portland-chainsaw-masquerade",
+      "order": 5,
+      "name": "The Portland Chainsaw Masquerade",
+      "type": "Story",
+      "giver": "Vincenzo Cilli",
+      "location": "Atlantic Quays",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Survive a chainsaw ambush arranged by Vincenzo.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/the-portland-chainsaw-masquerade.svg"
+    },
+    {
+      "id": "big-rumble-in-little-china",
+      "order": 6,
+      "name": "Big Rumble in Little China",
+      "type": "Story",
+      "giver": "JD O'Toole",
+      "location": "Chinatown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "A massive street fight in Chinatown.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/big-rumble-in-little-china.svg"
+    },
+    {
+      "id": "grease-sucho",
+      "order": 7,
+      "name": "Grease Sucho",
+      "type": "Story",
+      "giver": "JD O'Toole",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill a mechanic who has been informing on the family.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/grease-sucho.svg"
+    },
+    {
+      "id": "dead-meat",
+      "order": 8,
+      "name": "Dead Meat",
+      "type": "Story",
+      "giver": "JD O'Toole",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Dispose of a body for JD.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/dead-meat.svg"
+    },
+    {
+      "id": "no-son-of-mine",
+      "order": 9,
+      "name": "No Son of Mine",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Saint Mark's",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Deal with a traitor inside the Leone family.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/no-son-of-mine.svg"
+    },
+    {
+      "id": "the-trouble-with-triads",
+      "order": 10,
+      "name": "The Trouble with Triads",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Chinatown",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Hit the Triads to protect Leone interests.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/the-trouble-with-triads.svg"
+    },
+    {
+      "id": "a-walk-in-the-park",
+      "order": 11,
+      "name": "A Walk in the Park",
+      "type": "Story",
+      "giver": "Leon McAffrey",
+      "location": "Belleville Park",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Kill a target walking through Belleville Park.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/a-walk-in-the-park.svg"
+    },
+    {
+      "id": "making-toni",
+      "order": 12,
+      "name": "Making Toni",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Saint Mark's",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Earn recognition and become a made man.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/making-toni.svg"
+    },
+    {
+      "id": "the-shoreside-redemption",
+      "order": 13,
+      "name": "The Shoreside Redemption",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Shoreside Vale",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Late-game Leone operation on Shoreside Vale.",
+      "verified": false,
+      "image": "assets/img/mission/gta-liberty-city-stories/the-shoreside-redemption.svg"
+    },
+    {
+      "id": "the-sicilian-gambit",
+      "order": 14,
+      "name": "The Sicilian Gambit",
+      "type": "Story",
+      "giver": "Salvatore Leone",
+      "location": "Portland",
+      "reward": {
+        "money": 0
+      },
+      "summary": "Final mission: stop the Sicilian takeover.",
+      "verified": true,
+      "image": "assets/img/mission/gta-liberty-city-stories/the-sicilian-gambit.svg"
+    }
+  ]
+}

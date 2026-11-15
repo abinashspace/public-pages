@@ -1,0 +1,229 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "weapons",
+  "coverage": "partial",
+  "count": 20,
+  "items": [
+    {
+      "id": "baseball-bat",
+      "name": "Baseball Bat",
+      "type": "Melee",
+      "damage_tier": "Medium",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/baseball-bat.svg"
+    },
+    {
+      "id": "brass-knuckles",
+      "name": "Brass Knuckles",
+      "type": "Melee",
+      "damage_tier": "Low",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/brass-knuckles.svg"
+    },
+    {
+      "id": "chainsaw",
+      "name": "Chainsaw",
+      "type": "Melee",
+      "damage_tier": "Very high",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Treacherous Swine / pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/chainsaw.svg"
+    },
+    {
+      "id": "flamethrower",
+      "name": "Flamethrower",
+      "type": "Heavy",
+      "damage_tier": "Very high",
+      "ammo": "Continuous",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/flamethrower.svg"
+    },
+    {
+      "id": "grenades",
+      "name": "Grenades",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/grenades.svg"
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "type": "Melee",
+      "damage_tier": "High",
+      "ammo": "—",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/katana.svg"
+    },
+    {
+      "id": "m4",
+      "name": "M4",
+      "type": "Assault rifle",
+      "damage_tier": "Very high",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation / pickup",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/m4.svg"
+    },
+    {
+      "id": "minigun",
+      "name": "Minigun",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "150 rounds",
+      "price": null,
+      "unlock": "Hidden packages reward",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/minigun.svg"
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov Cocktail",
+      "type": "Thrown",
+      "damage_tier": "High",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/molotov.svg"
+    },
+    {
+      "id": "mp5",
+      "name": "MP5",
+      "type": "Submachine gun",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/mp5.svg"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "type": "Handgun",
+      "damage_tier": "Medium",
+      "ammo": "17 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/pistol.svg"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "type": "Handgun",
+      "damage_tier": "Very high",
+      "ammo": "6 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation (later)",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/python.svg"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "type": "Heavy",
+      "damage_tier": "Lethal",
+      "ammo": "5 rockets",
+      "price": null,
+      "unlock": "Phil Cassidy / pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/rocket-launcher.svg"
+    },
+    {
+      "id": "ruger",
+      "name": "Ruger",
+      "type": "Assault rifle",
+      "damage_tier": "High",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/ruger.svg"
+    },
+    {
+      "id": "shotgun",
+      "name": "Shotgun",
+      "type": "Shotgun",
+      "damage_tier": "High",
+      "ammo": "8 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/shotgun.svg"
+    },
+    {
+      "id": "sniper-rifle",
+      "name": "Sniper Rifle",
+      "type": "Sniper",
+      "damage_tier": "Very high",
+      "ammo": "5 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/sniper-rifle.svg"
+    },
+    {
+      "id": "spas-12",
+      "name": "SPAS-12",
+      "type": "Shotgun",
+      "damage_tier": "Very high",
+      "ammo": "7 shells",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/spas-12.svg"
+    },
+    {
+      "id": "tear-gas",
+      "name": "Tear Gas",
+      "type": "Thrown",
+      "damage_tier": "Low",
+      "ammo": "20",
+      "price": null,
+      "unlock": "Pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/tear-gas.svg"
+    },
+    {
+      "id": "tec-9",
+      "name": "Tec-9",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Street pickups",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/tec-9.svg"
+    },
+    {
+      "id": "uzi",
+      "name": "Uzi",
+      "type": "Submachine gun",
+      "damage_tier": "Medium",
+      "ammo": "30 rounds",
+      "price": null,
+      "unlock": "Ammu-Nation",
+      "verified": true,
+      "image": "assets/img/weapon/gta-vice-city/uzi.svg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "game": "gta-london-1969",
+  "game_title": "Grand Theft Auto: London 1969",
+  "section": "cheats",
+  "coverage": "limited",
+  "count": 1,
+  "items": [
+    {
+      "id": "full-health",
+      "effect": "Full health",
+      "codes": [
+        {
+          "platform": "PC",
+          "code": "GESUNDHEIT",
+          "input": "keyboard"
+        }
+      ],
+      "verified": false,
+      "source": "Shared GTA 1 engine cheat; verify against the London 1969 build",
+      "image": "assets/img/cheat/gta-london-1969/full-health.svg"
+    }
+  ]
+}

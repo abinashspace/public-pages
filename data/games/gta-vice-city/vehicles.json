@@ -1,0 +1,519 @@
+{
+  "game": "gta-vice-city",
+  "game_title": "Grand Theft Auto: Vice City",
+  "section": "vehicles",
+  "coverage": "partial",
+  "count": 51,
+  "items": [
+    {
+      "id": "admiral",
+      "name": "Admiral",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/admiral.svg"
+    },
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "category": "Emergency",
+      "class": "Medical",
+      "top_speed_kph": 145,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/ambulance.svg"
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 175,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/angel.svg"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 215,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/banshee.svg"
+    },
+    {
+      "id": "barracks-ol",
+      "name": "Barracks OL",
+      "category": "Military",
+      "class": "Truck",
+      "top_speed_kph": 95,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/barracks-ol.svg"
+    },
+    {
+      "id": "bf-injection",
+      "name": "BF Injection",
+      "category": "Car",
+      "class": "Buggy",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/bf-injection.svg"
+    },
+    {
+      "id": "bloodring-banger",
+      "name": "Bloodring Banger",
+      "category": "Car",
+      "class": "Demolition",
+      "top_speed_kph": 190,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/bloodring-banger.svg"
+    },
+    {
+      "id": "bobcat",
+      "name": "Bobcat",
+      "category": "Car",
+      "class": "Pickup",
+      "top_speed_kph": 160,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/bobcat.svg"
+    },
+    {
+      "id": "cabbie",
+      "name": "Cabbie",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 170,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/cabbie.svg"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 225,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/cheetah.svg"
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 205,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/comet.svg"
+    },
+    {
+      "id": "cuban-hermes",
+      "name": "Cuban Hermes",
+      "category": "Car",
+      "class": "Gang",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/cuban-hermes.svg"
+    },
+    {
+      "id": "deluxo",
+      "name": "Deluxo",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/deluxo.svg"
+    },
+    {
+      "id": "dinghy",
+      "name": "Dinghy",
+      "category": "Boat",
+      "class": "Inflatable",
+      "top_speed_kph": 70,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/dinghy.svg"
+    },
+    {
+      "id": "enforcer",
+      "name": "Enforcer",
+      "category": "Emergency",
+      "class": "Police van",
+      "top_speed_kph": 135,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/enforcer.svg"
+    },
+    {
+      "id": "faggio",
+      "name": "Faggio",
+      "category": "Motorcycle",
+      "class": "Scooter",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/faggio.svg"
+    },
+    {
+      "id": "fbi-washington",
+      "name": "FBI Washington",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 205,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/fbi-washington.svg"
+    },
+    {
+      "id": "fire-truck",
+      "name": "Fire Truck",
+      "category": "Emergency",
+      "class": "Fire",
+      "top_speed_kph": 125,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/fire-truck.svg"
+    },
+    {
+      "id": "freeway",
+      "name": "Freeway",
+      "category": "Motorcycle",
+      "class": "Cruiser",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/freeway.svg"
+    },
+    {
+      "id": "gang-burrito",
+      "name": "Gang Burrito",
+      "category": "Van",
+      "class": "Gang",
+      "top_speed_kph": 150,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/gang-burrito.svg"
+    },
+    {
+      "id": "hotring-racer",
+      "name": "Hotring Racer",
+      "category": "Car",
+      "class": "Race car",
+      "top_speed_kph": 240,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/hotring-racer.svg"
+    },
+    {
+      "id": "infernus",
+      "name": "Infernus",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 230,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/infernus.svg"
+    },
+    {
+      "id": "jetmax",
+      "name": "Jetmax",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 115,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/jetmax.svg"
+    },
+    {
+      "id": "marquis",
+      "name": "Marquis",
+      "category": "Boat",
+      "class": "Yacht",
+      "top_speed_kph": 60,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/marquis.svg"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/maverick.svg"
+    },
+    {
+      "id": "mesa-grande",
+      "name": "Mesa Grande",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/mesa-grande.svg"
+    },
+    {
+      "id": "mr-whoopee",
+      "name": "Mr Whoopee",
+      "category": "Van",
+      "class": "Ice cream",
+      "top_speed_kph": 120,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/mr-whoopee.svg"
+    },
+    {
+      "id": "patriot",
+      "name": "Patriot",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/patriot.svg"
+    },
+    {
+      "id": "pcj-600",
+      "name": "PCJ-600",
+      "category": "Motorcycle",
+      "class": "Sport bike",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/pcj-600.svg"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 200,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/phoenix.svg"
+    },
+    {
+      "id": "police-car",
+      "name": "Police Car",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 185,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/police-car.svg"
+    },
+    {
+      "id": "police-maverick",
+      "name": "Police Maverick",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 200,
+      "seats": 3,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/police-maverick.svg"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "category": "Boat",
+      "class": "Police boat",
+      "top_speed_kph": 95,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/predator.svg"
+    },
+    {
+      "id": "rancher",
+      "name": "Rancher",
+      "category": "Car",
+      "class": "SUV",
+      "top_speed_kph": 165,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/rancher.svg"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "category": "Military",
+      "class": "Tank",
+      "top_speed_kph": 60,
+      "seats": 1,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/rhino.svg"
+    },
+    {
+      "id": "sabre-turbo",
+      "name": "Sabre Turbo",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 205,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/sabre-turbo.svg"
+    },
+    {
+      "id": "sanchez",
+      "name": "Sanchez",
+      "category": "Motorcycle",
+      "class": "Dirt bike",
+      "top_speed_kph": 170,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/sanchez.svg"
+    },
+    {
+      "id": "sea-sparrow",
+      "name": "Sea Sparrow",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 190,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/sea-sparrow.svg"
+    },
+    {
+      "id": "sentinel-xs",
+      "name": "Sentinel XS",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 190,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/sentinel-xs.svg"
+    },
+    {
+      "id": "skimmer",
+      "name": "Skimmer",
+      "category": "Aircraft",
+      "class": "Seaplane",
+      "top_speed_kph": 180,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/skimmer.svg"
+    },
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "category": "Aircraft",
+      "class": "Helicopter",
+      "top_speed_kph": 195,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/sparrow.svg"
+    },
+    {
+      "id": "speeder",
+      "name": "Speeder",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 105,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/speeder.svg"
+    },
+    {
+      "id": "squalo",
+      "name": "Squalo",
+      "category": "Boat",
+      "class": "Speedboat",
+      "top_speed_kph": 110,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/squalo.svg"
+    },
+    {
+      "id": "stallion",
+      "name": "Stallion",
+      "category": "Car",
+      "class": "Muscle",
+      "top_speed_kph": 195,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/stallion.svg"
+    },
+    {
+      "id": "stinger",
+      "name": "Stinger",
+      "category": "Car",
+      "class": "Sports",
+      "top_speed_kph": 210,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/stinger.svg"
+    },
+    {
+      "id": "stretch",
+      "name": "Stretch",
+      "category": "Car",
+      "class": "Limousine",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/stretch.svg"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/taxi.svg"
+    },
+    {
+      "id": "vcpd-cheetah",
+      "name": "VCPD Cheetah",
+      "category": "Emergency",
+      "class": "Police",
+      "top_speed_kph": 225,
+      "seats": 2,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/vcpd-cheetah.svg"
+    },
+    {
+      "id": "voodoo",
+      "name": "Voodoo",
+      "category": "Car",
+      "class": "Lowrider",
+      "top_speed_kph": 180,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/voodoo.svg"
+    },
+    {
+      "id": "washington",
+      "name": "Washington",
+      "category": "Car",
+      "class": "Sedan",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/washington.svg"
+    },
+    {
+      "id": "zebra-cab",
+      "name": "Zebra Cab",
+      "category": "Car",
+      "class": "Taxi",
+      "top_speed_kph": 175,
+      "seats": 4,
+      "verified": true,
+      "image": "assets/img/vehicle/gta-vice-city/zebra-cab.svg"
+    }
+  ]
+}

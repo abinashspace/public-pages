@@ -1,0 +1,168 @@
+{
+  "game": "gta-vice-city-stories",
+  "game_title": "Grand Theft Auto: Vice City Stories",
+  "section": "characters",
+  "coverage": "partial",
+  "count": 13,
+  "items": [
+    {
+      "id": "armando-mendez",
+      "name": "Armando Mendez",
+      "role": "Antagonist",
+      "affiliations": [
+        "Mendez Cartel"
+      ],
+      "summary": "One of the Mendez brothers running the cartel's Vice City operation.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/armando-mendez.svg"
+    },
+    {
+      "id": "bryan-forbes",
+      "name": "Bryan Forbes",
+      "role": "Antagonist",
+      "affiliations": [
+        "Mendez Cartel"
+      ],
+      "summary": "Cartel enforcer caught in a feud with Victor.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/bryan-forbes.svg"
+    },
+    {
+      "id": "diego-mendez",
+      "name": "Diego Mendez",
+      "role": "Antagonist",
+      "affiliations": [
+        "Mendez Cartel"
+      ],
+      "summary": "The other Mendez brother and cartel co-leader.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/diego-mendez.svg"
+    },
+    {
+      "id": "gonzalez",
+      "name": "Gonzalez",
+      "role": "Associate",
+      "affiliations": [
+        "Diaz Cartel"
+      ],
+      "summary": "Diaz's nervous middleman, already active in 1984.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/gonzalez.svg"
+    },
+    {
+      "id": "jerry-martinez",
+      "name": "Jerry Martinez",
+      "role": "Antagonist",
+      "affiliations": [
+        "Mendez Cartel",
+        "Army"
+      ],
+      "summary": "Corrupt sergeant who betrays Victor and becomes a cartel player.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/jerry-martinez.svg"
+    },
+    {
+      "id": "lance-vance",
+      "name": "Lance Vance",
+      "role": "Brother, ally",
+      "affiliations": [
+        "Vance Crime Family"
+      ],
+      "summary": "Victor's younger brother and partner in the family business.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/lance-vance.svg"
+    },
+    {
+      "id": "louise-cassidy-williams",
+      "name": "Louise Cassidy-Williams",
+      "role": "Ally",
+      "affiliations": [
+        "Vance Crime Family"
+      ],
+      "summary": "Widow of Marty Jay Williams who becomes Victor's partner and love interest.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/louise-cassidy-williams.svg"
+    },
+    {
+      "id": "marty-jay-williams",
+      "name": "Marty Jay Williams",
+      "role": "Antagonist",
+      "affiliations": [
+        "Trailer Park gang"
+      ],
+      "summary": "Abusive gang leader running the trailer park racket.",
+      "status": "Deceased",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/marty-jay-williams.svg"
+    },
+    {
+      "id": "phil-cassidy",
+      "name": "Phil Cassidy",
+      "role": "Ally, gun runner",
+      "affiliations": [
+        "Vance Crime Family"
+      ],
+      "summary": "Louise's brother and the family's weapons supplier.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/phil-cassidy.svg"
+    },
+    {
+      "id": "reni-wassulmaier",
+      "name": "Reni Wassulmaier",
+      "role": "Ally, film director",
+      "affiliations": [
+        "InterGlobal Films"
+      ],
+      "summary": "Eccentric film director who gives Victor a set of missions.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/reni-wassulmaier.svg"
+    },
+    {
+      "id": "ricardo-diaz",
+      "name": "Ricardo Diaz",
+      "role": "Associate",
+      "affiliations": [
+        "Diaz Cartel"
+      ],
+      "summary": "A rising drug figure in 1984, later the kingpin of Vice City.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/ricardo-diaz.svg"
+    },
+    {
+      "id": "umberto-robina",
+      "name": "Umberto Robina",
+      "role": "Ally",
+      "affiliations": [
+        "Los Cabrones"
+      ],
+      "summary": "Cuban gang leader and early ally of Victor.",
+      "status": "Alive",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/umberto-robina.svg"
+    },
+    {
+      "id": "victor-vance",
+      "name": "Victor Vance",
+      "role": "Protagonist",
+      "affiliations": [
+        "Vance Crime Family",
+        "Army (former)"
+      ],
+      "summary": "A discharged soldier who builds a drug empire in 1984 Vice City.",
+      "status": "Deceased",
+      "first_appearance": "GTA: Vice City Stories",
+      "verified": true,
+      "image": "assets/img/portrait/gta-vice-city-stories/victor-vance.svg"
+    }
+  ]
+}

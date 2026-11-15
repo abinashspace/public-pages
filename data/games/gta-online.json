@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "slug": "gta-online",
+    "title": "Grand Theft Auto Online",
+    "year": 2013,
+    "type": "Online",
+    "status": "live",
+    "generated": "2026-11-15T15:53:40.672Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "empty",
+      "locations": "partial",
+      "collectibles": "limited"
+    },
+    "counts": {
+      "characters": 8,
+      "missions": 8,
+      "vehicles": 8,
+      "weapons": 6,
+      "cheats": 0,
+      "locations": 5,
+      "collectibles": 3
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-online/cover.svg",
+      "banner": "assets/img/banner/gta-online/banner.svg",
+      "map": "assets/img/map/gta-online/map.svg"
+    },
+    "sources": [
+      "GTA Online in-game job listings",
+      "Rockstar Newswire"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "agatha-baker",
+        "name": "Agatha Baker",
+        "role": "Contact",
+        "affiliations": [
+          "The Diamond Casino & Resort"
+        ],
+        "summary": "Casino contact for the Diamond Casino & Resort storyline.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/agatha-baker.svg"
+      },
+      {
+        "id": "agent-14",
+        "name": "Agent 14",
+        "role": "Contact",
+        "affiliations": [
+          "IAA"
+        ],
+        "summary": "Government handler for the Doomsday Heist and bunker research.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/agent-14.svg"
+      },
+      {
+        "id": "lamar-davis",
+        "name": "Lamar Davis",
+        "role": "Contact",
+        "affiliations": [
+          "Chamberlain gang",
+          "CEO organisations"
+        ],
+        "summary": "Returns as a contact for early low-level jobs and the Lowriders storyline.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/lamar-davis.svg"
+      },
+      {
+        "id": "lester-crest",
+        "name": "Lester Crest",
+        "role": "Heist planner",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "Plans the original apartment heists and the Doomsday Scenario.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/lester-crest.svg"
+      },
+      {
+        "id": "miguel-madrazo",
+        "name": "Miguel Madrazo",
+        "role": "Contact",
+        "affiliations": [
+          "Madrazo cartel"
+        ],
+        "summary": "Ranch-hand turned contact after his father's fall.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/miguel-madrazo.svg"
+      },
+      {
+        "id": "online-player",
+        "name": "Online protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "Player-chosen organisations"
+        ],
+        "summary": "A player-created criminal operating across Southern San Andreas with no fixed backstory.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto Online",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/online-player.svg"
+      },
+      {
+        "id": "pavel",
+        "name": "Pavel",
+        "role": "Contact",
+        "affiliations": [
+          "Kosatka crew"
+        ],
+        "summary": "Submarine commander and planner of the Cayo Perico Heist.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/pavel.svg"
+      },
+      {
+        "id": "tom-connors",
+        "name": "Tom Connors",
+        "role": "Contact",
+        "affiliations": [
+          "Diamond Casino"
+        ],
+        "summary": "Casino manager tied to the Diamond Casino Heist.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-online/tom-connors.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "contact-missions",
+        "order": 1,
+        "name": "Contact missions",
+        "type": "Contact",
+        "giver": "Lamar Davis",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and RP"
+        },
+        "summary": "Repeatable jobs issued by phone contacts; the backbone of early progression.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/contact-missions.svg"
+      },
+      {
+        "id": "apartment-heists",
+        "order": 2,
+        "name": "Apartment Heists",
+        "type": "Heist",
+        "giver": "Lester Crest",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and RP"
+        },
+        "summary": "Five original heists: Fleeca, Prison Break, Humane Labs, Series A, Pacific Standard.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/apartment-heists.svg"
+      },
+      {
+        "id": "doomsday-heist",
+        "order": 3,
+        "name": "Doomsday Heist",
+        "type": "Heist",
+        "giver": "Agent 14",
+        "location": "San Andreas",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and RP"
+        },
+        "summary": "Three-act heist chain involving the IAA and a nuclear threat.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/doomsday-heist.svg"
+      },
+      {
+        "id": "diamond-casino-heist",
+        "order": 4,
+        "name": "Diamond Casino Heist",
+        "type": "Heist",
+        "giver": "Tom Connors",
+        "location": "The Diamond Casino",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and RP"
+        },
+        "summary": "Player-planned robbery of the Diamond Casino with multiple approaches.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/diamond-casino-heist.svg"
+      },
+      {
+        "id": "cayo-perico-heist",
+        "order": 5,
+        "name": "Cayo Perico Heist",
+        "type": "Heist",
+        "giver": "Pavel",
+        "location": "Cayo Perico",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and RP"
+        },
+        "summary": "Solo-friendly island heist against El Rubio's compound.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/cayo-perico-heist.svg"
+      },
+      {
+        "id": "business-battles",
+        "order": 6,
+        "name": "Business Battles",
+        "type": "Business",
+        "giver": "Free mode",
+        "location": "San Andreas",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ and goods"
+        },
+        "summary": "Free-mode events fought over cargo and nightclub stock.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/business-battles.svg"
+      },
+      {
+        "id": "nightclub-management",
+        "order": 7,
+        "name": "Nightclub management",
+        "type": "Business",
+        "giver": "Tony Prince",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0,
+          "other": "Passive income"
+        },
+        "summary": "Own and promote a nightclub while running linked businesses.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/nightclub-management.svg"
+      },
+      {
+        "id": "vehicle-cargo",
+        "order": 8,
+        "name": "Vehicle Cargo",
+        "type": "Business",
+        "giver": "CEO office",
+        "location": "Los Santos",
+        "reward": {
+          "money": 0,
+          "other": "GTA$ per delivery"
+        },
+        "summary": "Source and sell high-value vehicles from a CEO warehouse.",
+        "verified": true,
+        "image": "assets/img/mission/gta-online/vehicle-cargo.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "buzzard-attack",
+        "name": "Buzzard Attack Chopper",
+        "category": "Aircraft",
+        "class": "Attack helicopter",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/buzzard-attack.svg"
+      },
+      {
+        "id": "deluxo",
+        "name": "Deluxo",
+        "category": "Car",
+        "class": "Weaponised sports",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/deluxo.svg"
+      },
+      {
+        "id": "hydra",
+        "name": "Hydra",
+        "category": "Aircraft",
+        "class": "Jump jet",
+        "top_speed_kph": 500,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/hydra.svg"
+      },
+      {
+        "id": "insurgent-pickup-custom",
+        "name": "Insurgent Pick-Up Custom",
+        "category": "Car",
+        "class": "Armored",
+        "top_speed_kph": 260,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.svg"
+      },
+      {
+        "id": "kosatka",
+        "name": "Kosatka",
+        "category": "Boat",
+        "class": "Submarine",
+        "top_speed_kph": 40,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/kosatka.svg"
+      },
+      {
+        "id": "nightshark",
+        "name": "Nightshark",
+        "category": "Car",
+        "class": "Armored",
+        "top_speed_kph": 250,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/nightshark.svg"
+      },
+      {
+        "id": "oppressor-mk-ii",
+        "name": "Oppressor Mk II",
+        "category": "Motorcycle",
+        "class": "Weaponised hoverbike",
+        "top_speed_kph": 220,
+        "seats": 1,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.svg"
+      },
+      {
+        "id": "toreador",
+        "name": "Toreador",
+        "category": "Car",
+        "class": "Weaponised sports",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-online/toreador.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ap-pistol",
+        "name": "AP Pistol",
+        "type": "Handgun",
+        "damage_tier": "High",
+        "ammo": "18 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/ap-pistol.svg"
+      },
+      {
+        "id": "grenade-launcher",
+        "name": "Grenade Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "10 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/grenade-launcher.svg"
+      },
+      {
+        "id": "heavy-sniper",
+        "name": "Heavy Sniper",
+        "type": "Sniper",
+        "damage_tier": "Lethal",
+        "ammo": "6 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/heavy-sniper.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/rpg.svg"
+      },
+      {
+        "id": "special-carbine",
+        "name": "Special Carbine",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/special-carbine.svg"
+      },
+      {
+        "id": "sticky-bombs",
+        "name": "Sticky Bombs",
+        "type": "Thrown",
+        "damage_tier": "Lethal",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-online/sticky-bombs.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "empty",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "blaine-county",
+        "name": "Blaine County",
+        "type": "Region",
+        "parent": "San Andreas",
+        "summary": "Desert and mountain region used for bunkers and facilities.",
+        "verified": true,
+        "image": "assets/img/location/gta-online/blaine-county.svg"
+      },
+      {
+        "id": "cayo-perico",
+        "name": "Cayo Perico",
+        "type": "Island",
+        "parent": null,
+        "summary": "Private Caribbean island added with the Cayo Perico Heist.",
+        "verified": true,
+        "image": "assets/img/location/gta-online/cayo-perico.svg"
+      },
+      {
+        "id": "los-santos",
+        "name": "Los Santos",
+        "type": "City",
+        "parent": "San Andreas",
+        "summary": "The shared GTA V map, plus interiors added for Online.",
+        "verified": true,
+        "image": "assets/img/location/gta-online/los-santos.svg"
+      },
+      {
+        "id": "los-santos-international",
+        "name": "Los Santos International Airport",
+        "type": "Landmark",
+        "parent": "Los Santos",
+        "summary": "Airport and hangar base of operations.",
+        "verified": true,
+        "image": "assets/img/location/gta-online/los-santos-international.svg"
+      },
+      {
+        "id": "the-diamond-casino",
+        "name": "The Diamond Casino & Resort",
+        "type": "Landmark",
+        "parent": "Los Santos",
+        "summary": "Casino and resort added in 2019.",
+        "verified": true,
+        "image": "assets/img/location/gta-online/the-diamond-casino.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "playing-cards",
+        "name": "Playing Cards",
+        "type": "Card",
+        "total": 54,
+        "reward": "Casino rewards and chips",
+        "verified": true,
+        "image": "assets/img/collectible/gta-online/playing-cards.svg"
+      },
+      {
+        "id": "signal-jammers",
+        "name": "Signal Jammers",
+        "type": "Device",
+        "total": 50,
+        "reward": "Award progress and cash",
+        "verified": true,
+        "image": "assets/img/collectible/gta-online/signal-jammers.svg"
+      },
+      {
+        "id": "treasure-chests",
+        "name": "Treasure Chests",
+        "type": "Chest",
+        "total": 0,
+        "reward": "Cash and rare items",
+        "verified": false,
+        "image": "assets/img/collectible/gta-online/treasure-chests.svg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "game": "gta-london-1961",
+  "game_title": "Grand Theft Auto: London 1961",
+  "section": "locations",
+  "coverage": "partial",
+  "count": 1,
+  "items": [
+    {
+      "id": "london",
+      "name": "London",
+      "type": "City",
+      "parent": null,
+      "summary": "1961 London using the GTA 1 engine and the London 1969 map assets.",
+      "verified": true,
+      "image": "assets/img/location/gta-london-1961/london.svg"
+    }
+  ]
+}

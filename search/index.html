@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search — GTA Hub</title>
+<meta name="description" content="Search every character, mission, vehicle, weapon, cheat, location and collectible across all GTA games.">
+<link rel="canonical" href="https://abinashspace.github.io/gta-hub/search/">
+<link rel="alternate" type="application/json" href="../data/search-index.json" title="Machine-readable JSON">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="generator" content="gta-hub build">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GTA Hub">
+<meta property="og:title" content="Search — GTA Hub">
+<meta property="og:description" content="Search every character, mission, vehicle, weapon, cheat, location and collectible across all GTA games.">
+<meta property="og:url" content="https://abinashspace.github.io/gta-hub/search/">
+<meta property="og:image" content="https://abinashspace.github.io/gta-hub/assets/img/brand/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="../assets/img/brand/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script src="../assets/js/site.js" defer></script>
+</head>
+<body data-page="search">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head">
+  <a class="brand" href="../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../data/">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../">Games</a></li><li><span aria-current="page">Search</span></li></ol></nav>
+<main id="main" tabindex="-1">
+<header class="page-head">
+  <p class="eyebrow">Client-side · works offline · no API</p>
+  <h1>Search</h1>
+  <p class="lead">Filters a local JSON index. Nothing leaves the page.</p>
+  
+</header>
+<form class="search-form" role="search" action="#" onsubmit="return false">
+  <label for="q">Query</label>
+  <input id="q" name="q" type="search" autocomplete="off" placeholder="ches, rhino, hidden package, gta v…" aria-describedby="hint">
+  <p id="hint">Matches names, roles, givers, locations, platforms, codes. Minimum 2 characters.</p>
+</form>
+<p id="result-count" class="note" aria-live="polite">Type to search.</p>
+<ol id="results" class="results"></ol>
+<noscript><p>Search needs JavaScript. Every record is also in <a href="../data/search-index.json">search-index.json</a>.</p></noscript>
+</main>
+<footer class="site-foot">
+  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
+  <p>Data files: <a href="../data/index.json">index.json</a> · <a href="../data/search-index.json">search-index.json</a> · <a href="../llms.txt">llms.txt</a> · <a href="../sitemap.xml">sitemap.xml</a></p>
+  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "slug": "gta-london-1961",
+    "title": "Grand Theft Auto: London 1961",
+    "year": 1999,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-15T15:53:40.444Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "limited",
+      "weapons": "limited",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "empty"
+    },
+    "counts": {
+      "characters": 2,
+      "missions": 2,
+      "vehicles": 5,
+      "weapons": 4,
+      "cheats": 1,
+      "locations": 1,
+      "collectibles": 0
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-london-1961/cover.svg",
+      "banner": "assets/img/banner/gta-london-1961/banner.svg",
+      "map": "assets/img/map/gta-london-1961/map.svg"
+    },
+    "sources": [
+      "GTA: London 1961 free add-on documentation"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "mission-contact",
+        "name": "London contact",
+        "role": "Mission contact",
+        "affiliations": [
+          "London firms"
+        ],
+        "summary": "Briefing character for the 1961 mission chain.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-london-1961/mission-contact.svg"
+      },
+      {
+        "id": "player-character",
+        "name": "Player-named protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "London underworld"
+        ],
+        "summary": "A London criminal working the city in 1961, two years before the events of London 1969.",
+        "status": "Varies",
+        "first_appearance": "GTA: London 1961",
+        "verified": true,
+        "image": "assets/img/portrait/gta-london-1961/player-character.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "london-1961-chapter",
+        "order": 1,
+        "name": "London 1961 chapter",
+        "type": "Story",
+        "giver": "London firms",
+        "location": "London",
+        "reward": {
+          "money": 0,
+          "other": "Score progression in pre-decimal currency"
+        },
+        "summary": "Add-on campaign set in 1961 London with period vehicles and adjusted economy.",
+        "verified": true,
+        "image": "assets/img/mission/gta-london-1961/london-1961-chapter.svg"
+      },
+      {
+        "id": "london-1961-finale",
+        "order": 2,
+        "name": "London 1961 finale",
+        "type": "Story",
+        "giver": "London firms",
+        "location": "London",
+        "reward": {
+          "money": 0,
+          "other": "Completion"
+        },
+        "summary": "Closing job of the free add-on.",
+        "verified": false,
+        "image": "assets/img/mission/gta-london-1961/london-1961-finale.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/ambulance.svg"
+      },
+      {
+        "id": "double-decker-bus",
+        "name": "Double-Decker Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/double-decker-bus.svg"
+      },
+      {
+        "id": "london-cab",
+        "name": "London Cab",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/london-cab.svg"
+      },
+      {
+        "id": "mini",
+        "name": "Mini",
+        "category": "Car",
+        "class": "Compact",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/mini.svg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/police-car.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "machine-gun",
+        "name": "Machine Gun",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": false,
+        "image": "assets/img/weapon/gta-london-1961/machine-gun.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1961/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1961/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1961/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GESUNDHEIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Inherited GTA 1 engine cheat; verify against the 1961 add-on",
+        "image": "assets/img/cheat/gta-london-1961/full-health.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "london",
+        "name": "London",
+        "type": "City",
+        "parent": null,
+        "summary": "1961 London using the GTA 1 engine and the London 1969 map assets.",
+        "verified": true,
+        "image": "assets/img/location/gta-london-1961/london.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "empty",
+    "items": []
+  }
+}

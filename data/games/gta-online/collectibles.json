@@ -1,0 +1,36 @@
+{
+  "game": "gta-online",
+  "game_title": "Grand Theft Auto Online",
+  "section": "collectibles",
+  "coverage": "limited",
+  "count": 3,
+  "items": [
+    {
+      "id": "playing-cards",
+      "name": "Playing Cards",
+      "type": "Card",
+      "total": 54,
+      "reward": "Casino rewards and chips",
+      "verified": true,
+      "image": "assets/img/collectible/gta-online/playing-cards.svg"
+    },
+    {
+      "id": "signal-jammers",
+      "name": "Signal Jammers",
+      "type": "Device",
+      "total": 50,
+      "reward": "Award progress and cash",
+      "verified": true,
+      "image": "assets/img/collectible/gta-online/signal-jammers.svg"
+    },
+    {
+      "id": "treasure-chests",
+      "name": "Treasure Chests",
+      "type": "Chest",
+      "total": 0,
+      "reward": "Cash and rare items",
+      "verified": false,
+      "image": "assets/img/collectible/gta-online/treasure-chests.svg"
+    }
+  ]
+}
