@@ -2,92 +2,857 @@
   "game": "gta-chinatown-wars",
   "game_title": "Grand Theft Auto: Chinatown Wars",
   "section": "missions",
-  "coverage": "limited",
-  "count": 6,
+  "coverage": "complete",
+  "count": 58,
   "items": [
     {
-      "id": "counterfeit-gangster",
+      "id": "yu-jian",
       "order": 1,
-      "name": "Counterfeit Gangster",
+      "name": "Yu Jian",
       "type": "Story",
-      "giver": "Wu Lee",
+      "giver": "Unspecified",
       "location": "Liberty City",
       "reward": {
-        "money": 0
+        "money": 50,
+        "other": "Safehouse in Cerveza Heights"
       },
+      "summary": "Go to Kenny's home .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/yu-jian.svg"
+    },
+    {
+      "id": "pursuit-farce",
+      "order": 2,
+      "name": "Pursuit Farce",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Take Ling Shan and lose the cops.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/pursuit-farce.svg"
+    },
+    {
+      "id": "under-the-gun",
+      "order": 3,
+      "name": "Under the Gun",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Practice the fighting skills with Ling Shan and kill the goons attacking one of Kenny's restaurants, while witnessing Ling's death.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/under-the-gun.svg"
+    },
+    {
+      "id": "payback",
+      "order": 4,
+      "name": "Payback",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Avenge Ling's death.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/payback.svg"
+    },
+    {
+      "id": "the-wheelman",
+      "order": 5,
+      "name": "The Wheelman",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Steal 3 cars for Chan Jaoming in 6 hours.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-wheelman.svg"
+    },
+    {
+      "id": "tricks-of-the-triad",
+      "order": 6,
+      "name": "Tricks of the Triad",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "Drug Dealing"
+      },
+      "summary": "Do a drug deal with two drug dealers , then stash the drugs in the apartment.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/tricks-of-the-triad.svg"
+    },
+    {
+      "id": "pimp-his-ride",
+      "order": 7,
+      "name": "Pimp His Ride",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Sabotage the race car of Chan's opponent.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/pimp-his-ride.svg"
+    },
+    {
+      "id": "natural-burn-killer",
+      "order": 8,
+      "name": "Natural Burn Killer",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50,
+        "other": "Liberty City Gun Club : Grenades"
+      },
+      "summary": "Burn down 2 stores who won't pay their rent.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/natural-burn-killer.svg"
+    },
+    {
+      "id": "recruitment-drive",
+      "order": 9,
+      "name": "Recruitment Drive",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50,
+        "other": "Tattoo Parlors"
+      },
+      "summary": "Recruit new crime victims and recruit them as Triads.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/recruitment-drive.svg"
+    },
+    {
+      "id": "whack-the-racers",
+      "order": 10,
+      "name": "Whack the Racers",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 100,
+        "other": "Turf map available in the PDA Races become available across the city Liberty City Gun Club : MP5"
+      },
+      "summary": "Help Chan win a race by taking out the other racers.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/whack-the-racers.svg"
+    },
+    {
+      "id": "stealing-the-show",
+      "order": 11,
+      "name": "Stealing the Show",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 150
+      },
+      "summary": "Sneak onto the back of a delivery truck and toss the merchandise to Zhou .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/stealing-the-show.svg"
+    },
+    {
+      "id": "jackin-chan",
+      "order": 12,
+      "name": "Jackin' Chan",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 150
+      },
+      "summary": "Rescue Chan from the&#160; Irish-American Killers .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/jackin-chan.svg"
+    },
+    {
+      "id": "flatliner",
+      "order": 13,
+      "name": "Flatliner",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 150
+      },
+      "summary": "Steal an Ambulance containing Zhou's old friend Uri from Francis International Airport and drive it back to Zhou's house.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/flatliner.svg"
+    },
+    {
+      "id": "bomb-disposal",
+      "order": 14,
+      "name": "Bomb Disposal",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Disarm three of Hsin 's vans containing bombs meant to destroy Zhou's drug stash cars, and stop further attempts to do so.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/bomb-disposal.svg"
+    },
+    {
+      "id": "carpe-dime",
+      "order": 15,
+      "name": "Carpe 'Dime'",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "Lancaster Safehouse Ability to steal gang Burritos for drugs Liberty City Gun Club : Pump Shotgun"
+      },
+      "summary": "Steal a Spanish Lord 's van to check for the Yu Jian.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/carpe-dime.svg"
+    },
+    {
+      "id": "store-wars",
+      "order": 16,
+      "name": "Store Wars",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 50
+      },
+      "summary": "Defend a store from the Spanish Lords .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/store-wars.svg"
+    },
+    {
+      "id": "driven-to-destruction",
+      "order": 17,
+      "name": "Driven to Destruction",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 150
+      },
+      "summary": "Drive Zhou on his Bobcat to African-American drug dealers and let him shoot them with his minigun, until the Carnage meter is filled.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/driven-to-destruction.svg"
+    },
+    {
+      "id": "raw-deal",
+      "order": 18,
+      "name": "Raw Deal",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200,
+        "other": "Safehouse in South Bohan"
+      },
+      "summary": "Protect Chan from the Spanish Lords during a drug deal.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/raw-deal.svg"
+    },
+    {
+      "id": "the-tow-job",
+      "order": 19,
+      "name": "The Tow Job",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Steal a Korean's car, gain police attention and park it outside the police station in Bohan.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-tow-job.svg"
+    },
+    {
+      "id": "the-tail-bagging-the-dogs",
+      "order": 20,
+      "name": "The Tail Bagging the Dogs",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Kill the Korean and all his underbosses.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-tail-bagging-the-dogs.svg"
+    },
+    {
+      "id": "trail-blazer",
+      "order": 21,
+      "name": "Trail Blazer",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 300
+      },
+      "summary": "Destroy a gambling den by ramming a leaking&#160; Tanker &#160;into it.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/trail-blazer.svg"
+    },
+    {
+      "id": "copter-carnage",
+      "order": 22,
+      "name": "Copter Carnage",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 400
+      },
+      "summary": "Defend Kenny's merchandise from the Spanish Lords and tail the copter back to their warehouse.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/copter-carnage.svg"
+    },
+    {
+      "id": "kenny-strikes-back",
+      "order": 23,
+      "name": "Kenny Strikes Back",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "3 bags of Coke"
+      },
+      "summary": "Steal merchandise from the Spanish Lord's warehouse.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/kenny-strikes-back.svg"
+    },
+    {
+      "id": "weapons-of-mass-distraction",
+      "order": 24,
+      "name": "Weapons of Mass Distraction",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Distract the Midtown Gangsters while Heston plants a bug in their base.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/weapons-of-mass-distraction.svg"
+    },
+    {
+      "id": "street-of-rage",
+      "order": 25,
+      "name": "Street of Rage",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Rescue Heston from the Wonsu Assassins .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/street-of-rage.svg"
+    },
+    {
+      "id": "missed-the-boat",
+      "order": 26,
+      "name": "Missed the Boat?",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "10 bags of Heroin Lower Easton Safehouse"
+      },
+      "summary": "Take a boat out to a drug deal and escape from the coast guards before bringing the drugs back to shore.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/missed-the-boat.svg"
+    },
+    {
+      "id": "cash-and-burn",
+      "order": 27,
+      "name": "Cash & Burn",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Burn all of the Korean's goods at a construction site and kill the security forces.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/cash-and-burn.svg"
+    },
+    {
+      "id": "dragon-haul-z",
+      "order": 28,
+      "name": "Dragon Haul Z",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Steal a truck containing a dragon costume and after Zhou robs a bank, do the instructed moves in the dragon costume without arrousing too much suspicion and escape.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/dragon-haul-z.svg"
+    },
+    {
+      "id": "sa-boat-age",
+      "order": 29,
+      "name": "Sa-Boat-Age",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "12 bags of Ecstasy"
+      },
+      "summary": "Race Chan and protect him from the Spanish Lords.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/sa-boat-age.svg"
+    },
+    {
+      "id": "the-offshore-offload",
+      "order": 30,
+      "name": "The Offshore Offload",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 700,
+        "other": "Fully Cocked License available at AmmuNation.net"
+      },
+      "summary": "Rescue Hsin's men from the Feds, pick up Hsin's accountant and take them all to&#160; Castle Gardens .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-offshore-offload.svg"
+    },
+    {
+      "id": "one-shot-one-kill",
+      "order": 31,
+      "name": "One Shot, One Kill",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "Liberty City Gun Club : Sniper Rifle"
+      },
+      "summary": "Snipe an&#160; FIB &#160;informant against&#160; Chan Jaoming &#160;and lose the wanted level.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/one-shot-one-kill.svg"
+    },
+    {
+      "id": "counterfeit-gangster",
+      "order": 32,
+      "name": "Counterfeit Gangster",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
       "summary": "Opening arc: Huang's arrival and the stolen sword go wrong.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.svg"
     },
     {
-      "id": "the-sword",
-      "order": 2,
-      "name": "The Sword",
+      "id": "slaying-with-fire",
+      "order": 33,
+      "name": "Slaying With Fire",
       "type": "Story",
-      "giver": "Wu Lee",
-      "location": "Chinatown",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Recover the family sword from the people who took it.",
-      "verified": false,
-      "image": "assets/img/mission/gta-chinatown-wars/the-sword.svg"
-    },
-    {
-      "id": "triad-succession",
-      "order": 3,
-      "name": "Triad succession",
-      "type": "Story",
-      "giver": "Hsin Jaoming",
-      "location": "Chinatown",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Huang works both claimants in the Triad succession fight.",
-      "verified": false,
-      "image": "assets/img/mission/gta-chinatown-wars/triad-succession.svg"
-    },
-    {
-      "id": "mafia-favour",
-      "order": 4,
-      "name": "Mafia favour",
-      "type": "Story",
-      "giver": "Rudy D'Avanzo",
-      "location": "Portland",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Jobs for the Liberty City Mafia.",
-      "verified": false,
-      "image": "assets/img/mission/gta-chinatown-wars/mafia-favour.svg"
-    },
-    {
-      "id": "undercover-work",
-      "order": 5,
-      "name": "Undercover work",
-      "type": "Story",
-      "giver": "Wade Heston",
+      "giver": "Unspecified",
       "location": "Liberty City",
       "reward": {
-        "money": 0
+        "money": 250
       },
-      "summary": "Federal operation that pulls Huang deeper into the conspiracy.",
-      "verified": false,
-      "image": "assets/img/mission/gta-chinatown-wars/undercover-work.svg"
+      "summary": "Kill all of Chan's entourage.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/slaying-with-fire.svg"
     },
     {
-      "id": "finale",
-      "order": 6,
-      "name": "Finale",
+      "id": "the-fandom-menace",
+      "order": 34,
+      "name": "The Fandom Menace",
       "type": "Story",
-      "giver": "—",
+      "giver": "Unspecified",
       "location": "Liberty City",
       "reward": {
-        "money": 0
+        "money": 200
       },
-      "summary": "Resolution of the Triad succession and the sword's fate.",
-      "verified": false,
-      "image": "assets/img/mission/gta-chinatown-wars/finale.svg"
+      "summary": "Escort Zhou and two other Triad members while avoiding paparazzi.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-fandom-menace.svg"
+    },
+    {
+      "id": "operation-northwood",
+      "order": 35,
+      "name": "Operation Northwood",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Chase a drug dealer to his warehouse, then destroy it with the car bomb.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/operation-northwood.svg"
+    },
+    {
+      "id": "torpedo-run",
+      "order": 36,
+      "name": "Torpedo Run",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Destroy Zhou Ming's&#160; drug boat &#160;then take out his escaping gang members.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/torpedo-run.svg"
+    },
+    {
+      "id": "so-near-yet-sonar",
+      "order": 37,
+      "name": "So Near, Yet Sonar",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "15 bags of Acid"
+      },
+      "summary": "Recover sunken goods from Zhou's sunken ship using a sonar.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/so-near-yet-sonar.svg"
+    },
+    {
+      "id": "by-myriads-of-swords",
+      "order": 38,
+      "name": "By Myriads of Swords",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 500
+      },
+      "summary": "Kill two of the Midtown Gangster leaders unfaithful to Hsin and collect their IDs.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/by-myriads-of-swords.svg"
+    },
+    {
+      "id": "a-shadow-of-doubt",
+      "order": 39,
+      "name": "A Shadow of Doubt",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Tail two Koreans to their hideout.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/a-shadow-of-doubt.svg"
+    },
+    {
+      "id": "double-trouble",
+      "order": 40,
+      "name": "Double Trouble",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Take out some of&#160; The Lost &#160;gangsters and use the&#160; Monoglobe &#160;to destroy a building with The Lost members.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/double-trouble.svg"
+    },
+    {
+      "id": "grave-situation",
+      "order": 41,
+      "name": "Grave Situation",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 250,
+        "other": "Safehouse in Northwood"
+      },
+      "summary": "Protect D'Avanzo from Jimmy Capra 's men.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/grave-situation.svg"
+    },
+    {
+      "id": "faster-pusher-man-sell-sell",
+      "order": 42,
+      "name": "Faster Pusher Man! Sell! Sell!",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "other": "10 bags of Coke"
+      },
+      "summary": "Sell all of the&#160; AoD 's drugs before the rivals do.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/faster-pusher-man-sell-sell.svg"
+    },
+    {
+      "id": "friend-or-foe",
+      "order": 43,
+      "name": "Friend or Foe?",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Breach the Koreans' hideout and obtain the FIB files.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/friend-or-foe.svg"
+    },
+    {
+      "id": "scrambled",
+      "order": 44,
+      "name": "Scrambled",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Destroy 3 scramblers.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/scrambled.svg"
+    },
+    {
+      "id": "steal-the-wheels",
+      "order": 45,
+      "name": "Steal the Wheels",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Steal Jimmy Capra's car.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/steal-the-wheels.svg"
+    },
+    {
+      "id": "arms-out-of-harms-way",
+      "order": 46,
+      "name": "Arms Out of Harm's Way",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Kill the Midtown Gangsters' arms dealer.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/arms-out-of-harms-way.svg"
+    },
+    {
+      "id": "the-wages-of-hsin",
+      "order": 47,
+      "name": "The Wages of Hsin",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 2500
+      },
+      "summary": "Destroy the Koreans' hideout with explosives.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-wages-of-hsin.svg"
+    },
+    {
+      "id": "convoy-conflict",
+      "order": 48,
+      "name": "Convoy Conflict",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 500
+      },
+      "summary": "Protect the Angels of Death convoy from The Lost MC members.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/convoy-conflict.svg"
+    },
+    {
+      "id": "the-worlds-a-stooge",
+      "order": 49,
+      "name": "The World's a Stooge",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 1500
+      },
+      "summary": "Take out three men mentioned in the record from Jimmy Capra's car.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/the-worlds-a-stooge.svg"
+    },
+    {
+      "id": "evidence-dash",
+      "order": 50,
+      "name": "Evidence Dash",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Destroy evidence in Heston's&#160; Admiral .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/evidence-dash.svg"
+    },
+    {
+      "id": "oversights",
+      "order": 51,
+      "name": "Oversights",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 250
+      },
+      "summary": "Snipe&#160; Jimmy Capra &#160;and his men.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/oversights.svg"
+    },
+    {
+      "id": "a-rude-awakening",
+      "order": 52,
+      "name": "A Rude Awakening",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Chase and kill&#160; Rudy D'Avanzo .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/a-rude-awakening.svg"
+    },
+    {
+      "id": "see-no-evil",
+      "order": 53,
+      "name": "See No Evil",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Protect Lester and Meredith from the&#160; Angels of Death &#160;as he transports her to her house, without frightening her.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/see-no-evil.svg"
+    },
+    {
+      "id": "wi-find",
+      "order": 54,
+      "name": "Wi-Find",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 200
+      },
+      "summary": "Hack the&#160; FIB &#160;files to identify the Triad's rat.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/wi-find.svg"
+    },
+    {
+      "id": "rat-race",
+      "order": 55,
+      "name": "Rat Race",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Defend Kenny while he drives to warn&#160; Hsin Jaoming &#160;of&#160; Zhou Ming &#160;and&#160; Chan Jaoming 's betrayal.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/rat-race.svg"
+    },
+    {
+      "id": "clear-the-pier",
+      "order": 56,
+      "name": "Clear the Pier",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 500
+      },
+      "summary": "Chase and kill Chan Jaoming.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/clear-the-pier.svg"
+    },
+    {
+      "id": "hit-from-the-tong",
+      "order": 57,
+      "name": "Hit from the Tong",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Kill Zhou Ming.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/hit-from-the-tong.svg"
+    },
+    {
+      "id": "salt-in-the-wound",
+      "order": 58,
+      "name": "Salt in the Wound",
+      "type": "Story",
+      "giver": "Unspecified",
+      "location": "Liberty City",
+      "reward": {},
+      "summary": "Chase and kill the real traitor .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-chinatown-wars/salt-in-the-wound.svg"
     }
   ]
 }

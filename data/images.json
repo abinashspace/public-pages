@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T16:09:57.399Z",
+  "generated": "2026-11-15T16:25:04.726Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -76,32 +76,1002 @@
     {
       "kind": "mission",
       "game": "gta",
-      "id": "liberty-city-chapter",
-      "path": "assets/img/mission/gta/liberty-city-chapter.svg",
+      "id": "introduction",
+      "path": "assets/img/mission/gta/introduction.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Liberty City chapter"
+      "alt": "Introduction"
     },
     {
       "kind": "mission",
       "game": "gta",
-      "id": "san-andreas-chapter",
-      "path": "assets/img/mission/gta/san-andreas-chapter.svg",
+      "id": "phone-1",
+      "path": "assets/img/mission/gta/phone-1.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "San Andreas chapter"
+      "alt": "Phone 1"
     },
     {
       "kind": "mission",
       "game": "gta",
-      "id": "vice-city-chapter",
-      "path": "assets/img/mission/gta/vice-city-chapter.svg",
+      "id": "phone-2",
+      "path": "assets/img/mission/gta/phone-2.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Vice City chapter"
+      "alt": "Phone 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3",
+      "path": "assets/img/mission/gta/phone-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4",
+      "path": "assets/img/mission/gta/phone-4.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "beast-gts-southwest-island-heights",
+      "path": "assets/img/mission/gta/beast-gts-southwest-island-heights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Beast GTS ( Southwest Island Heights )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "bulldog-south-tellberg",
+      "path": "assets/img/mission/gta/bulldog-south-tellberg.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bulldog ( South Tellberg )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "coach-northeast-fort-law",
+      "path": "assets/img/mission/gta/coach-northeast-fort-law.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Coach ( Northeast Fort Law )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "cossie-northeast-island-city",
+      "path": "assets/img/mission/gta/cossie-northeast-island-city.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cossie ( Northeast Island City )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "counthash-northwest-fort-law",
+      "path": "assets/img/mission/gta/counthash-northwest-fort-law.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Counthash ( Northwest Fort Law )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "tanker-northwest-law-island",
+      "path": "assets/img/mission/gta/tanker-northwest-law-island.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Tanker ( Northwest Law Island )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "taxi-north-park",
+      "path": "assets/img/mission/gta/taxi-north-park.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taxi ( North Park )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-north-park",
+      "path": "assets/img/mission/gta/ending-north-park.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending ( North Park )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "introduction-14",
+      "path": "assets/img/mission/gta/introduction-14.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-1-15",
+      "path": "assets/img/mission/gta/phone-1-15.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-2-16",
+      "path": "assets/img/mission/gta/phone-2-16.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3-17",
+      "path": "assets/img/mission/gta/phone-3-17.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4-18",
+      "path": "assets/img/mission/gta/phone-4-18.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "4-x-4-southwest-new-guernsey",
+      "path": "assets/img/mission/gta/4-x-4-southwest-new-guernsey.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "4 x 4 ( Southwest New Guernsey )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "bulldog-east-guernsey-city",
+      "path": "assets/img/mission/gta/bulldog-east-guernsey-city.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bulldog ( East Guernsey City )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "cossie-southeast-brix",
+      "path": "assets/img/mission/gta/cossie-southeast-brix.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cossie ( Southeast Brix )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "itali-southwest-estoria",
+      "path": "assets/img/mission/gta/itali-southwest-estoria.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Itali ( Southwest Estoria )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mundano-west-hackenslash",
+      "path": "assets/img/mission/gta/mundano-west-hackenslash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mundano ( West Hackenslash )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "penetrator-west-no-law",
+      "path": "assets/img/mission/gta/penetrator-west-no-law.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Penetrator ( West No Law )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "porka-turbo-southwest-kings",
+      "path": "assets/img/mission/gta/porka-turbo-southwest-kings.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Porka Turbo ( Southwest Kings )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "stallion-north-hackenslash",
+      "path": "assets/img/mission/gta/stallion-north-hackenslash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Stallion ( North Hackenslash )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-south-island-heights",
+      "path": "assets/img/mission/gta/ending-south-island-heights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending ( South Island Heights )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "introduction-28",
+      "path": "assets/img/mission/gta/introduction-28.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-1-mission-1",
+      "path": "assets/img/mission/gta/phone-1-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 1 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2",
+      "path": "assets/img/mission/gta/mission-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-3",
+      "path": "assets/img/mission/gta/mission-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-2-mission-1",
+      "path": "assets/img/mission/gta/phone-2-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 2 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-33",
+      "path": "assets/img/mission/gta/mission-2-33.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3-mission-1",
+      "path": "assets/img/mission/gta/phone-3-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-35",
+      "path": "assets/img/mission/gta/mission-2-35.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-3-36",
+      "path": "assets/img/mission/gta/mission-3-36.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4-mission-1",
+      "path": "assets/img/mission/gta/phone-4-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-38",
+      "path": "assets/img/mission/gta/mission-2-38.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-5-mission-1",
+      "path": "assets/img/mission/gta/phone-5-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 5 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-40",
+      "path": "assets/img/mission/gta/mission-2-40.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-6-mission-1",
+      "path": "assets/img/mission/gta/phone-6-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 6 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-42",
+      "path": "assets/img/mission/gta/mission-2-42.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-7-mission-1",
+      "path": "assets/img/mission/gta/phone-7-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 7 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-44",
+      "path": "assets/img/mission/gta/mission-2-44.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-8-mission-1",
+      "path": "assets/img/mission/gta/phone-8-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 8 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-46",
+      "path": "assets/img/mission/gta/mission-2-46.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-southwest-chinatown",
+      "path": "assets/img/mission/gta/ending-southwest-chinatown.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending ( Southwest Chinatown )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "introduction-48",
+      "path": "assets/img/mission/gta/introduction-48.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-1-mission-1-49",
+      "path": "assets/img/mission/gta/phone-1-mission-1-49.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 1 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-50",
+      "path": "assets/img/mission/gta/mission-2-50.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-2-mission-1-51",
+      "path": "assets/img/mission/gta/phone-2-mission-1-51.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 2 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-52",
+      "path": "assets/img/mission/gta/mission-2-52.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3-mission-1-53",
+      "path": "assets/img/mission/gta/phone-3-mission-1-53.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-54",
+      "path": "assets/img/mission/gta/mission-2-54.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4-mission-1-55",
+      "path": "assets/img/mission/gta/phone-4-mission-1-55.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-56",
+      "path": "assets/img/mission/gta/mission-2-56.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-5-mission-1-57",
+      "path": "assets/img/mission/gta/phone-5-mission-1-57.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 5 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-58",
+      "path": "assets/img/mission/gta/mission-2-58.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-6-mission-1-59",
+      "path": "assets/img/mission/gta/phone-6-mission-1-59.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 6 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-60",
+      "path": "assets/img/mission/gta/mission-2-60.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-7-mission-1-61",
+      "path": "assets/img/mission/gta/phone-7-mission-1-61.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 7 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-62",
+      "path": "assets/img/mission/gta/mission-2-62.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-8-mission-1-63",
+      "path": "assets/img/mission/gta/phone-8-mission-1-63.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 8 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "mission-2-64",
+      "path": "assets/img/mission/gta/mission-2-64.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-northeast-aye-valley",
+      "path": "assets/img/mission/gta/ending-northeast-aye-valley.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending ( Northeast Aye Valley )"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "introduction-66",
+      "path": "assets/img/mission/gta/introduction-66.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-1-67",
+      "path": "assets/img/mission/gta/phone-1-67.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-2-68",
+      "path": "assets/img/mission/gta/phone-2-68.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3-69",
+      "path": "assets/img/mission/gta/phone-3-69.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4-70",
+      "path": "assets/img/mission/gta/phone-4-70.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-5",
+      "path": "assets/img/mission/gta/phone-5.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 5"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-6",
+      "path": "assets/img/mission/gta/phone-6.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 6"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-7",
+      "path": "assets/img/mission/gta/phone-7.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 7"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-8",
+      "path": "assets/img/mission/gta/phone-8.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 8"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-9",
+      "path": "assets/img/mission/gta/phone-9.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 9"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-10",
+      "path": "assets/img/mission/gta/phone-10.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 10"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-11",
+      "path": "assets/img/mission/gta/phone-11.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 11"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-12",
+      "path": "assets/img/mission/gta/phone-12.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 12"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-13-west-banana-grove",
+      "path": "assets/img/mission/gta/phone-13-west-banana-grove.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 13 (West Banana Grove)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-14-south-vice-beach",
+      "path": "assets/img/mission/gta/phone-14-south-vice-beach.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 14 (South Vice Beach)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-15-northwest-vice-shores",
+      "path": "assets/img/mission/gta/phone-15-northwest-vice-shores.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 15 (Northwest Vice Shores)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-16-northeast-richman-heights",
+      "path": "assets/img/mission/gta/phone-16-northeast-richman-heights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 16 (Northeast Richman Heights)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-west-banana-grove",
+      "path": "assets/img/mission/gta/ending-west-banana-grove.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending (West Banana Grove)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "introduction-84",
+      "path": "assets/img/mission/gta/introduction-84.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-1-85",
+      "path": "assets/img/mission/gta/phone-1-85.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-2-86",
+      "path": "assets/img/mission/gta/phone-2-86.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-3-87",
+      "path": "assets/img/mission/gta/phone-3-87.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-4-88",
+      "path": "assets/img/mission/gta/phone-4-88.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-5-89",
+      "path": "assets/img/mission/gta/phone-5-89.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 5"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-6-90",
+      "path": "assets/img/mission/gta/phone-6-90.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 6"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-7-91",
+      "path": "assets/img/mission/gta/phone-7-91.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 7"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-8-92",
+      "path": "assets/img/mission/gta/phone-8-92.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 8"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-9-93",
+      "path": "assets/img/mission/gta/phone-9-93.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 9"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-10-94",
+      "path": "assets/img/mission/gta/phone-10-94.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 10"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-11-95",
+      "path": "assets/img/mission/gta/phone-11-95.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 11"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-12-96",
+      "path": "assets/img/mission/gta/phone-12-96.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 12"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-13-southwest-felicity",
+      "path": "assets/img/mission/gta/phone-13-southwest-felicity.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 13 (Southwest Felicity)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-14-southeast-miramire",
+      "path": "assets/img/mission/gta/phone-14-southeast-miramire.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 14 (Southeast Miramire)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "phone-15-west-vice-beach",
+      "path": "assets/img/mission/gta/phone-15-west-vice-beach.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phone 15 (West Vice Beach)"
+    },
+    {
+      "kind": "mission",
+      "game": "gta",
+      "id": "ending-northwest-greek-heights",
+      "path": "assets/img/mission/gta/ending-northwest-greek-heights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending (Northwest Greek Heights)"
     },
     {
       "kind": "vehicle",
@@ -376,32 +1346,472 @@
     {
       "kind": "mission",
       "game": "gta-london-1969",
-      "id": "london-chapter-1",
-      "path": "assets/img/mission/gta-london-1969/london-chapter-1.svg",
+      "id": "boys-will-be-thieves",
+      "path": "assets/img/mission/gta-london-1969/boys-will-be-thieves.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "London chapter 1"
+      "alt": "Boys will be Thieves"
     },
     {
       "kind": "mission",
       "game": "gta-london-1969",
-      "id": "london-chapter-2",
-      "path": "assets/img/mission/gta-london-1969/london-chapter-2.svg",
+      "id": "phonebox",
+      "path": "assets/img/mission/gta-london-1969/phonebox.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "London chapter 2"
+      "alt": "Phonebox"
     },
     {
       "kind": "mission",
       "game": "gta-london-1969",
-      "id": "london-chapter-3",
-      "path": "assets/img/mission/gta-london-1969/london-chapter-3.svg",
+      "id": "ending",
+      "path": "assets/img/mission/gta-london-1969/ending.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "London chapter 3"
+      "alt": "Ending"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mods-and-sods",
+      "path": "assets/img/mission/gta-london-1969/mods-and-sods.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mods and Sods"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-1",
+      "path": "assets/img/mission/gta-london-1969/phonebox-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-2",
+      "path": "assets/img/mission/gta-london-1969/phonebox-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-3",
+      "path": "assets/img/mission/gta-london-1969/phonebox-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-4",
+      "path": "assets/img/mission/gta-london-1969/phonebox-4.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-1",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-2",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-3",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-4",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-4.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-5",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-5.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 5"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie-6",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie-6.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie 6"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "royal-stretch",
+      "path": "assets/img/mission/gta-london-1969/royal-stretch.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Royal Stretch"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "crapi",
+      "path": "assets/img/mission/gta-london-1969/crapi.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Crapi"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "ranger",
+      "path": "assets/img/mission/gta-london-1969/ranger.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ranger"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "ending-18",
+      "path": "assets/img/mission/gta-london-1969/ending-18.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "chelsea-smile",
+      "path": "assets/img/mission/gta-london-1969/chelsea-smile.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Chelsea Smile"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-1-mission-1",
+      "path": "assets/img/mission/gta-london-1969/phonebox-1-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 1 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2",
+      "path": "assets/img/mission/gta-london-1969/mission-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-3",
+      "path": "assets/img/mission/gta-london-1969/mission-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-2-mission-1",
+      "path": "assets/img/mission/gta-london-1969/phonebox-2-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 2 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-24",
+      "path": "assets/img/mission/gta-london-1969/mission-2-24.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-3-25",
+      "path": "assets/img/mission/gta-london-1969/mission-3-25.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-3-mission-1",
+      "path": "assets/img/mission/gta-london-1969/phonebox-3-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 3 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-27",
+      "path": "assets/img/mission/gta-london-1969/mission-2-27.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "walkie-talkie",
+      "path": "assets/img/mission/gta-london-1969/walkie-talkie.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "copper",
+      "path": "assets/img/mission/gta-london-1969/copper.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Copper"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "tanker",
+      "path": "assets/img/mission/gta-london-1969/tanker.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Tanker"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "ranger-31",
+      "path": "assets/img/mission/gta-london-1969/ranger-31.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ranger"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "ending-32",
+      "path": "assets/img/mission/gta-london-1969/ending-32.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "dead-certainty",
+      "path": "assets/img/mission/gta-london-1969/dead-certainty.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dead Certainty"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-1-mission-1-34",
+      "path": "assets/img/mission/gta-london-1969/phonebox-1-mission-1-34.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 1 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-35",
+      "path": "assets/img/mission/gta-london-1969/mission-2-35.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-2-mission-1-36",
+      "path": "assets/img/mission/gta-london-1969/phonebox-2-mission-1-36.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 2 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-37",
+      "path": "assets/img/mission/gta-london-1969/mission-2-37.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-3-mission-1-38",
+      "path": "assets/img/mission/gta-london-1969/phonebox-3-mission-1-38.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 3 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-39",
+      "path": "assets/img/mission/gta-london-1969/mission-2-39.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "phonebox-4-mission-1",
+      "path": "assets/img/mission/gta-london-1969/phonebox-4-mission-1.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 4 Mission 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-2-41",
+      "path": "assets/img/mission/gta-london-1969/mission-2-41.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "mission-3-42",
+      "path": "assets/img/mission/gta-london-1969/mission-3-42.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mission 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "myni",
+      "path": "assets/img/mission/gta-london-1969/myni.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Myni"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "sweets-van",
+      "path": "assets/img/mission/gta-london-1969/sweets-van.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sweets Van"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "double-decker",
+      "path": "assets/img/mission/gta-london-1969/double-decker.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Double Decker"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "james-bomb",
+      "path": "assets/img/mission/gta-london-1969/james-bomb.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "James Bomb"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1969",
+      "id": "ending-47",
+      "path": "assets/img/mission/gta-london-1969/ending-47.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending"
     },
     {
       "kind": "vehicle",
@@ -616,22 +2026,92 @@
     {
       "kind": "mission",
       "game": "gta-london-1961",
-      "id": "london-1961-chapter",
-      "path": "assets/img/mission/gta-london-1961/london-1961-chapter.svg",
+      "id": "when-we-were-very-small",
+      "path": "assets/img/mission/gta-london-1961/when-we-were-very-small.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "London 1961 chapter"
+      "alt": "When We Were Very Small"
     },
     {
       "kind": "mission",
       "game": "gta-london-1961",
-      "id": "london-1961-finale",
-      "path": "assets/img/mission/gta-london-1961/london-1961-finale.svg",
+      "id": "phonebox-1",
+      "path": "assets/img/mission/gta-london-1961/phonebox-1.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "London 1961 finale"
+      "alt": "Phonebox 1"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "phonebox-2",
+      "path": "assets/img/mission/gta-london-1961/phonebox-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "phonebox-3",
+      "path": "assets/img/mission/gta-london-1961/phonebox-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "phonebox-4",
+      "path": "assets/img/mission/gta-london-1961/phonebox-4.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Phonebox 4"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "walkie-talkie",
+      "path": "assets/img/mission/gta-london-1961/walkie-talkie.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Walkie Talkie"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "fab",
+      "path": "assets/img/mission/gta-london-1961/fab.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Fab"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "tv-van",
+      "path": "assets/img/mission/gta-london-1961/tv-van.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "TV Van"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-london-1961",
+      "id": "ending",
+      "path": "assets/img/mission/gta-london-1961/ending.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ending"
     },
     {
       "kind": "vehicle",
@@ -1346,6 +2826,16 @@
     {
       "kind": "mission",
       "game": "gta-iii",
+      "id": "introduction",
+      "path": "assets/img/mission/gta-iii/introduction.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
       "id": "give-me-liberty",
       "path": "assets/img/mission/gta-iii/give-me-liberty.svg",
       "width": 1280,
@@ -1381,7 +2871,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Drive Misty for Me"
+      "alt": "Drive Misty For Me"
     },
     {
       "kind": "mission",
@@ -1451,7 +2941,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Dead Skunk in the Trunk"
+      "alt": "Dead Skunk In The Trunk"
     },
     {
       "kind": "mission",
@@ -1476,12 +2966,12 @@
     {
       "kind": "mission",
       "game": "gta-iii",
-      "id": "the-pickup",
-      "path": "assets/img/mission/gta-iii/the-pickup.svg",
+      "id": "the-pick-up",
+      "path": "assets/img/mission/gta-iii/the-pick-up.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Pickup"
+      "alt": "The Pick-Up"
     },
     {
       "kind": "mission",
@@ -1492,6 +2982,16 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Salvatore's Called a Meeting"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "chaperone",
+      "path": "assets/img/mission/gta-iii/chaperone.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Chaperone"
     },
     {
       "kind": "mission",
@@ -1531,7 +3031,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Bomb da Base: Act I"
+      "alt": "Bomb Da Base: Act I"
     },
     {
       "kind": "mission",
@@ -1541,7 +3041,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Bomb da Base: Act II"
+      "alt": "Bomb Da Base: Act II"
     },
     {
       "kind": "mission",
@@ -1552,6 +3052,86 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Last Requests"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "the-crook",
+      "path": "assets/img/mission/gta-iii/the-crook.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Crook"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "the-thieves",
+      "path": "assets/img/mission/gta-iii/the-thieves.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Thieves"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "the-wife",
+      "path": "assets/img/mission/gta-iii/the-wife.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Wife"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "her-lover",
+      "path": "assets/img/mission/gta-iii/her-lover.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Her Lover"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "turismo",
+      "path": "assets/img/mission/gta-iii/turismo.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Turismo"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "i-scream-you-scream",
+      "path": "assets/img/mission/gta-iii/i-scream-you-scream.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "I Scream, You Scream"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "trial-by-fire",
+      "path": "assets/img/mission/gta-iii/trial-by-fire.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Trial By Fire"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "bignveiny",
+      "path": "assets/img/mission/gta-iii/bignveiny.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Big'n'Veiny"
     },
     {
       "kind": "mission",
@@ -1591,7 +3171,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Payday for Ray"
+      "alt": "Payday For Ray"
     },
     {
       "kind": "mission",
@@ -1776,6 +3356,16 @@
     {
       "kind": "mission",
       "game": "gta-iii",
+      "id": "marked-man",
+      "path": "assets/img/mission/gta-iii/marked-man.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Marked Man"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
       "id": "bait",
       "path": "assets/img/mission/gta-iii/bait.svg",
       "width": 1280,
@@ -1796,8 +3386,8 @@
     {
       "kind": "mission",
       "game": "gta-iii",
-      "id": "s-a-m",
-      "path": "assets/img/mission/gta-iii/s-a-m.svg",
+      "id": "sam",
+      "path": "assets/img/mission/gta-iii/sam.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
@@ -1816,62 +3406,12 @@
     {
       "kind": "mission",
       "game": "gta-iii",
-      "id": "the-exchange",
-      "path": "assets/img/mission/gta-iii/the-exchange.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "The Exchange"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iii",
-      "id": "turismo",
-      "path": "assets/img/mission/gta-iii/turismo.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Turismo"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iii",
-      "id": "i-scream-you-scream",
-      "path": "assets/img/mission/gta-iii/i-scream-you-scream.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "I Scream, You Scream"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iii",
-      "id": "trial-by-fire",
-      "path": "assets/img/mission/gta-iii/trial-by-fire.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Trial by Fire"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iii",
       "id": "bling-bling-scramble",
       "path": "assets/img/mission/gta-iii/bling-bling-scramble.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Bling-Bling Scramble"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iii",
-      "id": "kingdom-come",
-      "path": "assets/img/mission/gta-iii/kingdom-come.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Kingdom Come"
+      "alt": "Bling-bling Scramble"
     },
     {
       "kind": "mission",
@@ -1896,22 +3436,72 @@
     {
       "kind": "mission",
       "game": "gta-iii",
-      "id": "the-crook",
-      "path": "assets/img/mission/gta-iii/the-crook.svg",
+      "id": "kingdom-come",
+      "path": "assets/img/mission/gta-iii/kingdom-come.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Crook"
+      "alt": "Kingdom Come"
     },
     {
       "kind": "mission",
       "game": "gta-iii",
-      "id": "the-wife",
-      "path": "assets/img/mission/gta-iii/the-wife.svg",
+      "id": "uzi-money",
+      "path": "assets/img/mission/gta-iii/uzi-money.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Wife"
+      "alt": "Uzi Money"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "toyminator",
+      "path": "assets/img/mission/gta-iii/toyminator.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Toyminator"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "rigged-to-blow",
+      "path": "assets/img/mission/gta-iii/rigged-to-blow.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Rigged to Blow"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "bullion-run",
+      "path": "assets/img/mission/gta-iii/bullion-run.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bullion Run"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "rumble",
+      "path": "assets/img/mission/gta-iii/rumble.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Rumble"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iii",
+      "id": "the-exchange",
+      "path": "assets/img/mission/gta-iii/the-exchange.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Exchange"
     },
     {
       "kind": "vehicle",
@@ -3121,7 +4711,7 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "In the Beginning..."
+      "alt": "In The Beginning..."
     },
     {
       "kind": "mission",
@@ -3172,6 +4762,26 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Riot"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "four-iron",
+      "path": "assets/img/mission/gta-vice-city/four-iron.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Four Iron"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "demolition-man",
+      "path": "assets/img/mission/gta-vice-city/demolition-man.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Demolition Man"
     },
     {
       "kind": "mission",
@@ -3266,32 +4876,22 @@
     {
       "kind": "mission",
       "game": "gta-vice-city",
-      "id": "the-shootist",
-      "path": "assets/img/mission/gta-vice-city/the-shootist.svg",
+      "id": "death-row",
+      "path": "assets/img/mission/gta-vice-city/death-row.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Shootist"
+      "alt": "Death Row"
     },
     {
       "kind": "mission",
       "game": "gta-vice-city",
-      "id": "the-driver",
-      "path": "assets/img/mission/gta-vice-city/the-driver.svg",
+      "id": "all-hands-on-deck",
+      "path": "assets/img/mission/gta-vice-city/all-hands-on-deck.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Driver"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "the-job",
-      "path": "assets/img/mission/gta-vice-city/the-job.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "The Job"
+      "alt": "All Hands On Deck!"
     },
     {
       "kind": "mission",
@@ -3302,16 +4902,6 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Rub Out"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "death-row",
-      "path": "assets/img/mission/gta-vice-city/death-row.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Death Row"
     },
     {
       "kind": "mission",
@@ -3346,12 +4936,162 @@
     {
       "kind": "mission",
       "game": "gta-vice-city",
-      "id": "no-escape",
-      "path": "assets/img/mission/gta-vice-city/no-escape.svg",
+      "id": "stunt-boat-challenge",
+      "path": "assets/img/mission/gta-vice-city/stunt-boat-challenge.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "No Escape?"
+      "alt": "Stunt Boat Challenge"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "cannon-fodder",
+      "path": "assets/img/mission/gta-vice-city/cannon-fodder.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cannon Fodder"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "naval-engagement",
+      "path": "assets/img/mission/gta-vice-city/naval-engagement.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Naval Engagement"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "juju-scramble",
+      "path": "assets/img/mission/gta-vice-city/juju-scramble.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Juju Scramble"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "bombs-away",
+      "path": "assets/img/mission/gta-vice-city/bombs-away.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bombs Away!"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "dirty-lickins",
+      "path": "assets/img/mission/gta-vice-city/dirty-lickins.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dirty Lickin's"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "love-juice",
+      "path": "assets/img/mission/gta-vice-city/love-juice.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love Juice"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "psycho-killer",
+      "path": "assets/img/mission/gta-vice-city/psycho-killer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Psycho Killer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "alloy-wheels-of-steel",
+      "path": "assets/img/mission/gta-vice-city/alloy-wheels-of-steel.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Alloy Wheels of Steel"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "messing-with-the-man",
+      "path": "assets/img/mission/gta-vice-city/messing-with-the-man.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Messing with the Man"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "hog-tied",
+      "path": "assets/img/mission/gta-vice-city/hog-tied.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hog Tied"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "publicity-tour",
+      "path": "assets/img/mission/gta-vice-city/publicity-tour.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Publicity Tour"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "checkpoint-charlie",
+      "path": "assets/img/mission/gta-vice-city/checkpoint-charlie.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Checkpoint Charlie"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "distribution",
+      "path": "assets/img/mission/gta-vice-city/distribution.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Distribution"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "club-pole-position",
+      "path": "assets/img/mission/gta-vice-city/club-pole-position.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Club Pole Position"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "sunshine-autos-import-garage",
+      "path": "assets/img/mission/gta-vice-city/sunshine-autos-import-garage.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sunshine Autos Import Garage"
     },
     {
       "kind": "mission",
@@ -3396,6 +5136,146 @@
     {
       "kind": "mission",
       "game": "gta-vice-city",
+      "id": "vip",
+      "path": "assets/img/mission/gta-vice-city/vip.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "V.I.P."
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "friendly-rivalry",
+      "path": "assets/img/mission/gta-vice-city/friendly-rivalry.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Friendly Rivalry"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "cabmaggedon",
+      "path": "assets/img/mission/gta-vice-city/cabmaggedon.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cabmaggedon"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "no-escape",
+      "path": "assets/img/mission/gta-vice-city/no-escape.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "No Escape?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "the-shootist",
+      "path": "assets/img/mission/gta-vice-city/the-shootist.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Shootist"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "the-driver",
+      "path": "assets/img/mission/gta-vice-city/the-driver.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Driver"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "the-job",
+      "path": "assets/img/mission/gta-vice-city/the-job.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Job"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "gun-runner",
+      "path": "assets/img/mission/gta-vice-city/gun-runner.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Gun Runner"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "boomshine-saigon",
+      "path": "assets/img/mission/gta-vice-city/boomshine-saigon.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Boomshine Saigon"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "road-kill",
+      "path": "assets/img/mission/gta-vice-city/road-kill.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Road Kill"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "waste-the-wife",
+      "path": "assets/img/mission/gta-vice-city/waste-the-wife.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Waste the Wife"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "autocide",
+      "path": "assets/img/mission/gta-vice-city/autocide.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Autocide"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "check-out-at-the-check-in",
+      "path": "assets/img/mission/gta-vice-city/check-out-at-the-check-in.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Check Out at the Check In"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
+      "id": "loose-ends",
+      "path": "assets/img/mission/gta-vice-city/loose-ends.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Loose Ends"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city",
       "id": "spilling-the-beans",
       "path": "assets/img/mission/gta-vice-city/spilling-the-beans.svg",
       "width": 1280,
@@ -3416,86 +5296,6 @@
     {
       "kind": "mission",
       "game": "gta-vice-city",
-      "id": "vip",
-      "path": "assets/img/mission/gta-vice-city/vip.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "VIP"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "friendly-rivalry",
-      "path": "assets/img/mission/gta-vice-city/friendly-rivalry.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Friendly Rivalry"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "cabmageddon",
-      "path": "assets/img/mission/gta-vice-city/cabmageddon.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Cabmageddon"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "love-juice",
-      "path": "assets/img/mission/gta-vice-city/love-juice.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Love Juice"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "psycho-killer",
-      "path": "assets/img/mission/gta-vice-city/psycho-killer.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Psycho Killer"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "publicity-tour",
-      "path": "assets/img/mission/gta-vice-city/publicity-tour.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Publicity Tour"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "distribution",
-      "path": "assets/img/mission/gta-vice-city/distribution.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Distribution"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "check-out-at-the-check-in",
-      "path": "assets/img/mission/gta-vice-city/check-out-at-the-check-in.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Check Out at the Check In"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
       "id": "cap-the-collector",
       "path": "assets/img/mission/gta-vice-city/cap-the-collector.svg",
       "width": 1280,
@@ -3512,66 +5312,6 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Keep Your Friends Close..."
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "all-hands-on-deck",
-      "path": "assets/img/mission/gta-vice-city/all-hands-on-deck.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "All Hands on Deck!"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "trojan-voodoo",
-      "path": "assets/img/mission/gta-vice-city/trojan-voodoo.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Trojan Voodoo"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "cannon-fodder",
-      "path": "assets/img/mission/gta-vice-city/cannon-fodder.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Cannon Fodder"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "stunt-boat-challenge",
-      "path": "assets/img/mission/gta-vice-city/stunt-boat-challenge.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Stunt Boat Challenge"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "sunshine-autos-imports",
-      "path": "assets/img/mission/gta-vice-city/sunshine-autos-imports.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Sunshine Autos Imports"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-vice-city",
-      "id": "the-pole-position",
-      "path": "assets/img/mission/gta-vice-city/the-pole-position.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "The Pole Position Club"
     },
     {
       "kind": "vehicle",
@@ -7346,12 +9086,42 @@
     {
       "kind": "mission",
       "game": "gta-advance",
-      "id": "opening-job",
-      "path": "assets/img/mission/gta-advance/opening-job.svg",
+      "id": "jump-start",
+      "path": "assets/img/mission/gta-advance/jump-start.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Opening job"
+      "alt": "Jump Start"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "dirty-laundry",
+      "path": "assets/img/mission/gta-advance/dirty-laundry.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dirty Laundry"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "hot-wheels",
+      "path": "assets/img/mission/gta-advance/hot-wheels.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hot Wheels"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "ill-gotten",
+      "path": "assets/img/mission/gta-advance/ill-gotten.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ill-Gotten"
     },
     {
       "kind": "mission",
@@ -7366,32 +9136,362 @@
     {
       "kind": "mission",
       "game": "gta-advance",
-      "id": "yakuza-work",
-      "path": "assets/img/mission/gta-advance/yakuza-work.svg",
+      "id": "fake-ids",
+      "path": "assets/img/mission/gta-advance/fake-ids.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Yakuza work"
+      "alt": "Fake IDs"
     },
     {
       "kind": "mission",
       "game": "gta-advance",
-      "id": "yardie-work",
-      "path": "assets/img/mission/gta-advance/yardie-work.svg",
+      "id": "getaway",
+      "path": "assets/img/mission/gta-advance/getaway.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Yardie work"
+      "alt": "Getaway"
     },
     {
       "kind": "mission",
       "game": "gta-advance",
-      "id": "finale",
-      "path": "assets/img/mission/gta-advance/finale.svg",
+      "id": "twisted-metal",
+      "path": "assets/img/mission/gta-advance/twisted-metal.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Finale"
+      "alt": "Twisted Metal"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "ill-repute",
+      "path": "assets/img/mission/gta-advance/ill-repute.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ill Repute"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "droppin-bombs",
+      "path": "assets/img/mission/gta-advance/droppin-bombs.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Droppin' Bombs"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "scorelli",
+      "path": "assets/img/mission/gta-advance/scorelli.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Scorelli"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "love-boat",
+      "path": "assets/img/mission/gta-advance/love-boat.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love Boat"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "times-up",
+      "path": "assets/img/mission/gta-advance/times-up.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Time's Up"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "sober-driver",
+      "path": "assets/img/mission/gta-advance/sober-driver.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sober Driver"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "happy-hour",
+      "path": "assets/img/mission/gta-advance/happy-hour.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Happy Hour"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "grand-opening",
+      "path": "assets/img/mission/gta-advance/grand-opening.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Grand Opening"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "pocket-rocket",
+      "path": "assets/img/mission/gta-advance/pocket-rocket.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Pocket Rocket"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "political-will",
+      "path": "assets/img/mission/gta-advance/political-will.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Political Will"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "show-the-money",
+      "path": "assets/img/mission/gta-advance/show-the-money.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Show the Money"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "race-to-run",
+      "path": "assets/img/mission/gta-advance/race-to-run.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Race to Run"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "latin-coffee",
+      "path": "assets/img/mission/gta-advance/latin-coffee.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Latin Coffee"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "the-big-score",
+      "path": "assets/img/mission/gta-advance/the-big-score.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Big Score"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "fine-dining",
+      "path": "assets/img/mission/gta-advance/fine-dining.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Fine Dining"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "flying-high",
+      "path": "assets/img/mission/gta-advance/flying-high.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Flying High"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "factory-wages",
+      "path": "assets/img/mission/gta-advance/factory-wages.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Factory Wages"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "schools-out",
+      "path": "assets/img/mission/gta-advance/schools-out.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "School's Out"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "kids-a-hero",
+      "path": "assets/img/mission/gta-advance/kids-a-hero.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Kid's a Hero"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "ante-up",
+      "path": "assets/img/mission/gta-advance/ante-up.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ante Up"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "two-hand-toss",
+      "path": "assets/img/mission/gta-advance/two-hand-toss.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Two-Hand Toss"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "scorned-lover",
+      "path": "assets/img/mission/gta-advance/scorned-lover.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Scorned Lover"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "sue-me-sushi",
+      "path": "assets/img/mission/gta-advance/sue-me-sushi.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sue Me Sushi"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "down-the-river",
+      "path": "assets/img/mission/gta-advance/down-the-river.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Down the River"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "bad-pimpin",
+      "path": "assets/img/mission/gta-advance/bad-pimpin.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bad Pimpin'"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "mystery-killer",
+      "path": "assets/img/mission/gta-advance/mystery-killer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Mystery Killer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "decoy-disaster",
+      "path": "assets/img/mission/gta-advance/decoy-disaster.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Decoy Disaster"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "truth-revealed",
+      "path": "assets/img/mission/gta-advance/truth-revealed.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Truth Revealed"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "love-of-money",
+      "path": "assets/img/mission/gta-advance/love-of-money.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love of Money"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "taking-revenge",
+      "path": "assets/img/mission/gta-advance/taking-revenge.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taking Revenge"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "smackdown",
+      "path": "assets/img/mission/gta-advance/smackdown.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Smackdown"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "assault-joint",
+      "path": "assets/img/mission/gta-advance/assault-joint.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Assault Joint"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-advance",
+      "id": "freedom-flies",
+      "path": "assets/img/mission/gta-advance/freedom-flies.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Freedom Flies"
     },
     {
       "kind": "vehicle",
@@ -7746,6 +9846,16 @@
     {
       "kind": "mission",
       "game": "gta-liberty-city-stories",
+      "id": "introduction",
+      "path": "assets/img/mission/gta-liberty-city-stories/introduction.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Introduction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
       "id": "home-sweet-home",
       "path": "assets/img/mission/gta-liberty-city-stories/home-sweet-home.svg",
       "width": 1280,
@@ -7786,12 +9896,72 @@
     {
       "kind": "mission",
       "game": "gta-liberty-city-stories",
-      "id": "the-portland-chainsaw-masquerade",
-      "path": "assets/img/mission/gta-liberty-city-stories/the-portland-chainsaw-masquerade.svg",
+      "id": "smash-and-grab",
+      "path": "assets/img/mission/gta-liberty-city-stories/smash-and-grab.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Portland Chainsaw Masquerade"
+      "alt": "Smash and Grab"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "hot-wheels",
+      "path": "assets/img/mission/gta-liberty-city-stories/hot-wheels.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hot Wheels"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "bone-voyeur",
+      "path": "assets/img/mission/gta-liberty-city-stories/bone-voyeur.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bone Voyeur!"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "don-in-60-seconds",
+      "path": "assets/img/mission/gta-liberty-city-stories/don-in-60-seconds.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Don in 60 Seconds"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "a-volatile-situation",
+      "path": "assets/img/mission/gta-liberty-city-stories/a-volatile-situation.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "A Volatile Situation"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "blow-up-dolls",
+      "path": "assets/img/mission/gta-liberty-city-stories/blow-up-dolls.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Blow Up 'Dolls'"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "snappy-dresser",
+      "path": "assets/img/mission/gta-liberty-city-stories/snappy-dresser.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Snappy Dresser"
     },
     {
       "kind": "mission",
@@ -7836,12 +10006,182 @@
     {
       "kind": "mission",
       "game": "gta-liberty-city-stories",
+      "id": "the-offer",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-offer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Offer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "ho-selecta",
+      "path": "assets/img/mission/gta-liberty-city-stories/ho-selecta.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ho Selecta!"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "frighteners",
+      "path": "assets/img/mission/gta-liberty-city-stories/frighteners.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Frighteners"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "rollercoaster-ride",
+      "path": "assets/img/mission/gta-liberty-city-stories/rollercoaster-ride.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Rollercoaster Ride"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "shop-til-you-strop",
+      "path": "assets/img/mission/gta-liberty-city-stories/shop-til-you-strop.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shop 'til You Strop"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "taken-for-a-ride",
+      "path": "assets/img/mission/gta-liberty-city-stories/taken-for-a-ride.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taken for a Ride"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "booby-prize",
+      "path": "assets/img/mission/gta-liberty-city-stories/booby-prize.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Booby Prize"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "biker-heat",
+      "path": "assets/img/mission/gta-liberty-city-stories/biker-heat.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Biker Heat"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "overdose-of-trouble",
+      "path": "assets/img/mission/gta-liberty-city-stories/overdose-of-trouble.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Overdose of Trouble"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "contra-banned",
+      "path": "assets/img/mission/gta-liberty-city-stories/contra-banned.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Contra-Banned"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "salvatores-salvation",
+      "path": "assets/img/mission/gta-liberty-city-stories/salvatores-salvation.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Salvatore's Salvation"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-guns-of-leone",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-guns-of-leone.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Guns of Leone"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "calm-before-the-storm",
+      "path": "assets/img/mission/gta-liberty-city-stories/calm-before-the-storm.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Calm Before the Storm"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-made-man",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-made-man.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Made Man"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-portland-chainsaw-masquerade",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-portland-chainsaw-masquerade.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Portland Chainsaw Masquerade"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "sindacco-sabotage",
+      "path": "assets/img/mission/gta-liberty-city-stories/sindacco-sabotage.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sindacco Sabotage"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
       "id": "the-trouble-with-triads",
       "path": "assets/img/mission/gta-liberty-city-stories/the-trouble-with-triads.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Trouble with Triads"
+      "alt": "The Trouble With Triads"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "driving-mr-leone",
+      "path": "assets/img/mission/gta-liberty-city-stories/driving-mr-leone.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Driving Mr Leone"
     },
     {
       "kind": "mission",
@@ -7862,6 +10202,336 @@
       "height": 720,
       "status": "placeholder",
       "alt": "Making Toni"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-morgue-party-candidate",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-morgue-party-candidate.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Morgue Party Candidate"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "steering-the-vote",
+      "path": "assets/img/mission/gta-liberty-city-stories/steering-the-vote.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Steering the Vote"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "cam-pain",
+      "path": "assets/img/mission/gta-liberty-city-stories/cam-pain.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cam-Pain"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "friggin-the-riggin",
+      "path": "assets/img/mission/gta-liberty-city-stories/friggin-the-riggin.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Friggin' the Riggin'"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "love-and-bullets",
+      "path": "assets/img/mission/gta-liberty-city-stories/love-and-bullets.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love & Bullets"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "counterfeit-count",
+      "path": "assets/img/mission/gta-liberty-city-stories/counterfeit-count.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Counterfeit Count"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "lc-confidential",
+      "path": "assets/img/mission/gta-liberty-city-stories/lc-confidential.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "L.C. Confidential"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-passion-of-the-heist",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-passion-of-the-heist.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Passion of the Heist"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "karmageddon",
+      "path": "assets/img/mission/gta-liberty-city-stories/karmageddon.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Karmageddon"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "false-idols",
+      "path": "assets/img/mission/gta-liberty-city-stories/false-idols.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "False Idols"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "caught-in-the-act",
+      "path": "assets/img/mission/gta-liberty-city-stories/caught-in-the-act.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Caught in the Act"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "search-and-rescue",
+      "path": "assets/img/mission/gta-liberty-city-stories/search-and-rescue.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Search and Rescue"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "taking-the-peace",
+      "path": "assets/img/mission/gta-liberty-city-stories/taking-the-peace.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taking the Peace"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "shoot-the-messenger",
+      "path": "assets/img/mission/gta-liberty-city-stories/shoot-the-messenger.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shoot the Messenger"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "sayonara-sindaccos",
+      "path": "assets/img/mission/gta-liberty-city-stories/sayonara-sindaccos.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sayonara Sindaccos"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "the-whole-9-yardies",
+      "path": "assets/img/mission/gta-liberty-city-stories/the-whole-9-yardies.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Whole 9 Yardies"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "crazy-69",
+      "path": "assets/img/mission/gta-liberty-city-stories/crazy-69.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Crazy '69'"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "night-of-the-livid-dreads",
+      "path": "assets/img/mission/gta-liberty-city-stories/night-of-the-livid-dreads.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Night of the Livid Dreads"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "munitions-dump",
+      "path": "assets/img/mission/gta-liberty-city-stories/munitions-dump.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Munitions Dump"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "love-on-the-rocks",
+      "path": "assets/img/mission/gta-liberty-city-stories/love-on-the-rocks.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love on the Rocks"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "rough-justice",
+      "path": "assets/img/mission/gta-liberty-city-stories/rough-justice.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Rough Justice"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "dead-reckoning",
+      "path": "assets/img/mission/gta-liberty-city-stories/dead-reckoning.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dead Reckoning"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "shogun-showdown",
+      "path": "assets/img/mission/gta-liberty-city-stories/shogun-showdown.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shogun Showdown"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "panlantic-land-grab",
+      "path": "assets/img/mission/gta-liberty-city-stories/panlantic-land-grab.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Panlantic Land Grab"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "stop-the-press",
+      "path": "assets/img/mission/gta-liberty-city-stories/stop-the-press.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Stop the Press"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "morgue-party-resurrection",
+      "path": "assets/img/mission/gta-liberty-city-stories/morgue-party-resurrection.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Morgue Party Resurrection"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "more-deadly-than-the-male",
+      "path": "assets/img/mission/gta-liberty-city-stories/more-deadly-than-the-male.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "More Deadly Than the Male"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "cash-clash",
+      "path": "assets/img/mission/gta-liberty-city-stories/cash-clash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cash Clash"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "a-date-with-death",
+      "path": "assets/img/mission/gta-liberty-city-stories/a-date-with-death.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "A Date With Death"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "cash-in-kazukis-chips",
+      "path": "assets/img/mission/gta-liberty-city-stories/cash-in-kazukis-chips.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cash in Kazuki's Chips"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "no-money-mo-problems",
+      "path": "assets/img/mission/gta-liberty-city-stories/no-money-mo-problems.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "No Money, Mo' Problems"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "bringing-the-house-down",
+      "path": "assets/img/mission/gta-liberty-city-stories/bringing-the-house-down.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bringing the House Down"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-liberty-city-stories",
+      "id": "love-on-the-run",
+      "path": "assets/img/mission/gta-liberty-city-stories/love-on-the-run.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Love on the Run"
     },
     {
       "kind": "mission",
@@ -8506,12 +11176,42 @@
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
-      "id": "from-zero-to-hero",
-      "path": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.svg",
+      "id": "cholo-victory",
+      "path": "assets/img/mission/gta-vice-city-stories/cholo-victory.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "From Zero to Hero"
+      "alt": "Cholo Victory"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "boomshine-blowout",
+      "path": "assets/img/mission/gta-vice-city-stories/boomshine-blowout.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Boomshine Blowout"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "truck-stop",
+      "path": "assets/img/mission/gta-vice-city-stories/truck-stop.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Truck Stop"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "shakedown",
+      "path": "assets/img/mission/gta-vice-city-stories/shakedown.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shakedown"
     },
     {
       "kind": "mission",
@@ -8526,12 +11226,142 @@
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
+      "id": "waking-up-the-neighbors",
+      "path": "assets/img/mission/gta-vice-city-stories/waking-up-the-neighbors.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Waking Up the Neighbors"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
       "id": "o-brothel-where-art-thou",
       "path": "assets/img/mission/gta-vice-city-stories/o-brothel-where-art-thou.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "O, Brothel, Where Art Thou?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "got-protection",
+      "path": "assets/img/mission/gta-vice-city-stories/got-protection.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Got Protection?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "marked-men",
+      "path": "assets/img/mission/gta-vice-city-stories/marked-men.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Marked Men"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "when-funday-comes",
+      "path": "assets/img/mission/gta-vice-city-stories/when-funday-comes.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "When Funday Comes"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "takin-out-the-white-trash",
+      "path": "assets/img/mission/gta-vice-city-stories/takin-out-the-white-trash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Takin' Out the White-Trash"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "divorce",
+      "path": "assets/img/mission/gta-vice-city-stories/divorce.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "D.I.V.O.R.C.E."
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "to-victor-the-spoils",
+      "path": "assets/img/mission/gta-vice-city-stories/to-victor-the-spoils.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "To Victor, the Spoils"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "jive-drive",
+      "path": "assets/img/mission/gta-vice-city-stories/jive-drive.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Jive Drive"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "hose-the-hoes",
+      "path": "assets/img/mission/gta-vice-city-stories/hose-the-hoes.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hose the Hoes"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "robbing-the-cradle",
+      "path": "assets/img/mission/gta-vice-city-stories/robbing-the-cradle.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Robbing the Cradle"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "nice-package",
+      "path": "assets/img/mission/gta-vice-city-stories/nice-package.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Nice Package"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "balls",
+      "path": "assets/img/mission/gta-vice-city-stories/balls.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Balls"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "papi-dont-screech",
+      "path": "assets/img/mission/gta-vice-city-stories/papi-dont-screech.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Papi Don't Screech"
     },
     {
       "kind": "mission",
@@ -8556,32 +11386,252 @@
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
-      "id": "the-mugshot",
-      "path": "assets/img/mission/gta-vice-city-stories/the-mugshot.svg",
+      "id": "money-for-nothing",
+      "path": "assets/img/mission/gta-vice-city-stories/money-for-nothing.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Mugshot"
+      "alt": "Money for Nothing"
     },
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
-      "id": "mendez-brothers",
-      "path": "assets/img/mission/gta-vice-city-stories/mendez-brothers.svg",
+      "id": "caught-as-an-act",
+      "path": "assets/img/mission/gta-vice-city-stories/caught-as-an-act.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Mendez Brothers"
+      "alt": "Caught as an Act"
     },
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
-      "id": "last-flight",
-      "path": "assets/img/mission/gta-vice-city-stories/last-flight.svg",
+      "id": "leap-and-bound",
+      "path": "assets/img/mission/gta-vice-city-stories/leap-and-bound.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Last Flight"
+      "alt": "Leap and Bound"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "the-bum-deal",
+      "path": "assets/img/mission/gta-vice-city-stories/the-bum-deal.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Bum Deal"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "snitch-hitch",
+      "path": "assets/img/mission/gta-vice-city-stories/snitch-hitch.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Snitch Hitch"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "from-zero-to-hero",
+      "path": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "From Zero to Hero"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "brawn-of-the-dead",
+      "path": "assets/img/mission/gta-vice-city-stories/brawn-of-the-dead.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Brawn of the Dead"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "blitzkrieg",
+      "path": "assets/img/mission/gta-vice-city-stories/blitzkrieg.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Blitzkrieg"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "accidents-will-happen",
+      "path": "assets/img/mission/gta-vice-city-stories/accidents-will-happen.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Accidents Will Happen"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "the-mugshot-longshot",
+      "path": "assets/img/mission/gta-vice-city-stories/the-mugshot-longshot.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Mugshot Longshot"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "hostile-takeover",
+      "path": "assets/img/mission/gta-vice-city-stories/hostile-takeover.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hostile Takeover"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "unfriendly-competition",
+      "path": "assets/img/mission/gta-vice-city-stories/unfriendly-competition.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Unfriendly Competition"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "high-wire",
+      "path": "assets/img/mission/gta-vice-city-stories/high-wire.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "High Wire"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "turn-on-tune-in-bug-out",
+      "path": "assets/img/mission/gta-vice-city-stories/turn-on-tune-in-bug-out.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Turn on, Tune in, Bug out"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "the-colonels-coke",
+      "path": "assets/img/mission/gta-vice-city-stories/the-colonels-coke.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Colonel's Coke"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "kill-phil",
+      "path": "assets/img/mission/gta-vice-city-stories/kill-phil.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Kill Phil"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "say-cheese",
+      "path": "assets/img/mission/gta-vice-city-stories/say-cheese.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Say Cheese"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "homes-on-the-range",
+      "path": "assets/img/mission/gta-vice-city-stories/homes-on-the-range.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Home's on the Range"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "purple-haze",
+      "path": "assets/img/mission/gta-vice-city-stories/purple-haze.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Purple Haze"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "kill-phil-part-2",
+      "path": "assets/img/mission/gta-vice-city-stories/kill-phil-part-2.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Kill Phil: Part 2"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "taking-the-fall",
+      "path": "assets/img/mission/gta-vice-city-stories/taking-the-fall.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Taking the Fall"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "white-lies",
+      "path": "assets/img/mission/gta-vice-city-stories/white-lies.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "White Lies"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "where-it-hurts-most",
+      "path": "assets/img/mission/gta-vice-city-stories/where-it-hurts-most.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Where it Hurts Most"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "steal-the-deal",
+      "path": "assets/img/mission/gta-vice-city-stories/steal-the-deal.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Steal the Deal"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "the-exchange",
+      "path": "assets/img/mission/gta-vice-city-stories/the-exchange.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Exchange"
     },
     {
       "kind": "mission",
@@ -8591,17 +11641,97 @@
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Farewell to Arms"
+      "alt": "Farewell To Arms"
     },
     {
       "kind": "mission",
       "game": "gta-vice-city-stories",
-      "id": "the-exchange-vcs",
-      "path": "assets/img/mission/gta-vice-city-stories/the-exchange-vcs.svg",
+      "id": "burning-bridges",
+      "path": "assets/img/mission/gta-vice-city-stories/burning-bridges.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Exchange"
+      "alt": "Burning Bridges"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "blitzkrieg-strikes-again",
+      "path": "assets/img/mission/gta-vice-city-stories/blitzkrieg-strikes-again.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Blitzkrieg Strikes Again"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "lost-and-found",
+      "path": "assets/img/mission/gta-vice-city-stories/lost-and-found.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Lost and Found"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "domo-arigato-domestoboto",
+      "path": "assets/img/mission/gta-vice-city-stories/domo-arigato-domestoboto.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Domo Arigato Domestoboto"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "so-long-schlong",
+      "path": "assets/img/mission/gta-vice-city-stories/so-long-schlong.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "So Long Schlong"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "in-the-air-tonight",
+      "path": "assets/img/mission/gta-vice-city-stories/in-the-air-tonight.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "In the Air Tonight"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "light-my-pyre",
+      "path": "assets/img/mission/gta-vice-city-stories/light-my-pyre.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Light My Pyre"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "over-the-top",
+      "path": "assets/img/mission/gta-vice-city-stories/over-the-top.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Over the Top"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-vice-city-stories",
+      "id": "last-stand",
+      "path": "assets/img/mission/gta-vice-city-stories/last-stand.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Last Stand"
     },
     {
       "kind": "vehicle",
@@ -11176,6 +14306,26 @@
     {
       "kind": "mission",
       "game": "gta-iv-the-lost-and-damned",
+      "id": "liberty-city-choppers",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/liberty-city-choppers.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Liberty City Choppers"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "bad-cop-drop",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/bad-cop-drop.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bad Cop Drop"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
       "id": "buyers-market",
       "path": "assets/img/mission/gta-iv-the-lost-and-damned/buyers-market.svg",
       "width": 1280,
@@ -11196,16 +14346,6 @@
     {
       "kind": "mission",
       "game": "gta-iv-the-lost-and-damned",
-      "id": "coming-down",
-      "path": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Coming Down"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-iv-the-lost-and-damned",
       "id": "off-route",
       "path": "assets/img/mission/gta-iv-the-lost-and-damned/off-route.svg",
       "width": 1280,
@@ -11216,22 +14356,42 @@
     {
       "kind": "mission",
       "game": "gta-iv-the-lost-and-damned",
-      "id": "shifting-weight",
-      "path": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.svg",
+      "id": "coming-down",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Shifting Weight"
+      "alt": "Coming Down"
     },
     {
       "kind": "mission",
       "game": "gta-iv-the-lost-and-damned",
-      "id": "heavy-toll",
-      "path": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.svg",
+      "id": "this-shits-cursed",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/this-shits-cursed.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Heavy Toll"
+      "alt": "This Shit's Cursed"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "hit-the-pipe",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/hit-the-pipe.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hit the Pipe"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "end-of-chapter",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/end-of-chapter.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "End of Chapter"
     },
     {
       "kind": "mission",
@@ -11246,12 +14406,62 @@
     {
       "kind": "mission",
       "game": "gta-iv-the-lost-and-damned",
+      "id": "heavy-toll",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Heavy Toll"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "marta-full-of-grace",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/marta-full-of-grace.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Marta Full of Grace"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "shifting-weight",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Shifting Weight"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "romans-holiday",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/romans-holiday.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Roman's Holiday"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
       "id": "diamonds-in-the-rough",
       "path": "assets/img/mission/gta-iv-the-lost-and-damned/diamonds-in-the-rough.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
       "alt": "Diamonds in the Rough"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-iv-the-lost-and-damned",
+      "id": "collectors-item",
+      "path": "assets/img/mission/gta-iv-the-lost-and-damned/collectors-item.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Collector's Item"
     },
     {
       "kind": "mission",
@@ -11816,6 +15026,126 @@
     {
       "kind": "mission",
       "game": "gta-the-ballad-of-gay-tony",
+      "id": "caught-with-your-pants-down",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Caught With Your Pants Down"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "kibbutz-number-one",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/kibbutz-number-one.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Kibbutz Number One"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "this-aint-checkers",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/this-aint-checkers.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "This Ain't Checkers"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "no-3",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/no-3.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "No. 3"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "bang-bang",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bang Bang"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "blog-this",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/blog-this.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Blog This!..."
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "frosting-on-the-cake",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Frosting on the Cake"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "boulevard-baby",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Boulevard Baby"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "blog-this-17",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/blog-this-17.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "...Blog This!"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "not-so-fast",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/not-so-fast.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Not So Fast"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "ladies-night",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/ladies-night.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Ladies' Night"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
+      "id": "going-deep",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/going-deep.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Going Deep"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-the-ballad-of-gay-tony",
       "id": "dropping-in",
       "path": "assets/img/mission/gta-the-ballad-of-gay-tony/dropping-in.svg",
       "width": 1280,
@@ -11836,42 +15166,32 @@
     {
       "kind": "mission",
       "game": "gta-the-ballad-of-gay-tony",
-      "id": "caught-with-your-pants-down",
-      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg",
+      "id": "for-the-man-who-has-everything",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/for-the-man-who-has-everything.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Caught with Your Pants Down"
+      "alt": "For the Man Who Has Everything"
     },
     {
       "kind": "mission",
       "game": "gta-the-ballad-of-gay-tony",
-      "id": "bang-bang",
-      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg",
+      "id": "ladies-half-price",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/ladies-half-price.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Bang Bang"
+      "alt": "Ladies Half Price"
     },
     {
       "kind": "mission",
       "game": "gta-the-ballad-of-gay-tony",
-      "id": "boulevard-baby",
-      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg",
+      "id": "partys-over",
+      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/partys-over.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Boulevard Baby"
-    },
-    {
-      "kind": "mission",
-      "game": "gta-the-ballad-of-gay-tony",
-      "id": "frosting-on-the-cake",
-      "path": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg",
-      "width": 1280,
-      "height": 720,
-      "status": "placeholder",
-      "alt": "Frosting on the Cake"
+      "alt": "Party's Over"
     },
     {
       "kind": "mission",
@@ -12326,6 +15646,316 @@
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
+      "id": "yu-jian",
+      "path": "assets/img/mission/gta-chinatown-wars/yu-jian.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Yu Jian"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "pursuit-farce",
+      "path": "assets/img/mission/gta-chinatown-wars/pursuit-farce.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Pursuit Farce"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "under-the-gun",
+      "path": "assets/img/mission/gta-chinatown-wars/under-the-gun.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Under the Gun"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "payback",
+      "path": "assets/img/mission/gta-chinatown-wars/payback.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Payback"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-wheelman",
+      "path": "assets/img/mission/gta-chinatown-wars/the-wheelman.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Wheelman"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "tricks-of-the-triad",
+      "path": "assets/img/mission/gta-chinatown-wars/tricks-of-the-triad.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Tricks of the Triad"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "pimp-his-ride",
+      "path": "assets/img/mission/gta-chinatown-wars/pimp-his-ride.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Pimp His Ride"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "natural-burn-killer",
+      "path": "assets/img/mission/gta-chinatown-wars/natural-burn-killer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Natural Burn Killer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "recruitment-drive",
+      "path": "assets/img/mission/gta-chinatown-wars/recruitment-drive.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Recruitment Drive"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "whack-the-racers",
+      "path": "assets/img/mission/gta-chinatown-wars/whack-the-racers.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Whack the Racers"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "stealing-the-show",
+      "path": "assets/img/mission/gta-chinatown-wars/stealing-the-show.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Stealing the Show"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "jackin-chan",
+      "path": "assets/img/mission/gta-chinatown-wars/jackin-chan.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Jackin' Chan"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "flatliner",
+      "path": "assets/img/mission/gta-chinatown-wars/flatliner.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Flatliner"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "bomb-disposal",
+      "path": "assets/img/mission/gta-chinatown-wars/bomb-disposal.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Bomb Disposal"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "carpe-dime",
+      "path": "assets/img/mission/gta-chinatown-wars/carpe-dime.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Carpe 'Dime'"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "store-wars",
+      "path": "assets/img/mission/gta-chinatown-wars/store-wars.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Store Wars"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "driven-to-destruction",
+      "path": "assets/img/mission/gta-chinatown-wars/driven-to-destruction.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Driven to Destruction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "raw-deal",
+      "path": "assets/img/mission/gta-chinatown-wars/raw-deal.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Raw Deal"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-tow-job",
+      "path": "assets/img/mission/gta-chinatown-wars/the-tow-job.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Tow Job"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-tail-bagging-the-dogs",
+      "path": "assets/img/mission/gta-chinatown-wars/the-tail-bagging-the-dogs.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Tail Bagging the Dogs"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "trail-blazer",
+      "path": "assets/img/mission/gta-chinatown-wars/trail-blazer.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Trail Blazer"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "copter-carnage",
+      "path": "assets/img/mission/gta-chinatown-wars/copter-carnage.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Copter Carnage"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "kenny-strikes-back",
+      "path": "assets/img/mission/gta-chinatown-wars/kenny-strikes-back.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Kenny Strikes Back"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "weapons-of-mass-distraction",
+      "path": "assets/img/mission/gta-chinatown-wars/weapons-of-mass-distraction.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Weapons of Mass Distraction"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "street-of-rage",
+      "path": "assets/img/mission/gta-chinatown-wars/street-of-rage.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Street of Rage"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "missed-the-boat",
+      "path": "assets/img/mission/gta-chinatown-wars/missed-the-boat.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Missed the Boat?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "cash-and-burn",
+      "path": "assets/img/mission/gta-chinatown-wars/cash-and-burn.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Cash & Burn"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "dragon-haul-z",
+      "path": "assets/img/mission/gta-chinatown-wars/dragon-haul-z.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Dragon Haul Z"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "sa-boat-age",
+      "path": "assets/img/mission/gta-chinatown-wars/sa-boat-age.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Sa-Boat-Age"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-offshore-offload",
+      "path": "assets/img/mission/gta-chinatown-wars/the-offshore-offload.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Offshore Offload"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "one-shot-one-kill",
+      "path": "assets/img/mission/gta-chinatown-wars/one-shot-one-kill.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "One Shot, One Kill"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
       "id": "counterfeit-gangster",
       "path": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.svg",
       "width": 1280,
@@ -12336,52 +15966,262 @@
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
-      "id": "the-sword",
-      "path": "assets/img/mission/gta-chinatown-wars/the-sword.svg",
+      "id": "slaying-with-fire",
+      "path": "assets/img/mission/gta-chinatown-wars/slaying-with-fire.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "The Sword"
+      "alt": "Slaying With Fire"
     },
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
-      "id": "triad-succession",
-      "path": "assets/img/mission/gta-chinatown-wars/triad-succession.svg",
+      "id": "the-fandom-menace",
+      "path": "assets/img/mission/gta-chinatown-wars/the-fandom-menace.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Triad succession"
+      "alt": "The Fandom Menace"
     },
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
-      "id": "mafia-favour",
-      "path": "assets/img/mission/gta-chinatown-wars/mafia-favour.svg",
+      "id": "operation-northwood",
+      "path": "assets/img/mission/gta-chinatown-wars/operation-northwood.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Mafia favour"
+      "alt": "Operation Northwood"
     },
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
-      "id": "undercover-work",
-      "path": "assets/img/mission/gta-chinatown-wars/undercover-work.svg",
+      "id": "torpedo-run",
+      "path": "assets/img/mission/gta-chinatown-wars/torpedo-run.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Undercover work"
+      "alt": "Torpedo Run"
     },
     {
       "kind": "mission",
       "game": "gta-chinatown-wars",
-      "id": "finale",
-      "path": "assets/img/mission/gta-chinatown-wars/finale.svg",
+      "id": "so-near-yet-sonar",
+      "path": "assets/img/mission/gta-chinatown-wars/so-near-yet-sonar.svg",
       "width": 1280,
       "height": 720,
       "status": "placeholder",
-      "alt": "Finale"
+      "alt": "So Near, Yet Sonar"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "by-myriads-of-swords",
+      "path": "assets/img/mission/gta-chinatown-wars/by-myriads-of-swords.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "By Myriads of Swords"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "a-shadow-of-doubt",
+      "path": "assets/img/mission/gta-chinatown-wars/a-shadow-of-doubt.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "A Shadow of Doubt"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "double-trouble",
+      "path": "assets/img/mission/gta-chinatown-wars/double-trouble.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Double Trouble"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "grave-situation",
+      "path": "assets/img/mission/gta-chinatown-wars/grave-situation.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Grave Situation"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "faster-pusher-man-sell-sell",
+      "path": "assets/img/mission/gta-chinatown-wars/faster-pusher-man-sell-sell.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Faster Pusher Man! Sell! Sell!"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "friend-or-foe",
+      "path": "assets/img/mission/gta-chinatown-wars/friend-or-foe.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Friend or Foe?"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "scrambled",
+      "path": "assets/img/mission/gta-chinatown-wars/scrambled.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Scrambled"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "steal-the-wheels",
+      "path": "assets/img/mission/gta-chinatown-wars/steal-the-wheels.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Steal the Wheels"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "arms-out-of-harms-way",
+      "path": "assets/img/mission/gta-chinatown-wars/arms-out-of-harms-way.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Arms Out of Harm's Way"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-wages-of-hsin",
+      "path": "assets/img/mission/gta-chinatown-wars/the-wages-of-hsin.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The Wages of Hsin"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "convoy-conflict",
+      "path": "assets/img/mission/gta-chinatown-wars/convoy-conflict.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Convoy Conflict"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "the-worlds-a-stooge",
+      "path": "assets/img/mission/gta-chinatown-wars/the-worlds-a-stooge.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "The World's a Stooge"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "evidence-dash",
+      "path": "assets/img/mission/gta-chinatown-wars/evidence-dash.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Evidence Dash"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "oversights",
+      "path": "assets/img/mission/gta-chinatown-wars/oversights.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Oversights"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "a-rude-awakening",
+      "path": "assets/img/mission/gta-chinatown-wars/a-rude-awakening.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "A Rude Awakening"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "see-no-evil",
+      "path": "assets/img/mission/gta-chinatown-wars/see-no-evil.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "See No Evil"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "wi-find",
+      "path": "assets/img/mission/gta-chinatown-wars/wi-find.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Wi-Find"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "rat-race",
+      "path": "assets/img/mission/gta-chinatown-wars/rat-race.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Rat Race"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "clear-the-pier",
+      "path": "assets/img/mission/gta-chinatown-wars/clear-the-pier.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Clear the Pier"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "hit-from-the-tong",
+      "path": "assets/img/mission/gta-chinatown-wars/hit-from-the-tong.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Hit from the Tong"
+    },
+    {
+      "kind": "mission",
+      "game": "gta-chinatown-wars",
+      "id": "salt-in-the-wound",
+      "path": "assets/img/mission/gta-chinatown-wars/salt-in-the-wound.svg",
+      "width": 1280,
+      "height": 720,
+      "status": "placeholder",
+      "alt": "Salt in the Wound"
     },
     {
       "kind": "vehicle",

@@ -5,11 +5,11 @@
     "year": 2006,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T16:09:57.569Z",
+    "generated": "2026-11-15T16:25:04.925Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "limited",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 13,
-      "missions": 13,
+      "missions": 59,
       "vehicles": 19,
       "weapons": 13,
       "cheats": 0,
@@ -201,20 +201,22 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
         "id": "soldier",
         "order": 1,
         "name": "Soldier",
         "type": "Story",
-        "giver": "Jerry Martinez",
-        "location": "Fort Baxter",
+        "giver": "Introduction",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 50,
+          "other": "Pistol"
         },
         "summary": "Opening: Victor runs errands on the army base before being discharged.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/soldier.svg"
       },
       {
@@ -223,12 +225,13 @@
         "name": "Cleaning House",
         "type": "Story",
         "giver": "Jerry Martinez",
-        "location": "Vice Beach",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 100
         },
         "summary": "Clean out a drug house for Martinez.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/cleaning-house.svg"
       },
       {
@@ -237,153 +240,855 @@
         "name": "Conduct Unbecoming",
         "type": "Story",
         "giver": "Jerry Martinez",
-        "location": "Fort Baxter",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "other": "101 Bayshore Avenue Casual Outfit"
         },
         "summary": "Cover for Martinez by taking the fall in a military drug bust.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/conduct-unbecoming.svg"
       },
       {
-        "id": "from-zero-to-hero",
+        "id": "cholo-victory",
         "order": 4,
-        "name": "From Zero to Hero",
+        "name": "Cholo Victory",
         "type": "Story",
         "giver": "Phil Cassidy",
-        "location": "Vice Beach",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 200
         },
-        "summary": "Set up the first business and start earning.",
-        "verified": false,
-        "image": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.svg"
+        "summary": "Perform a drive-by on some Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/cholo-victory.svg"
+      },
+      {
+        "id": "boomshine-blowout",
+        "order": 5,
+        "name": "Boomshine Blowout",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 250
+        },
+        "summary": "Get Phil's boomshine out of his warehouse before it goes up in flames.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/boomshine-blowout.svg"
+      },
+      {
+        "id": "truck-stop",
+        "order": 6,
+        "name": "Truck Stop",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Hijack an arms truck.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/truck-stop.svg"
+      },
+      {
+        "id": "shakedown",
+        "order": 7,
+        "name": "Shakedown",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Help Marty take care of his protection racket .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/shakedown.svg"
       },
       {
         "id": "fear-the-repo",
-        "order": 5,
+        "order": 8,
         "name": "Fear the Repo",
         "type": "Story",
-        "giver": "Louise Cassidy-Williams",
-        "location": "Trailer Park",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 500
         },
         "summary": "Repossess vehicles for the family business.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/fear-the-repo.svg"
       },
       {
+        "id": "waking-up-the-neighbors",
+        "order": 9,
+        "name": "Waking Up the Neighbors",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Blow up three Cholo vans with grenades.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/waking-up-the-neighbors.svg"
+      },
+      {
         "id": "o-brothel-where-art-thou",
-        "order": 6,
+        "order": 10,
         "name": "O, Brothel, Where Art Thou?",
         "type": "Story",
-        "giver": "Louise Cassidy-Williams",
-        "location": "Vice Point",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 700,
+          "other": "Stonewall J's store"
         },
         "summary": "Take over a brothel from a rival operator.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/o-brothel-where-art-thou.svg"
       },
       {
+        "id": "got-protection",
+        "order": 11,
+        "name": "Got Protection?",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Rescue Marty's prostitutes from the Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/got-protection.svg"
+      },
+      {
+        "id": "marked-men",
+        "order": 12,
+        "name": "Marked Men",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Escape an ambush set by Jerry Martinez.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/marked-men.svg"
+      },
+      {
+        "id": "when-funday-comes",
+        "order": 13,
+        "name": "When Funday Comes",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Participate in a quad bike race with Louise.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/when-funday-comes.svg"
+      },
+      {
+        "id": "takin-out-the-white-trash",
+        "order": 14,
+        "name": "Takin' Out the White-Trash",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Retrieve Louise's belongings from Marty's trailer.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/takin-out-the-white-trash.svg"
+      },
+      {
+        "id": "divorce",
+        "order": 15,
+        "name": "D.I.V.O.R.C.E.",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "other": "The Compound Trailer Trash"
+        },
+        "summary": "Rescue Louise from Marty and kill him.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/divorce.svg"
+      },
+      {
+        "id": "to-victor-the-spoils",
+        "order": 16,
+        "name": "To Victor, the Spoils",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500,
+          "other": "Gang recruitment Ability to have a 5-star wanted level"
+        },
+        "summary": "Take over Marty's businesses .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/to-victor-the-spoils.svg"
+      },
+      {
+        "id": "jive-drive",
+        "order": 17,
+        "name": "Jive Drive",
+        "type": "Story",
+        "giver": "Victor Vance",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Defend Lance's car from the attacking Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/jive-drive.svg"
+      },
+      {
+        "id": "hose-the-hoes",
+        "order": 18,
+        "name": "Hose the Hoes",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Extinguish the fire at Vic's brothel.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/hose-the-hoes.svg"
+      },
+      {
+        "id": "robbing-the-cradle",
+        "order": 19,
+        "name": "Robbing the Cradle",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Convince the Welfare Agent to drop Louise's case.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/robbing-the-cradle.svg"
+      },
+      {
+        "id": "nice-package",
+        "order": 20,
+        "name": "Nice Package",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Acquire a package for Umberto.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/nice-package.svg"
+      },
+      {
+        "id": "balls",
+        "order": 21,
+        "name": "Balls",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 800
+        },
+        "summary": "Take care of the Cholo troublemakers around Little Havana with Umberto's men .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/balls.svg"
+      },
+      {
+        "id": "papi-dont-screech",
+        "order": 22,
+        "name": "Papi Don't Screech",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Pick up Umberto's father from the Stadium and protect him from the Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/papi-dont-screech.svg"
+      },
+      {
         "id": "havana-good-time",
-        "order": 7,
+        "order": 23,
         "name": "Havana Good Time",
         "type": "Story",
         "giver": "Umberto Robina",
-        "location": "Little Havana",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 1500,
+          "other": "Cuban Style"
         },
         "summary": "Help the Cubans against the Cholos.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/havana-good-time.svg"
       },
       {
         "id": "the-audition",
-        "order": 8,
+        "order": 24,
         "name": "The Audition",
         "type": "Story",
-        "giver": "Reni Wassulmaier",
-        "location": "Downtown",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
         "reward": {
-          "money": 0
+          "money": 750
         },
         "summary": "Film-industry work for Reni.",
-        "verified": false,
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/the-audition.svg"
       },
       {
-        "id": "the-mugshot",
-        "order": 9,
-        "name": "The Mugshot",
+        "id": "money-for-nothing",
+        "order": 25,
+        "name": "Money for Nothing",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Distract the cops during Lance and Forbes' drug run.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/money-for-nothing.svg"
+      },
+      {
+        "id": "caught-as-an-act",
+        "order": 26,
+        "name": "Caught as an Act",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Confront and chase down Bryan Forbes.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/caught-as-an-act.svg"
+      },
+      {
+        "id": "leap-and-bound",
+        "order": 27,
+        "name": "Leap and Bound",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Rescue Lance from kidnapping drug dealers .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/leap-and-bound.svg"
+      },
+      {
+        "id": "the-bum-deal",
+        "order": 28,
+        "name": "The Bum Deal",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Survive Forbes' second betrayal and kill him.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-bum-deal.svg"
+      },
+      {
+        "id": "snitch-hitch",
+        "order": 29,
+        "name": "Snitch Hitch",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Acquire the files detailing a big drug shipment.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/snitch-hitch.svg"
+      },
+      {
+        "id": "from-zero-to-hero",
+        "order": 30,
+        "name": "From Zero to Hero",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 3000,
+          "other": "Infernus Access to Vice City Beach , Prawn Island , and Leaf Links Ability to have a 6-star wanted level"
+        },
+        "summary": "Set up the first business and start earning.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.svg"
+      },
+      {
+        "id": "brawn-of-the-dead",
+        "order": 31,
+        "name": "Brawn of the Dead",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850,
+          "other": "Pastel Suit"
+        },
+        "summary": "Act as a stuntman in a zombie horror film.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/brawn-of-the-dead.svg"
+      },
+      {
+        "id": "blitzkrieg",
+        "order": 32,
+        "name": "Blitzkrieg",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Defend Vance Brothers' businesses from the Mendez Cartel .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/blitzkrieg.svg"
+      },
+      {
+        "id": "accidents-will-happen",
+        "order": 33,
+        "name": "Accidents Will Happen",
         "type": "Story",
         "giver": "Reni Wassulmaier",
-        "location": "Downtown",
+        "location": "Vice City Beach",
         "reward": {
-          "money": 0
+          "money": 850
         },
-        "summary": "Photograph a target for Reni's production.",
-        "verified": false,
-        "image": "assets/img/mission/gta-vice-city-stories/the-mugshot.svg"
-      },
-      {
-        "id": "mendez-brothers",
-        "order": 10,
-        "name": "Mendez Brothers",
-        "type": "Story",
-        "giver": "Victor Vance",
-        "location": "Starfish Island",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Move against the Mendez cartel's island base.",
+        "summary": "Drive a stunt car for Reni's commercial.",
         "verified": true,
-        "image": "assets/img/mission/gta-vice-city-stories/mendez-brothers.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/accidents-will-happen.svg"
       },
       {
-        "id": "last-flight",
-        "order": 11,
-        "name": "Last Flight",
+        "id": "the-mugshot-longshot",
+        "order": 34,
+        "name": "The Mugshot Longshot",
         "type": "Story",
-        "giver": "Louise Cassidy-Williams",
-        "location": "Escobar Airport",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {},
+        "summary": "Take photos of Jerry Martinez to \"prove\" he's an undercover DEA agent.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-mugshot-longshot.svg"
+      },
+      {
+        "id": "hostile-takeover",
+        "order": 35,
+        "name": "Hostile Takeover",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
         "reward": {
-          "money": 0
+          "money": 1000
         },
-        "summary": "Destroy a cartel plane before it escapes.",
-        "verified": false,
-        "image": "assets/img/mission/gta-vice-city-stories/last-flight.svg"
+        "summary": "Kill a gang of bikers .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/hostile-takeover.svg"
+      },
+      {
+        "id": "unfriendly-competition",
+        "order": 36,
+        "name": "Unfriendly Competition",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1300
+        },
+        "summary": "Kill two competing drug runners.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/unfriendly-competition.svg"
+      },
+      {
+        "id": "high-wire",
+        "order": 37,
+        "name": "High Wire",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Use a chopper with a magnet to steal back the drugs confiscated by the police.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/high-wire.svg"
+      },
+      {
+        "id": "turn-on-tune-in-bug-out",
+        "order": 38,
+        "name": "Turn on, Tune in, Bug out",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 300,
+          "other": "Rocket Launcher available in Ammu-Nation"
+        },
+        "summary": "Destroy three antennas used by the DEA to spy on the Vance Brothers.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/turn-on-tune-in-bug-out.svg"
+      },
+      {
+        "id": "the-colonels-coke",
+        "order": 39,
+        "name": "The Colonel's Coke",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850
+        },
+        "summary": "Escort Gonzalez and his drug shipment to Viceport .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-colonels-coke.svg"
+      },
+      {
+        "id": "kill-phil",
+        "order": 40,
+        "name": "Kill Phil",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Rescue Phil Collins from Forelli Crime Family hitmen .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/kill-phil.svg"
+      },
+      {
+        "id": "say-cheese",
+        "order": 41,
+        "name": "Say Cheese",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850
+        },
+        "summary": "Act as a stunt driver in Reni's commercial.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/say-cheese.svg"
+      },
+      {
+        "id": "homes-on-the-range",
+        "order": 42,
+        "name": "Home's on the Range",
+        "type": "Story",
+        "giver": "Gonzales",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Kill a traitor in Gonzalez's organization using explosive golf balls.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/homes-on-the-range.svg"
+      },
+      {
+        "id": "purple-haze",
+        "order": 43,
+        "name": "Purple Haze",
+        "type": "Story",
+        "giver": "Gonzales",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Steal back Gonzalez's drugs after a botched deal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/purple-haze.svg"
+      },
+      {
+        "id": "kill-phil-part-2",
+        "order": 44,
+        "name": "Kill Phil: Part 2",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Clear out the Hyman Memorial Stadium from hitmen and assassins.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/kill-phil-part-2.svg"
+      },
+      {
+        "id": "taking-the-fall",
+        "order": 45,
+        "name": "Taking the Fall",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 300,
+          "other": "Biker Angel"
+        },
+        "summary": "Take out the bikers who've been stealing the Vance Brothers' cocaine.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/taking-the-fall.svg"
+      },
+      {
+        "id": "white-lies",
+        "order": 46,
+        "name": "White Lies",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500,
+          "other": "Bovver'64"
+        },
+        "summary": "Gather back all the drugs Lance throws away.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/white-lies.svg"
+      },
+      {
+        "id": "where-it-hurts-most",
+        "order": 47,
+        "name": "Where it Hurts Most",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Rescue Louise from Jerry Martinez's goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/where-it-hurts-most.svg"
+      },
+      {
+        "id": "steal-the-deal",
+        "order": 48,
+        "name": "Steal the Deal",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Steal Gonzalez's drug boat.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/steal-the-deal.svg"
+      },
+      {
+        "id": "the-exchange",
+        "order": 49,
+        "name": "The Exchange",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1750
+        },
+        "summary": "Defend Diaz's men during a meeting with the DEA.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-exchange.svg"
       },
       {
         "id": "farewell-to-arms",
-        "order": 12,
-        "name": "Farewell to Arms",
+        "order": 50,
+        "name": "Farewell To Arms",
         "type": "Story",
-        "giver": "Phil Cassidy",
-        "location": "Vice Beach",
+        "giver": "Gonzalez",
+        "location": "Vice City Beach",
         "reward": {
-          "money": 0
+          "money": 2500,
+          "other": "Minigun available in Ammu-Nation"
         },
         "summary": "Final arms deal with Phil.",
-        "verified": false,
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-vice-city-stories/farewell-to-arms.svg"
       },
       {
-        "id": "the-exchange-vcs",
-        "order": 13,
-        "name": "The Exchange",
+        "id": "burning-bridges",
+        "order": 51,
+        "name": "Burning Bridges",
         "type": "Story",
-        "giver": "Victor Vance",
-        "location": "Starfish Island",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {},
+        "summary": "Survive Mendez Brothers' betrayal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/burning-bridges.svg"
+      },
+      {
+        "id": "blitzkrieg-strikes-again",
+        "order": 52,
+        "name": "Blitzkrieg Strikes Again",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
         "reward": {
-          "money": 0
+          "money": 700
         },
-        "summary": "Final confrontation with the Mendez cartel.",
-        "verified": false,
-        "image": "assets/img/mission/gta-vice-city-stories/the-exchange-vcs.svg"
+        "summary": "Defend the Vance Brothers' businesses from the Mendez Cartel.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/blitzkrieg-strikes-again.svg"
+      },
+      {
+        "id": "lost-and-found",
+        "order": 53,
+        "name": "Lost and Found",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Pick up Louise from the hospital and save Lance from Martinez's goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/lost-and-found.svg"
+      },
+      {
+        "id": "domo-arigato-domestoboto",
+        "order": 54,
+        "name": "Domo Arigato Domestoboto",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Destroy the contents of Armando Mendez's safe by remote controling his robotic servant .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/domo-arigato-domestoboto.svg"
+      },
+      {
+        "id": "so-long-schlong",
+        "order": 55,
+        "name": "So Long Schlong",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Defend Reni from the Mendez Brothers' hitmen.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/so-long-schlong.svg"
+      },
+      {
+        "id": "in-the-air-tonight",
+        "order": 56,
+        "name": "In the Air Tonight",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 3000,
+          "other": "Can be purchase a ticket for Phil Collins ' concert by paying at the stadium at any time."
+        },
+        "summary": "Protect Phil Collins from saboteurs during his concert in Hyman Memorial Stadium.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/in-the-air-tonight.svg"
+      },
+      {
+        "id": "light-my-pyre",
+        "order": 57,
+        "name": "Light My Pyre",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City",
+        "reward": {
+          "money": 2500
+        },
+        "summary": "Protect Lance from the Mendez Cartel and kill Armando Mendez .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/light-my-pyre.svg"
+      },
+      {
+        "id": "over-the-top",
+        "order": 58,
+        "name": "Over the Top",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City",
+        "reward": {
+          "money": 3000
+        },
+        "summary": "Steal a military helicopter from Fort Baxter .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/over-the-top.svg"
+      },
+      {
+        "id": "last-stand",
+        "order": 59,
+        "name": "Last Stand",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City",
+        "reward": {
+          "money": 5000,
+          "other": "Hunter Winner Outfit"
+        },
+        "summary": "Attack the Mendez Building and kill Diego Mendez and Jerry Martinez .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/last-stand.svg"
       }
     ]
   },

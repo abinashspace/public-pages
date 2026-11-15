@@ -2,21 +2,22 @@
   "game": "gta-vice-city",
   "game_title": "Grand Theft Auto: Vice City",
   "section": "missions",
-  "coverage": "partial",
-  "count": 46,
+  "coverage": "complete",
+  "count": 61,
   "items": [
     {
       "id": "in-the-beginning",
       "order": 1,
-      "name": "In the Beginning...",
+      "name": "In The Beginning...",
       "type": "Story",
-      "giver": "Sonny Forelli",
-      "location": "Liberty City / Vice City",
+      "giver": "Introduction",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "other": "Ocean View Hotel Safehouse"
       },
       "summary": "Opening: Sonny sends Tommy to Vice City with cash and a contact.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/in-the-beginning.svg"
     },
     {
@@ -25,12 +26,11 @@
       "name": "An Old Friend",
       "type": "Story",
       "giver": "Sonny Forelli",
-      "location": "Vice Beach",
-      "reward": {
-        "money": 0
-      },
+      "location": "Vice City",
+      "reward": {},
       "summary": "Meet Ken Rosenberg at his office and collect the first job.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/an-old-friend.svg"
     },
     {
@@ -38,13 +38,15 @@
       "order": 3,
       "name": "The Party",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Vice Beach",
+      "giver": "Lawyer",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 100,
+        "other": "Soiree Outfit"
       },
       "summary": "Attend Diaz's party at his mansion and meet the players.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/the-party.svg"
     },
     {
@@ -52,13 +54,15 @@
       "order": 4,
       "name": "Back Alley Brawl",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Ocean Beach",
+      "giver": "Lawyer",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 200,
+        "other": "Cellphone Pistol"
       },
       "summary": "Deal with Diaz's men and meet Lance Vance in the alley.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/back-alley-brawl.svg"
     },
     {
@@ -66,13 +70,15 @@
       "order": 5,
       "name": "Jury Fury",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Washington Beach",
+      "giver": "Lawyer",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 400,
+        "other": "Body Armor available in Ammu-Nation"
       },
       "summary": "Terrorise two jurors to force a mistrial for a Forelli associate.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/jury-fury.svg"
     },
     {
@@ -80,223 +86,249 @@
       "order": 6,
       "name": "Riot",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Washington Beach",
+      "giver": "Lawyer",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000,
+        "other": "Coveralls Outfit Baseball Bat available in Bunch of Tools"
       },
       "summary": "Start a strike at the docks so a shipment gets delayed.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/riot.svg"
     },
     {
-      "id": "treacherous-swine",
+      "id": "four-iron",
       "order": 7,
+      "name": "Four Iron",
+      "type": "Story",
+      "giver": "Avery Carrington",
+      "location": "Vice City",
+      "reward": {
+        "money": 500,
+        "other": "Leaf Links Country Club Country Club Outfit"
+      },
+      "summary": "Kill Avery's business rival at the Leaf Links country club.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/four-iron.svg"
+    },
+    {
+      "id": "demolition-man",
+      "order": 8,
+      "name": "Demolition Man",
+      "type": "Story",
+      "giver": "Avery Carrington",
+      "location": "Vice City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Blow up a building using an RC helicopter .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/demolition-man.svg"
+    },
+    {
+      "id": "treacherous-swine",
+      "order": 9,
       "name": "Treacherous Swine",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Vice Beach",
+      "giver": "Juan Cortez",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 250,
+        "other": "Chainsaw Machete available at Bunch of Tools Casual Outfit"
       },
       "summary": "Kill Gonzalez with a chainsaw on the beach.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/treacherous-swine.svg"
     },
     {
       "id": "mall-shootout",
-      "order": 8,
+      "order": 10,
       "name": "Mall Shootout",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Washington Mall",
+      "giver": "Juan Cortez",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 500,
+        "other": "Shotgun available in Ammu-Nation"
       },
       "summary": "Exchange briefcases with a courier in the mall and escape the ambush.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/mall-shootout.svg"
     },
     {
       "id": "guardian-angels",
-      "order": 9,
+      "order": 11,
       "name": "Guardian Angels",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Downtown",
+      "giver": "Juan Cortez",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000,
+        "other": "Kruger available in Ammu-Nation Access to Starfish Island Ability to gain five-star wanted level"
       },
       "summary": "Back up Lance and Diaz during a drug deal in the park.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/guardian-angels.svg"
     },
     {
       "id": "the-chase",
-      "order": 10,
+      "order": 12,
       "name": "The Chase",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Vice Beach",
+      "giver": "Ricardo Diaz",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000,
+        "other": "Stubby Shotgun available in Ammu-Nation Katana available in Tooled Up"
       },
       "summary": "Follow a dealer to Diaz's mansion without being spotted.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/the-chase.svg"
     },
     {
       "id": "phnom-penh-86",
-      "order": 11,
+      "order": 13,
       "name": "Phnom Penh '86",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Starfish Island",
+      "giver": "Ricardo Diaz",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000,
+        "other": "Sniper Rifle available in Ammu-Nation Access to Vice City Mainland"
       },
       "summary": "Ride shotgun in a helicopter to raid a drug deal.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/phnom-penh-86.svg"
     },
     {
       "id": "the-fastest-boat",
-      "order": 12,
+      "order": 14,
       "name": "The Fastest Boat",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Docks",
+      "giver": "Ricardo Diaz",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 4000
       },
       "summary": "Steal a racing boat from the boatyard for Diaz.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/the-fastest-boat.svg"
     },
     {
       "id": "supply-and-demand",
-      "order": 13,
+      "order": 15,
       "name": "Supply & Demand",
       "type": "Story",
-      "giver": "Ken Rosenberg",
-      "location": "Vice Beach",
+      "giver": "Ricardo Diaz",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 10000,
+        "other": "Black Tracksuit appears outside Jocksport in Downtown."
       },
       "summary": "Pick up a drug shipment by boat and survive a rival ambush.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/supply-and-demand.svg"
     },
     {
       "id": "sir-yes-sir",
-      "order": 14,
+      "order": 16,
       "name": "Sir, Yes Sir!",
       "type": "Story",
-      "giver": "Ricardo Diaz",
-      "location": "Downtown",
+      "giver": "Juan Cortez",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000
       },
       "summary": "Steal an army truck from a road convoy for Diaz.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/sir-yes-sir.svg"
     },
     {
       "id": "two-bit-hit",
-      "order": 15,
+      "order": 17,
       "name": "Two Bit Hit",
       "type": "Story",
-      "giver": "Ricardo Diaz",
-      "location": "Little Haiti",
+      "giver": "Avery Carrington",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2500,
+        "other": "Havana Outfit"
       },
       "summary": "Assassinate a Haitian gang leader during a funeral.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/two-bit-hit.svg"
     },
     {
-      "id": "the-shootist",
-      "order": 16,
-      "name": "The Shootist",
-      "type": "Asset",
-      "giver": "Ricardo Diaz",
-      "location": "Downtown",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Beat Phil Cassidy's shooting range challenge for the Malibu job.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/the-shootist.svg"
-    },
-    {
-      "id": "the-driver",
-      "order": 17,
-      "name": "The Driver",
-      "type": "Asset",
-      "giver": "Ricardo Diaz",
-      "location": "Ocean Beach",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Recruit Hilary by beating him in a street race.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/the-driver.svg"
-    },
-    {
-      "id": "the-job",
+      "id": "death-row",
       "order": 18,
-      "name": "The Job",
-      "type": "Heist",
-      "giver": "Ricardo Diaz",
-      "location": "Downtown",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Rob the El Banco Corrupto bank with the Malibu crew.",
+      "name": "Death Row",
+      "type": "Story",
+      "giver": "Kent Paul",
+      "location": "Vice City",
+      "reward": {},
+      "summary": "Rescue Lance from the junkyard before Diaz's men kill him.",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/the-job.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/death-row.svg"
+    },
+    {
+      "id": "all-hands-on-deck",
+      "order": 19,
+      "name": "All Hands On Deck!",
+      "type": "Story",
+      "giver": "Juan Cortez",
+      "location": "Vice City",
+      "reward": {
+        "money": 5000,
+        "other": "Speeder"
+      },
+      "summary": "Protect the colonel's yacht from a government raid.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/all-hands-on-deck.svg"
     },
     {
       "id": "rub-out",
-      "order": 19,
+      "order": 20,
       "name": "Rub Out",
       "type": "Story",
       "giver": "Lance Vance",
-      "location": "Starfish Island",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 50000,
+        "other": "Vercetti Estate Ability to gain six-star wanted level .357 , MP5 and M4 availables in Ammu-Nation"
       },
       "summary": "Take Diaz's mansion in a gunfight and inherit it.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/rub-out.svg"
-    },
-    {
-      "id": "death-row",
-      "order": 20,
-      "name": "Death Row",
-      "type": "Story",
-      "giver": "Lance Vance",
-      "location": "Little Haiti",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Rescue Lance from the junkyard before Diaz's men kill him.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/death-row.svg"
     },
     {
       "id": "shakedown",
       "order": 21,
       "name": "Shakedown",
       "type": "Story",
-      "giver": "Lance Vance",
-      "location": "North Point Mall",
+      "giver": "Vercetti Estate",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000,
+        "other": ".308 Sniper available in Ammu-Nation"
       },
       "summary": "Smash up shops in the mall until the owners pay protection.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/shakedown.svg"
     },
     {
@@ -304,13 +336,15 @@
       "order": 22,
       "name": "Bar Brawl",
       "type": "Story",
-      "giver": "Lance Vance",
-      "location": "Downtown",
+      "giver": "Vercetti Estate",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 4000,
+        "other": "SPAS 12 available in Ammu-Nation"
       },
       "summary": "Kill a rival crew in a bar and escape the police.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/bar-brawl.svg"
     },
     {
@@ -318,336 +352,599 @@
       "order": 23,
       "name": "Cop Land",
       "type": "Story",
-      "giver": "Lance Vance",
-      "location": "Downtown",
+      "giver": "Vercetti Estate",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 10000,
+        "other": "Vercetti Estate generates up to a day Cop Outfit"
       },
       "summary": "Plant a bomb in a police station and get out alive.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/cop-land.svg"
     },
     {
-      "id": "no-escape",
+      "id": "stunt-boat-challenge",
       "order": 24,
-      "name": "No Escape?",
-      "type": "Asset",
-      "giver": "Cam Jones",
-      "location": "Police Station",
+      "name": "Stunt Boat Challenge",
+      "type": "Story",
+      "giver": "Umberto Robina",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000
       },
-      "summary": "Break Cam Jones out of the police station for the Malibu heist.",
+      "summary": "Complete a boat stunt course in under three minutes.",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/no-escape.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/stunt-boat-challenge.svg"
     },
     {
-      "id": "recruitment-drive",
+      "id": "cannon-fodder",
       "order": 25,
-      "name": "Recruitment Drive",
-      "type": "Asset",
-      "giver": "Steve Scott",
-      "location": "InterGlobal Films",
+      "name": "Cannon Fodder",
+      "type": "Story",
+      "giver": "Umberto Robina",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000
       },
-      "summary": "Recruit Candy Suxxx for the studio's next production.",
+      "summary": "Clear a Cholo-held alley for the Cubans.",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/recruitment-drive.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/cannon-fodder.svg"
     },
     {
-      "id": "dildo-dodo",
+      "id": "naval-engagement",
       "order": 26,
-      "name": "Dildo Dodo",
-      "type": "Asset",
-      "giver": "Steve Scott",
-      "location": "InterGlobal Films",
+      "name": "Naval Engagement",
+      "type": "Story",
+      "giver": "Umberto Robina",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 4000
       },
-      "summary": "Fly a seaplane low over the bay to drop leaflets.",
+      "summary": "Steal a drug shipment.",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/dildo-dodo.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/naval-engagement.svg"
     },
     {
-      "id": "marthas-mug-shot",
+      "id": "juju-scramble",
       "order": 27,
-      "name": "Martha's Mug Shot",
-      "type": "Asset",
-      "giver": "Steve Scott",
-      "location": "Vice Beach",
+      "name": "Juju Scramble",
+      "type": "Story",
+      "giver": "Auntie Poulet",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000
       },
-      "summary": "Photograph a politician in a compromising position.",
+      "summary": "Collect several packages full of \"juju\" scattered around Little Haiti .",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/marthas-mug-shot.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/juju-scramble.svg"
     },
     {
-      "id": "g-spotlight",
+      "id": "bombs-away",
       "order": 28,
-      "name": "G-Spotlight",
-      "type": "Asset",
-      "giver": "Steve Scott",
-      "location": "Downtown",
+      "name": "Bombs Away!",
+      "type": "Story",
+      "giver": "Auntie Poulet",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000
       },
-      "summary": "Ride a rooftop course to place spotlights for the premiere.",
+      "summary": "Drop bombs on Cuban drug dealers using RC planes .",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/g-spotlight.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/bombs-away.svg"
     },
     {
-      "id": "spilling-the-beans",
+      "id": "dirty-lickins",
       "order": 29,
-      "name": "Spilling the Beans",
-      "type": "Asset",
-      "giver": "Print Works",
-      "location": "Little Havana",
+      "name": "Dirty Lickin's",
+      "type": "Story",
+      "giver": "Auntie Poulet",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 5000
       },
-      "summary": "Kill the witness who can link the Vercetti gang to the counterfeiting operation.",
+      "summary": "Snipe dead some Cuban gang members before they beat the Haitians in a street fight.",
       "verified": true,
-      "image": "assets/img/mission/gta-vice-city/spilling-the-beans.svg"
-    },
-    {
-      "id": "hit-the-courier",
-      "order": 30,
-      "name": "Hit the Courier",
-      "type": "Asset",
-      "giver": "Print Works",
-      "location": "Vice Beach",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Intercept a courier carrying counterfeit plates.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/hit-the-courier.svg"
-    },
-    {
-      "id": "vip",
-      "order": 31,
-      "name": "VIP",
-      "type": "Asset",
-      "giver": "Kaufman Cabs",
-      "location": "Little Havana",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Pick up a VIP before a rival cab company does.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/vip.svg"
-    },
-    {
-      "id": "friendly-rivalry",
-      "order": 32,
-      "name": "Friendly Rivalry",
-      "type": "Asset",
-      "giver": "Kaufman Cabs",
-      "location": "Downtown",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Destroy a rival firm's taxis.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/friendly-rivalry.svg"
-    },
-    {
-      "id": "cabmageddon",
-      "order": 33,
-      "name": "Cabmageddon",
-      "type": "Asset",
-      "giver": "Kaufman Cabs",
-      "location": "Little Havana",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Survive a mass taxi ambush at the depot.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/cabmageddon.svg"
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/dirty-lickins.svg"
     },
     {
       "id": "love-juice",
-      "order": 34,
+      "order": 30,
       "name": "Love Juice",
-      "type": "Asset",
+      "type": "Story",
       "giver": "Love Fist",
-      "location": "Downtown",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 2000
       },
       "summary": "Buy drugs for the band and make it back in time.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/love-juice.svg"
     },
     {
       "id": "psycho-killer",
-      "order": 35,
+      "order": 31,
       "name": "Psycho Killer",
-      "type": "Asset",
+      "type": "Story",
       "giver": "Love Fist",
-      "location": "Downtown",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 4000
       },
       "summary": "Protect the band from a stalker during a concert.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/psycho-killer.svg"
     },
     {
-      "id": "publicity-tour",
-      "order": 36,
-      "name": "Publicity Tour",
-      "type": "Asset",
-      "giver": "Love Fist",
-      "location": "Downtown",
+      "id": "alloy-wheels-of-steel",
+      "order": 32,
+      "name": "Alloy Wheels of Steel",
+      "type": "Story",
+      "giver": "Mitch Baker",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 1000
+      },
+      "summary": "Win a bike race around Downtown .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/alloy-wheels-of-steel.svg"
+    },
+    {
+      "id": "messing-with-the-man",
+      "order": 33,
+      "name": "Messing with the Man",
+      "type": "Story",
+      "giver": "Mitch Baker",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000
+      },
+      "summary": "Cause havoc on the streets to prove yourself to Mitch.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/messing-with-the-man.svg"
+    },
+    {
+      "id": "hog-tied",
+      "order": 34,
+      "name": "Hog Tied",
+      "type": "Story",
+      "giver": "Mitch Baker",
+      "location": "Vice City",
+      "reward": {
+        "money": 4000
+      },
+      "summary": "Retrieve Mitch's stolen Angel from the Sharks .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/hog-tied.svg"
+    },
+    {
+      "id": "publicity-tour",
+      "order": 35,
+      "name": "Publicity Tour",
+      "type": "Story",
+      "giver": "Love Fist",
+      "location": "Vice City",
+      "reward": {
+        "money": 8000,
+        "other": "Love Fist Limo spawn point"
       },
       "summary": "Drive the band to a gig with a bomb wired to the limo.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/publicity-tour.svg"
+    },
+    {
+      "id": "checkpoint-charlie",
+      "order": 36,
+      "name": "Checkpoint Charlie",
+      "type": "Story",
+      "giver": "Boatyard",
+      "location": "Vice City",
+      "reward": {
+        "money": 5000,
+        "other": "if all races are completed Asset generates up to a day"
+      },
+      "summary": "Recover drug packages scattered across the ocean.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/checkpoint-charlie.svg"
     },
     {
       "id": "distribution",
       "order": 37,
       "name": "Distribution",
-      "type": "Asset",
-      "giver": "Cherry Popper Ice Cream",
-      "location": "Little Haiti",
+      "type": "Story",
+      "giver": "Cherry Popper Ice Cream Factory",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 3000,
+        "other": "Asset generates up to a day"
       },
       "summary": "Sell drugs from an ice cream van to fifty customers.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/distribution.svg"
     },
     {
-      "id": "check-out-at-the-check-in",
+      "id": "club-pole-position",
       "order": 38,
-      "name": "Check Out at the Check In",
-      "type": "Asset",
-      "giver": "Boatyard",
-      "location": "Vice Beach",
+      "name": "Club Pole Position",
+      "type": "Story",
+      "giver": "The Pole Position Club",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 4000,
+        "other": "Asset generates up to a day"
+      },
+      "summary": "Enjoy a private dance in the back room. After spending $ 300, the mission is completed.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/club-pole-position.svg"
+    },
+    {
+      "id": "sunshine-autos-import-garage",
+      "order": 39,
+      "name": "Sunshine Autos Import Garage",
+      "type": "Story",
+      "giver": "Sunshine Autos",
+      "location": "Vice City",
+      "reward": {
+        "money": 9000,
+        "other": "Deluxo , Sabre Turbo , Sandking , Hotring Racer will be parked in the dealership. Sunshine Autos will generate up to a day"
+      },
+      "summary": "Steal cars to complete the lists.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/sunshine-autos-import-garage.svg"
+    },
+    {
+      "id": "recruitment-drive",
+      "order": 40,
+      "name": "Recruitment Drive",
+      "type": "Story",
+      "giver": "InterGlobal Film Studio",
+      "location": "Vice City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Recruit Candy Suxxx for the studio's next production.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/recruitment-drive.svg"
+    },
+    {
+      "id": "dildo-dodo",
+      "order": 41,
+      "name": "Dildo Dodo",
+      "type": "Story",
+      "giver": "InterGlobal Film Studio",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000,
+        "other": "Skimmer"
+      },
+      "summary": "Fly a seaplane low over the bay to drop leaflets.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/dildo-dodo.svg"
+    },
+    {
+      "id": "marthas-mug-shot",
+      "order": 42,
+      "name": "Martha's Mug Shot",
+      "type": "Story",
+      "giver": "InterGlobal Film Studio",
+      "location": "Vice City",
+      "reward": {
+        "money": 4000
+      },
+      "summary": "Photograph a politician in a compromising position.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/marthas-mug-shot.svg"
+    },
+    {
+      "id": "g-spotlight",
+      "order": 43,
+      "name": "G-Spotlight",
+      "type": "Story",
+      "giver": "InterGlobal Film Studio",
+      "location": "Vice City",
+      "reward": {
+        "money": 8000,
+        "other": "Film Asset generates up to a day"
+      },
+      "summary": "Ride a rooftop course to place spotlights for the premiere.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/g-spotlight.svg"
+    },
+    {
+      "id": "vip",
+      "order": 44,
+      "name": "V.I.P.",
+      "type": "Story",
+      "giver": "Kaufman Cabs",
+      "location": "Vice City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Pick up a VIP before a rival cab company does.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/vip.svg"
+    },
+    {
+      "id": "friendly-rivalry",
+      "order": 45,
+      "name": "Friendly Rivalry",
+      "type": "Story",
+      "giver": "Kaufman Cabs",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000
+      },
+      "summary": "Destroy a rival firm's taxis.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/friendly-rivalry.svg"
+    },
+    {
+      "id": "cabmaggedon",
+      "order": 46,
+      "name": "Cabmaggedon",
+      "type": "Story",
+      "giver": "Kaufman Cabs",
+      "location": "Vice City",
+      "reward": {
+        "money": 5000,
+        "other": "Zebra Cab Cab Asset generates up to a day"
+      },
+      "summary": "Survive the rival cab company's retaliation and take out their leader.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/cabmaggedon.svg"
+    },
+    {
+      "id": "no-escape",
+      "order": 47,
+      "name": "No Escape?",
+      "type": "Story",
+      "giver": "Malibu Club",
+      "location": "Vice City",
+      "reward": {
+        "money": 1000
+      },
+      "summary": "Break Cam Jones out of the police station for the Malibu heist.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/no-escape.svg"
+    },
+    {
+      "id": "the-shootist",
+      "order": 48,
+      "name": "The Shootist",
+      "type": "Story",
+      "giver": "Malibu Club",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000
+      },
+      "summary": "Beat Phil Cassidy's shooting range challenge for the Malibu job.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/the-shootist.svg"
+    },
+    {
+      "id": "the-driver",
+      "order": 49,
+      "name": "The Driver",
+      "type": "Story",
+      "giver": "Malibu Club",
+      "location": "Vice City",
+      "reward": {
+        "money": 3000
+      },
+      "summary": "Recruit Hilary by beating him in a street race.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/the-driver.svg"
+    },
+    {
+      "id": "the-job",
+      "order": 50,
+      "name": "The Job",
+      "type": "Story",
+      "giver": "Malibu Club",
+      "location": "Vice City",
+      "reward": {
+        "money": 50000,
+        "other": "Bank Job Outfit Asset generates up to daily"
+      },
+      "summary": "Rob the El Banco Corrupto bank with the Malibu crew.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/the-job.svg"
+    },
+    {
+      "id": "gun-runner",
+      "order": 51,
+      "name": "Gun Runner",
+      "type": "Story",
+      "giver": "Phil Cassidy",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000,
+        "other": "+ for every of Garcia's men killed"
+      },
+      "summary": "Kill the gun runner Pedro Garcia and collect weapons for Phil.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/gun-runner.svg"
+    },
+    {
+      "id": "boomshine-saigon",
+      "order": 52,
+      "name": "Boomshine Saigon",
+      "type": "Story",
+      "giver": "Phil Cassidy",
+      "location": "Vice City",
+      "reward": {
+        "money": 4000,
+        "other": "Weapons purchasable from Phil's Place"
+      },
+      "summary": "Rush Phil Cassidy to a surgeon.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/boomshine-saigon.svg"
+    },
+    {
+      "id": "road-kill",
+      "order": 53,
+      "name": "Road Kill",
+      "type": "Story",
+      "giver": "Mr. Black",
+      "location": "Vice City",
+      "reward": {
+        "money": 500
+      },
+      "summary": "Assassinate Carl Pearson .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/road-kill.svg"
+    },
+    {
+      "id": "waste-the-wife",
+      "order": 54,
+      "name": "Waste the Wife",
+      "type": "Story",
+      "giver": "Mr. Black",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000
+      },
+      "summary": "Assassinate Mrs. Dawson .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/waste-the-wife.svg"
+    },
+    {
+      "id": "autocide",
+      "order": 55,
+      "name": "Autocide",
+      "type": "Story",
+      "giver": "Mr. Black",
+      "location": "Vice City",
+      "reward": {
+        "money": 4000
+      },
+      "summary": "Assassinate Mike Griffin , Dick Tanner , Franco Carter , Marcus Hammond , Nick Kong and Charlie Dilson .",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/autocide.svg"
+    },
+    {
+      "id": "check-out-at-the-check-in",
+      "order": 56,
+      "name": "Check Out at the Check In",
+      "type": "Story",
+      "giver": "Mr. Black",
+      "location": "Vice City",
+      "reward": {
+        "money": 8000
       },
       "summary": "Follow and rob a drug courier arriving by boat.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/check-out-at-the-check-in.svg"
     },
     {
-      "id": "cap-the-collector",
-      "order": 39,
-      "name": "Cap the Collector",
+      "id": "loose-ends",
+      "order": 57,
+      "name": "Loose Ends",
       "type": "Story",
-      "giver": "Vercetti Estate",
+      "giver": "Mr. Black",
       "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 16000
+      },
+      "summary": "Sabotage a deal between the Streetwannabe's and an unnamed organization.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/loose-ends.svg"
+    },
+    {
+      "id": "spilling-the-beans",
+      "order": 58,
+      "name": "Spilling the Beans",
+      "type": "Story",
+      "giver": "Print Works",
+      "location": "Vice City",
+      "reward": {
+        "money": 2000
+      },
+      "summary": "Kill the witness who can link the Vercetti gang to the counterfeiting operation.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/spilling-the-beans.svg"
+    },
+    {
+      "id": "hit-the-courier",
+      "order": 59,
+      "name": "Hit the Courier",
+      "type": "Story",
+      "giver": "Print Works",
+      "location": "Vice City",
+      "reward": {
+        "money": 5000,
+        "other": "Asset generates up to daily"
+      },
+      "summary": "Intercept a courier carrying counterfeit plates.",
+      "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
+      "image": "assets/img/mission/gta-vice-city/hit-the-courier.svg"
+    },
+    {
+      "id": "cap-the-collector",
+      "order": 60,
+      "name": "Cap the Collector",
+      "type": "Story",
+      "giver": "Print Works",
+      "location": "Vice City",
+      "reward": {
+        "money": 30000
       },
       "summary": "Stop Sonny's collectors from taking your businesses' money.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/cap-the-collector.svg"
     },
     {
       "id": "keep-your-friends-close",
-      "order": 40,
+      "order": 61,
       "name": "Keep Your Friends Close...",
       "type": "Story",
-      "giver": "Sonny Forelli",
-      "location": "Vercetti Estate",
+      "giver": "Tommy Vercetti",
+      "location": "Vice City",
       "reward": {
-        "money": 0
+        "money": 30000,
+        "other": "Hunter spawns in Fort Baxter Air Base"
       },
       "summary": "Final mission: defend the mansion from Sonny and Lance.",
       "verified": true,
+      "source": "GTA Wiki mission list: order, giver, description and rewards",
       "image": "assets/img/mission/gta-vice-city/keep-your-friends-close.svg"
-    },
-    {
-      "id": "all-hands-on-deck",
-      "order": 41,
-      "name": "All Hands on Deck!",
-      "type": "Story",
-      "giver": "Colonel Cortés",
-      "location": "Starfish Island",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Protect the colonel's yacht from a government raid.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/all-hands-on-deck.svg"
-    },
-    {
-      "id": "trojan-voodoo",
-      "order": 42,
-      "name": "Trojan Voodoo",
-      "type": "Story",
-      "giver": "Auntie Poulet",
-      "location": "Little Haiti",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Destroy the Cholos' drug factory with the Haitians.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/trojan-voodoo.svg"
-    },
-    {
-      "id": "cannon-fodder",
-      "order": 43,
-      "name": "Cannon Fodder",
-      "type": "Story",
-      "giver": "Umberto Robina",
-      "location": "Little Havana",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Clear a Cholo-held alley for the Cubans.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/cannon-fodder.svg"
-    },
-    {
-      "id": "stunt-boat-challenge",
-      "order": 44,
-      "name": "Stunt Boat Challenge",
-      "type": "Side",
-      "giver": "Umberto Robina",
-      "location": "Little Havana",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Complete a boat stunt course in under three minutes.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/stunt-boat-challenge.svg"
-    },
-    {
-      "id": "sunshine-autos-imports",
-      "order": 45,
-      "name": "Sunshine Autos Imports",
-      "type": "Vehicle",
-      "giver": "BJ Smith",
-      "location": "Little Havana",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Steal all cars on the import list to unlock new vehicles.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/sunshine-autos-imports.svg"
-    },
-    {
-      "id": "the-pole-position",
-      "order": 46,
-      "name": "The Pole Position Club",
-      "type": "Asset",
-      "giver": "Pole Position",
-      "location": "Ocean Beach",
-      "reward": {
-        "money": 0
-      },
-      "summary": "Spend $300 in the club to complete the asset.",
-      "verified": true,
-      "image": "assets/img/mission/gta-vice-city/the-pole-position.svg"
     }
   ]
 }

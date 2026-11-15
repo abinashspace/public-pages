@@ -24,17 +24,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto (1997, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta.json
-- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 28
+- Cities: Liberty City, Vice City, San Andreas · Status: released · Records: 125
 
 ### Grand Theft Auto: London 1969 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1969/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-london-1969.json
-- Cities: London · Status: released · Records: 22
+- Cities: London · Status: released · Records: 66
 
 ### Grand Theft Auto: London 1961 (1999, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-london-1961/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-london-1961.json
-- Cities: London · Status: released · Records: 15
+- Cities: London · Status: released · Records: 22
 
 ### Grand Theft Auto 2 (1999, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-2/
@@ -44,12 +44,12 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto III (2001, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iii/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iii.json
-- Cities: Liberty City · Status: released · Records: 173
+- Cities: Liberty City · Status: released · Records: 184
 
 ### Grand Theft Auto: Vice City (2002, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city.json
-- Cities: Vice City · Status: released · Records: 178
+- Cities: Vice City · Status: released · Records: 193
 
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
@@ -59,17 +59,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-advance.json
-- Cities: Liberty City · Status: released · Records: 30
+- Cities: Liberty City · Status: released · Records: 66
 
 ### Grand Theft Auto: Liberty City Stories (2005, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-liberty-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-liberty-city-stories.json
-- Cities: Liberty City · Status: released · Records: 71
+- Cities: Liberty City · Status: released · Records: 128
 
 ### Grand Theft Auto: Vice City Stories (2006, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city-stories/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city-stories.json
-- Cities: Vice City · Status: released · Records: 73
+- Cities: Vice City · Status: released · Records: 119
 
 ### Grand Theft Auto IV (2008, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv/
@@ -79,17 +79,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto IV: The Lost and Damned (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iv-the-lost-and-damned.json
-- Cities: Liberty City · Status: released · Records: 57
+- Cities: Liberty City · Status: released · Records: 65
 
 ### Grand Theft Auto: The Ballad of Gay Tony (2009, Expansion)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-the-ballad-of-gay-tony/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-the-ballad-of-gay-tony.json
-- Cities: Liberty City · Status: released · Records: 58
+- Cities: Liberty City · Status: released · Records: 69
 
 ### Grand Theft Auto: Chinatown Wars (2009, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-chinatown-wars/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-chinatown-wars.json
-- Cities: Liberty City · Status: released · Records: 43
+- Cities: Liberty City · Status: released · Records: 95
 
 ### Grand Theft Auto V (2013, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-v/

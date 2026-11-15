@@ -5,11 +5,11 @@
     "year": 2009,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:09:57.617Z",
+    "generated": "2026-11-15T16:25:04.985Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "limited",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 12,
-      "missions": 15,
+      "missions": 26,
       "vehicles": 12,
       "weapons": 8,
       "cheats": 0,
@@ -189,7 +189,7 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
         "id": "i-luv-lc",
@@ -197,12 +197,13 @@
         "name": "I Luv LC",
         "type": "Story",
         "giver": "Tony Prince",
-        "location": "Algonquin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "other": "Luis' Apartment Buffalo , Cavalcade FXT , Serrano , and Turismo can be requested from Henrique Grenade Launcher can be purchased from Armando's Cavalcade"
         },
-        "summary": "Opening: Tony's club business collides with a mob debt.",
+        "summary": "Take Tony to Hercules , Maisonette 9 , then take your friends home, then go to your apartment.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/i-luv-lc.svg"
       },
       {
@@ -211,12 +212,14 @@
         "name": "Practice Swing",
         "type": "Story",
         "giver": "Tony Prince",
-        "location": "Algonquin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 1500,
+          "other": "Club Management"
         },
-        "summary": "Luis handles a problem at the club.",
+        "summary": "Play some golf and kill the Union Official 's men .",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/practice-swing.svg"
       },
       {
@@ -225,12 +228,14 @@
         "name": "Chinese Takeout",
         "type": "Story",
         "giver": "Tony Prince",
-        "location": "Algonquin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 1000,
+          "other": "Assault SMG Club Management"
         },
-        "summary": "Retrieve a stolen shipment from the Triads.",
+        "summary": "Go to the Triad building, and then escape from it.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/chinese-takeout.svg"
       },
       {
@@ -238,13 +243,15 @@
         "order": 4,
         "name": "Momma's Boy",
         "type": "Story",
-        "giver": "Tony Prince",
-        "location": "Algonquin",
+        "giver": "Adriana Yanira Lopez",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 1000,
+          "other": "L.C. Cage Fighters"
         },
-        "summary": "Help Tony's mother with a family matter.",
+        "summary": "Assist or kill&#160; Mr. Santo &#160;in making money by attending the&#160; L.C. Cage Fighters .",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/mommas-boy.svg"
       },
       {
@@ -252,13 +259,15 @@
         "order": 5,
         "name": "Corner Kids",
         "type": "Story",
-        "giver": "Armando Torres",
+        "giver": "Armando Torres &#160;and&#160; Henrique Bardas",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 2500,
+          "other": "Automatic Shotgun Drug Wars"
         },
-        "summary": "Drug-dealing job with Luis's childhood friends.",
+        "summary": "Assist Armando & Henrique in a Drug Deal that is botched.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/corner-kids.svg"
       },
       {
@@ -266,13 +275,14 @@
         "order": 6,
         "name": "Clocking Off",
         "type": "Story",
-        "giver": "Armando Torres",
+        "giver": "Armando Torres &#160;and&#160; Henrique Bardas",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 5000
         },
-        "summary": "A deal that ends in a running gunfight.",
+        "summary": "Assist Armando & Henrique in a robbery.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/clocking-off.svg"
       },
       {
@@ -281,12 +291,13 @@
         "name": "Sexy Time",
         "type": "Story",
         "giver": "Yusuf Amir",
-        "location": "Middle Park",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 10000
         },
-        "summary": "Yusuf's boat and helicopter antics.",
+        "summary": "Steal the&#160; Buzzard &#160;and destroy the yacht, killing&#160; Frickie Van Hardenburg .",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/sexy-time.svg"
       },
       {
@@ -295,110 +306,291 @@
         "name": "High Dive",
         "type": "Story",
         "giver": "Yusuf Amir",
-        "location": "Algonquin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 15000,
+          "other": "Parachute Explosive rounds for the Automatic Shotgun"
         },
-        "summary": "Base jump from a skyscraper to escape.",
+        "summary": "Kill&#160; Tahir Saeed &#160;and&#160; Ahmed Khaleel , and escape the ambush.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/high-dive.svg"
       },
       {
-        "id": "dropping-in",
+        "id": "caught-with-your-pants-down",
         "order": 9,
-        "name": "Dropping In",
+        "name": "Caught With Your Pants Down",
         "type": "Story",
         "giver": "Yusuf Amir",
-        "location": "Algonquin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 20000,
+          "other": "Advanced Sniper"
         },
-        "summary": "Parachute assault on a construction site.",
+        "summary": "Steal an&#160; APC and escape or wipe out the LCPD .",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg"
+      },
+      {
+        "id": "kibbutz-number-one",
+        "order": 10,
+        "name": "Kibbutz Number One",
+        "type": "Story",
+        "giver": "Mori Kibbutz",
+        "location": "Liberty City",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Kill Mori's rivals.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/kibbutz-number-one.svg"
+      },
+      {
+        "id": "this-aint-checkers",
+        "order": 11,
+        "name": "This Ain't Checkers",
+        "type": "Story",
+        "giver": "Mori Kibbutz",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Race Mori betting Luis's eternal loyalty and all of Tony's debts.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/this-aint-checkers.svg"
+      },
+      {
+        "id": "no-3",
+        "order": 12,
+        "name": "No. 3",
+        "type": "Story",
+        "giver": "Mori Kibbutz",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1500,
+          "other": "F620 and Bullet GT can now be requested from Henrique."
+        },
+        "summary": "Escape the cops with Mori and&#160; Brucie Kibbutz &#160;after stealing some cars.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/no-3.svg"
+      },
+      {
+        "id": "bang-bang",
+        "order": 13,
+        "name": "Bang Bang",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2500,
+          "other": "Sticky Bombs"
+        },
+        "summary": "Use the&#160; Sticky Bombs &#160;to destroy the targets.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg"
+      },
+      {
+        "id": "blog-this",
+        "order": 14,
+        "name": "Blog This!...",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Set up a deal for&#160; The Celebinator after dropping off Tony Prince and Gracie Ancelotti .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/blog-this.svg"
+      },
+      {
+        "id": "frosting-on-the-cake",
+        "order": 15,
+        "name": "Frosting on the Cake",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 3500
+        },
+        "summary": "Buy &#160;the&#160; Diamonds &#160;along with Tony only to be ambushed by Ray Boccino who has sent Johnny Klebitz and The Lost MC to steal the Ice, escape with Tony while killing the bikers as well as the Feds and fleeing them before taking Tony home but not while witnessing the death of Evan Moss .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg"
+      },
+      {
+        "id": "boulevard-baby",
+        "order": 16,
+        "name": "Boulevard Baby",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 3000,
+          "other": "Pistol .44"
+        },
+        "summary": "Go to&#160; Bahama Mamas &#160;to dance with&#160; Monique , then kill&#160; Vic Manzano and leaving the club while killing Vic's guards.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg"
+      },
+      {
+        "id": "blog-this-17",
+        "order": 17,
+        "name": "...Blog This!",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Teach&#160; The Celebinator &#160;a lesson.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/blog-this-17.svg"
+      },
+      {
+        "id": "not-so-fast",
+        "order": 18,
+        "name": "Not So Fast",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 4000
+        },
+        "summary": "St eal &#160;the diamonds from&#160; Isaac Roth , and then escape the museum from the LCPD in the Buzzard that Yusuf Amir gave you .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/not-so-fast.svg"
+      },
+      {
+        "id": "ladies-night",
+        "order": 19,
+        "name": "Ladies' Night",
+        "type": "Story",
+        "giver": "Tony Prince",
+        "location": "Liberty City",
+        "reward": {
+          "money": 4500
+        },
+        "summary": "Follow&#160; Packie McReary &#160;to where&#160; Gracie Ancelotti 's being held captive after discovering Gracie's kidnapping.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/ladies-night.svg"
+      },
+      {
+        "id": "going-deep",
+        "order": 20,
+        "name": "Going Deep",
+        "type": "Story",
+        "giver": "Ray Bulgarin",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000,
+          "other": "M249"
+        },
+        "summary": "Eliminate the&#160; NOOSE &#160;associating with Marki Ashvilli.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/going-deep.svg"
+      },
+      {
+        "id": "dropping-in",
+        "order": 21,
+        "name": "Dropping In",
+        "type": "Story",
+        "giver": "Ray Bulgarin",
+        "location": "Liberty City",
+        "reward": {
+          "money": 4000
+        },
+        "summary": "Kill&#160; Marki Ashvilli .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/dropping-in.svg"
       },
       {
         "id": "in-the-crosshairs",
-        "order": 10,
+        "order": 22,
         "name": "In the Crosshairs",
         "type": "Story",
-        "giver": "Tony Prince",
-        "location": "Algonquin",
+        "giver": "Ray Bulgarin",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 6000
         },
-        "summary": "Sniper support for a club associate.",
+        "summary": "Escape&#160; Bulgarin's &#160;ambush after discovering his betrayal and his confession about The Diamonds.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/in-the-crosshairs.svg"
       },
       {
-        "id": "caught-with-your-pants-down",
-        "order": 11,
-        "name": "Caught with Your Pants Down",
+        "id": "for-the-man-who-has-everything",
+        "order": 23,
+        "name": "For the Man Who Has Everything",
+        "type": "Story",
+        "giver": "Yusuf Amir",
+        "location": "Liberty City",
+        "reward": {
+          "money": 25000,
+          "other": "Super Drop Diamond Gold SMG APC at Yusuf Amir's construction site"
+        },
+        "summary": "Steal a subway car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/for-the-man-who-has-everything.svg"
+      },
+      {
+        "id": "ladies-half-price",
+        "order": 24,
+        "name": "Ladies Half Price",
         "type": "Story",
         "giver": "Tony Prince",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 5000
         },
-        "summary": "A heist that goes embarrassingly wrong.",
+        "summary": "Deal &#160;with&#160; the &#160; guys &#160;who&#160; kidnapped &#160; Gracie Ancelotti , trade the diamonds for her and escape Bulgarin's ambush.",
         "verified": true,
-        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/caught-with-your-pants-down.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/ladies-half-price.svg"
       },
       {
-        "id": "bang-bang",
-        "order": 12,
-        "name": "Bang Bang",
+        "id": "partys-over",
+        "order": 25,
+        "name": "Party's Over",
         "type": "Story",
         "giver": "Rocco Pelosi",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 5000
         },
-        "summary": "Ancelotti job that escalates into a massacre.",
+        "summary": "Meet up with Rocco Pelosi , kill&#160; Uncle Vince , and then kill Bulgarin's men.",
         "verified": true,
-        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/bang-bang.svg"
-      },
-      {
-        "id": "boulevard-baby",
-        "order": 13,
-        "name": "Boulevard Baby",
-        "type": "Story",
-        "giver": "Tony Prince",
-        "location": "Algonquin",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Club business on the boulevard.",
-        "verified": true,
-        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/boulevard-baby.svg"
-      },
-      {
-        "id": "frosting-on-the-cake",
-        "order": 14,
-        "name": "Frosting on the Cake",
-        "type": "Story",
-        "giver": "Tony Prince",
-        "location": "Algonquin",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Late-game club and mob escalation.",
-        "verified": true,
-        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/frosting-on-the-cake.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-the-ballad-of-gay-tony/partys-over.svg"
       },
       {
         "id": "departure-time",
-        "order": 15,
+        "order": 26,
         "name": "Departure Time",
         "type": "Story",
         "giver": "Tony Prince",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 10000,
+          "other": "Golden Buzzard Attack Chopper becomes available at the helipad beside the golf club on the West River APC can now be requested from Henrique Ability to replay missions"
         },
-        "summary": "Final mission against Bulgarin.",
+        "summary": "Chase and Kill&#160; Ray Bulgarin , after destroying the&#160; Heroin &#160;Shipment and wiping out Timur and the entire Bulgarin Bratva .",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-the-ballad-of-gay-tony/departure-time.svg"
       }
     ]

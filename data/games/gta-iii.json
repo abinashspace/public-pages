@@ -5,11 +5,11 @@
     "year": 2001,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T16:09:57.484Z",
+    "generated": "2026-11-15T16:25:04.826Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "partial",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 19,
-      "missions": 57,
+      "missions": 68,
       "vehicles": 50,
       "weapons": 12,
       "cheats": 14,
@@ -276,375 +276,552 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
-        "id": "give-me-liberty",
+        "id": "introduction",
         "order": 1,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Introduction",
+        "location": "Portland",
+        "reward": {},
+        "summary": "Cutscenes depicting Catalina's betrayal of Claude , and the explosion which leaves Portland isolated from the rest of the city and Claude's escape with 8-Ball .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/introduction.svg"
+      },
+      {
+        "id": "give-me-liberty",
+        "order": 2,
         "name": "Give Me Liberty",
         "type": "Story",
-        "giver": "8-Ball",
+        "giver": "Introduction",
         "location": "Portland",
-        "reward": {
-          "money": 0
-        },
+        "reward": {},
         "summary": "Opening sequence: escape the police convoy with 8-Ball and reach the Portland hideout.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/give-me-liberty.svg"
       },
       {
         "id": "luigis-girls",
-        "order": 2,
+        "order": 3,
         "name": "Luigi's Girls",
         "type": "Story",
-        "giver": "Luigi Goterelli",
-        "location": "Luigi's Sex Club 7, Red Light District",
+        "giver": "Introduction",
+        "location": "Portland",
         "reward": {
-          "money": 1500
+          "money": 1500,
+          "other": "Portland Safehouse"
         },
         "summary": "Drive Misty to Luigi's club and learn the basics of the Portland job loop.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/luigis-girls.svg"
       },
       {
         "id": "dont-spank-ma-bitch-up",
-        "order": 3,
+        "order": 4,
         "name": "Don't Spank Ma Bitch Up",
         "type": "Story",
         "giver": "Luigi Goterelli",
         "location": "Portland",
         "reward": {
-          "money": 2000
+          "money": 4000
         },
         "summary": "Beat up Luigi's abusive client and leave him in the street.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/dont-spank-ma-bitch-up.svg"
       },
       {
         "id": "drive-misty-for-me",
-        "order": 4,
-        "name": "Drive Misty for Me",
+        "order": 5,
+        "name": "Drive Misty For Me",
         "type": "Story",
         "giver": "Luigi Goterelli",
-        "location": "Red Light District",
+        "location": "Portland",
         "reward": {
-          "money": 3000
+          "money": 1000
         },
         "summary": "Chauffeur Misty to a meeting while rivals try to run her off the road.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/drive-misty-for-me.svg"
       },
       {
         "id": "pump-action-pimp",
-        "order": 5,
+        "order": 6,
         "name": "Pump-Action Pimp",
         "type": "Story",
         "giver": "Luigi Goterelli",
-        "location": "Hepburn Heights",
+        "location": "Portland",
         "reward": {
-          "money": 4000
+          "money": 4000,
+          "other": "Pistol available in Ammu-Nation"
         },
         "summary": "Kill a rival pimp and take his girls off the street.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/pump-action-pimp.svg"
       },
       {
         "id": "the-fuzz-ball",
-        "order": 6,
+        "order": 7,
         "name": "The Fuzz Ball",
         "type": "Story",
         "giver": "Luigi Goterelli",
         "location": "Portland",
         "reward": {
-          "money": 5000
+          "money": 2000,
+          "other": "–"
         },
         "summary": "Escort two prostitutes past corrupt cops without letting them get arrested.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/the-fuzz-ball.svg"
       },
       {
         "id": "mike-lips-last-lunch",
-        "order": 7,
+        "order": 8,
         "name": "Mike Lips Last Lunch",
         "type": "Story",
         "giver": "Joey Leone",
-        "location": "Saint Mark's",
+        "location": "Portland",
         "reward": {
           "money": 10000
         },
         "summary": "Steal Mike Lips' car, rig it with a bomb and return it before he drives off.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/mike-lips-last-lunch.svg"
       },
       {
         "id": "farewell-chunky-lee-chong",
-        "order": 8,
+        "order": 9,
         "name": "Farewell 'Chunky' Lee Chong",
         "type": "Story",
         "giver": "Joey Leone",
-        "location": "Chinatown",
+        "location": "Portland",
         "reward": {
-          "money": 10000
+          "money": 10000,
+          "other": "Pistol available in Ammu-Nation"
         },
         "summary": "Break into a Triad fish factory and kill Chunky Lee Chong with a meat cleaver.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/farewell-chunky-lee-chong.svg"
       },
       {
         "id": "van-heist",
-        "order": 9,
-        "name": "Van Heist",
-        "type": "Story",
-        "giver": "Joey Leone",
-        "location": "Portland Harbor",
-        "reward": {
-          "money": 10000
-        },
-        "summary": "Hijack an armored van and deliver it to Joey's garage intact.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/van-heist.svg"
-      },
-      {
-        "id": "ciprianis-chauffeur",
         "order": 10,
-        "name": "Cipriani's Chauffeur",
-        "type": "Story",
-        "giver": "Joey Leone",
-        "location": "Trenton",
-        "reward": {
-          "money": 10000
-        },
-        "summary": "Drive Toni Cipriani to a sit-down and get him out alive.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/ciprianis-chauffeur.svg"
-      },
-      {
-        "id": "dead-skunk-in-the-trunk",
-        "order": 11,
-        "name": "Dead Skunk in the Trunk",
-        "type": "Story",
-        "giver": "Joey Leone",
-        "location": "Harwood",
-        "reward": {
-          "money": 10000
-        },
-        "summary": "Dispose of a Triad body in the back of a car before the police find it.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/dead-skunk-in-the-trunk.svg"
-      },
-      {
-        "id": "the-getaway",
-        "order": 12,
-        "name": "The Getaway",
+        "name": "Van Heist",
         "type": "Story",
         "giver": "Joey Leone",
         "location": "Portland",
         "reward": {
           "money": 20000
         },
+        "summary": "Hijack an armored van and deliver it to Joey's garage intact.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/van-heist.svg"
+      },
+      {
+        "id": "ciprianis-chauffeur",
+        "order": 11,
+        "name": "Cipriani's Chauffeur",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Portland",
+        "reward": {
+          "money": 3000,
+          "other": "Uzi available in Ammu-Nation"
+        },
+        "summary": "Drive Toni Cipriani to a sit-down and get him out alive.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/ciprianis-chauffeur.svg"
+      },
+      {
+        "id": "dead-skunk-in-the-trunk",
+        "order": 12,
+        "name": "Dead Skunk In The Trunk",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Portland",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Dispose of a Triad body in the back of a car before the police find it.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/dead-skunk-in-the-trunk.svg"
+      },
+      {
+        "id": "the-getaway",
+        "order": 13,
+        "name": "The Getaway",
+        "type": "Story",
+        "giver": "Joey Leone",
+        "location": "Portland",
+        "reward": {
+          "money": 10000,
+          "other": "–"
+        },
         "summary": "Drive three robbers away from a botched bank job and lose the cops.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/the-getaway.svg"
       },
       {
         "id": "taking-out-the-laundry",
-        "order": 13,
+        "order": 14,
         "name": "Taking Out the Laundry",
         "type": "Story",
         "giver": "Toni Cipriani",
-        "location": "Trenton",
+        "location": "Portland",
         "reward": {
           "money": 20000
         },
         "summary": "Destroy three Triad laundry vans without wrecking your own ride.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/taking-out-the-laundry.svg"
       },
       {
-        "id": "the-pickup",
-        "order": 14,
-        "name": "The Pickup",
+        "id": "the-pick-up",
+        "order": 15,
+        "name": "The Pick-Up",
         "type": "Story",
         "giver": "Toni Cipriani",
-        "location": "Portland Harbor",
+        "location": "Portland",
         "reward": {
-          "money": 20000
+          "money": 10000
         },
-        "summary": "Collect a protection payment from a Triad laundry and survive the ambush.",
+        "summary": "Pick up a briefcase, waste the Triads and take it to the Cipriani Restaurant .",
         "verified": true,
-        "image": "assets/img/mission/gta-iii/the-pickup.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/the-pick-up.svg"
       },
       {
         "id": "salvatores-called-a-meeting",
-        "order": 15,
+        "order": 16,
         "name": "Salvatore's Called a Meeting",
         "type": "Story",
         "giver": "Toni Cipriani",
-        "location": "Saint Mark's",
+        "location": "Portland",
         "reward": {
-          "money": 20000
+          "money": 15000
         },
         "summary": "Pick up the Leone capos from the airport and bring them to Salvatore's mansion.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/salvatores-called-a-meeting.svg"
       },
       {
+        "id": "chaperone",
+        "order": 17,
+        "name": "Chaperone",
+        "type": "Story",
+        "giver": "Salvatore Leone",
+        "location": "Portland",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Drive Maria to Chico and a party in Atlantic Quays before driving her back to Salvatore's mansion .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/chaperone.svg"
+      },
+      {
         "id": "triads-and-tribulations",
-        "order": 16,
+        "order": 18,
         "name": "Triads and Tribulations",
         "type": "Story",
         "giver": "Toni Cipriani",
-        "location": "Chinatown",
+        "location": "Portland",
         "reward": {
-          "money": 20000
+          "money": 30000
         },
         "summary": "Wipe out a Triad meeting in Chinatown.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/triads-and-tribulations.svg"
       },
       {
         "id": "blow-fish",
-        "order": 17,
+        "order": 19,
         "name": "Blow Fish",
         "type": "Story",
         "giver": "Toni Cipriani",
-        "location": "Portland Harbor",
+        "location": "Portland",
         "reward": {
-          "money": 20000
+          "money": 30000
         },
         "summary": "Destroy the Triad fish factory using a truck bomb.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/blow-fish.svg"
       },
       {
         "id": "cutting-the-grass",
-        "order": 18,
+        "order": 20,
         "name": "Cutting the Grass",
         "type": "Story",
         "giver": "Salvatore Leone",
-        "location": "Saint Mark's",
+        "location": "Portland",
         "reward": {
-          "money": 30000
+          "money": 15000
         },
         "summary": "Follow a suspected informant and eliminate him without being seen.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/cutting-the-grass.svg"
       },
       {
         "id": "bomb-da-base-act-i",
-        "order": 19,
-        "name": "Bomb da Base: Act I",
+        "order": 21,
+        "name": "Bomb Da Base: Act I",
         "type": "Story",
         "giver": "Salvatore Leone",
-        "location": "Portland Harbor",
-        "reward": {
-          "money": 30000
-        },
+        "location": "Portland",
+        "reward": {},
         "summary": "Snipe the Cartel guards on the freighter to clear the way for the bombing run.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/bomb-da-base-act-i.svg"
       },
       {
         "id": "bomb-da-base-act-ii",
-        "order": 20,
-        "name": "Bomb da Base: Act II",
+        "order": 22,
+        "name": "Bomb Da Base: Act II",
         "type": "Story",
         "giver": "8-Ball",
-        "location": "Portland Harbor",
+        "location": "Portland",
         "reward": {
-          "money": 30000
+          "money": 150000
         },
         "summary": "Plant eight bombs on the Cartel freighter while under fire.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/bomb-da-base-act-ii.svg"
       },
       {
         "id": "last-requests",
-        "order": 21,
+        "order": 23,
         "name": "Last Requests",
         "type": "Story",
         "giver": "Salvatore Leone",
-        "location": "Saint Mark's",
+        "location": "Portland",
         "reward": {
-          "money": 30000
+          "money": 20000,
+          "other": "access to Staunton Island Staunton Island Safehouse ability to gain five-star wanted level"
         },
         "summary": "Salvatore turns on Claude; escape the mansion ambush and leave Portland.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/last-requests.svg"
       },
       {
+        "id": "the-crook",
+        "order": 24,
+        "name": "The Crook",
+        "type": "Story",
+        "giver": "Marty Chonks",
+        "location": "Portland",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Kill a thief who tried to rob Marty's factory.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/the-crook.svg"
+      },
+      {
+        "id": "the-thieves",
+        "order": 25,
+        "name": "The Thieves",
+        "type": "Story",
+        "giver": "Marty Chonks",
+        "location": "Portland",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Bring two thieves to the food factory and respray Marty's car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/the-thieves.svg"
+      },
+      {
+        "id": "the-wife",
+        "order": 26,
+        "name": "The Wife",
+        "type": "Story",
+        "giver": "Marty Chonks",
+        "location": "Portland",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Dispose of Marty's wife after she discovers his operation.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/the-wife.svg"
+      },
+      {
+        "id": "her-lover",
+        "order": 27,
+        "name": "Her Lover",
+        "type": "Story",
+        "giver": "Marty Chonks",
+        "location": "Portland",
+        "reward": {
+          "money": 4000
+        },
+        "summary": "Bring Carl to the food factory.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/her-lover.svg"
+      },
+      {
+        "id": "turismo",
+        "order": 28,
+        "name": "Turismo",
+        "type": "Story",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Win an illegal street race through Portland.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/turismo.svg"
+      },
+      {
+        "id": "i-scream-you-scream",
+        "order": 29,
+        "name": "I Scream, You Scream",
+        "type": "Story",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 8000
+        },
+        "summary": "Use an ice cream van to kill a rival gang member.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/i-scream-you-scream.svg"
+      },
+      {
+        "id": "trial-by-fire",
+        "order": 30,
+        "name": "Trial By Fire",
+        "type": "Story",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Kill 25 Diablos within a time limit using a flamethrower.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/trial-by-fire.svg"
+      },
+      {
+        "id": "bignveiny",
+        "order": 31,
+        "name": "Big'n'Veiny",
+        "type": "Story",
+        "giver": "El Burro",
+        "location": "Portland",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Pick up some magazines and take them to XXXMags in Red Light District.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/bignveiny.svg"
+      },
+      {
         "id": "sayonara-salvatore",
-        "order": 22,
+        "order": 32,
         "name": "Sayonara Salvatore",
         "type": "Story",
         "giver": "Asuka Kasen",
-        "location": "Saint Mark's",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 25000
         },
         "summary": "Assassinate Salvatore Leone outside his own club.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/sayonara-salvatore.svg"
       },
       {
         "id": "under-surveillance",
-        "order": 23,
+        "order": 33,
         "name": "Under Surveillance",
         "type": "Story",
         "giver": "Asuka Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 15000
         },
         "summary": "Kill the Cartel men watching Asuka's construction site.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/under-surveillance.svg"
       },
       {
         "id": "paparazzi-purge",
-        "order": 24,
+        "order": 34,
         "name": "Paparazzi Purge",
         "type": "Story",
         "giver": "Asuka Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000
         },
         "summary": "Take out a photographer who has compromising pictures of Asuka.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/paparazzi-purge.svg"
       },
       {
         "id": "payday-for-ray",
-        "order": 25,
-        "name": "Payday for Ray",
+        "order": 35,
+        "name": "Payday For Ray",
         "type": "Story",
         "giver": "Asuka Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 11000
         },
         "summary": "Collect Ray Machowski's bribe money and shake off the tail he sent.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/payday-for-ray.svg"
       },
       {
         "id": "two-faced-tanner",
-        "order": 26,
+        "order": 36,
         "name": "Two-Faced Tanner",
         "type": "Story",
         "giver": "Asuka Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 20000
         },
         "summary": "Kill an undercover cop who is following Ray.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/two-faced-tanner.svg"
       },
       {
         "id": "kanbu-bust-out",
-        "order": 27,
+        "order": 37,
         "name": "Kanbu Bust-out",
         "type": "Story",
         "giver": "Kenji Kasen",
@@ -654,151 +831,164 @@
         },
         "summary": "Break a Yakuza associate out of police custody.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/kanbu-bust-out.svg"
       },
       {
         "id": "grand-theft-auto",
-        "order": 28,
+        "order": 38,
         "name": "Grand Theft Auto",
         "type": "Story",
         "giver": "Kenji Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 25000
         },
         "summary": "Steal three specific cars for Kenji's showroom.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/grand-theft-auto.svg"
       },
       {
         "id": "deal-steal",
-        "order": 29,
+        "order": 39,
         "name": "Deal Steal",
         "type": "Story",
         "giver": "Kenji Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 25000
         },
         "summary": "Ambush a Cartel drug deal and take the cash.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/deal-steal.svg"
       },
       {
         "id": "shima",
-        "order": 30,
+        "order": 40,
         "name": "Shima",
         "type": "Story",
         "giver": "Kenji Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000
         },
         "summary": "Protect Kenji during a meeting with a Triad boss.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/shima.svg"
       },
       {
         "id": "smack-down",
-        "order": 31,
+        "order": 41,
         "name": "Smack Down",
         "type": "Story",
         "giver": "Kenji Kasen",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000,
+          "other": "- for each dealer killed"
         },
         "summary": "Kill eight SPANK dealers across Staunton before time runs out.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/smack-down.svg"
       },
       {
         "id": "silence-the-sneak",
-        "order": 32,
+        "order": 42,
         "name": "Silence the Sneak",
         "type": "Story",
-        "giver": "Kenji Kasen",
+        "giver": "Ray Machowski",
         "location": "Staunton Island",
         "reward": {
           "money": 30000
         },
         "summary": "Kill a witness before he reaches the courthouse.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/silence-the-sneak.svg"
       },
       {
         "id": "arms-shortage",
-        "order": 33,
+        "order": 43,
         "name": "Arms Shortage",
         "type": "Story",
         "giver": "Ray Machowski",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000,
+          "other": "Phil's Army Surplus"
         },
         "summary": "Defend Phil Cassidy's warehouse from a Cartel raid.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/arms-shortage.svg"
       },
       {
         "id": "evidence-dash",
-        "order": 34,
+        "order": 44,
         "name": "Evidence Dash",
         "type": "Story",
         "giver": "Ray Machowski",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000
         },
         "summary": "Destroy a police vehicle carrying evidence against Ray.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/evidence-dash.svg"
       },
       {
         "id": "gone-fishing",
-        "order": 35,
+        "order": 45,
         "name": "Gone Fishing",
         "type": "Story",
         "giver": "Ray Machowski",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 15000
         },
         "summary": "Kill a cop who is about to testify, then escape by boat.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/gone-fishing.svg"
       },
       {
         "id": "plaster-blaster",
-        "order": 36,
+        "order": 46,
         "name": "Plaster Blaster",
         "type": "Story",
         "giver": "Ray Machowski",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000
         },
         "summary": "Ambush a police convoy and destroy the armored van.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/plaster-blaster.svg"
       },
       {
         "id": "liberator",
-        "order": 37,
+        "order": 47,
         "name": "Liberator",
         "type": "Story",
-        "giver": "Ray Machowski",
+        "giver": "Donald Love",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 40000
         },
         "summary": "Rescue an undercover operative from a Cartel stronghold.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/liberator.svg"
       },
       {
         "id": "waka-gashira-wipeout",
-        "order": 38,
+        "order": 48,
         "name": "Waka-Gashira Wipeout!",
         "type": "Story",
         "giver": "Donald Love",
@@ -808,273 +998,310 @@
         },
         "summary": "Kill Kenji Kasen while disguised as a Cartel gunman to start a gang war.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/waka-gashira-wipeout.svg"
       },
       {
         "id": "a-drop-in-the-ocean",
-        "order": 39,
+        "order": 49,
         "name": "A Drop in the Ocean",
         "type": "Story",
         "giver": "Donald Love",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 10000,
+          "other": "access to Shoreside Vale Shoreside Vale Safehouse ability to gain six-star wanted level"
         },
         "summary": "Pick up a floating package dropped by plane and deliver it to Love.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/a-drop-in-the-ocean.svg"
       },
       {
         "id": "grand-theft-aero",
-        "order": 40,
+        "order": 50,
         "name": "Grand Theft Aero",
         "type": "Story",
         "giver": "Donald Love",
-        "location": "Francis International Airport",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 50000
         },
         "summary": "Steal a plane from the airport and deliver it to Love's contact.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/grand-theft-aero.svg"
       },
       {
         "id": "escort-service",
-        "order": 41,
+        "order": 51,
         "name": "Escort Service",
         "type": "Story",
         "giver": "Donald Love",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 40000
         },
         "summary": "Escort a Securicar full of evidence through Cartel roadblocks.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/escort-service.svg"
       },
       {
         "id": "decoy",
-        "order": 42,
+        "order": 52,
         "name": "Decoy",
         "type": "Story",
         "giver": "Donald Love",
         "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 35000
         },
         "summary": "Survive a Cartel assault while a decoy convoy draws them off.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/decoy.svg"
       },
       {
         "id": "loves-disappearance",
-        "order": 43,
+        "order": 53,
         "name": "Love's Disappearance",
         "type": "Story",
         "giver": "Donald Love",
         "location": "Staunton Island",
-        "reward": {
-          "money": 30000
-        },
+        "reward": {},
         "summary": "Find out why Donald Love has vanished from his own building.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/loves-disappearance.svg"
       },
       {
+        "id": "marked-man",
+        "order": 54,
+        "name": "Marked Man",
+        "type": "Story",
+        "giver": "Ray Machowski",
+        "location": "Staunton Island",
+        "reward": {
+          "money": 20000,
+          "other": "bulletproof Patriot Sniper Rifle , M16 , Rocket Launcher and Flamethrower"
+        },
+        "summary": "Take Ray to the airport and then go to his lock-up.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/marked-man.svg"
+      },
+      {
         "id": "bait",
-        "order": 44,
+        "order": 55,
         "name": "Bait",
         "type": "Story",
         "giver": "Asuka Kasen",
-        "location": "Shoreside Vale",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 35000
         },
         "summary": "Use yourself as bait to draw three Cartel kill-squads into the open.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/bait.svg"
       },
       {
         "id": "espresso-2-go",
-        "order": 45,
+        "order": 56,
         "name": "Espresso-2-Go!",
         "type": "Story",
         "giver": "Asuka Kasen",
-        "location": "Liberty City",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 40000
         },
         "summary": "Destroy all SPANK stands across the three islands before the Cartel expands.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/espresso-2-go.svg"
       },
       {
-        "id": "s-a-m",
-        "order": 46,
+        "id": "sam",
+        "order": 57,
         "name": "S.A.M.",
         "type": "Story",
         "giver": "Asuka Kasen",
-        "location": "Francis International Airport",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 45000
         },
-        "summary": "Destroy the Cartel seaplane delivering a drug shipment.",
+        "summary": "Blow up a Dodo with a rocket launcher and bring the SPANK packages to Asuka.",
         "verified": true,
-        "image": "assets/img/mission/gta-iii/s-a-m.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/sam.svg"
       },
       {
         "id": "ransom",
-        "order": 47,
+        "order": 58,
         "name": "Ransom",
         "type": "Story",
-        "giver": "Asuka Kasen",
-        "location": "Shoreside Vale",
+        "giver": "Catalina",
+        "location": "Staunton Island",
         "reward": {
-          "money": 30000
+          "money": 45000
         },
         "summary": "Deliver a ransom and survive the Cartel trap.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/ransom.svg"
       },
       {
-        "id": "the-exchange",
-        "order": 48,
-        "name": "The Exchange",
-        "type": "Story",
-        "giver": "Catalina",
-        "location": "Cochrane Dam",
-        "reward": {
-          "money": 30000
-        },
-        "summary": "Final mission: assault Catalina's Cartel base and rescue Maria.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/the-exchange.svg"
-      },
-      {
-        "id": "turismo",
-        "order": 49,
-        "name": "Turismo",
-        "type": "Vehicle",
-        "giver": "El Burro",
-        "location": "Portland",
-        "reward": {
-          "money": 5000
-        },
-        "summary": "Win an illegal street race through Portland.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/turismo.svg"
-      },
-      {
-        "id": "i-scream-you-scream",
-        "order": 50,
-        "name": "I Scream, You Scream",
-        "type": "Vehicle",
-        "giver": "El Burro",
-        "location": "Portland",
-        "reward": {
-          "money": 5000
-        },
-        "summary": "Use an ice cream van to kill a rival gang member.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/i-scream-you-scream.svg"
-      },
-      {
-        "id": "trial-by-fire",
-        "order": 51,
-        "name": "Trial by Fire",
-        "type": "Side",
-        "giver": "El Burro",
-        "location": "Hepburn Heights",
-        "reward": {
-          "money": 5000
-        },
-        "summary": "Kill 25 Diablos within a time limit using a flamethrower.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/trial-by-fire.svg"
-      },
-      {
         "id": "bling-bling-scramble",
-        "order": 52,
-        "name": "Bling-Bling Scramble",
-        "type": "Side",
+        "order": 59,
+        "name": "Bling-bling Scramble",
+        "type": "Story",
         "giver": "King Courtney",
         "location": "Staunton Island",
         "reward": {
-          "money": 5000
+          "money": 15000,
+          "other": "Up to"
         },
         "summary": "Collect 15 packages in a Yardie gang car within the time limit.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/bling-bling-scramble.svg"
       },
       {
-        "id": "kingdom-come",
-        "order": 53,
-        "name": "Kingdom Come",
-        "type": "Side",
+        "id": "uzi-rider",
+        "order": 60,
+        "name": "Uzi Rider",
+        "type": "Story",
         "giver": "King Courtney",
         "location": "Staunton Island",
         "reward": {
-          "money": 5000
-        },
-        "summary": "Drive a car rigged with a bomb to a Yardie target.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iii/kingdom-come.svg"
-      },
-      {
-        "id": "uzi-rider",
-        "order": 54,
-        "name": "Uzi Rider",
-        "type": "Side",
-        "giver": "D-Ice",
-        "location": "Wichita Gardens",
-        "reward": {
-          "money": 5000
+          "money": 10000
         },
         "summary": "Kill 20 Purple Nines with an Uzi.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/uzi-rider.svg"
       },
       {
         "id": "gangcar-round-up",
-        "order": 55,
+        "order": 61,
         "name": "Gangcar Round-up",
-        "type": "Vehicle",
-        "giver": "D-Ice",
-        "location": "Wichita Gardens",
+        "type": "Story",
+        "giver": "King Courtney",
+        "location": "Staunton Island",
         "reward": {
-          "money": 5000
+          "money": 10000
         },
         "summary": "Steal three gang cars and deliver them to D-Ice.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iii/gangcar-round-up.svg"
       },
       {
-        "id": "the-crook",
-        "order": 56,
-        "name": "The Crook",
-        "type": "Side",
-        "giver": "Marty Chonks",
-        "location": "Trenton",
+        "id": "kingdom-come",
+        "order": 62,
+        "name": "Kingdom Come",
+        "type": "Story",
+        "giver": "King Courtney",
+        "location": "Staunton Island",
         "reward": {
-          "money": 2000
+          "money": 10000
         },
-        "summary": "Kill a thief who tried to rob Marty's factory.",
+        "summary": "Drive a car rigged with a bomb to a Yardie target.",
         "verified": true,
-        "image": "assets/img/mission/gta-iii/the-crook.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/kingdom-come.svg"
       },
       {
-        "id": "the-wife",
-        "order": 57,
-        "name": "The Wife",
-        "type": "Side",
-        "giver": "Marty Chonks",
-        "location": "Trenton",
+        "id": "uzi-money",
+        "order": 63,
+        "name": "Uzi Money",
+        "type": "Story",
+        "giver": "D-Ice",
+        "location": "Liberty City",
         "reward": {
-          "money": 2000
+          "money": 10000
         },
-        "summary": "Dispose of Marty's wife after she discovers his operation.",
+        "summary": "Drive-by 25 Purple Nines in two minutes.",
         "verified": true,
-        "image": "assets/img/mission/gta-iii/the-wife.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/uzi-money.svg"
+      },
+      {
+        "id": "toyminator",
+        "order": 64,
+        "name": "Toyminator",
+        "type": "Story",
+        "giver": "D-Ice",
+        "location": "Liberty City",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Destroy three gang cars with an RC Bandit.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/toyminator.svg"
+      },
+      {
+        "id": "rigged-to-blow",
+        "order": 65,
+        "name": "Rigged to Blow",
+        "type": "Story",
+        "giver": "D-Ice",
+        "location": "Liberty City",
+        "reward": {
+          "money": 20000
+        },
+        "summary": "Bring an armed car to a garage before it explodes.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/rigged-to-blow.svg"
+      },
+      {
+        "id": "bullion-run",
+        "order": 66,
+        "name": "Bullion Run",
+        "type": "Story",
+        "giver": "D-Ice",
+        "location": "Liberty City",
+        "reward": {
+          "money": 25000
+        },
+        "summary": "Pick up as many pieces of bullion as possible and take them to a garage.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/bullion-run.svg"
+      },
+      {
+        "id": "rumble",
+        "order": 67,
+        "name": "Rumble",
+        "type": "Story",
+        "giver": "D-Ice",
+        "location": "Liberty City",
+        "reward": {
+          "money": 10000
+        },
+        "summary": "Kill all remaining Purple Nines in a final battle using only baseball bats.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/rumble.svg"
+      },
+      {
+        "id": "the-exchange",
+        "order": 68,
+        "name": "The Exchange",
+        "type": "Story",
+        "giver": "Catalina",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000000,
+          "other": "Rhino at Phil's Army Surplus"
+        },
+        "summary": "Final mission: assault Catalina's Cartel base and rescue Maria.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iii/the-exchange.svg"
       }
     ]
   },

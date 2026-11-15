@@ -5,11 +5,11 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:09:57.453Z",
+    "generated": "2026-11-15T16:25:04.790Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
-      "missions": "limited",
+      "missions": "complete",
       "vehicles": "limited",
       "weapons": "limited",
       "cheats": "limited",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 2,
-      "missions": 2,
+      "missions": 9,
       "vehicles": 5,
       "weapons": 4,
       "cheats": 1,
@@ -66,37 +66,124 @@
     ]
   },
   "missions": {
-    "coverage": "limited",
+    "coverage": "complete",
     "items": [
       {
-        "id": "london-1961-chapter",
+        "id": "when-we-were-very-small",
         "order": 1,
-        "name": "London 1961 chapter",
+        "name": "When We Were Very Small",
         "type": "Story",
-        "giver": "London firms",
-        "location": "London",
-        "reward": {
-          "money": 0,
-          "other": "Score progression in pre-decimal currency"
-        },
-        "summary": "Add-on campaign set in 1961 London with period vehicles and adjusted economy.",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Introduction",
         "verified": true,
-        "image": "assets/img/mission/gta-london-1961/london-1961-chapter.svg"
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/when-we-were-very-small.svg"
       },
       {
-        "id": "london-1961-finale",
+        "id": "phonebox-1",
         "order": 2,
-        "name": "London 1961 finale",
+        "name": "Phonebox 1",
         "type": "Story",
-        "giver": "London firms",
-        "location": "London",
-        "reward": {
-          "money": 0,
-          "other": "Completion"
-        },
-        "summary": "Closing job of the free add-on.",
-        "verified": false,
-        "image": "assets/img/mission/gta-london-1961/london-1961-finale.svg"
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Wipe out two rival greaser gangs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-1.svg"
+      },
+      {
+        "id": "phonebox-2",
+        "order": 3,
+        "name": "Phonebox 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Protect Mr. Caukenbolls from his enemies.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-2.svg"
+      },
+      {
+        "id": "phonebox-3",
+        "order": 4,
+        "name": "Phonebox 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Kill Gene White , round up his girls and destroy the porno tapes White's men filmed.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-3.svg"
+      },
+      {
+        "id": "phonebox-4",
+        "order": 5,
+        "name": "Phonebox 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Kill Poundage Fern and his goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-4.svg"
+      },
+      {
+        "id": "walkie-talkie",
+        "order": 6,
+        "name": "Walkie Talkie",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Disband Hans Nemesis' explosive potato ring.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/walkie-talkie.svg"
+      },
+      {
+        "id": "fab",
+        "order": 7,
+        "name": "Fab",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Deliver a car full of Tunderthighs dolls to Harold's nephew's birthday.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/fab.svg"
+      },
+      {
+        "id": "tv-van",
+        "order": 8,
+        "name": "TV Van",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Film yourself dealing with the people blackmailing Harold.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/tv-van.svg"
+      },
+      {
+        "id": "ending",
+        "order": 9,
+        "name": "Ending",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Meet Harold Cartwright .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/ending.svg"
       }
     ]
   },

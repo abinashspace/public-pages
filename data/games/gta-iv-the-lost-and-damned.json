@@ -5,11 +5,11 @@
     "year": 2009,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T16:09:57.601Z",
+    "generated": "2026-11-15T16:25:04.965Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
-      "missions": "partial",
+      "missions": "complete",
       "vehicles": "partial",
       "weapons": "partial",
       "cheats": "limited",
@@ -18,7 +18,7 @@
     },
     "counts": {
       "characters": 12,
-      "missions": 14,
+      "missions": 22,
       "vehicles": 14,
       "weapons": 8,
       "cheats": 0,
@@ -187,7 +187,7 @@
     ]
   },
   "missions": {
-    "coverage": "partial",
+    "coverage": "complete",
     "items": [
       {
         "id": "clean-and-serene",
@@ -195,12 +195,14 @@
         "name": "Clean and Serene",
         "type": "Story",
         "giver": "Billy Grey",
-        "location": "Alderney",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 750,
+          "other": "Hexer Sawed-Off Shotgun The Lost MC Clubhouse One Percenter achievement/trophy"
         },
         "summary": "Opening: collect Billy from prison and ride back to the clubhouse.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/clean-and-serene.svg"
       },
       {
@@ -209,12 +211,14 @@
         "name": "Angels in America",
         "type": "Story",
         "giver": "Billy Grey",
-        "location": "Alderney",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 750,
+          "other": "Diabolus can now be requested from Clay"
         },
         "summary": "Hit an Angels of Death clubhouse.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/angels-in-america.svg"
       },
       {
@@ -223,12 +227,13 @@
         "name": "It's War",
         "type": "Story",
         "giver": "Billy Grey",
-        "location": "Alderney",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 750
         },
         "summary": "Retaliate after the Angels strike back.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/its-war.svg"
       },
       {
@@ -239,150 +244,281 @@
         "giver": "Billy Grey",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 1000,
+          "other": "Grenade Launcher Hellfury can now be requested from Clay"
         },
         "summary": "A robbery that raises the stakes with the club's rivals.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/action-reaction.svg"
       },
       {
-        "id": "buyers-market",
+        "id": "liberty-city-choppers",
         "order": 5,
-        "name": "Buyer's Market",
+        "name": "Liberty City Choppers",
         "type": "Story",
-        "giver": "Billy Grey",
+        "giver": "Jim Fitzgerald",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 1000,
+          "other": "Zombie can now be requested from Clay."
+        },
+        "summary": "Steal bikes from the Angels of Death with Jim",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/liberty-city-choppers.svg"
+      },
+      {
+        "id": "bad-cop-drop",
+        "order": 6,
+        "name": "Bad Cop Drop",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000,
+          "other": "Automatic 9mm"
+        },
+        "summary": "Lure corrupt cops Jimmy Matthews and Ed McCornish into an ambush and kill them.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/bad-cop-drop.svg"
+      },
+      {
+        "id": "buyers-market",
+        "order": 7,
+        "name": "Buyer's Market",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Integrity 2.0 as a radio station"
         },
         "summary": "A drug deal that goes sideways.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/buyers-market.svg"
       },
       {
         "id": "politics",
-        "order": 6,
+        "order": 8,
         "name": "Politics",
         "type": "Story",
         "giver": "Thomas Stubbs",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 3000
         },
         "summary": "Dirty work for Congressman Stubbs.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/politics.svg"
       },
       {
-        "id": "coming-down",
-        "order": 7,
-        "name": "Coming Down",
-        "type": "Story",
-        "giver": "Ashley Butler",
-        "location": "Bohan",
-        "reward": {
-          "money": 0
-        },
-        "summary": "Rescue Ashley from a drug den.",
-        "verified": true,
-        "image": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.svg"
-      },
-      {
         "id": "off-route",
-        "order": 8,
+        "order": 9,
         "name": "Off Route",
         "type": "Story",
-        "giver": "Jim Fitzgerald",
-        "location": "Alderney",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 5000
         },
         "summary": "Hijack a prison transport.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/off-route.svg"
       },
       {
-        "id": "shifting-weight",
-        "order": 9,
-        "name": "Shifting Weight",
+        "id": "coming-down",
+        "order": 10,
+        "name": "Coming Down",
+        "type": "Story",
+        "giver": "Ashley Butler",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Rescue Ashley from a drug den.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.svg"
+      },
+      {
+        "id": "this-shits-cursed",
+        "order": 11,
+        "name": "This Shit's Cursed",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Johnny becomes President of the Lost MC Alderney Chapter Revenant can now be requested from Clay The Lost Boy achievement/trophy"
+        },
+        "summary": "Attend a heroin deal with the Triads and escape their ambush with Jim , then watch Billy getting arrested.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/this-shits-cursed.svg"
+      },
+      {
+        "id": "hit-the-pipe",
+        "order": 12,
+        "name": "Hit the Pipe",
         "type": "Story",
         "giver": "Jim Fitzgerald",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 2000,
+          "other": "Pipe Bombs"
         },
-        "summary": "Move a heroin shipment under police pressure.",
+        "summary": "Destroy Angels of Death vans with pipe bombs .",
         "verified": true,
-        "image": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/hit-the-pipe.svg"
       },
       {
-        "id": "heavy-toll",
-        "order": 10,
-        "name": "Heavy Toll",
+        "id": "end-of-chapter",
+        "order": 13,
+        "name": "End of Chapter",
         "type": "Story",
         "giver": "Jim Fitzgerald",
-        "location": "Alderney",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 2000
         },
-        "summary": "Rob an armored truck on the turnpike.",
+        "summary": "Meet up with Brian and his faction and survive their ambush.",
         "verified": true,
-        "image": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.svg"
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/end-of-chapter.svg"
       },
       {
         "id": "bad-standing",
-        "order": 11,
+        "order": 14,
         "name": "Bad Standing",
         "type": "Story",
-        "giver": "Johnny Klebitz",
-        "location": "Alderney",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 2000,
+          "other": "Brian Jeremy's Safehouse"
         },
         "summary": "Deal with Billy loyalists inside the club.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/bad-standing.svg"
       },
       {
+        "id": "heavy-toll",
+        "order": 15,
+        "name": "Heavy Toll",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000,
+          "other": "Assault Shotgun"
+        },
+        "summary": "Rob an armored truck on the turnpike.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.svg"
+      },
+      {
+        "id": "marta-full-of-grace",
+        "order": 16,
+        "name": "Marta Full of Grace",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Pick up Marta from the airport and bring her to Elizabeta's apartment after losing the cops.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/marta-full-of-grace.svg"
+      },
+      {
+        "id": "shifting-weight",
+        "order": 17,
+        "name": "Shifting Weight",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 3000,
+          "other": "Double T can now be requested from Clay"
+        },
+        "summary": "Move a heroin shipment under police pressure.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.svg"
+      },
+      {
+        "id": "romans-holiday",
+        "order": 18,
+        "name": "Roman's Holiday",
+        "type": "Story",
+        "giver": "Ashley Butler",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kidnap Roman Bellic with Malc in orders of Dimitri Rascalov's men .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/romans-holiday.svg"
+      },
+      {
         "id": "diamonds-in-the-rough",
-        "order": 12,
+        "order": 19,
         "name": "Diamonds in the Rough",
         "type": "Story",
         "giver": "Ray Boccino",
         "location": "Liberty City",
-        "reward": {
-          "money": 0
-        },
+        "reward": {},
         "summary": "The diamond exchange seen from the Lost's side.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/diamonds-in-the-rough.svg"
       },
       {
-        "id": "was-it-worth-it",
-        "order": 13,
-        "name": "Was It Worth It?",
+        "id": "collectors-item",
+        "order": 20,
+        "name": "Collector's Item",
         "type": "Story",
         "giver": "Ray Boccino",
         "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 10000,
+          "other": "Lycan can now be requested from Clay"
         },
+        "summary": "Attend the diamond deal with Niko Bellic at The Libertonian and escape with the money.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/collectors-item.svg"
+      },
+      {
+        "id": "was-it-worth-it",
+        "order": 21,
+        "name": "Was It Worth It?",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {},
         "summary": "Aftermath of the diamond deal.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/was-it-worth-it.svg"
       },
       {
         "id": "get-lost",
-        "order": 14,
+        "order": 22,
         "name": "Get Lost",
         "type": "Story",
-        "giver": "Johnny Klebitz",
-        "location": "Alderney",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
         "reward": {
-          "money": 0
+          "money": 7000
         },
         "summary": "Final mission: settle the club's future.",
         "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
         "image": "assets/img/mission/gta-iv-the-lost-and-damned/get-lost.svg"
       }
     ]

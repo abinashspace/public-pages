@@ -5,7 +5,7 @@
     "base_url": "https://abinashspace.github.io/gta-hub",
     "language": "en"
   },
-  "generated": "2026-11-15T16:09:55.389Z",
+  "generated": "2026-11-15T16:25:01.741Z",
   "schema_version": "1.0.0",
   "counts": {
     "games": 17,
@@ -118,7 +118,7 @@
       "accent": "#e03131",
       "counts": {
         "characters": 4,
-        "missions": 3,
+        "missions": 100,
         "vehicles": 9,
         "weapons": 7,
         "cheats": 1,
@@ -127,14 +127,14 @@
       },
       "coverage": {
         "characters": "limited",
-        "missions": "limited",
+        "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "limited"
       },
-      "records": 28,
+      "records": 125,
       "links": {
         "page": "games/gta/",
         "data": "data/games/gta.json",
@@ -165,7 +165,7 @@
       "accent": "#c2255c",
       "counts": {
         "characters": 3,
-        "missions": 3,
+        "missions": 47,
         "vehicles": 6,
         "weapons": 5,
         "cheats": 1,
@@ -174,14 +174,14 @@
       },
       "coverage": {
         "characters": "limited",
-        "missions": "limited",
+        "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "empty"
       },
-      "records": 22,
+      "records": 66,
       "links": {
         "page": "games/gta-london-1969/",
         "data": "data/games/gta-london-1969.json",
@@ -211,7 +211,7 @@
       "accent": "#7048e8",
       "counts": {
         "characters": 2,
-        "missions": 2,
+        "missions": 9,
         "vehicles": 5,
         "weapons": 4,
         "cheats": 1,
@@ -220,14 +220,14 @@
       },
       "coverage": {
         "characters": "limited",
-        "missions": "limited",
+        "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "empty"
       },
-      "records": 15,
+      "records": 22,
       "links": {
         "page": "games/gta-london-1961/",
         "data": "data/games/gta-london-1961.json",
@@ -308,7 +308,7 @@
       "accent": "#1971c2",
       "counts": {
         "characters": 19,
-        "missions": 57,
+        "missions": 68,
         "vehicles": 50,
         "weapons": 12,
         "cheats": 14,
@@ -317,14 +317,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "partial",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 173,
+      "records": 184,
       "links": {
         "page": "games/gta-iii/",
         "data": "data/games/gta-iii.json",
@@ -357,7 +357,7 @@
       "accent": "#f76707",
       "counts": {
         "characters": 20,
-        "missions": 46,
+        "missions": 61,
         "vehicles": 51,
         "weapons": 20,
         "cheats": 20,
@@ -366,14 +366,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "partial",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 178,
+      "records": 193,
       "links": {
         "page": "games/gta-vice-city/",
         "data": "data/games/gta-vice-city.json",
@@ -453,7 +453,7 @@
       "accent": "#868e96",
       "counts": {
         "characters": 7,
-        "missions": 5,
+        "missions": 41,
         "vehicles": 8,
         "weapons": 6,
         "cheats": 0,
@@ -462,14 +462,14 @@
       },
       "coverage": {
         "characters": "limited",
-        "missions": "limited",
+        "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "empty"
       },
-      "records": 30,
+      "records": 66,
       "links": {
         "page": "games/gta-advance/",
         "data": "data/games/gta-advance.json",
@@ -501,7 +501,7 @@
       "accent": "#0c8599",
       "counts": {
         "characters": 14,
-        "missions": 14,
+        "missions": 71,
         "vehicles": 16,
         "weapons": 12,
         "cheats": 0,
@@ -510,14 +510,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 71,
+      "records": 128,
       "links": {
         "page": "games/gta-liberty-city-stories/",
         "data": "data/games/gta-liberty-city-stories.json",
@@ -547,7 +547,7 @@
       "accent": "#ae3ec9",
       "counts": {
         "characters": 13,
-        "missions": 13,
+        "missions": 59,
         "vehicles": 19,
         "weapons": 13,
         "cheats": 0,
@@ -556,14 +556,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 73,
+      "records": 119,
       "links": {
         "page": "games/gta-vice-city-stories/",
         "data": "data/games/gta-vice-city-stories.json",
@@ -641,7 +641,7 @@
       "accent": "#5f3dc4",
       "counts": {
         "characters": 12,
-        "missions": 14,
+        "missions": 22,
         "vehicles": 14,
         "weapons": 8,
         "cheats": 0,
@@ -650,14 +650,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "partial"
       },
-      "records": 57,
+      "records": 65,
       "links": {
         "page": "games/gta-iv-the-lost-and-damned/",
         "data": "data/games/gta-iv-the-lost-and-damned.json",
@@ -688,7 +688,7 @@
       "accent": "#e8590c",
       "counts": {
         "characters": 12,
-        "missions": 15,
+        "missions": 26,
         "vehicles": 12,
         "weapons": 8,
         "cheats": 0,
@@ -697,14 +697,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "partial",
+        "missions": "complete",
         "vehicles": "partial",
         "weapons": "partial",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 58,
+      "records": 69,
       "links": {
         "page": "games/gta-the-ballad-of-gay-tony/",
         "data": "data/games/gta-the-ballad-of-gay-tony.json",
@@ -736,7 +736,7 @@
       "accent": "#c92a2a",
       "counts": {
         "characters": 10,
-        "missions": 6,
+        "missions": 58,
         "vehicles": 10,
         "weapons": 10,
         "cheats": 0,
@@ -745,14 +745,14 @@
       },
       "coverage": {
         "characters": "partial",
-        "missions": "limited",
+        "missions": "complete",
         "vehicles": "limited",
         "weapons": "limited",
         "cheats": "limited",
         "locations": "partial",
         "collectibles": "partial"
       },
-      "records": 43,
+      "records": 95,
       "links": {
         "page": "games/gta-chinatown-wars/",
         "data": "data/games/gta-chinatown-wars.json",

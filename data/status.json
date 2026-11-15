@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-15T16:09:57.706Z",
+  "generated": "2026-11-15T16:25:05.077Z",
   "games": [
     {
       "slug": "gta",
       "title": "Grand Theft Auto",
       "status": "released",
-      "records": 28,
+      "records": 125,
       "sections": {
         "characters": {
           "count": 4,
           "coverage": "limited"
         },
         "missions": {
-          "count": 3,
-          "coverage": "limited"
+          "count": 100,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 9,
@@ -41,15 +41,15 @@
       "slug": "gta-london-1969",
       "title": "Grand Theft Auto: London 1969",
       "status": "released",
-      "records": 22,
+      "records": 66,
       "sections": {
         "characters": {
           "count": 3,
           "coverage": "limited"
         },
         "missions": {
-          "count": 3,
-          "coverage": "limited"
+          "count": 47,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 6,
@@ -77,15 +77,15 @@
       "slug": "gta-london-1961",
       "title": "Grand Theft Auto: London 1961",
       "status": "released",
-      "records": 15,
+      "records": 22,
       "sections": {
         "characters": {
           "count": 2,
           "coverage": "limited"
         },
         "missions": {
-          "count": 2,
-          "coverage": "limited"
+          "count": 9,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 5,
@@ -149,15 +149,15 @@
       "slug": "gta-iii",
       "title": "Grand Theft Auto III",
       "status": "released",
-      "records": 173,
+      "records": 184,
       "sections": {
         "characters": {
           "count": 19,
           "coverage": "partial"
         },
         "missions": {
-          "count": 57,
-          "coverage": "partial"
+          "count": 68,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 50,
@@ -185,15 +185,15 @@
       "slug": "gta-vice-city",
       "title": "Grand Theft Auto: Vice City",
       "status": "released",
-      "records": 178,
+      "records": 193,
       "sections": {
         "characters": {
           "count": 20,
           "coverage": "partial"
         },
         "missions": {
-          "count": 46,
-          "coverage": "partial"
+          "count": 61,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 51,
@@ -257,15 +257,15 @@
       "slug": "gta-advance",
       "title": "Grand Theft Auto Advance",
       "status": "released",
-      "records": 30,
+      "records": 66,
       "sections": {
         "characters": {
           "count": 7,
           "coverage": "limited"
         },
         "missions": {
-          "count": 5,
-          "coverage": "limited"
+          "count": 41,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 8,
@@ -293,15 +293,15 @@
       "slug": "gta-liberty-city-stories",
       "title": "Grand Theft Auto: Liberty City Stories",
       "status": "released",
-      "records": 71,
+      "records": 128,
       "sections": {
         "characters": {
           "count": 14,
           "coverage": "partial"
         },
         "missions": {
-          "count": 14,
-          "coverage": "partial"
+          "count": 71,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 16,
@@ -329,15 +329,15 @@
       "slug": "gta-vice-city-stories",
       "title": "Grand Theft Auto: Vice City Stories",
       "status": "released",
-      "records": 73,
+      "records": 119,
       "sections": {
         "characters": {
           "count": 13,
           "coverage": "partial"
         },
         "missions": {
-          "count": 13,
-          "coverage": "partial"
+          "count": 59,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 19,
@@ -401,15 +401,15 @@
       "slug": "gta-iv-the-lost-and-damned",
       "title": "Grand Theft Auto IV: The Lost and Damned",
       "status": "released",
-      "records": 57,
+      "records": 65,
       "sections": {
         "characters": {
           "count": 12,
           "coverage": "partial"
         },
         "missions": {
-          "count": 14,
-          "coverage": "partial"
+          "count": 22,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 14,
@@ -437,15 +437,15 @@
       "slug": "gta-the-ballad-of-gay-tony",
       "title": "Grand Theft Auto: The Ballad of Gay Tony",
       "status": "released",
-      "records": 58,
+      "records": 69,
       "sections": {
         "characters": {
           "count": 12,
           "coverage": "partial"
         },
         "missions": {
-          "count": 15,
-          "coverage": "partial"
+          "count": 26,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 12,
@@ -473,15 +473,15 @@
       "slug": "gta-chinatown-wars",
       "title": "Grand Theft Auto: Chinatown Wars",
       "status": "released",
-      "records": 43,
+      "records": 95,
       "sections": {
         "characters": {
           "count": 10,
           "coverage": "partial"
         },
         "missions": {
-          "count": 6,
-          "coverage": "limited"
+          "count": 58,
+          "coverage": "complete"
         },
         "vehicles": {
           "count": 10,
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 1499,
+    "total": 1883,
     "real": 0,
-    "placeholder": 1499
+    "placeholder": 1883
   }
 }
