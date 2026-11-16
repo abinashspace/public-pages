@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T06:00:22.880Z",
+  "generated": "2026-11-16T06:13:38.006Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -6102,10 +6102,10 @@
       "game": "gta-iii",
       "id": "map",
       "record": "map",
-      "path": "assets/img/map/gta-iii/map.svg",
+      "path": "assets/img/map/gta-iii/map.jpg",
       "width": 2048,
       "height": 2048,
-      "status": "placeholder",
+      "status": "real",
       "alt": "GTA III map"
     },
     {
@@ -8555,10 +8555,10 @@
       "game": "gta-vice-city",
       "id": "map",
       "record": "map",
-      "path": "assets/img/map/gta-vice-city/map.svg",
+      "path": "assets/img/map/gta-vice-city/map.jpg",
       "width": 2048,
       "height": 2048,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City map"
     },
     {
@@ -12229,10 +12229,10 @@
       "game": "gta-san-andreas",
       "id": "map",
       "record": "map",
-      "path": "assets/img/map/gta-san-andreas/map.svg",
+      "path": "assets/img/map/gta-san-andreas/map.jpg",
       "width": 2048,
       "height": 2048,
-      "status": "placeholder",
+      "status": "real",
       "alt": "San Andreas map"
     },
     {

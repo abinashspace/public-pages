@@ -15,13 +15,13 @@ included here for a personal, non-commercial reference site and are not licensed
 - Anything unmatched stays a generated placeholder and is listed as such in
   `data/images.json`.
 
-2026-11-16T06:00:23.321Z
+2026-11-16T06:13:38.455Z
 
 | Kind | Real | Slots |
 |---|---|---|
 | cover | 17 | 17 |
 | banner | 17 | 17 |
-| map | 0 | 17 |
+| map | 3 | 17 |
 | portrait | 189 | 221 |
 | mission | 626 | 840 |
 | vehicle | 1491 | 1560 |
@@ -29,4 +29,4 @@ included here for a personal, non-commercial reference site and are not licensed
 | cheat | 0 | 452 |
 | location | 105 | 144 |
 | collectible | 33 | 49 |
-| **total** | **2791** | **3807** |
+| **total** | **2794** | **3807** |

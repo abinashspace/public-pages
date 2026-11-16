@@ -5,7 +5,7 @@
     "year": 2002,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T06:00:23.016Z",
+    "generated": "2026-11-16T06:13:38.146Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -28,7 +28,7 @@
     "images": {
       "cover": "assets/img/cover/gta-vice-city/cover.jpg",
       "banner": "assets/img/banner/gta-vice-city/banner.jpg",
-      "map": "assets/img/map/gta-vice-city/map.svg"
+      "map": "assets/img/map/gta-vice-city/map.jpg"
     },
     "sources": [
       "In-game mission list",
