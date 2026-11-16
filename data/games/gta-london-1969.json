@@ -5,7 +5,7 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.568Z",
+    "generated": "2026-11-16T03:33:23.846Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -26,8 +26,8 @@
       "collectibles": 0
     },
     "images": {
-      "cover": "assets/img/cover/gta-london-1969/cover.svg",
-      "banner": "assets/img/banner/gta-london-1969/banner.svg",
+      "cover": "assets/img/cover/gta-london-1969/cover.jpg",
+      "banner": "assets/img/banner/gta-london-1969/banner.jpg",
       "map": "assets/img/map/gta-london-1969/map.svg"
     },
     "sources": [
@@ -48,7 +48,7 @@
         "summary": "One of the London mission contacts in the expansion.",
         "status": "Alive",
         "verified": false,
-        "image": "assets/img/portrait/gta-london-1969/harold-cartwright.svg"
+        "image": "assets/img/portrait/gta-london-1969/harold-cartwright.png"
       },
       {
         "id": "player-character",

@@ -14,7 +14,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/ap-pistol.svg"
+      "image": "assets/img/weapon/gta-online/ap-pistol.png"
     },
     {
       "id": "grenade-launcher",
@@ -25,7 +25,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/grenade-launcher.svg"
+      "image": "assets/img/weapon/gta-online/grenade-launcher.png"
     },
     {
       "id": "heavy-sniper",
@@ -36,7 +36,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/heavy-sniper.svg"
+      "image": "assets/img/weapon/gta-online/heavy-sniper.png"
     },
     {
       "id": "rpg",
@@ -47,7 +47,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/rpg.svg"
+      "image": "assets/img/weapon/gta-online/rpg.png"
     },
     {
       "id": "special-carbine",
@@ -58,7 +58,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/special-carbine.svg"
+      "image": "assets/img/weapon/gta-online/special-carbine.png"
     },
     {
       "id": "sticky-bombs",
@@ -69,7 +69,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-online/sticky-bombs.svg"
+      "image": "assets/img/weapon/gta-online/sticky-bombs.png"
     }
   ]
 }

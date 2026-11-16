@@ -15,7 +15,7 @@
       "first_appearance": "Grand Theft Auto VI",
       "verified": true,
       "source": "Rockstar Games GTA VI Trailer 1",
-      "image": "assets/img/portrait/gta-vi/jason.svg"
+      "image": "assets/img/portrait/gta-vi/jason.png"
     },
     {
       "id": "lucia",
@@ -27,7 +27,7 @@
       "first_appearance": "Grand Theft Auto VI",
       "verified": true,
       "source": "Rockstar Games GTA VI Trailer 1",
-      "image": "assets/img/portrait/gta-vi/lucia.svg"
+      "image": "assets/img/portrait/gta-vi/lucia.png"
     }
   ]
 }

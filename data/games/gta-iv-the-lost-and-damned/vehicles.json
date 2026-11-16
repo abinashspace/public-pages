@@ -11,7 +11,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/admiral.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/admiral.png"
     },
     {
       "id": "airtug",
@@ -19,7 +19,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/airtug.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/airtug.png"
     },
     {
       "id": "ambulance",
@@ -27,7 +27,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ambulance.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ambulance.png"
     },
     {
       "id": "angel",
@@ -35,7 +35,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/angel.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/angel.png"
     },
     {
       "id": "annihilator",
@@ -43,7 +43,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/annihilator.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/annihilator.png"
     },
     {
       "id": "bagger",
@@ -61,7 +61,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/banshee.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/banshee.png"
     },
     {
       "id": "bati-800",
@@ -72,7 +72,7 @@
       "class": "Sport bike",
       "top_speed_kph": 250,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-800.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-800.png"
     },
     {
       "id": "bati-custom",
@@ -80,7 +80,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-custom.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-custom.png"
     },
     {
       "id": "benson",
@@ -88,7 +88,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/benson.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/benson.png"
     },
     {
       "id": "biff",
@@ -96,7 +96,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/biff.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/biff.png"
     },
     {
       "id": "blista-compact",
@@ -112,7 +112,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bobcat.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bobcat.png"
     },
     {
       "id": "boxville",
@@ -120,7 +120,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/boxville.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/boxville.png"
     },
     {
       "id": "bucanneer",
@@ -136,7 +136,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/burrito.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/burrito.png"
     },
     {
       "id": "bus",
@@ -144,7 +144,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bus.png"
     },
     {
       "id": "cabby",
@@ -152,7 +152,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cabby.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cabby.png"
     },
     {
       "id": "cablecar",
@@ -160,7 +160,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cablecar.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cablecar.png"
     },
     {
       "id": "cavalcade",
@@ -168,7 +168,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade.png"
     },
     {
       "id": "cavalcade-fxt",
@@ -176,7 +176,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade-fxt.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade-fxt.png"
     },
     {
       "id": "chavos",
@@ -184,7 +184,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/chavos.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/chavos.png"
     },
     {
       "id": "cognoscenti",
@@ -192,7 +192,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cognoscenti.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cognoscenti.png"
     },
     {
       "id": "comet",
@@ -200,7 +200,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/comet.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/comet.png"
     },
     {
       "id": "contender",
@@ -208,7 +208,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/contender.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/contender.png"
     },
     {
       "id": "coquette",
@@ -216,7 +216,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/coquette.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/coquette.png"
     },
     {
       "id": "daemon",
@@ -227,7 +227,7 @@
       "class": "Cruiser",
       "top_speed_kph": 180,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/daemon.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/daemon.png"
     },
     {
       "id": "df8-90",
@@ -235,7 +235,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/df8-90.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/df8-90.png"
     },
     {
       "id": "diabolus",
@@ -243,7 +243,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/diabolus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/diabolus.png"
     },
     {
       "id": "dilettante",
@@ -251,7 +251,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dilettante.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dilettante.png"
     },
     {
       "id": "dinghy",
@@ -259,7 +259,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dinghy.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dinghy.png"
     },
     {
       "id": "double-t",
@@ -270,7 +270,7 @@
       "class": "Sport bike",
       "top_speed_kph": 240,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t.png"
     },
     {
       "id": "double-t-custom",
@@ -278,7 +278,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t-custom.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t-custom.png"
     },
     {
       "id": "dukes",
@@ -286,7 +286,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dukes.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dukes.png"
     },
     {
       "id": "emperor",
@@ -294,7 +294,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/emperor.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/emperor.png"
     },
     {
       "id": "enforcer",
@@ -302,7 +302,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/enforcer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/enforcer.png"
     },
     {
       "id": "esperanto",
@@ -310,7 +310,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/esperanto.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/esperanto.png"
     },
     {
       "id": "faction",
@@ -318,7 +318,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faction.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faction.png"
     },
     {
       "id": "faggio",
@@ -326,7 +326,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faggio.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faggio.png"
     },
     {
       "id": "fbi-buffalo",
@@ -344,7 +344,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feltzer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feltzer.png"
     },
     {
       "id": "feroci",
@@ -352,7 +352,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feroci.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feroci.png"
     },
     {
       "id": "fib-buffalo",
@@ -360,7 +360,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fib-buffalo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fib-buffalo.png"
     },
     {
       "id": "fire-truck",
@@ -368,7 +368,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fire-truck.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fire-truck.png"
     },
     {
       "id": "flatbed",
@@ -376,7 +376,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/flatbed.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/flatbed.png"
     },
     {
       "id": "forklift",
@@ -384,7 +384,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/forklift.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/forklift.png"
     },
     {
       "id": "fortune",
@@ -392,7 +392,7 @@
       "category": "Coupes & hatchbacks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fortune.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fortune.png"
     },
     {
       "id": "freeway",
@@ -400,7 +400,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/freeway.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/freeway.png"
     },
     {
       "id": "futo",
@@ -408,7 +408,7 @@
       "category": "Coupes & hatchbacks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/futo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/futo.png"
     },
     {
       "id": "gang-burrito",
@@ -419,7 +419,7 @@
       "class": "Gang",
       "top_speed_kph": 160,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/gang-burrito.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/gang-burrito.png"
     },
     {
       "id": "habanero",
@@ -427,7 +427,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/habanero.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/habanero.png"
     },
     {
       "id": "hakuchou",
@@ -435,7 +435,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou.png"
     },
     {
       "id": "hakuchou-custom",
@@ -443,7 +443,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou-custom.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou-custom.png"
     },
     {
       "id": "hakumai",
@@ -451,7 +451,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakumai.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakumai.png"
     },
     {
       "id": "helitours-maverick",
@@ -459,7 +459,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/helitours-maverick.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/helitours-maverick.png"
     },
     {
       "id": "hellfury",
@@ -467,7 +467,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hellfury.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hellfury.png"
     },
     {
       "id": "hexer",
@@ -478,7 +478,7 @@
       "class": "Custom cruiser",
       "top_speed_kph": 190,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hexer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hexer.png"
     },
     {
       "id": "huntley-sport",
@@ -486,7 +486,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/huntley-sport.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/huntley-sport.png"
     },
     {
       "id": "infernus",
@@ -494,7 +494,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/infernus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/infernus.png"
     },
     {
       "id": "ingot",
@@ -502,7 +502,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ingot.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ingot.png"
     },
     {
       "id": "innovation",
@@ -513,7 +513,7 @@
       "class": "Cruiser",
       "top_speed_kph": 180,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/innovation.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/innovation.png"
     },
     {
       "id": "intruder",
@@ -521,7 +521,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/intruder.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/intruder.png"
     },
     {
       "id": "jetmax",
@@ -529,7 +529,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/jetmax.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/jetmax.png"
     },
     {
       "id": "landstalker",
@@ -537,7 +537,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/landstalker.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/landstalker.png"
     },
     {
       "id": "laundromat",
@@ -545,7 +545,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/laundromat.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/laundromat.png"
     },
     {
       "id": "lokus",
@@ -553,7 +553,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lokus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lokus.png"
     },
     {
       "id": "lycan",
@@ -564,7 +564,7 @@
       "class": "Custom cruiser",
       "top_speed_kph": 190,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lycan.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lycan.png"
     },
     {
       "id": "manana",
@@ -572,7 +572,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/manana.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/manana.png"
     },
     {
       "id": "marbelle",
@@ -580,7 +580,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marbelle.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marbelle.png"
     },
     {
       "id": "marquis",
@@ -588,7 +588,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marquis.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marquis.png"
     },
     {
       "id": "maverick",
@@ -596,7 +596,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/maverick.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/maverick.png"
     },
     {
       "id": "merit",
@@ -604,7 +604,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/merit.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/merit.png"
     },
     {
       "id": "minivan",
@@ -612,7 +612,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/minivan.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/minivan.png"
     },
     {
       "id": "moonbeam",
@@ -620,7 +620,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/moonbeam.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/moonbeam.png"
     },
     {
       "id": "mr-tasty",
@@ -628,7 +628,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mr-tasty.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mr-tasty.png"
     },
     {
       "id": "mule",
@@ -636,7 +636,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mule.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mule.png"
     },
     {
       "id": "nightblade",
@@ -647,7 +647,7 @@
       "class": "Custom cruiser",
       "top_speed_kph": 185,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nightblade.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nightblade.png"
     },
     {
       "id": "noose-cruiser",
@@ -655,7 +655,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-cruiser.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-cruiser.png"
     },
     {
       "id": "noose-patriot",
@@ -663,7 +663,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-patriot.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-patriot.png"
     },
     {
       "id": "nrg-900",
@@ -671,7 +671,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nrg-900.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nrg-900.png"
     },
     {
       "id": "oracle",
@@ -679,7 +679,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/oracle.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/oracle.png"
     },
     {
       "id": "packer",
@@ -687,7 +687,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/packer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/packer.png"
     },
     {
       "id": "patriot",
@@ -695,7 +695,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/patriot.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/patriot.png"
     },
     {
       "id": "pcj-600",
@@ -703,7 +703,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pcj-600.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pcj-600.png"
     },
     {
       "id": "perennial",
@@ -711,7 +711,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/perennial.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/perennial.png"
     },
     {
       "id": "peyote",
@@ -719,7 +719,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/peyote.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/peyote.png"
     },
     {
       "id": "phantom",
@@ -727,7 +727,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/phantom.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/phantom.png"
     },
     {
       "id": "pinnacle",
@@ -735,7 +735,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pinnacle.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pinnacle.png"
     },
     {
       "id": "pmp-600",
@@ -743,7 +743,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pmp-600.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pmp-600.png"
     },
     {
       "id": "police-cruiser",
@@ -754,7 +754,7 @@
       "class": "Police",
       "top_speed_kph": 225,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-cruiser.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-cruiser.png"
     },
     {
       "id": "police-maverick",
@@ -762,7 +762,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-maverick.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-maverick.png"
     },
     {
       "id": "police-patrol",
@@ -770,7 +770,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-patrol.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-patrol.png"
     },
     {
       "id": "police-predator",
@@ -778,7 +778,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-predator.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-predator.png"
     },
     {
       "id": "pony",
@@ -786,7 +786,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pony.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pony.png"
     },
     {
       "id": "premier",
@@ -794,7 +794,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/premier.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/premier.png"
     },
     {
       "id": "presidente",
@@ -802,7 +802,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/presidente.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/presidente.png"
     },
     {
       "id": "primo",
@@ -810,7 +810,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/primo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/primo.png"
     },
     {
       "id": "prison-bus",
@@ -818,7 +818,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/prison-bus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/prison-bus.png"
     },
     {
       "id": "rancher",
@@ -826,7 +826,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rancher.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rancher.png"
     },
     {
       "id": "rebla",
@@ -834,7 +834,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rebla.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rebla.png"
     },
     {
       "id": "reefer",
@@ -842,7 +842,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/reefer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/reefer.png"
     },
     {
       "id": "regina",
@@ -850,7 +850,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/regina.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/regina.png"
     },
     {
       "id": "revenant",
@@ -861,7 +861,7 @@
       "class": "Custom cruiser",
       "top_speed_kph": 185,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/revenant.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/revenant.png"
     },
     {
       "id": "rhapsody",
@@ -869,7 +869,7 @@
       "category": "Coupes & hatchbacks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rhapsody.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rhapsody.png"
     },
     {
       "id": "ripley",
@@ -877,7 +877,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ripley.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ripley.png"
     },
     {
       "id": "romans-taxi",
@@ -885,7 +885,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/romans-taxi.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/romans-taxi.png"
     },
     {
       "id": "ruiner",
@@ -893,7 +893,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ruiner.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ruiner.png"
     },
     {
       "id": "sabre",
@@ -901,7 +901,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre.png"
     },
     {
       "id": "sabre-gt",
@@ -909,7 +909,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre-gt.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre-gt.png"
     },
     {
       "id": "sanchez",
@@ -917,7 +917,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sanchez.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sanchez.png"
     },
     {
       "id": "schafter",
@@ -925,7 +925,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/schafter.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/schafter.png"
     },
     {
       "id": "securicar",
@@ -933,7 +933,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/securicar.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/securicar.png"
     },
     {
       "id": "sentinel",
@@ -941,7 +941,7 @@
       "category": "Coupes & hatchbacks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sentinel.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sentinel.png"
     },
     {
       "id": "slamvan",
@@ -952,7 +952,7 @@
       "class": "Lowrider",
       "top_speed_kph": 190,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/slamvan.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/slamvan.png"
     },
     {
       "id": "solair",
@@ -960,7 +960,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/solair.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/solair.png"
     },
     {
       "id": "speedo",
@@ -968,7 +968,7 @@
       "category": "Light trucks & vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/speedo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/speedo.png"
     },
     {
       "id": "squalo",
@@ -976,7 +976,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/squalo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/squalo.png"
     },
     {
       "id": "stallion",
@@ -984,7 +984,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stallion.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stallion.png"
     },
     {
       "id": "steed",
@@ -992,7 +992,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/steed.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/steed.png"
     },
     {
       "id": "stratum",
@@ -1000,7 +1000,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stratum.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stratum.png"
     },
     {
       "id": "stretch",
@@ -1008,7 +1008,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stretch.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stretch.png"
     },
     {
       "id": "subway",
@@ -1024,7 +1024,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan.png"
     },
     {
       "id": "sultan-rs",
@@ -1032,7 +1032,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan-rs.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan-rs.png"
     },
     {
       "id": "supergt",
@@ -1040,7 +1040,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/supergt.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/supergt.png"
     },
     {
       "id": "tampa",
@@ -1048,7 +1048,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tampa.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tampa.png"
     },
     {
       "id": "taxi",
@@ -1056,7 +1056,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/taxi.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/taxi.png"
     },
     {
       "id": "tow-truck",
@@ -1064,7 +1064,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tow-truck.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tow-truck.png"
     },
     {
       "id": "trashmaster",
@@ -1072,7 +1072,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/trashmaster.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/trashmaster.png"
     },
     {
       "id": "tropic",
@@ -1080,7 +1080,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tropic.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tropic.png"
     },
     {
       "id": "tug",
@@ -1088,7 +1088,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tug.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tug.png"
     },
     {
       "id": "turismo",
@@ -1096,7 +1096,7 @@
       "category": "Sports & supercars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/turismo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/turismo.png"
     },
     {
       "id": "uranus",
@@ -1104,7 +1104,7 @@
       "category": "Coupes & hatchbacks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/uranus.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/uranus.png"
     },
     {
       "id": "vigero",
@@ -1112,7 +1112,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vigero.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vigero.png"
     },
     {
       "id": "vincent",
@@ -1120,7 +1120,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vincent.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vincent.png"
     },
     {
       "id": "virgo",
@@ -1128,7 +1128,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/virgo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/virgo.png"
     },
     {
       "id": "voodoo",
@@ -1136,7 +1136,7 @@
       "category": "Muscle cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/voodoo.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/voodoo.png"
     },
     {
       "id": "washington",
@@ -1144,7 +1144,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/washington.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/washington.png"
     },
     {
       "id": "wayfarer",
@@ -1152,7 +1152,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wayfarer.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wayfarer.png"
     },
     {
       "id": "willard",
@@ -1160,7 +1160,7 @@
       "category": "Sedans & station wagons",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/willard.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/willard.png"
     },
     {
       "id": "wolfsbane",
@@ -1171,7 +1171,7 @@
       "class": "Custom cruiser",
       "top_speed_kph": 185,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wolfsbane.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wolfsbane.png"
     },
     {
       "id": "yankee",
@@ -1179,7 +1179,7 @@
       "category": "Commercial & industrial",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/yankee.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/yankee.png"
     },
     {
       "id": "zombie",
@@ -1187,7 +1187,7 @@
       "category": "Motorcycles",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/zombie.svg"
+      "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/zombie.png"
     }
   ]
 }

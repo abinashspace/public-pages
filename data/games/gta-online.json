@@ -5,7 +5,7 @@
     "year": 2013,
     "type": "Online",
     "status": "live",
-    "generated": "2026-11-15T23:43:20.882Z",
+    "generated": "2026-11-16T03:33:24.149Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -26,8 +26,8 @@
       "collectibles": 3
     },
     "images": {
-      "cover": "assets/img/cover/gta-online/cover.svg",
-      "banner": "assets/img/banner/gta-online/banner.svg",
+      "cover": "assets/img/cover/gta-online/cover.jpg",
+      "banner": "assets/img/banner/gta-online/banner.jpg",
       "map": "assets/img/map/gta-online/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "summary": "Casino contact for the Diamond Casino & Resort storyline.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/agatha-baker.svg"
+        "image": "assets/img/portrait/gta-online/agatha-baker.png"
       },
       {
         "id": "agent-14",
@@ -61,7 +61,7 @@
         "summary": "Government handler for the Doomsday Heist and bunker research.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/agent-14.svg"
+        "image": "assets/img/portrait/gta-online/agent-14.png"
       },
       {
         "id": "ceo-office",
@@ -94,7 +94,7 @@
         "summary": "Returns as a contact for early low-level jobs and the Lowriders storyline.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/lamar-davis.svg"
+        "image": "assets/img/portrait/gta-online/lamar-davis.png"
       },
       {
         "id": "lester-crest",
@@ -106,7 +106,7 @@
         "summary": "Plans the original apartment heists and the Doomsday Scenario.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/lester-crest.svg"
+        "image": "assets/img/portrait/gta-online/lester-crest.png"
       },
       {
         "id": "miguel-madrazo",
@@ -118,7 +118,7 @@
         "summary": "Ranch-hand turned contact after his father's fall.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/miguel-madrazo.svg"
+        "image": "assets/img/portrait/gta-online/miguel-madrazo.png"
       },
       {
         "id": "online-player",
@@ -143,7 +143,7 @@
         "summary": "Submarine commander and planner of the Cayo Perico Heist.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/pavel.svg"
+        "image": "assets/img/portrait/gta-online/pavel.png"
       },
       {
         "id": "tom-connors",
@@ -155,7 +155,7 @@
         "summary": "Casino manager tied to the Diamond Casino Heist.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-online/tom-connors.svg"
+        "image": "assets/img/portrait/gta-online/tom-connors.png"
       },
       {
         "id": "tony-prince",
@@ -165,7 +165,7 @@
         "summary": "Gives 1 mission in gta-online, starting with \"Nightclub management\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-online/tony-prince.svg"
+        "image": "assets/img/portrait/gta-online/tony-prince.png"
       }
     ]
   },
@@ -305,7 +305,7 @@
         "top_speed_kph": 250,
         "seats": 4,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/buzzard-attack.svg"
+        "image": "assets/img/vehicle/gta-online/buzzard-attack.png"
       },
       {
         "id": "deluxo",
@@ -315,7 +315,7 @@
         "top_speed_kph": 200,
         "seats": 2,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/deluxo.svg"
+        "image": "assets/img/vehicle/gta-online/deluxo.png"
       },
       {
         "id": "hydra",
@@ -325,7 +325,7 @@
         "top_speed_kph": 500,
         "seats": 1,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/hydra.svg"
+        "image": "assets/img/vehicle/gta-online/hydra.png"
       },
       {
         "id": "insurgent-pickup-custom",
@@ -335,7 +335,7 @@
         "top_speed_kph": 260,
         "seats": 4,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.svg"
+        "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.png"
       },
       {
         "id": "kosatka",
@@ -345,7 +345,7 @@
         "top_speed_kph": 40,
         "seats": 4,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/kosatka.svg"
+        "image": "assets/img/vehicle/gta-online/kosatka.png"
       },
       {
         "id": "nightshark",
@@ -355,7 +355,7 @@
         "top_speed_kph": 250,
         "seats": 4,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/nightshark.svg"
+        "image": "assets/img/vehicle/gta-online/nightshark.png"
       },
       {
         "id": "oppressor-mk-ii",
@@ -365,7 +365,7 @@
         "top_speed_kph": 220,
         "seats": 1,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.svg"
+        "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.png"
       },
       {
         "id": "toreador",
@@ -375,7 +375,7 @@
         "top_speed_kph": 230,
         "seats": 2,
         "verified": true,
-        "image": "assets/img/vehicle/gta-online/toreador.svg"
+        "image": "assets/img/vehicle/gta-online/toreador.png"
       }
     ]
   },
@@ -391,7 +391,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/ap-pistol.svg"
+        "image": "assets/img/weapon/gta-online/ap-pistol.png"
       },
       {
         "id": "grenade-launcher",
@@ -402,7 +402,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/grenade-launcher.svg"
+        "image": "assets/img/weapon/gta-online/grenade-launcher.png"
       },
       {
         "id": "heavy-sniper",
@@ -413,7 +413,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/heavy-sniper.svg"
+        "image": "assets/img/weapon/gta-online/heavy-sniper.png"
       },
       {
         "id": "rpg",
@@ -424,7 +424,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/rpg.svg"
+        "image": "assets/img/weapon/gta-online/rpg.png"
       },
       {
         "id": "special-carbine",
@@ -435,7 +435,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/special-carbine.svg"
+        "image": "assets/img/weapon/gta-online/special-carbine.png"
       },
       {
         "id": "sticky-bombs",
@@ -446,7 +446,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-online/sticky-bombs.svg"
+        "image": "assets/img/weapon/gta-online/sticky-bombs.png"
       }
     ]
   },

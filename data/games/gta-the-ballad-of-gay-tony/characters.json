@@ -15,7 +15,7 @@
       "summary": "Luis's mother, who disapproves of his life choices.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/adriana-yanira.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/adriana-yanira.jpg"
     },
     {
       "id": "armando-torres",
@@ -27,7 +27,7 @@
       "summary": "Luis's childhood friend and partner in the drug trade.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/armando-torres.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/armando-torres.png"
     },
     {
       "id": "brucie-kibbutz",
@@ -39,7 +39,7 @@
       "summary": "Returns from GTA IV as Luis's occasional ally.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/brucie-kibbutz.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/brucie-kibbutz.png"
     },
     {
       "id": "dessie-ron",
@@ -63,7 +63,7 @@
       "summary": "Mob daughter whose abduction becomes a bargaining chip.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/gracie-ancelotti.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/gracie-ancelotti.png"
     },
     {
       "id": "henrique-bardas",
@@ -75,7 +75,7 @@
       "summary": "Luis's other childhood friend and crew member.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/henrique-bardas.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/henrique-bardas.png"
     },
     {
       "id": "luis-lopez",
@@ -89,7 +89,7 @@
       "status": "Alive",
       "first_appearance": "GTA: The Ballad of Gay Tony",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/luis-lopez.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/luis-lopez.jpg"
     },
     {
       "id": "mori-kibbutz",
@@ -101,7 +101,7 @@
       "summary": "Brucie's brother and Luis's loudmouthed rival.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/mori-kibbutz.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/mori-kibbutz.png"
     },
     {
       "id": "ray-bulgarin",
@@ -113,7 +113,7 @@
       "summary": "Russian crime boss with a grudge against Luis and Tony.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/ray-bulgarin.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/ray-bulgarin.png"
     },
     {
       "id": "rocco-pelosi",
@@ -125,7 +125,7 @@
       "summary": "Ancelotti associate who keeps dragging Luis into mob trouble.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/rocco-pelosi.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/rocco-pelosi.png"
     },
     {
       "id": "tony-prince",
@@ -138,7 +138,7 @@
       "summary": "Luis's boss, a nightlife impresario drowning in debt to the wrong people.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/tony-prince.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/tony-prince.png"
     },
     {
       "id": "yusuf-amir",
@@ -150,7 +150,7 @@
       "summary": "Eccentric billionaire property developer with a taste for gold and helicopters.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/yusuf-amir.svg"
+      "image": "assets/img/portrait/gta-the-ballad-of-gay-tony/yusuf-amir.png"
     }
   ]
 }

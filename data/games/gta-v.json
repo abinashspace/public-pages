@@ -5,7 +5,7 @@
     "year": 2013,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.855Z",
+    "generated": "2026-11-16T03:33:24.125Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -26,8 +26,8 @@
       "collectibles": 6
     },
     "images": {
-      "cover": "assets/img/cover/gta-v/cover.svg",
-      "banner": "assets/img/banner/gta-v/banner.svg",
+      "cover": "assets/img/cover/gta-v/cover.png",
+      "banner": "assets/img/banner/gta-v/banner.png",
       "map": "assets/img/map/gta-v/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "summary": "Michael's estranged wife, spending his money and testing the marriage.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/amanda-de-santa.svg"
+        "image": "assets/img/portrait/gta-v/amanda-de-santa.png"
       },
       {
         "id": "dave-norton",
@@ -61,7 +61,7 @@
         "summary": "The agent who put Michael in witness protection and keeps pulling him back in.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/dave-norton.svg"
+        "image": "assets/img/portrait/gta-v/dave-norton.png"
       },
       {
         "id": "dave-norton-fib",
@@ -71,7 +71,7 @@
         "summary": "Gives 3 missions in gta-v, starting with \"Dead Man Walking\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-v/dave-norton-fib.svg"
+        "image": "assets/img/portrait/gta-v/dave-norton-fib.png"
       },
       {
         "id": "devin-weston",
@@ -83,7 +83,7 @@
         "summary": "A billionaire who treats the crew as disposable contractors.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/devin-weston.svg"
+        "image": "assets/img/portrait/gta-v/devin-weston.jpg"
       },
       {
         "id": "dr-friedlander",
@@ -95,7 +95,7 @@
         "summary": "Michael's opportunistic psychiatrist, recordable as a collectible side objective.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/dr-friedlander.svg"
+        "image": "assets/img/portrait/gta-v/dr-friedlander.png"
       },
       {
         "id": "franklin-clinton",
@@ -108,7 +108,7 @@
         "summary": "A repo man from South Los Santos who wants a bigger life than gang politics allow.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/franklin-clinton.svg"
+        "image": "assets/img/portrait/gta-v/franklin-clinton.png"
       },
       {
         "id": "jimmy-de-santa",
@@ -120,7 +120,7 @@
         "summary": "Michael's aimless son, obsessed with games and internet fame.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/jimmy-de-santa.svg"
+        "image": "assets/img/portrait/gta-v/jimmy-de-santa.png"
       },
       {
         "id": "lamar-davis",
@@ -132,7 +132,7 @@
         "summary": "Franklin's best friend, whose schemes constantly put them both in danger.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/lamar-davis.svg"
+        "image": "assets/img/portrait/gta-v/lamar-davis.png"
       },
       {
         "id": "lester-crest",
@@ -144,7 +144,7 @@
         "summary": "A reclusive hacker and strategist who plans the crew's heists.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/lester-crest.svg"
+        "image": "assets/img/portrait/gta-v/lester-crest.png"
       },
       {
         "id": "martin-madrazo",
@@ -156,7 +156,7 @@
         "summary": "A Mexican drug lord with a mansion in Vinewood Hills.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/martin-madrazo.svg"
+        "image": "assets/img/portrait/gta-v/martin-madrazo.png"
       },
       {
         "id": "michael-de-santa",
@@ -170,7 +170,7 @@
         "status": "Alive",
         "first_appearance": "Grand Theft Auto V",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/michael-de-santa.svg"
+        "image": "assets/img/portrait/gta-v/michael-de-santa.png"
       },
       {
         "id": "molly-schultz",
@@ -182,7 +182,7 @@
         "summary": "Devin Weston's lawyer and fixer.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/molly-schultz.svg"
+        "image": "assets/img/portrait/gta-v/molly-schultz.png"
       },
       {
         "id": "none-flashback",
@@ -204,7 +204,7 @@
         "summary": "Martin's wife, who leaves him for Trevor.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/patricia-madrazo.svg"
+        "image": "assets/img/portrait/gta-v/patricia-madrazo.png"
       },
       {
         "id": "ron-jakowski",
@@ -216,7 +216,7 @@
         "summary": "Trevor's paranoid radio-operator and business partner.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/ron-jakowski.svg"
+        "image": "assets/img/portrait/gta-v/ron-jakowski.png"
       },
       {
         "id": "simeon-yetarian",
@@ -228,7 +228,7 @@
         "summary": "A shady luxury car dealer who employs Franklin and Michael.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/simeon-yetarian.svg"
+        "image": "assets/img/portrait/gta-v/simeon-yetarian.png"
       },
       {
         "id": "solomon-richards",
@@ -238,7 +238,7 @@
         "summary": "Gives 3 missions in gta-v, starting with \"Mr. Richards\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-v/solomon-richards.svg"
+        "image": "assets/img/portrait/gta-v/solomon-richards.png"
       },
       {
         "id": "steve-haines",
@@ -250,7 +250,7 @@
         "summary": "A publicity-hungry FIB agent who blackmails the crew into government jobs.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/steve-haines.svg"
+        "image": "assets/img/portrait/gta-v/steve-haines.png"
       },
       {
         "id": "steve-haines-fib",
@@ -260,7 +260,7 @@
         "summary": "Gives 10 missions in gta-v, starting with \"By the Book\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-v/steve-haines-fib.svg"
+        "image": "assets/img/portrait/gta-v/steve-haines-fib.png"
       },
       {
         "id": "stretch",
@@ -272,7 +272,7 @@
         "summary": "Lamar's former associate who betrays the crew.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/stretch.svg"
+        "image": "assets/img/portrait/gta-v/stretch.png"
       },
       {
         "id": "tao-cheng",
@@ -282,7 +282,7 @@
         "summary": "Gives 2 missions in gta-v, starting with \"Trevor Philips Industries\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-v/tao-cheng.svg"
+        "image": "assets/img/portrait/gta-v/tao-cheng.png"
       },
       {
         "id": "tracey-de-santa",
@@ -294,7 +294,7 @@
         "summary": "Michael's daughter, chasing reality-TV fame.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/tracey-de-santa.svg"
+        "image": "assets/img/portrait/gta-v/tracey-de-santa.png"
       },
       {
         "id": "trevor-philips",
@@ -307,7 +307,7 @@
         "summary": "A violent, unpredictable career criminal running arms and drugs out of Sandy Shores.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/trevor-philips.svg"
+        "image": "assets/img/portrait/gta-v/trevor-philips.png"
       },
       {
         "id": "wade-hebert",
@@ -319,7 +319,7 @@
         "summary": "Trevor's loyal but simple-minded friend.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-v/wade-hebert.svg"
+        "image": "assets/img/portrait/gta-v/wade-hebert.png"
       }
     ]
   },
@@ -1497,7 +1497,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/9f.svg"
+        "image": "assets/img/vehicle/gta-v/9f.png"
       },
       {
         "id": "9f-cabrio",
@@ -1505,7 +1505,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/9f-cabrio.svg"
+        "image": "assets/img/vehicle/gta-v/9f-cabrio.png"
       },
       {
         "id": "adder",
@@ -1516,7 +1516,7 @@
         "class": "Super",
         "top_speed_kph": 400,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/adder.svg"
+        "image": "assets/img/vehicle/gta-v/adder.png"
       },
       {
         "id": "airport-bus",
@@ -1524,7 +1524,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/airport-bus.svg"
+        "image": "assets/img/vehicle/gta-v/airport-bus.png"
       },
       {
         "id": "airtug",
@@ -1532,7 +1532,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/airtug.svg"
+        "image": "assets/img/vehicle/gta-v/airtug.png"
       },
       {
         "id": "akuma",
@@ -1540,7 +1540,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/akuma.svg"
+        "image": "assets/img/vehicle/gta-v/akuma.png"
       },
       {
         "id": "alpha",
@@ -1548,7 +1548,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/alpha.svg"
+        "image": "assets/img/vehicle/gta-v/alpha.png"
       },
       {
         "id": "ambulance",
@@ -1559,7 +1559,7 @@
         "class": "Medical",
         "top_speed_kph": 165,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/ambulance.svg"
+        "image": "assets/img/vehicle/gta-v/ambulance.png"
       },
       {
         "id": "army-trailer",
@@ -1567,7 +1567,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/army-trailer.svg"
+        "image": "assets/img/vehicle/gta-v/army-trailer.png"
       },
       {
         "id": "asea",
@@ -1575,7 +1575,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/asea.svg"
+        "image": "assets/img/vehicle/gta-v/asea.png"
       },
       {
         "id": "asea-snowed",
@@ -1583,7 +1583,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/asea-snowed.svg"
+        "image": "assets/img/vehicle/gta-v/asea-snowed.png"
       },
       {
         "id": "asterope",
@@ -1591,7 +1591,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/asterope.svg"
+        "image": "assets/img/vehicle/gta-v/asterope.png"
       },
       {
         "id": "atomic-blimp",
@@ -1599,7 +1599,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/atomic-blimp.svg"
+        "image": "assets/img/vehicle/gta-v/atomic-blimp.png"
       },
       {
         "id": "bagger",
@@ -1607,7 +1607,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bagger.svg"
+        "image": "assets/img/vehicle/gta-v/bagger.png"
       },
       {
         "id": "baller",
@@ -1615,7 +1615,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/baller.svg"
+        "image": "assets/img/vehicle/gta-v/baller.png"
       },
       {
         "id": "banshee",
@@ -1626,7 +1626,7 @@
         "class": "Sports",
         "top_speed_kph": 330,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/banshee.svg"
+        "image": "assets/img/vehicle/gta-v/banshee.png"
       },
       {
         "id": "barracks",
@@ -1634,7 +1634,7 @@
         "category": "Military",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/barracks.svg"
+        "image": "assets/img/vehicle/gta-v/barracks.png"
       },
       {
         "id": "barracks-semi",
@@ -1642,7 +1642,7 @@
         "category": "Military",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/barracks-semi.svg"
+        "image": "assets/img/vehicle/gta-v/barracks-semi.png"
       },
       {
         "id": "bati-801",
@@ -1650,7 +1650,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bati-801.svg"
+        "image": "assets/img/vehicle/gta-v/bati-801.png"
       },
       {
         "id": "bati-801rr",
@@ -1658,7 +1658,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bati-801rr.svg"
+        "image": "assets/img/vehicle/gta-v/bati-801rr.png"
       },
       {
         "id": "beejay-xl",
@@ -1666,7 +1666,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/beejay-xl.svg"
+        "image": "assets/img/vehicle/gta-v/beejay-xl.png"
       },
       {
         "id": "benson",
@@ -1674,7 +1674,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/benson.svg"
+        "image": "assets/img/vehicle/gta-v/benson.png"
       },
       {
         "id": "besra",
@@ -1682,7 +1682,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/besra.svg"
+        "image": "assets/img/vehicle/gta-v/besra.png"
       },
       {
         "id": "biff",
@@ -1690,7 +1690,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/biff.svg"
+        "image": "assets/img/vehicle/gta-v/biff.png"
       },
       {
         "id": "bifta",
@@ -1698,7 +1698,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bifta.svg"
+        "image": "assets/img/vehicle/gta-v/bifta.png"
       },
       {
         "id": "bison",
@@ -1709,7 +1709,7 @@
         "class": "Pickup",
         "top_speed_kph": 260,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/bison.svg"
+        "image": "assets/img/vehicle/gta-v/bison.png"
       },
       {
         "id": "blade",
@@ -1717,7 +1717,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/blade.svg"
+        "image": "assets/img/vehicle/gta-v/blade.png"
       },
       {
         "id": "blazer",
@@ -1725,7 +1725,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/blazer.svg"
+        "image": "assets/img/vehicle/gta-v/blazer.png"
       },
       {
         "id": "blazer-lifeguard",
@@ -1733,7 +1733,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/blazer-lifeguard.svg"
+        "image": "assets/img/vehicle/gta-v/blazer-lifeguard.png"
       },
       {
         "id": "blista",
@@ -1741,7 +1741,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/blista.svg"
+        "image": "assets/img/vehicle/gta-v/blista.png"
       },
       {
         "id": "blista-compact",
@@ -1749,7 +1749,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/blista-compact.svg"
+        "image": "assets/img/vehicle/gta-v/blista-compact.png"
       },
       {
         "id": "bmx",
@@ -1757,7 +1757,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bmx.svg"
+        "image": "assets/img/vehicle/gta-v/bmx.png"
       },
       {
         "id": "boat-trailer",
@@ -1765,7 +1765,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/boat-trailer.svg"
+        "image": "assets/img/vehicle/gta-v/boat-trailer.png"
       },
       {
         "id": "bobcat-xl",
@@ -1773,7 +1773,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bobcat-xl.svg"
+        "image": "assets/img/vehicle/gta-v/bobcat-xl.png"
       },
       {
         "id": "bodhi",
@@ -1781,7 +1781,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bodhi.svg"
+        "image": "assets/img/vehicle/gta-v/bodhi.png"
       },
       {
         "id": "boxville",
@@ -1789,7 +1789,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/boxville.svg"
+        "image": "assets/img/vehicle/gta-v/boxville.png"
       },
       {
         "id": "brawler",
@@ -1797,7 +1797,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/brawler.svg"
+        "image": "assets/img/vehicle/gta-v/brawler.png"
       },
       {
         "id": "buccaneer",
@@ -1805,7 +1805,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/buccaneer.svg"
+        "image": "assets/img/vehicle/gta-v/buccaneer.png"
       },
       {
         "id": "buffalo",
@@ -1816,7 +1816,7 @@
         "class": "Muscle",
         "top_speed_kph": 300,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/buffalo.svg"
+        "image": "assets/img/vehicle/gta-v/buffalo.png"
       },
       {
         "id": "buffalo-s",
@@ -1824,7 +1824,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/buffalo-s.svg"
+        "image": "assets/img/vehicle/gta-v/buffalo-s.png"
       },
       {
         "id": "bugstars-burrito",
@@ -1832,7 +1832,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bugstars-burrito.svg"
+        "image": "assets/img/vehicle/gta-v/bugstars-burrito.png"
       },
       {
         "id": "bullet",
@@ -1840,7 +1840,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bullet.svg"
+        "image": "assets/img/vehicle/gta-v/bullet.png"
       },
       {
         "id": "burger-shot-stallion",
@@ -1848,7 +1848,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/burger-shot-stallion.svg"
+        "image": "assets/img/vehicle/gta-v/burger-shot-stallion.png"
       },
       {
         "id": "burrito",
@@ -1856,7 +1856,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/burrito.svg"
+        "image": "assets/img/vehicle/gta-v/burrito.png"
       },
       {
         "id": "bus",
@@ -1864,7 +1864,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/bus.svg"
+        "image": "assets/img/vehicle/gta-v/bus.png"
       },
       {
         "id": "buzzard",
@@ -1875,7 +1875,7 @@
         "class": "Attack helicopter",
         "top_speed_kph": 250,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/buzzard.svg"
+        "image": "assets/img/vehicle/gta-v/buzzard.png"
       },
       {
         "id": "buzzard-attack-chopper",
@@ -1883,7 +1883,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/buzzard-attack-chopper.svg"
+        "image": "assets/img/vehicle/gta-v/buzzard-attack-chopper.png"
       },
       {
         "id": "cable-car",
@@ -1891,7 +1891,7 @@
         "category": "Trains",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cable-car.svg"
+        "image": "assets/img/vehicle/gta-v/cable-car.png"
       },
       {
         "id": "caddy",
@@ -1899,7 +1899,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/caddy.svg"
+        "image": "assets/img/vehicle/gta-v/caddy.png"
       },
       {
         "id": "camper",
@@ -1907,7 +1907,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/camper.svg"
+        "image": "assets/img/vehicle/gta-v/camper.png"
       },
       {
         "id": "carbon-rs",
@@ -1915,7 +1915,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/carbon-rs.svg"
+        "image": "assets/img/vehicle/gta-v/carbon-rs.png"
       },
       {
         "id": "carbonizzare",
@@ -1926,7 +1926,7 @@
         "class": "Sports",
         "top_speed_kph": 330,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/carbonizzare.svg"
+        "image": "assets/img/vehicle/gta-v/carbonizzare.png"
       },
       {
         "id": "cargo-plane",
@@ -1934,7 +1934,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cargo-plane.svg"
+        "image": "assets/img/vehicle/gta-v/cargo-plane.png"
       },
       {
         "id": "cargobob",
@@ -1945,7 +1945,7 @@
         "class": "Transport helicopter",
         "top_speed_kph": 220,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/cargobob.svg"
+        "image": "assets/img/vehicle/gta-v/cargobob.png"
       },
       {
         "id": "cavalcade",
@@ -1953,7 +1953,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cavalcade.svg"
+        "image": "assets/img/vehicle/gta-v/cavalcade.png"
       },
       {
         "id": "cheetah",
@@ -1964,7 +1964,7 @@
         "class": "Super",
         "top_speed_kph": 380,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/cheetah.svg"
+        "image": "assets/img/vehicle/gta-v/cheetah.png"
       },
       {
         "id": "chino",
@@ -1972,7 +1972,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/chino.svg"
+        "image": "assets/img/vehicle/gta-v/chino.png"
       },
       {
         "id": "clown-van",
@@ -1980,7 +1980,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/clown-van.svg"
+        "image": "assets/img/vehicle/gta-v/clown-van.png"
       },
       {
         "id": "cognoscenti-cabrio",
@@ -1988,7 +1988,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cognoscenti-cabrio.svg"
+        "image": "assets/img/vehicle/gta-v/cognoscenti-cabrio.png"
       },
       {
         "id": "comet",
@@ -1999,7 +1999,7 @@
         "class": "Sports",
         "top_speed_kph": 320,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/comet.svg"
+        "image": "assets/img/vehicle/gta-v/comet.png"
       },
       {
         "id": "coquette",
@@ -2007,7 +2007,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/coquette.svg"
+        "image": "assets/img/vehicle/gta-v/coquette.png"
       },
       {
         "id": "coquette-blackfin",
@@ -2015,7 +2015,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/coquette-blackfin.svg"
+        "image": "assets/img/vehicle/gta-v/coquette-blackfin.png"
       },
       {
         "id": "coquette-classic",
@@ -2023,7 +2023,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/coquette-classic.svg"
+        "image": "assets/img/vehicle/gta-v/coquette-classic.png"
       },
       {
         "id": "cruiser",
@@ -2031,7 +2031,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cruiser.svg"
+        "image": "assets/img/vehicle/gta-v/cruiser.png"
       },
       {
         "id": "crusader",
@@ -2039,7 +2039,7 @@
         "category": "Military",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/crusader.svg"
+        "image": "assets/img/vehicle/gta-v/crusader.png"
       },
       {
         "id": "cuban-800",
@@ -2047,7 +2047,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cuban-800.svg"
+        "image": "assets/img/vehicle/gta-v/cuban-800.png"
       },
       {
         "id": "cutter",
@@ -2055,7 +2055,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/cutter.svg"
+        "image": "assets/img/vehicle/gta-v/cutter.png"
       },
       {
         "id": "daemon",
@@ -2063,7 +2063,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/daemon.svg"
+        "image": "assets/img/vehicle/gta-v/daemon.png"
       },
       {
         "id": "dashound",
@@ -2071,7 +2071,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dashound.svg"
+        "image": "assets/img/vehicle/gta-v/dashound.png"
       },
       {
         "id": "dilettante",
@@ -2079,7 +2079,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dilettante.svg"
+        "image": "assets/img/vehicle/gta-v/dilettante.png"
       },
       {
         "id": "dinghy",
@@ -2087,7 +2087,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dinghy.svg"
+        "image": "assets/img/vehicle/gta-v/dinghy.png"
       },
       {
         "id": "dock-handler",
@@ -2095,7 +2095,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dock-handler.svg"
+        "image": "assets/img/vehicle/gta-v/dock-handler.png"
       },
       {
         "id": "dock-trailer",
@@ -2103,7 +2103,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dock-trailer.svg"
+        "image": "assets/img/vehicle/gta-v/dock-trailer.png"
       },
       {
         "id": "docktug",
@@ -2111,7 +2111,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/docktug.svg"
+        "image": "assets/img/vehicle/gta-v/docktug.png"
       },
       {
         "id": "dodo",
@@ -2119,7 +2119,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dodo.svg"
+        "image": "assets/img/vehicle/gta-v/dodo.png"
       },
       {
         "id": "dominator",
@@ -2130,7 +2130,7 @@
         "class": "Muscle",
         "top_speed_kph": 310,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/dominator.svg"
+        "image": "assets/img/vehicle/gta-v/dominator.png"
       },
       {
         "id": "double-t",
@@ -2138,7 +2138,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/double-t.svg"
+        "image": "assets/img/vehicle/gta-v/double-t.png"
       },
       {
         "id": "dozer",
@@ -2146,7 +2146,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dozer.svg"
+        "image": "assets/img/vehicle/gta-v/dozer.png"
       },
       {
         "id": "dubsta",
@@ -2154,7 +2154,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dubsta.svg"
+        "image": "assets/img/vehicle/gta-v/dubsta.png"
       },
       {
         "id": "dubsta-6x6",
@@ -2162,7 +2162,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dubsta-6x6.svg"
+        "image": "assets/img/vehicle/gta-v/dubsta-6x6.png"
       },
       {
         "id": "duke-odeath",
@@ -2170,7 +2170,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/duke-odeath.svg"
+        "image": "assets/img/vehicle/gta-v/duke-odeath.png"
       },
       {
         "id": "dukes",
@@ -2178,7 +2178,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dukes.svg"
+        "image": "assets/img/vehicle/gta-v/dukes.png"
       },
       {
         "id": "dump",
@@ -2186,7 +2186,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dump.svg"
+        "image": "assets/img/vehicle/gta-v/dump.png"
       },
       {
         "id": "dune-buggy",
@@ -2194,7 +2194,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/dune-buggy.svg"
+        "image": "assets/img/vehicle/gta-v/dune-buggy.png"
       },
       {
         "id": "duneloader",
@@ -2202,7 +2202,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/duneloader.svg"
+        "image": "assets/img/vehicle/gta-v/duneloader.png"
       },
       {
         "id": "duster",
@@ -2210,7 +2210,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/duster.svg"
+        "image": "assets/img/vehicle/gta-v/duster.png"
       },
       {
         "id": "elegy-rh8",
@@ -2221,7 +2221,7 @@
         "class": "Sports",
         "top_speed_kph": 330,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/elegy-rh8.svg"
+        "image": "assets/img/vehicle/gta-v/elegy-rh8.png"
       },
       {
         "id": "emperor",
@@ -2229,7 +2229,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/emperor.svg"
+        "image": "assets/img/vehicle/gta-v/emperor.png"
       },
       {
         "id": "endurex-race-bike",
@@ -2237,7 +2237,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/endurex-race-bike.svg"
+        "image": "assets/img/vehicle/gta-v/endurex-race-bike.png"
       },
       {
         "id": "entity-xf",
@@ -2248,7 +2248,7 @@
         "class": "Super",
         "top_speed_kph": 390,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/entity-xf.svg"
+        "image": "assets/img/vehicle/gta-v/entity-xf.png"
       },
       {
         "id": "exemplar",
@@ -2256,7 +2256,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/exemplar.svg"
+        "image": "assets/img/vehicle/gta-v/exemplar.png"
       },
       {
         "id": "f620",
@@ -2264,7 +2264,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/f620.svg"
+        "image": "assets/img/vehicle/gta-v/f620.png"
       },
       {
         "id": "faggio",
@@ -2272,7 +2272,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/faggio.svg"
+        "image": "assets/img/vehicle/gta-v/faggio.png"
       },
       {
         "id": "felon",
@@ -2280,7 +2280,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/felon.svg"
+        "image": "assets/img/vehicle/gta-v/felon.png"
       },
       {
         "id": "felon-gt",
@@ -2288,7 +2288,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/felon-gt.svg"
+        "image": "assets/img/vehicle/gta-v/felon-gt.png"
       },
       {
         "id": "feltzer",
@@ -2296,7 +2296,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/feltzer.svg"
+        "image": "assets/img/vehicle/gta-v/feltzer.png"
       },
       {
         "id": "fib",
@@ -2304,7 +2304,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fib.svg"
+        "image": "assets/img/vehicle/gta-v/fib.png"
       },
       {
         "id": "fieldmaster",
@@ -2312,7 +2312,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fieldmaster.svg"
+        "image": "assets/img/vehicle/gta-v/fieldmaster.png"
       },
       {
         "id": "fire-truck",
@@ -2323,7 +2323,7 @@
         "class": "Fire",
         "top_speed_kph": 150,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/fire-truck.svg"
+        "image": "assets/img/vehicle/gta-v/fire-truck.png"
       },
       {
         "id": "fixter",
@@ -2331,7 +2331,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fixter.svg"
+        "image": "assets/img/vehicle/gta-v/fixter.png"
       },
       {
         "id": "flatbed",
@@ -2339,7 +2339,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/flatbed.svg"
+        "image": "assets/img/vehicle/gta-v/flatbed.png"
       },
       {
         "id": "forklift",
@@ -2347,7 +2347,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/forklift.svg"
+        "image": "assets/img/vehicle/gta-v/forklift.png"
       },
       {
         "id": "fq-2",
@@ -2355,7 +2355,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fq-2.svg"
+        "image": "assets/img/vehicle/gta-v/fq-2.png"
       },
       {
         "id": "freight-trailer",
@@ -2363,7 +2363,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/freight-trailer.svg"
+        "image": "assets/img/vehicle/gta-v/freight-trailer.png"
       },
       {
         "id": "freight-train",
@@ -2371,7 +2371,7 @@
         "category": "Trains",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/freight-train.svg"
+        "image": "assets/img/vehicle/gta-v/freight-train.png"
       },
       {
         "id": "frogger",
@@ -2379,7 +2379,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/frogger.svg"
+        "image": "assets/img/vehicle/gta-v/frogger.png"
       },
       {
         "id": "fugitive",
@@ -2387,7 +2387,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fugitive.svg"
+        "image": "assets/img/vehicle/gta-v/fugitive.png"
       },
       {
         "id": "furore-gt",
@@ -2395,7 +2395,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/furore-gt.svg"
+        "image": "assets/img/vehicle/gta-v/furore-gt.png"
       },
       {
         "id": "fusilade",
@@ -2403,7 +2403,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/fusilade.svg"
+        "image": "assets/img/vehicle/gta-v/fusilade.png"
       },
       {
         "id": "futo",
@@ -2411,7 +2411,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/futo.svg"
+        "image": "assets/img/vehicle/gta-v/futo.png"
       },
       {
         "id": "gang-burrito",
@@ -2419,7 +2419,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/gang-burrito.svg"
+        "image": "assets/img/vehicle/gta-v/gang-burrito.png"
       },
       {
         "id": "gauntlet",
@@ -2430,7 +2430,7 @@
         "class": "Muscle",
         "top_speed_kph": 305,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/gauntlet.svg"
+        "image": "assets/img/vehicle/gta-v/gauntlet.png"
       },
       {
         "id": "glendale",
@@ -2438,7 +2438,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/glendale.svg"
+        "image": "assets/img/vehicle/gta-v/glendale.png"
       },
       {
         "id": "go-go-monkey-blista",
@@ -2446,7 +2446,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/go-go-monkey-blista.svg"
+        "image": "assets/img/vehicle/gta-v/go-go-monkey-blista.png"
       },
       {
         "id": "granger",
@@ -2454,7 +2454,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/granger.svg"
+        "image": "assets/img/vehicle/gta-v/granger.png"
       },
       {
         "id": "gresley",
@@ -2462,7 +2462,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/gresley.svg"
+        "image": "assets/img/vehicle/gta-v/gresley.png"
       },
       {
         "id": "habanero",
@@ -2470,7 +2470,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/habanero.svg"
+        "image": "assets/img/vehicle/gta-v/habanero.png"
       },
       {
         "id": "hakuchou",
@@ -2478,7 +2478,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/hakuchou.svg"
+        "image": "assets/img/vehicle/gta-v/hakuchou.png"
       },
       {
         "id": "hauler",
@@ -2486,7 +2486,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/hauler.svg"
+        "image": "assets/img/vehicle/gta-v/hauler.png"
       },
       {
         "id": "hexer",
@@ -2494,7 +2494,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/hexer.svg"
+        "image": "assets/img/vehicle/gta-v/hexer.png"
       },
       {
         "id": "hot-rod-blazer",
@@ -2502,7 +2502,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/hot-rod-blazer.svg"
+        "image": "assets/img/vehicle/gta-v/hot-rod-blazer.png"
       },
       {
         "id": "hotknife",
@@ -2510,7 +2510,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/hotknife.svg"
+        "image": "assets/img/vehicle/gta-v/hotknife.png"
       },
       {
         "id": "huntley-s",
@@ -2518,7 +2518,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/huntley-s.svg"
+        "image": "assets/img/vehicle/gta-v/huntley-s.png"
       },
       {
         "id": "hydra",
@@ -2539,7 +2539,7 @@
         "class": "Super",
         "top_speed_kph": 370,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/infernus.svg"
+        "image": "assets/img/vehicle/gta-v/infernus.png"
       },
       {
         "id": "ingot",
@@ -2547,7 +2547,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/ingot.svg"
+        "image": "assets/img/vehicle/gta-v/ingot.png"
       },
       {
         "id": "injection",
@@ -2555,7 +2555,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/injection.svg"
+        "image": "assets/img/vehicle/gta-v/injection.png"
       },
       {
         "id": "innovation",
@@ -2563,7 +2563,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/innovation.svg"
+        "image": "assets/img/vehicle/gta-v/innovation.png"
       },
       {
         "id": "insurgent",
@@ -2581,7 +2581,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/intruder.svg"
+        "image": "assets/img/vehicle/gta-v/intruder.png"
       },
       {
         "id": "issi",
@@ -2589,7 +2589,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/issi.svg"
+        "image": "assets/img/vehicle/gta-v/issi.png"
       },
       {
         "id": "jackal",
@@ -2597,7 +2597,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jackal.svg"
+        "image": "assets/img/vehicle/gta-v/jackal.png"
       },
       {
         "id": "jb-700",
@@ -2605,7 +2605,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jb-700.svg"
+        "image": "assets/img/vehicle/gta-v/jb-700.png"
       },
       {
         "id": "jester",
@@ -2613,7 +2613,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jester.svg"
+        "image": "assets/img/vehicle/gta-v/jester.png"
       },
       {
         "id": "jester-racecar",
@@ -2621,7 +2621,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jester-racecar.svg"
+        "image": "assets/img/vehicle/gta-v/jester-racecar.png"
       },
       {
         "id": "jet",
@@ -2629,7 +2629,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jet.svg"
+        "image": "assets/img/vehicle/gta-v/jet.png"
       },
       {
         "id": "jetmax",
@@ -2637,7 +2637,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/jetmax.svg"
+        "image": "assets/img/vehicle/gta-v/jetmax.png"
       },
       {
         "id": "journey",
@@ -2645,7 +2645,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/journey.svg"
+        "image": "assets/img/vehicle/gta-v/journey.png"
       },
       {
         "id": "kalahari",
@@ -2653,7 +2653,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/kalahari.svg"
+        "image": "assets/img/vehicle/gta-v/kalahari.png"
       },
       {
         "id": "kraken",
@@ -2661,7 +2661,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/kraken.svg"
+        "image": "assets/img/vehicle/gta-v/kraken.png"
       },
       {
         "id": "landstalker",
@@ -2669,7 +2669,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/landstalker.svg"
+        "image": "assets/img/vehicle/gta-v/landstalker.png"
       },
       {
         "id": "lawn-mower",
@@ -2677,7 +2677,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/lawn-mower.svg"
+        "image": "assets/img/vehicle/gta-v/lawn-mower.png"
       },
       {
         "id": "liberator",
@@ -2693,7 +2693,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/lifeguard.svg"
+        "image": "assets/img/vehicle/gta-v/lifeguard.png"
       },
       {
         "id": "luxor",
@@ -2701,7 +2701,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/luxor.svg"
+        "image": "assets/img/vehicle/gta-v/luxor.png"
       },
       {
         "id": "luxor-deluxe",
@@ -2709,7 +2709,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/luxor-deluxe.svg"
+        "image": "assets/img/vehicle/gta-v/luxor-deluxe.png"
       },
       {
         "id": "mallard",
@@ -2717,7 +2717,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/mallard.svg"
+        "image": "assets/img/vehicle/gta-v/mallard.png"
       },
       {
         "id": "mammatus",
@@ -2725,7 +2725,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/mammatus.svg"
+        "image": "assets/img/vehicle/gta-v/mammatus.png"
       },
       {
         "id": "manana",
@@ -2733,7 +2733,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/manana.svg"
+        "image": "assets/img/vehicle/gta-v/manana.png"
       },
       {
         "id": "marquis",
@@ -2741,7 +2741,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/marquis.svg"
+        "image": "assets/img/vehicle/gta-v/marquis.png"
       },
       {
         "id": "marshall",
@@ -2749,7 +2749,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/marshall.svg"
+        "image": "assets/img/vehicle/gta-v/marshall.png"
       },
       {
         "id": "massacro",
@@ -2757,7 +2757,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/massacro.svg"
+        "image": "assets/img/vehicle/gta-v/massacro.png"
       },
       {
         "id": "massacro-racecar",
@@ -2765,7 +2765,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/massacro-racecar.svg"
+        "image": "assets/img/vehicle/gta-v/massacro-racecar.png"
       },
       {
         "id": "maverick",
@@ -2773,7 +2773,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/maverick.svg"
+        "image": "assets/img/vehicle/gta-v/maverick.png"
       },
       {
         "id": "mesa",
@@ -2781,7 +2781,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/mesa.svg"
+        "image": "assets/img/vehicle/gta-v/mesa.png"
       },
       {
         "id": "metrotrain",
@@ -2789,7 +2789,7 @@
         "category": "Trains",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/metrotrain.svg"
+        "image": "assets/img/vehicle/gta-v/metrotrain.png"
       },
       {
         "id": "miljet",
@@ -2797,7 +2797,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/miljet.svg"
+        "image": "assets/img/vehicle/gta-v/miljet.png"
       },
       {
         "id": "minivan",
@@ -2805,7 +2805,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/minivan.svg"
+        "image": "assets/img/vehicle/gta-v/minivan.png"
       },
       {
         "id": "mixer",
@@ -2813,7 +2813,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/mixer.svg"
+        "image": "assets/img/vehicle/gta-v/mixer.png"
       },
       {
         "id": "monroe",
@@ -2821,7 +2821,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/monroe.svg"
+        "image": "assets/img/vehicle/gta-v/monroe.png"
       },
       {
         "id": "mule",
@@ -2829,7 +2829,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/mule.svg"
+        "image": "assets/img/vehicle/gta-v/mule.png"
       },
       {
         "id": "nemesis",
@@ -2837,7 +2837,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/nemesis.svg"
+        "image": "assets/img/vehicle/gta-v/nemesis.png"
       },
       {
         "id": "oracle",
@@ -2845,7 +2845,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/oracle.svg"
+        "image": "assets/img/vehicle/gta-v/oracle.png"
       },
       {
         "id": "oracle-xs",
@@ -2853,7 +2853,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/oracle-xs.svg"
+        "image": "assets/img/vehicle/gta-v/oracle-xs.png"
       },
       {
         "id": "osiris",
@@ -2861,7 +2861,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/osiris.svg"
+        "image": "assets/img/vehicle/gta-v/osiris.png"
       },
       {
         "id": "lazer",
@@ -2871,7 +2871,7 @@
         "top_speed_kph": 600,
         "seats": 1,
         "verified": true,
-        "image": "assets/img/vehicle/gta-v/lazer.svg"
+        "image": "assets/img/vehicle/gta-v/lazer.png"
       },
       {
         "id": "p-996-lazer",
@@ -2879,7 +2879,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/p-996-lazer.svg"
+        "image": "assets/img/vehicle/gta-v/p-996-lazer.png"
       },
       {
         "id": "packer",
@@ -2887,7 +2887,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/packer.svg"
+        "image": "assets/img/vehicle/gta-v/packer.png"
       },
       {
         "id": "panto",
@@ -2895,7 +2895,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/panto.svg"
+        "image": "assets/img/vehicle/gta-v/panto.png"
       },
       {
         "id": "paradise",
@@ -2903,7 +2903,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/paradise.svg"
+        "image": "assets/img/vehicle/gta-v/paradise.png"
       },
       {
         "id": "park-ranger",
@@ -2911,7 +2911,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/park-ranger.svg"
+        "image": "assets/img/vehicle/gta-v/park-ranger.png"
       },
       {
         "id": "patriot",
@@ -2919,7 +2919,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/patriot.svg"
+        "image": "assets/img/vehicle/gta-v/patriot.png"
       },
       {
         "id": "pcj-600",
@@ -2927,7 +2927,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/pcj-600.svg"
+        "image": "assets/img/vehicle/gta-v/pcj-600.png"
       },
       {
         "id": "penumbra",
@@ -2935,7 +2935,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/penumbra.svg"
+        "image": "assets/img/vehicle/gta-v/penumbra.png"
       },
       {
         "id": "peyote",
@@ -2943,7 +2943,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/peyote.svg"
+        "image": "assets/img/vehicle/gta-v/peyote.png"
       },
       {
         "id": "phantom",
@@ -2951,7 +2951,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/phantom.svg"
+        "image": "assets/img/vehicle/gta-v/phantom.png"
       },
       {
         "id": "phoenix",
@@ -2962,7 +2962,7 @@
         "class": "Muscle",
         "top_speed_kph": 300,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/phoenix.svg"
+        "image": "assets/img/vehicle/gta-v/phoenix.png"
       },
       {
         "id": "picador",
@@ -2970,7 +2970,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/picador.svg"
+        "image": "assets/img/vehicle/gta-v/picador.png"
       },
       {
         "id": "pigalle",
@@ -2978,7 +2978,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/pigalle.svg"
+        "image": "assets/img/vehicle/gta-v/pigalle.png"
       },
       {
         "id": "pi-wasser-dominator",
@@ -2994,7 +2994,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-bike.svg"
+        "image": "assets/img/vehicle/gta-v/police-bike.png"
       },
       {
         "id": "police-cruiser",
@@ -3005,7 +3005,7 @@
         "class": "Police",
         "top_speed_kph": 290,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/police-cruiser.svg"
+        "image": "assets/img/vehicle/gta-v/police-cruiser.png"
       },
       {
         "id": "police-maverick",
@@ -3013,7 +3013,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-maverick.svg"
+        "image": "assets/img/vehicle/gta-v/police-maverick.png"
       },
       {
         "id": "police-predator",
@@ -3021,7 +3021,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-predator.svg"
+        "image": "assets/img/vehicle/gta-v/police-predator.png"
       },
       {
         "id": "police-rancher",
@@ -3029,7 +3029,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-rancher.svg"
+        "image": "assets/img/vehicle/gta-v/police-rancher.png"
       },
       {
         "id": "police-riot",
@@ -3037,7 +3037,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-riot.svg"
+        "image": "assets/img/vehicle/gta-v/police-riot.png"
       },
       {
         "id": "police-roadcruiser",
@@ -3045,7 +3045,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-roadcruiser.svg"
+        "image": "assets/img/vehicle/gta-v/police-roadcruiser.png"
       },
       {
         "id": "police-transporter",
@@ -3053,7 +3053,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/police-transporter.svg"
+        "image": "assets/img/vehicle/gta-v/police-transporter.png"
       },
       {
         "id": "pony",
@@ -3061,7 +3061,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/pony.svg"
+        "image": "assets/img/vehicle/gta-v/pony.png"
       },
       {
         "id": "pounder",
@@ -3069,7 +3069,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/pounder.svg"
+        "image": "assets/img/vehicle/gta-v/pounder.png"
       },
       {
         "id": "prairie",
@@ -3077,7 +3077,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/prairie.svg"
+        "image": "assets/img/vehicle/gta-v/prairie.png"
       },
       {
         "id": "premier",
@@ -3085,7 +3085,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/premier.svg"
+        "image": "assets/img/vehicle/gta-v/premier.png"
       },
       {
         "id": "primo",
@@ -3093,7 +3093,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/primo.svg"
+        "image": "assets/img/vehicle/gta-v/primo.png"
       },
       {
         "id": "prison-bus",
@@ -3109,7 +3109,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/prop-trailer.svg"
+        "image": "assets/img/vehicle/gta-v/prop-trailer.png"
       },
       {
         "id": "radius",
@@ -3117,7 +3117,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/radius.svg"
+        "image": "assets/img/vehicle/gta-v/radius.png"
       },
       {
         "id": "rancher-xl",
@@ -3125,7 +3125,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rancher-xl.svg"
+        "image": "assets/img/vehicle/gta-v/rancher-xl.png"
       },
       {
         "id": "rapid-gt",
@@ -3133,7 +3133,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rapid-gt.svg"
+        "image": "assets/img/vehicle/gta-v/rapid-gt.png"
       },
       {
         "id": "rat-loader",
@@ -3141,7 +3141,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rat-loader.svg"
+        "image": "assets/img/vehicle/gta-v/rat-loader.png"
       },
       {
         "id": "rat-truck",
@@ -3149,7 +3149,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rat-truck.svg"
+        "image": "assets/img/vehicle/gta-v/rat-truck.png"
       },
       {
         "id": "rebel",
@@ -3157,7 +3157,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rebel.svg"
+        "image": "assets/img/vehicle/gta-v/rebel.png"
       },
       {
         "id": "redwood-gauntlet",
@@ -3165,7 +3165,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/redwood-gauntlet.svg"
+        "image": "assets/img/vehicle/gta-v/redwood-gauntlet.png"
       },
       {
         "id": "regina",
@@ -3173,7 +3173,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/regina.svg"
+        "image": "assets/img/vehicle/gta-v/regina.png"
       },
       {
         "id": "rental-shuttle-bus",
@@ -3181,7 +3181,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rental-shuttle-bus.svg"
+        "image": "assets/img/vehicle/gta-v/rental-shuttle-bus.png"
       },
       {
         "id": "rhapsody",
@@ -3189,7 +3189,7 @@
         "category": "Compacts",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rhapsody.svg"
+        "image": "assets/img/vehicle/gta-v/rhapsody.png"
       },
       {
         "id": "rhino",
@@ -3207,7 +3207,7 @@
         "category": "Military",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rhino-tank.svg"
+        "image": "assets/img/vehicle/gta-v/rhino-tank.png"
       },
       {
         "id": "ripley",
@@ -3215,7 +3215,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/ripley.svg"
+        "image": "assets/img/vehicle/gta-v/ripley.png"
       },
       {
         "id": "rocoto",
@@ -3223,7 +3223,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rocoto.svg"
+        "image": "assets/img/vehicle/gta-v/rocoto.png"
       },
       {
         "id": "romero-hearse",
@@ -3239,7 +3239,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/roosevelt.svg"
+        "image": "assets/img/vehicle/gta-v/roosevelt.png"
       },
       {
         "id": "rubble",
@@ -3247,7 +3247,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rubble.svg"
+        "image": "assets/img/vehicle/gta-v/rubble.png"
       },
       {
         "id": "ruffian",
@@ -3255,7 +3255,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/ruffian.svg"
+        "image": "assets/img/vehicle/gta-v/ruffian.png"
       },
       {
         "id": "ruiner",
@@ -3263,7 +3263,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/ruiner.svg"
+        "image": "assets/img/vehicle/gta-v/ruiner.png"
       },
       {
         "id": "rumpo",
@@ -3271,7 +3271,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rumpo.svg"
+        "image": "assets/img/vehicle/gta-v/rumpo.png"
       },
       {
         "id": "rusty-rebel",
@@ -3279,7 +3279,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/rusty-rebel.svg"
+        "image": "assets/img/vehicle/gta-v/rusty-rebel.png"
       },
       {
         "id": "sabre-turbo",
@@ -3290,7 +3290,7 @@
         "class": "Muscle",
         "top_speed_kph": 305,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/sabre-turbo.svg"
+        "image": "assets/img/vehicle/gta-v/sabre-turbo.png"
       },
       {
         "id": "sadler",
@@ -3298,7 +3298,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sadler.svg"
+        "image": "assets/img/vehicle/gta-v/sadler.png"
       },
       {
         "id": "sadler-snowed",
@@ -3306,7 +3306,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sadler-snowed.svg"
+        "image": "assets/img/vehicle/gta-v/sadler-snowed.png"
       },
       {
         "id": "sanchez",
@@ -3314,7 +3314,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sanchez.svg"
+        "image": "assets/img/vehicle/gta-v/sanchez.png"
       },
       {
         "id": "sandking-swb",
@@ -3322,7 +3322,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sandking-swb.svg"
+        "image": "assets/img/vehicle/gta-v/sandking-swb.png"
       },
       {
         "id": "sandking-xl",
@@ -3333,7 +3333,7 @@
         "class": "Off-road",
         "top_speed_kph": 250,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/sandking-xl.svg"
+        "image": "assets/img/vehicle/gta-v/sandking-xl.png"
       },
       {
         "id": "savage",
@@ -3354,7 +3354,7 @@
         "class": "Sedan",
         "top_speed_kph": 285,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/schafter.svg"
+        "image": "assets/img/vehicle/gta-v/schafter.png"
       },
       {
         "id": "schwartzer",
@@ -3362,7 +3362,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/schwartzer.svg"
+        "image": "assets/img/vehicle/gta-v/schwartzer.png"
       },
       {
         "id": "scorcher",
@@ -3370,7 +3370,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/scorcher.svg"
+        "image": "assets/img/vehicle/gta-v/scorcher.png"
       },
       {
         "id": "scrap-truck",
@@ -3378,7 +3378,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/scrap-truck.svg"
+        "image": "assets/img/vehicle/gta-v/scrap-truck.png"
       },
       {
         "id": "seashark",
@@ -3389,7 +3389,7 @@
         "class": "Jet ski",
         "top_speed_kph": 110,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/seashark.svg"
+        "image": "assets/img/vehicle/gta-v/seashark.png"
       },
       {
         "id": "seminole",
@@ -3397,7 +3397,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/seminole.svg"
+        "image": "assets/img/vehicle/gta-v/seminole.png"
       },
       {
         "id": "sentinel",
@@ -3408,7 +3408,7 @@
         "class": "Sedan",
         "top_speed_kph": 280,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/sentinel.svg"
+        "image": "assets/img/vehicle/gta-v/sentinel.png"
       },
       {
         "id": "sentinel-xs",
@@ -3416,7 +3416,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sentinel-xs.svg"
+        "image": "assets/img/vehicle/gta-v/sentinel-xs.png"
       },
       {
         "id": "serrano",
@@ -3424,7 +3424,7 @@
         "category": "SUVs",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/serrano.svg"
+        "image": "assets/img/vehicle/gta-v/serrano.png"
       },
       {
         "id": "shamal",
@@ -3432,7 +3432,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/shamal.svg"
+        "image": "assets/img/vehicle/gta-v/shamal.png"
       },
       {
         "id": "sheriff-cruiser",
@@ -3440,7 +3440,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sheriff-cruiser.svg"
+        "image": "assets/img/vehicle/gta-v/sheriff-cruiser.png"
       },
       {
         "id": "sheriff-suv",
@@ -3448,7 +3448,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sheriff-suv.svg"
+        "image": "assets/img/vehicle/gta-v/sheriff-suv.png"
       },
       {
         "id": "skylift",
@@ -3456,7 +3456,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/skylift.svg"
+        "image": "assets/img/vehicle/gta-v/skylift.png"
       },
       {
         "id": "slamvan",
@@ -3464,7 +3464,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/slamvan.svg"
+        "image": "assets/img/vehicle/gta-v/slamvan.png"
       },
       {
         "id": "sovereign",
@@ -3472,7 +3472,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sovereign.svg"
+        "image": "assets/img/vehicle/gta-v/sovereign.png"
       },
       {
         "id": "space-docker",
@@ -3480,7 +3480,7 @@
         "category": "Off-Road",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/space-docker.svg"
+        "image": "assets/img/vehicle/gta-v/space-docker.png"
       },
       {
         "id": "speeder",
@@ -3491,7 +3491,7 @@
         "class": "Speedboat",
         "top_speed_kph": 140,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/speeder.svg"
+        "image": "assets/img/vehicle/gta-v/speeder.png"
       },
       {
         "id": "speedo",
@@ -3499,7 +3499,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/speedo.svg"
+        "image": "assets/img/vehicle/gta-v/speedo.png"
       },
       {
         "id": "sprunk-buffalo",
@@ -3507,7 +3507,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/sprunk-buffalo.svg"
+        "image": "assets/img/vehicle/gta-v/sprunk-buffalo.png"
       },
       {
         "id": "squalo",
@@ -3515,7 +3515,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/squalo.svg"
+        "image": "assets/img/vehicle/gta-v/squalo.png"
       },
       {
         "id": "stallion",
@@ -3523,7 +3523,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stallion.svg"
+        "image": "assets/img/vehicle/gta-v/stallion.png"
       },
       {
         "id": "stanier",
@@ -3531,7 +3531,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stanier.svg"
+        "image": "assets/img/vehicle/gta-v/stanier.png"
       },
       {
         "id": "stinger",
@@ -3539,7 +3539,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stinger.svg"
+        "image": "assets/img/vehicle/gta-v/stinger.png"
       },
       {
         "id": "stirling-gt",
@@ -3547,7 +3547,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stirling-gt.svg"
+        "image": "assets/img/vehicle/gta-v/stirling-gt.png"
       },
       {
         "id": "stockade",
@@ -3555,7 +3555,7 @@
         "category": "Commercial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stockade.svg"
+        "image": "assets/img/vehicle/gta-v/stockade.png"
       },
       {
         "id": "stratum",
@@ -3563,7 +3563,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stratum.svg"
+        "image": "assets/img/vehicle/gta-v/stratum.png"
       },
       {
         "id": "stretch",
@@ -3571,7 +3571,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/stretch.svg"
+        "image": "assets/img/vehicle/gta-v/stretch.png"
       },
       {
         "id": "submersible",
@@ -3590,7 +3590,7 @@
         "class": "Sports sedan",
         "top_speed_kph": 300,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/sultan.svg"
+        "image": "assets/img/vehicle/gta-v/sultan.png"
       },
       {
         "id": "sultan-rs",
@@ -3608,7 +3608,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/suntrap.svg"
+        "image": "assets/img/vehicle/gta-v/suntrap.png"
       },
       {
         "id": "super-diamond",
@@ -3616,7 +3616,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/super-diamond.svg"
+        "image": "assets/img/vehicle/gta-v/super-diamond.png"
       },
       {
         "id": "surano",
@@ -3624,7 +3624,7 @@
         "category": "Sports",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/surano.svg"
+        "image": "assets/img/vehicle/gta-v/surano.png"
       },
       {
         "id": "surfer",
@@ -3632,7 +3632,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/surfer.svg"
+        "image": "assets/img/vehicle/gta-v/surfer.png"
       },
       {
         "id": "surge",
@@ -3640,7 +3640,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/surge.svg"
+        "image": "assets/img/vehicle/gta-v/surge.png"
       },
       {
         "id": "swift",
@@ -3648,7 +3648,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/swift.svg"
+        "image": "assets/img/vehicle/gta-v/swift.png"
       },
       {
         "id": "swift-deluxe",
@@ -3656,7 +3656,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/swift-deluxe.svg"
+        "image": "assets/img/vehicle/gta-v/swift-deluxe.png"
       },
       {
         "id": "t20",
@@ -3664,7 +3664,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/t20.svg"
+        "image": "assets/img/vehicle/gta-v/t20.png"
       },
       {
         "id": "taco-van",
@@ -3672,7 +3672,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/taco-van.svg"
+        "image": "assets/img/vehicle/gta-v/taco-van.png"
       },
       {
         "id": "tailgater",
@@ -3683,7 +3683,7 @@
         "class": "Sedan",
         "top_speed_kph": 280,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/tailgater.svg"
+        "image": "assets/img/vehicle/gta-v/tailgater.png"
       },
       {
         "id": "taxi",
@@ -3691,7 +3691,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/taxi.svg"
+        "image": "assets/img/vehicle/gta-v/taxi.png"
       },
       {
         "id": "thrust",
@@ -3699,7 +3699,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/thrust.svg"
+        "image": "assets/img/vehicle/gta-v/thrust.png"
       },
       {
         "id": "tipper",
@@ -3707,7 +3707,7 @@
         "category": "Industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tipper.svg"
+        "image": "assets/img/vehicle/gta-v/tipper.png"
       },
       {
         "id": "titan",
@@ -3718,7 +3718,7 @@
         "class": "Cargo plane",
         "top_speed_kph": 400,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-v/titan.svg"
+        "image": "assets/img/vehicle/gta-v/titan.png"
       },
       {
         "id": "tornado",
@@ -3726,7 +3726,7 @@
         "category": "Sports Classics",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tornado.svg"
+        "image": "assets/img/vehicle/gta-v/tornado.png"
       },
       {
         "id": "toro",
@@ -3734,7 +3734,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/toro.svg"
+        "image": "assets/img/vehicle/gta-v/toro.png"
       },
       {
         "id": "tour-bus",
@@ -3742,7 +3742,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tour-bus.svg"
+        "image": "assets/img/vehicle/gta-v/tour-bus.png"
       },
       {
         "id": "tow-truck",
@@ -3750,7 +3750,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tow-truck.svg"
+        "image": "assets/img/vehicle/gta-v/tow-truck.png"
       },
       {
         "id": "tractor",
@@ -3758,7 +3758,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tractor.svg"
+        "image": "assets/img/vehicle/gta-v/tractor.png"
       },
       {
         "id": "trailer",
@@ -3766,7 +3766,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/trailer.svg"
+        "image": "assets/img/vehicle/gta-v/trailer.png"
       },
       {
         "id": "trashmaster",
@@ -3774,7 +3774,7 @@
         "category": "Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/trashmaster.svg"
+        "image": "assets/img/vehicle/gta-v/trashmaster.png"
       },
       {
         "id": "tri-cycles-race-bike",
@@ -3782,7 +3782,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tri-cycles-race-bike.svg"
+        "image": "assets/img/vehicle/gta-v/tri-cycles-race-bike.png"
       },
       {
         "id": "tropic",
@@ -3790,7 +3790,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/tropic.svg"
+        "image": "assets/img/vehicle/gta-v/tropic.png"
       },
       {
         "id": "turismo-r",
@@ -3801,7 +3801,7 @@
         "class": "Super",
         "top_speed_kph": 380,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/turismo-r.svg"
+        "image": "assets/img/vehicle/gta-v/turismo-r.png"
       },
       {
         "id": "unmarked-cruiser",
@@ -3809,7 +3809,7 @@
         "category": "Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/unmarked-cruiser.svg"
+        "image": "assets/img/vehicle/gta-v/unmarked-cruiser.png"
       },
       {
         "id": "utility-truck",
@@ -3817,7 +3817,7 @@
         "category": "Utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/utility-truck.svg"
+        "image": "assets/img/vehicle/gta-v/utility-truck.png"
       },
       {
         "id": "vacca",
@@ -3825,7 +3825,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/vacca.svg"
+        "image": "assets/img/vehicle/gta-v/vacca.png"
       },
       {
         "id": "vader",
@@ -3833,7 +3833,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/vader.svg"
+        "image": "assets/img/vehicle/gta-v/vader.png"
       },
       {
         "id": "velum",
@@ -3841,7 +3841,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/velum.svg"
+        "image": "assets/img/vehicle/gta-v/velum.png"
       },
       {
         "id": "vestra",
@@ -3849,7 +3849,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/vestra.svg"
+        "image": "assets/img/vehicle/gta-v/vestra.png"
       },
       {
         "id": "vigero",
@@ -3857,7 +3857,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/vigero.svg"
+        "image": "assets/img/vehicle/gta-v/vigero.png"
       },
       {
         "id": "vindicator",
@@ -3865,7 +3865,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/vindicator.svg"
+        "image": "assets/img/vehicle/gta-v/vindicator.png"
       },
       {
         "id": "virgo",
@@ -3873,7 +3873,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/virgo.svg"
+        "image": "assets/img/vehicle/gta-v/virgo.png"
       },
       {
         "id": "voltic",
@@ -3881,7 +3881,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/voltic.svg"
+        "image": "assets/img/vehicle/gta-v/voltic.png"
       },
       {
         "id": "voodoo",
@@ -3889,7 +3889,7 @@
         "category": "Muscle",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/voodoo.svg"
+        "image": "assets/img/vehicle/gta-v/voodoo.png"
       },
       {
         "id": "warrener",
@@ -3897,7 +3897,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/warrener.svg"
+        "image": "assets/img/vehicle/gta-v/warrener.png"
       },
       {
         "id": "washington",
@@ -3905,7 +3905,7 @@
         "category": "Sedans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/washington.svg"
+        "image": "assets/img/vehicle/gta-v/washington.png"
       },
       {
         "id": "whippet-race-bike",
@@ -3913,7 +3913,7 @@
         "category": "Cycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/whippet-race-bike.svg"
+        "image": "assets/img/vehicle/gta-v/whippet-race-bike.png"
       },
       {
         "id": "windsor",
@@ -3921,7 +3921,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/windsor.svg"
+        "image": "assets/img/vehicle/gta-v/windsor.png"
       },
       {
         "id": "xero-blimp",
@@ -3929,7 +3929,7 @@
         "category": "Planes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/xero-blimp.svg"
+        "image": "assets/img/vehicle/gta-v/xero-blimp.png"
       },
       {
         "id": "youga",
@@ -3937,7 +3937,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/youga.svg"
+        "image": "assets/img/vehicle/gta-v/youga.png"
       },
       {
         "id": "z-type",
@@ -3948,7 +3948,7 @@
         "class": "Sports classic",
         "top_speed_kph": 300,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-v/z-type.svg"
+        "image": "assets/img/vehicle/gta-v/z-type.png"
       },
       {
         "id": "zentorno",
@@ -3956,7 +3956,7 @@
         "category": "Super",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/zentorno.svg"
+        "image": "assets/img/vehicle/gta-v/zentorno.png"
       },
       {
         "id": "zion",
@@ -3964,7 +3964,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/zion.svg"
+        "image": "assets/img/vehicle/gta-v/zion.png"
       },
       {
         "id": "zion-cabrio",
@@ -3972,7 +3972,7 @@
         "category": "Coupes",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-v/zion-cabrio.svg"
+        "image": "assets/img/vehicle/gta-v/zion-cabrio.png"
       }
     ]
   },
@@ -3985,7 +3985,7 @@
         "type": "Assault rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/advanced-rifle.svg"
+        "image": "assets/img/weapon/gta-v/advanced-rifle.png"
       },
       {
         "id": "antique-cavalry-dagger",
@@ -3993,7 +3993,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/antique-cavalry-dagger.svg"
+        "image": "assets/img/weapon/gta-v/antique-cavalry-dagger.png"
       },
       {
         "id": "ap-pistol",
@@ -4004,7 +4004,7 @@
         "damage_tier": "High",
         "ammo": "18 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/ap-pistol.svg"
+        "image": "assets/img/weapon/gta-v/ap-pistol.png"
       },
       {
         "id": "assault-rifle",
@@ -4015,7 +4015,7 @@
         "damage_tier": "High",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/assault-rifle.svg"
+        "image": "assets/img/weapon/gta-v/assault-rifle.png"
       },
       {
         "id": "assault-shotgun",
@@ -4026,7 +4026,7 @@
         "damage_tier": "Very high",
         "ammo": "8 shells",
         "unlock": "Ammu-Nation (later)",
-        "image": "assets/img/weapon/gta-v/assault-shotgun.svg"
+        "image": "assets/img/weapon/gta-v/assault-shotgun.png"
       },
       {
         "id": "assault-smg",
@@ -4034,7 +4034,7 @@
         "type": "Machine guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/assault-smg.svg"
+        "image": "assets/img/weapon/gta-v/assault-smg.png"
       },
       {
         "id": "ball",
@@ -4042,7 +4042,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/ball.svg"
+        "image": "assets/img/weapon/gta-v/ball.png"
       },
       {
         "id": "baseball-bat",
@@ -4053,7 +4053,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/baseball-bat.svg"
+        "image": "assets/img/weapon/gta-v/baseball-bat.png"
       },
       {
         "id": "bottle",
@@ -4061,7 +4061,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/bottle.svg"
+        "image": "assets/img/weapon/gta-v/bottle.png"
       },
       {
         "id": "bullpup-rifle",
@@ -4069,7 +4069,7 @@
         "type": "Assault rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/bullpup-rifle.svg"
+        "image": "assets/img/weapon/gta-v/bullpup-rifle.png"
       },
       {
         "id": "bullpup-shotgun",
@@ -4077,7 +4077,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/bullpup-shotgun.svg"
+        "image": "assets/img/weapon/gta-v/bullpup-shotgun.png"
       },
       {
         "id": "bz-gas",
@@ -4085,7 +4085,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/bz-gas.svg"
+        "image": "assets/img/weapon/gta-v/bz-gas.png"
       },
       {
         "id": "carbine-rifle",
@@ -4096,7 +4096,7 @@
         "damage_tier": "High",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/carbine-rifle.svg"
+        "image": "assets/img/weapon/gta-v/carbine-rifle.png"
       },
       {
         "id": "combat-mg",
@@ -4107,7 +4107,7 @@
         "damage_tier": "Very high",
         "ammo": "100 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/combat-mg.svg"
+        "image": "assets/img/weapon/gta-v/combat-mg.png"
       },
       {
         "id": "combat-pdw",
@@ -4115,7 +4115,7 @@
         "type": "Machine guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/combat-pdw.svg"
+        "image": "assets/img/weapon/gta-v/combat-pdw.png"
       },
       {
         "id": "combat-pistol",
@@ -4126,7 +4126,7 @@
         "damage_tier": "High",
         "ammo": "12 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/combat-pistol.svg"
+        "image": "assets/img/weapon/gta-v/combat-pistol.png"
       },
       {
         "id": "crowbar",
@@ -4137,7 +4137,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/crowbar.svg"
+        "image": "assets/img/weapon/gta-v/crowbar.png"
       },
       {
         "id": "digiscanner",
@@ -4145,7 +4145,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/digiscanner.svg"
+        "image": "assets/img/weapon/gta-v/digiscanner.png"
       },
       {
         "id": "firework-launcher",
@@ -4153,7 +4153,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/firework-launcher.svg"
+        "image": "assets/img/weapon/gta-v/firework-launcher.png"
       },
       {
         "id": "fist",
@@ -4164,7 +4164,7 @@
         "damage_tier": "Low",
         "ammo": "—",
         "unlock": "Default",
-        "image": "assets/img/weapon/gta-v/fist.svg"
+        "image": "assets/img/weapon/gta-v/fist.png"
       },
       {
         "id": "golf-club",
@@ -4172,7 +4172,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/golf-club.svg"
+        "image": "assets/img/weapon/gta-v/golf-club.png"
       },
       {
         "id": "grenade",
@@ -4188,7 +4188,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/grenade-launcher.svg"
+        "image": "assets/img/weapon/gta-v/grenade-launcher.png"
       },
       {
         "id": "grenades",
@@ -4199,7 +4199,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-v/grenades.svg"
+        "image": "assets/img/weapon/gta-v/grenades.png"
       },
       {
         "id": "gusenberg-sweeper",
@@ -4207,7 +4207,7 @@
         "type": "Machine guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/gusenberg-sweeper.svg"
+        "image": "assets/img/weapon/gta-v/gusenberg-sweeper.png"
       },
       {
         "id": "hammer",
@@ -4215,7 +4215,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/hammer.svg"
+        "image": "assets/img/weapon/gta-v/hammer.png"
       },
       {
         "id": "hatchet",
@@ -4223,7 +4223,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/hatchet.svg"
+        "image": "assets/img/weapon/gta-v/hatchet.png"
       },
       {
         "id": "heavy-pistol",
@@ -4231,7 +4231,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/heavy-pistol.svg"
+        "image": "assets/img/weapon/gta-v/heavy-pistol.png"
       },
       {
         "id": "heavy-shotgun",
@@ -4239,7 +4239,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/heavy-shotgun.svg"
+        "image": "assets/img/weapon/gta-v/heavy-shotgun.png"
       },
       {
         "id": "heavy-sniper",
@@ -4250,7 +4250,7 @@
         "damage_tier": "Lethal",
         "ammo": "6 rounds",
         "unlock": "Ammu-Nation (later)",
-        "image": "assets/img/weapon/gta-v/heavy-sniper.svg"
+        "image": "assets/img/weapon/gta-v/heavy-sniper.png"
       },
       {
         "id": "homing-launcher",
@@ -4258,7 +4258,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/homing-launcher.svg"
+        "image": "assets/img/weapon/gta-v/homing-launcher.png"
       },
       {
         "id": "jerry-can",
@@ -4266,7 +4266,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/jerry-can.svg"
+        "image": "assets/img/weapon/gta-v/jerry-can.png"
       },
       {
         "id": "knife",
@@ -4277,7 +4277,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/knife.svg"
+        "image": "assets/img/weapon/gta-v/knife.png"
       },
       {
         "id": "knuckledusters",
@@ -4293,7 +4293,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/machete.svg"
+        "image": "assets/img/weapon/gta-v/machete.png"
       },
       {
         "id": "machine-pistol",
@@ -4301,7 +4301,7 @@
         "type": "Machine guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/machine-pistol.svg"
+        "image": "assets/img/weapon/gta-v/machine-pistol.png"
       },
       {
         "id": "marksman-pistol",
@@ -4309,7 +4309,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/marksman-pistol.svg"
+        "image": "assets/img/weapon/gta-v/marksman-pistol.png"
       },
       {
         "id": "marksman-rifle",
@@ -4317,7 +4317,7 @@
         "type": "Sniper rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/marksman-rifle.svg"
+        "image": "assets/img/weapon/gta-v/marksman-rifle.png"
       },
       {
         "id": "mg",
@@ -4325,7 +4325,7 @@
         "type": "Machine guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/mg.svg"
+        "image": "assets/img/weapon/gta-v/mg.png"
       },
       {
         "id": "micro-smg",
@@ -4336,7 +4336,7 @@
         "damage_tier": "Medium",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/micro-smg.svg"
+        "image": "assets/img/weapon/gta-v/micro-smg.png"
       },
       {
         "id": "minigun",
@@ -4347,7 +4347,7 @@
         "damage_tier": "Lethal",
         "ammo": "150 rounds",
         "unlock": "Later missions",
-        "image": "assets/img/weapon/gta-v/minigun.svg"
+        "image": "assets/img/weapon/gta-v/minigun.png"
       },
       {
         "id": "molotov-cocktail",
@@ -4355,7 +4355,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/molotov-cocktail.svg"
+        "image": "assets/img/weapon/gta-v/molotov-cocktail.png"
       },
       {
         "id": "molotov",
@@ -4366,7 +4366,7 @@
         "price": null,
         "unlock": "Street pickups",
         "verified": true,
-        "image": "assets/img/weapon/gta-v/molotov.svg"
+        "image": "assets/img/weapon/gta-v/molotov.png"
       },
       {
         "id": "musket",
@@ -4374,7 +4374,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/musket.svg"
+        "image": "assets/img/weapon/gta-v/musket.png"
       },
       {
         "id": "nightstick",
@@ -4382,7 +4382,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/nightstick.svg"
+        "image": "assets/img/weapon/gta-v/nightstick.png"
       },
       {
         "id": "pistol",
@@ -4393,7 +4393,7 @@
         "damage_tier": "Medium",
         "ammo": "12 rounds",
         "unlock": "Default",
-        "image": "assets/img/weapon/gta-v/pistol.svg"
+        "image": "assets/img/weapon/gta-v/pistol.png"
       },
       {
         "id": "pistol-50",
@@ -4401,7 +4401,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/pistol-50.svg"
+        "image": "assets/img/weapon/gta-v/pistol-50.png"
       },
       {
         "id": "proximity-mine",
@@ -4420,7 +4420,7 @@
         "damage_tier": "High",
         "ammo": "8 shells",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/pump-shotgun.svg"
+        "image": "assets/img/weapon/gta-v/pump-shotgun.png"
       },
       {
         "id": "railgun",
@@ -4428,7 +4428,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/railgun.svg"
+        "image": "assets/img/weapon/gta-v/railgun.png"
       },
       {
         "id": "remote-sniper",
@@ -4447,7 +4447,7 @@
         "damage_tier": "Lethal",
         "ammo": "5 rockets",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/rpg.svg"
+        "image": "assets/img/weapon/gta-v/rpg.png"
       },
       {
         "id": "sawed-off-shotgun",
@@ -4455,7 +4455,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/sawed-off-shotgun.svg"
+        "image": "assets/img/weapon/gta-v/sawed-off-shotgun.png"
       },
       {
         "id": "smg",
@@ -4466,7 +4466,7 @@
         "damage_tier": "Medium",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/smg.svg"
+        "image": "assets/img/weapon/gta-v/smg.png"
       },
       {
         "id": "sniper-rifle",
@@ -4477,7 +4477,7 @@
         "damage_tier": "Very high",
         "ammo": "10 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-v/sniper-rifle.png"
       },
       {
         "id": "sns-pistol",
@@ -4485,7 +4485,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/sns-pistol.svg"
+        "image": "assets/img/weapon/gta-v/sns-pistol.png"
       },
       {
         "id": "special-carbine",
@@ -4496,7 +4496,7 @@
         "damage_tier": "Very high",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-v/special-carbine.svg"
+        "image": "assets/img/weapon/gta-v/special-carbine.png"
       },
       {
         "id": "sticky-bomb",
@@ -4515,7 +4515,7 @@
         "price": null,
         "unlock": "Ammu-Nation",
         "verified": true,
-        "image": "assets/img/weapon/gta-v/sticky-bombs.svg"
+        "image": "assets/img/weapon/gta-v/sticky-bombs.png"
       },
       {
         "id": "stun-gun",
@@ -4523,7 +4523,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/stun-gun.svg"
+        "image": "assets/img/weapon/gta-v/stun-gun.png"
       },
       {
         "id": "tear-gas",
@@ -4531,7 +4531,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/tear-gas.svg"
+        "image": "assets/img/weapon/gta-v/tear-gas.png"
       },
       {
         "id": "vintage-pistol",
@@ -4539,7 +4539,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-v/vintage-pistol.svg"
+        "image": "assets/img/weapon/gta-v/vintage-pistol.png"
       }
     ]
   },

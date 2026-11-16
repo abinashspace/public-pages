@@ -5,7 +5,7 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.586Z",
+    "generated": "2026-11-16T03:33:23.866Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -26,8 +26,8 @@
       "collectibles": 0
     },
     "images": {
-      "cover": "assets/img/cover/gta-london-1961/cover.svg",
-      "banner": "assets/img/banner/gta-london-1961/banner.svg",
+      "cover": "assets/img/cover/gta-london-1961/cover.jpg",
+      "banner": "assets/img/banner/gta-london-1961/banner.jpg",
       "map": "assets/img/map/gta-london-1961/map.svg"
     },
     "sources": [

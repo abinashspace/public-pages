@@ -5,7 +5,7 @@
     "year": 2009,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.823Z",
+    "generated": "2026-11-16T03:33:24.104Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -26,8 +26,8 @@
       "collectibles": 2
     },
     "images": {
-      "cover": "assets/img/cover/gta-chinatown-wars/cover.svg",
-      "banner": "assets/img/banner/gta-chinatown-wars/banner.svg",
+      "cover": "assets/img/cover/gta-chinatown-wars/cover.png",
+      "banner": "assets/img/banner/gta-chinatown-wars/banner.png",
       "map": "assets/img/map/gta-chinatown-wars/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "summary": "Hsin's son and one claimant to the Triad leadership.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/chan-jaoming.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/chan-jaoming.png"
       },
       {
         "id": "hsin-jaoming",
@@ -61,7 +61,7 @@
         "summary": "Aging Triad leader whose succession struggle drives the plot.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/hsin-jaoming.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/hsin-jaoming.png"
       },
       {
         "id": "huang-lee",
@@ -74,7 +74,7 @@
         "status": "Alive",
         "first_appearance": "GTA: Chinatown Wars",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/huang-lee.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/huang-lee.png"
       },
       {
         "id": "lester-leroc",
@@ -86,7 +86,7 @@
         "summary": "Forensics contact who provides Huang with information.",
         "status": "Alive",
         "verified": false,
-        "image": "assets/img/portrait/gta-chinatown-wars/lester-leroc.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/lester-leroc.png"
       },
       {
         "id": "ling",
@@ -98,7 +98,7 @@
         "summary": "Huang's ally within the Triad power struggle.",
         "status": "Alive",
         "verified": false,
-        "image": "assets/img/portrait/gta-chinatown-wars/ling.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/ling.jpg"
       },
       {
         "id": "melanie-mallard",
@@ -110,7 +110,7 @@
         "summary": "Investigative journalist working the Triad succession story.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/melanie-mallard.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/melanie-mallard.png"
       },
       {
         "id": "rudy-davanzo",
@@ -122,7 +122,7 @@
         "summary": "Italian mob contact who pulls Huang into Mafia business.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/rudy-davanzo.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/rudy-davanzo.jpg"
       },
       {
         "id": "wade-heston",
@@ -134,7 +134,7 @@
         "summary": "Undercover operative who recruits Huang's help.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/wade-heston.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/wade-heston.png"
       },
       {
         "id": "wu-lee",
@@ -146,7 +146,7 @@
         "summary": "Huang's uncle and the Triad elder he reports to.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/wu-lee.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/wu-lee.png"
       },
       {
         "id": "zhou-ming",
@@ -158,7 +158,7 @@
         "summary": "The other claimant to the Triad leadership.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-chinatown-wars/zhou-ming.svg"
+        "image": "assets/img/portrait/gta-chinatown-wars/zhou-ming.jpg"
       }
     ]
   },
@@ -1025,7 +1025,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/500-xlr8.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/500-xlr8.jpg"
       },
       {
         "id": "admiral",
@@ -1033,7 +1033,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/admiral.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/admiral.jpg"
       },
       {
         "id": "alphamail",
@@ -1041,7 +1041,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/alphamail.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/alphamail.png"
       },
       {
         "id": "ambulance",
@@ -1051,7 +1051,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Medical",
         "seats": 2,
-        "image": "assets/img/vehicle/gta-chinatown-wars/ambulance.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/ambulance.png"
       },
       {
         "id": "angel",
@@ -1059,7 +1059,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/angel.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/angel.jpg"
       },
       {
         "id": "baggage-handler",
@@ -1067,7 +1067,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/baggage-handler.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/baggage-handler.jpg"
       },
       {
         "id": "banshee",
@@ -1077,7 +1077,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "seats": 2,
-        "image": "assets/img/vehicle/gta-chinatown-wars/banshee.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/banshee.jpg"
       },
       {
         "id": "blista",
@@ -1085,7 +1085,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/blista.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/blista.jpg"
       },
       {
         "id": "bobcat",
@@ -1093,7 +1093,7 @@
         "category": "SUVs/SUTs and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/bobcat.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/bobcat.png"
       },
       {
         "id": "buccaneer",
@@ -1101,7 +1101,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/buccaneer.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/buccaneer.jpg"
       },
       {
         "id": "bulldozer",
@@ -1109,7 +1109,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/bulldozer.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/bulldozer.jpg"
       },
       {
         "id": "burrito",
@@ -1117,7 +1117,7 @@
         "category": "SUVs/SUTs and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/burrito.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/burrito.png"
       },
       {
         "id": "bus",
@@ -1125,7 +1125,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/bus.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/bus.jpg"
       },
       {
         "id": "cabbie",
@@ -1133,7 +1133,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cabbie.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cabbie.jpg"
       },
       {
         "id": "cavalcade",
@@ -1141,7 +1141,7 @@
         "category": "SUVs/SUTs and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade.png"
       },
       {
         "id": "cavalcade-fxt",
@@ -1149,7 +1149,7 @@
         "category": "SUVs/SUTs and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade-fxt.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade-fxt.png"
       },
       {
         "id": "chavos",
@@ -1157,7 +1157,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/chavos.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/chavos.jpg"
       },
       {
         "id": "cheetah",
@@ -1175,7 +1175,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/chopper.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/chopper.jpg"
       },
       {
         "id": "cityscape",
@@ -1183,7 +1183,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cityscape.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cityscape.jpg"
       },
       {
         "id": "coast-guard-dinghy",
@@ -1191,7 +1191,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-dinghy.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-dinghy.png"
       },
       {
         "id": "coast-guard-launch",
@@ -1199,7 +1199,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-launch.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-launch.png"
       },
       {
         "id": "cognoscenti",
@@ -1207,7 +1207,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cognoscenti.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cognoscenti.jpg"
       },
       {
         "id": "comet",
@@ -1215,7 +1215,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/comet.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/comet.jpg"
       },
       {
         "id": "cruiser",
@@ -1223,7 +1223,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/cruiser.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/cruiser.png"
       },
       {
         "id": "defender",
@@ -1231,7 +1231,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/defender.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/defender.png"
       },
       {
         "id": "destroyer",
@@ -1239,7 +1239,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/destroyer.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/destroyer.png"
       },
       {
         "id": "dinghy",
@@ -1247,7 +1247,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/dinghy.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/dinghy.png"
       },
       {
         "id": "dragon-wagon",
@@ -1255,7 +1255,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/dragon-wagon.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/dragon-wagon.png"
       },
       {
         "id": "dukes",
@@ -1263,7 +1263,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/dukes.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/dukes.jpg"
       },
       {
         "id": "fib-rancher",
@@ -1271,7 +1271,7 @@
         "category": "Emergency Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/fib-rancher.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/fib-rancher.png"
       },
       {
         "id": "fire-truck",
@@ -1281,7 +1281,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Fire",
         "seats": 2,
-        "image": "assets/img/vehicle/gta-chinatown-wars/fire-truck.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/fire-truck.png"
       },
       {
         "id": "fists",
@@ -1289,7 +1289,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/fists.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/fists.png"
       },
       {
         "id": "flatbed",
@@ -1297,7 +1297,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/flatbed.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/flatbed.png"
       },
       {
         "id": "formula-r",
@@ -1305,7 +1305,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/formula-r.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/formula-r.jpg"
       },
       {
         "id": "go-kart",
@@ -1313,7 +1313,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/go-kart.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/go-kart.jpg"
       },
       {
         "id": "gumshoe",
@@ -1321,7 +1321,7 @@
         "category": "Emergency Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/gumshoe.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/gumshoe.jpg"
       },
       {
         "id": "hearse",
@@ -1329,7 +1329,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/hearse.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/hearse.jpg"
       },
       {
         "id": "helitours-maverick",
@@ -1337,7 +1337,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/helitours-maverick.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/helitours-maverick.png"
       },
       {
         "id": "hellenbach",
@@ -1345,7 +1345,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/hellenbach.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/hellenbach.jpg"
       },
       {
         "id": "infernus",
@@ -1355,7 +1355,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Sports",
         "seats": 2,
-        "image": "assets/img/vehicle/gta-chinatown-wars/infernus.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/infernus.jpg"
       },
       {
         "id": "ingot",
@@ -1363,7 +1363,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/ingot.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/ingot.jpg"
       },
       {
         "id": "jetmax",
@@ -1371,7 +1371,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/jetmax.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/jetmax.png"
       },
       {
         "id": "limo",
@@ -1379,7 +1379,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/limo.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/limo.jpg"
       },
       {
         "id": "manana",
@@ -1387,7 +1387,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/manana.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/manana.jpg"
       },
       {
         "id": "maverick",
@@ -1405,7 +1405,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/mk-gt9.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/mk-gt9.jpg"
       },
       {
         "id": "noose-enforcer",
@@ -1413,7 +1413,7 @@
         "category": "Emergency Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/noose-enforcer.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/noose-enforcer.png"
       },
       {
         "id": "nrg-900",
@@ -1421,7 +1421,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/nrg-900.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/nrg-900.jpg"
       },
       {
         "id": "patriot",
@@ -1429,7 +1429,7 @@
         "category": "SUVs/SUTs and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/patriot.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/patriot.png"
       },
       {
         "id": "perennial",
@@ -1437,7 +1437,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/perennial.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/perennial.jpg"
       },
       {
         "id": "peyote",
@@ -1445,7 +1445,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/peyote.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/peyote.jpg"
       },
       {
         "id": "police-car",
@@ -1463,7 +1463,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/police-maverick.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-maverick.png"
       },
       {
         "id": "police-patrol",
@@ -1471,7 +1471,7 @@
         "category": "Emergency Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/police-patrol.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-patrol.png"
       },
       {
         "id": "predator",
@@ -1489,7 +1489,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/recovery.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/recovery.png"
       },
       {
         "id": "reefer",
@@ -1497,7 +1497,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/reefer.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/reefer.png"
       },
       {
         "id": "resolution-x",
@@ -1505,7 +1505,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/resolution-x.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/resolution-x.jpg"
       },
       {
         "id": "rhino",
@@ -1513,7 +1513,7 @@
         "category": "Emergency Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/rhino.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/rhino.png"
       },
       {
         "id": "sabre-gt",
@@ -1521,7 +1521,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/sabre-gt.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/sabre-gt.jpg"
       },
       {
         "id": "sanchez",
@@ -1529,7 +1529,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/sanchez.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/sanchez.jpg"
       },
       {
         "id": "sentinel",
@@ -1547,7 +1547,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/sparrow.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/sparrow.png"
       },
       {
         "id": "speeder",
@@ -1555,7 +1555,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/speeder.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/speeder.png"
       },
       {
         "id": "stallion",
@@ -1563,7 +1563,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/stallion.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/stallion.jpg"
       },
       {
         "id": "style-sr",
@@ -1571,7 +1571,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/style-sr.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/style-sr.jpg"
       },
       {
         "id": "sultan",
@@ -1579,7 +1579,7 @@
         "category": "Basic Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/sultan.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/sultan.jpg"
       },
       {
         "id": "tanker",
@@ -1587,7 +1587,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/tanker.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/tanker.png"
       },
       {
         "id": "taxi",
@@ -1605,7 +1605,7 @@
         "category": "Sports, Super and Race Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/turismo.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/turismo.jpg"
       },
       {
         "id": "voodoo",
@@ -1613,7 +1613,7 @@
         "category": "Muscle Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/voodoo.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/voodoo.jpg"
       },
       {
         "id": "wet-ski",
@@ -1621,7 +1621,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/wet-ski.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/wet-ski.png"
       },
       {
         "id": "yankee",
@@ -1629,7 +1629,7 @@
         "category": "Commercial and Industrial Vehicles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/yankee.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/yankee.png"
       },
       {
         "id": "zhouboat",
@@ -1637,7 +1637,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-chinatown-wars/zhouboat.svg"
+        "image": "assets/img/vehicle/gta-chinatown-wars/zhouboat.png"
       }
     ]
   },
@@ -1650,7 +1650,7 @@
         "type": "Assault Rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/assault-rifle.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/assault-rifle.png"
       },
       {
         "id": "baseball-bat",
@@ -1661,7 +1661,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.png"
       },
       {
         "id": "carbine-rifle",
@@ -1669,7 +1669,7 @@
         "type": "Assault Rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/carbine-rifle.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/carbine-rifle.png"
       },
       {
         "id": "chainsaw",
@@ -1677,7 +1677,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/chainsaw.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/chainsaw.png"
       },
       {
         "id": "crates",
@@ -1693,7 +1693,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/detonator.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/detonator.png"
       },
       {
         "id": "double-barreled-shotgun",
@@ -1701,7 +1701,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/double-barreled-shotgun.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/double-barreled-shotgun.png"
       },
       {
         "id": "drug-sample",
@@ -1709,7 +1709,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/drug-sample.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/drug-sample.png"
       },
       {
         "id": "fist",
@@ -1728,7 +1728,7 @@
         "price": null,
         "unlock": "Default",
         "verified": true,
-        "image": "assets/img/weapon/gta-chinatown-wars/fists.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/fists.png"
       },
       {
         "id": "flame-thrower",
@@ -1736,7 +1736,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/flame-thrower.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/flame-thrower.png"
       },
       {
         "id": "flashbangs",
@@ -1755,7 +1755,7 @@
         "damage_tier": "High",
         "ammo": "Count",
         "unlock": "Pickups",
-        "image": "assets/img/weapon/gta-chinatown-wars/grenades.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/grenades.png"
       },
       {
         "id": "katana",
@@ -1777,7 +1777,7 @@
         "damage_tier": "Medium",
         "ammo": "Magazine",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.png"
       },
       {
         "id": "minigun",
@@ -1785,7 +1785,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/minigun.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/minigun.png"
       },
       {
         "id": "molotov",
@@ -1812,7 +1812,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/night-stick.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/night-stick.png"
       },
       {
         "id": "pistol",
@@ -1823,7 +1823,7 @@
         "damage_tier": "Medium",
         "ammo": "Magazine",
         "unlock": "Ammu-Nation equivalent",
-        "image": "assets/img/weapon/gta-chinatown-wars/pistol.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/pistol.png"
       },
       {
         "id": "proximity-mines",
@@ -1831,7 +1831,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/proximity-mines.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/proximity-mines.png"
       },
       {
         "id": "revolver",
@@ -1839,7 +1839,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/revolver.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/revolver.png"
       },
       {
         "id": "rifle",
@@ -1869,7 +1869,7 @@
         "type": "Heavy",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/rpg.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/rpg.png"
       },
       {
         "id": "shotgun",
@@ -1880,7 +1880,7 @@
         "damage_tier": "High",
         "ammo": "Shells",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-chinatown-wars/shotgun.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/shotgun.png"
       },
       {
         "id": "smg",
@@ -1888,7 +1888,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/smg.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/smg.png"
       },
       {
         "id": "sniper-rifle",
@@ -1896,7 +1896,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/sniper-rifle.png"
       },
       {
         "id": "stubby-shotgun",
@@ -1904,7 +1904,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/stubby-shotgun.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/stubby-shotgun.png"
       },
       {
         "id": "sword",
@@ -1912,7 +1912,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/sword.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/sword.png"
       },
       {
         "id": "teaser",
@@ -1920,7 +1920,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/teaser.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/teaser.png"
       },
       {
         "id": "time-bomb",
@@ -1928,7 +1928,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/time-bomb.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/time-bomb.png"
       },
       {
         "id": "twin-pistols",
@@ -1936,7 +1936,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-chinatown-wars/twin-pistols.svg"
+        "image": "assets/img/weapon/gta-chinatown-wars/twin-pistols.png"
       }
     ]
   },

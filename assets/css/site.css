@@ -150,6 +150,9 @@ h3 { font-size: 1.05rem; margin: 1.6rem 0 .5rem; }
 .data-table strong { font-weight: 600; }
 .data-table a { text-decoration: none; }
 .data-table a:hover { text-decoration: underline; }
+.data-table .thumb-col { width: 92px; padding: .3rem .5rem; }
+.data-table .thumb-col img { display: block; width: 84px; height: 56px; object-fit: contain; border-radius: 3px; background: var(--bg-elev); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 tr.unverified td:first-child::after { content: " ?"; color: var(--warn); font-weight: 700; }
 
 .cov { font-weight: 600; }

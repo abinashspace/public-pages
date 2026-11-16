@@ -5,7 +5,7 @@
     "year": 2005,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.716Z",
+    "generated": "2026-11-16T03:33:24.000Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -26,8 +26,8 @@
       "collectibles": 5
     },
     "images": {
-      "cover": "assets/img/cover/gta-liberty-city-stories/cover.svg",
-      "banner": "assets/img/banner/gta-liberty-city-stories/banner.svg",
+      "cover": "assets/img/cover/gta-liberty-city-stories/cover.png",
+      "banner": "assets/img/banner/gta-liberty-city-stories/banner.png",
       "map": "assets/img/map/gta-liberty-city-stories/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "summary": "Bomb-maker and fixer, already established before GTA III.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/8-ball.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/8-ball.jpg"
       },
       {
         "id": "donald-love",
@@ -61,7 +61,7 @@
         "summary": "A young Donald Love building his media empire in 1998.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/donald-love.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/donald-love.jpg"
       },
       {
         "id": "franco-forelli",
@@ -86,7 +86,7 @@
         "summary": "A pimp and police informant who drags Toni into Triad and Sindacco trouble.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/jd-otoole.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/jd-otoole.jpg"
       },
       {
         "id": "joey-leone",
@@ -98,7 +98,7 @@
         "summary": "Salvatore's son, running the Portland garage.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/joey-leone.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/joey-leone.jpg"
       },
       {
         "id": "leon-mcaffrey",
@@ -110,7 +110,7 @@
         "summary": "A corrupt detective who hires Toni for off-the-books work.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/leon-mcaffrey.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/leon-mcaffrey.jpg"
       },
       {
         "id": "luigi-goterelli",
@@ -122,7 +122,7 @@
         "summary": "Runs the Red Light District club before the events of GTA III.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/luigi-goterelli.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/luigi-goterelli.jpg"
       },
       {
         "id": "ma-cipriani",
@@ -146,7 +146,7 @@
         "summary": "Salvatore's partner and a recurring source of chaos for Toni.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/maria-latare.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/maria-latare.jpg"
       },
       {
         "id": "massimo-torini",
@@ -158,7 +158,7 @@
         "summary": "Sicilian envoy manipulating the Liberty City families.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/massimo-torini.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/massimo-torini.png"
       },
       {
         "id": "mrs-cipriani",
@@ -178,7 +178,7 @@
         "summary": "Gives 4 missions in gta-liberty-city-stories, starting with \"L.C. Confidential\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-liberty-city-stories/ned-burner.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/ned-burner.png"
       },
       {
         "id": "paulie-sindacco",
@@ -190,7 +190,7 @@
         "summary": "Head of the Sindacco family pushing into Liberty City.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/paulie-sindacco.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/paulie-sindacco.jpg"
       },
       {
         "id": "salvatore-leone",
@@ -202,7 +202,7 @@
         "summary": "The don Toni serves, fighting off Sicilian and Forelli challenges to his rule.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/salvatore-leone.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/salvatore-leone.jpg"
       },
       {
         "id": "toni-cipriani",
@@ -215,7 +215,7 @@
         "status": "Alive",
         "first_appearance": "GTA: Liberty City Stories",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/toni-cipriani.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/toni-cipriani.png"
       },
       {
         "id": "toshiko-kasen",
@@ -225,7 +225,7 @@
         "summary": "Gives 4 missions in gta-liberty-city-stories, starting with \"More Deadly Than the Male\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-liberty-city-stories/toshiko-kasen.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/toshiko-kasen.png"
       },
       {
         "id": "vincenzo-cilli",
@@ -237,7 +237,7 @@
         "summary": "Toni's early employer and rival within the family.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-liberty-city-stories/vincenzo-cilli.svg"
+        "image": "assets/img/portrait/gta-liberty-city-stories/vincenzo-cilli.jpg"
       }
     ]
   },
@@ -1328,7 +1328,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/aeroplane.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/aeroplane.png"
       },
       {
         "id": "ambulance",
@@ -1336,7 +1336,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/ambulance.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/ambulance.jpg"
       },
       {
         "id": "angel",
@@ -1344,7 +1344,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/angel.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/angel.jpg"
       },
       {
         "id": "avenger",
@@ -1352,7 +1352,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/avenger.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/avenger.jpg"
       },
       {
         "id": "ballot-van",
@@ -1360,7 +1360,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/ballot-van.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/ballot-van.png"
       },
       {
         "id": "banshee",
@@ -1371,7 +1371,7 @@
         "class": "Sports",
         "top_speed_kph": 210,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/banshee.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/banshee.jpg"
       },
       {
         "id": "barracks-ol",
@@ -1379,7 +1379,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol.png"
       },
       {
         "id": "barracks-ol-ammo",
@@ -1387,7 +1387,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol-ammo.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/barracks-ol-ammo.png"
       },
       {
         "id": "bf-injection",
@@ -1395,7 +1395,7 @@
         "category": "4WD and utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/bf-injection.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/bf-injection.jpg"
       },
       {
         "id": "bickle76",
@@ -1403,7 +1403,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/bickle76.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/bickle76.png"
       },
       {
         "id": "blista",
@@ -1411,7 +1411,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/blista.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/blista.png"
       },
       {
         "id": "bobcat",
@@ -1419,7 +1419,7 @@
         "category": "4WD and utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/bobcat.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/bobcat.jpg"
       },
       {
         "id": "cabbie",
@@ -1427,7 +1427,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/cabbie.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/cabbie.jpg"
       },
       {
         "id": "campaign-rumpo",
@@ -1435,7 +1435,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/campaign-rumpo.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/campaign-rumpo.png"
       },
       {
         "id": "cartel-cruiser",
@@ -1443,7 +1443,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/cartel-cruiser.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/cartel-cruiser.jpg"
       },
       {
         "id": "cheetah",
@@ -1454,7 +1454,7 @@
         "class": "Sports",
         "top_speed_kph": 225,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/cheetah.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/cheetah.jpg"
       },
       {
         "id": "coach",
@@ -1462,7 +1462,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/coach.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/coach.jpg"
       },
       {
         "id": "deimos-sp",
@@ -1470,7 +1470,7 @@
         "category": "Sports & supercars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/deimos-sp.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/deimos-sp.png"
       },
       {
         "id": "diablo-stallion",
@@ -1478,7 +1478,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/diablo-stallion.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/diablo-stallion.jpg"
       },
       {
         "id": "enforcer",
@@ -1486,7 +1486,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/enforcer.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/enforcer.png"
       },
       {
         "id": "esperanto",
@@ -1494,7 +1494,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/esperanto.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/esperanto.jpg"
       },
       {
         "id": "faggio",
@@ -1502,7 +1502,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/faggio.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/faggio.jpg"
       },
       {
         "id": "fbi-cruiser",
@@ -1510,7 +1510,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/fbi-cruiser.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/fbi-cruiser.png"
       },
       {
         "id": "ferry",
@@ -1518,7 +1518,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/ferry.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/ferry.png"
       },
       {
         "id": "firetruck",
@@ -1526,7 +1526,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/firetruck.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/firetruck.jpg"
       },
       {
         "id": "flatbed",
@@ -1534,7 +1534,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/flatbed.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/flatbed.png"
       },
       {
         "id": "forelli-exsess",
@@ -1542,7 +1542,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/forelli-exsess.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/forelli-exsess.jpg"
       },
       {
         "id": "freeway",
@@ -1553,7 +1553,7 @@
         "class": "Cruiser",
         "top_speed_kph": 180,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/freeway.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/freeway.jpg"
       },
       {
         "id": "hearse",
@@ -1561,7 +1561,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/hearse.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/hearse.jpg"
       },
       {
         "id": "helicopter",
@@ -1569,7 +1569,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/helicopter.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/helicopter.png"
       },
       {
         "id": "hellenbach-gt",
@@ -1577,7 +1577,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/hellenbach-gt.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/hellenbach-gt.png"
       },
       {
         "id": "hoods-rumpo-xl",
@@ -1585,7 +1585,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/hoods-rumpo-xl.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/hoods-rumpo-xl.png"
       },
       {
         "id": "hunter",
@@ -1593,7 +1593,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/hunter.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/hunter.png"
       },
       {
         "id": "idaho",
@@ -1601,7 +1601,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/idaho.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/idaho.png"
       },
       {
         "id": "infernus",
@@ -1612,7 +1612,7 @@
         "class": "Sports",
         "top_speed_kph": 220,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/infernus.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/infernus.jpg"
       },
       {
         "id": "kuruma",
@@ -1623,7 +1623,7 @@
         "class": "Sedan",
         "top_speed_kph": 170,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/kuruma.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/kuruma.png"
       },
       {
         "id": "landstalker",
@@ -1631,7 +1631,7 @@
         "category": "4WD and utility",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/landstalker.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/landstalker.png"
       },
       {
         "id": "leone-sentinel",
@@ -1639,7 +1639,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/leone-sentinel.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/leone-sentinel.jpg"
       },
       {
         "id": "linerunner",
@@ -1647,7 +1647,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/linerunner.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/linerunner.jpg"
       },
       {
         "id": "manana",
@@ -1655,7 +1655,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/manana.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/manana.jpg"
       },
       {
         "id": "manchez",
@@ -1663,7 +1663,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/manchez.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/manchez.jpg"
       },
       {
         "id": "maverick",
@@ -1674,7 +1674,7 @@
         "class": "Helicopter",
         "top_speed_kph": 200,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/maverick.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/maverick.png"
       },
       {
         "id": "moonbeam",
@@ -1682,7 +1682,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/moonbeam.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/moonbeam.png"
       },
       {
         "id": "mr-whoopee",
@@ -1690,7 +1690,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/mr-whoopee.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/mr-whoopee.png"
       },
       {
         "id": "mr-wongs",
@@ -1698,7 +1698,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/mr-wongs.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/mr-wongs.jpg"
       },
       {
         "id": "mule",
@@ -1706,7 +1706,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/mule.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/mule.png"
       },
       {
         "id": "noodleboy",
@@ -1714,7 +1714,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/noodleboy.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/noodleboy.jpg"
       },
       {
         "id": "panlantic",
@@ -1722,7 +1722,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/panlantic.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/panlantic.png"
       },
       {
         "id": "patriot",
@@ -1733,7 +1733,7 @@
         "class": "SUV",
         "top_speed_kph": 175,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/patriot.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/patriot.jpg"
       },
       {
         "id": "pcj-600",
@@ -1744,7 +1744,7 @@
         "class": "Sport bike",
         "top_speed_kph": 200,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/pcj-600.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/pcj-600.jpg"
       },
       {
         "id": "perennial",
@@ -1752,7 +1752,7 @@
         "category": "Four-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/perennial.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/perennial.png"
       },
       {
         "id": "phobos-vt",
@@ -1760,7 +1760,7 @@
         "category": "Sports & supercars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/phobos-vt.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/phobos-vt.png"
       },
       {
         "id": "pizzaboy",
@@ -1768,7 +1768,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/pizzaboy.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/pizzaboy.jpg"
       },
       {
         "id": "police",
@@ -1776,7 +1776,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/police.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/police.jpg"
       },
       {
         "id": "police-maverick",
@@ -1794,7 +1794,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/pony.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/pony.png"
       },
       {
         "id": "predator",
@@ -1805,7 +1805,7 @@
         "class": "Police boat",
         "top_speed_kph": 95,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/predator.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/predator.png"
       },
       {
         "id": "ps2",
@@ -1829,7 +1829,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/rc-bandit.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/rc-bandit.jpg"
       },
       {
         "id": "reefer",
@@ -1837,7 +1837,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/reefer.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/reefer.png"
       },
       {
         "id": "rhino",
@@ -1848,7 +1848,7 @@
         "class": "Tank",
         "top_speed_kph": 60,
         "seats": 1,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/rhino.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/rhino.jpg"
       },
       {
         "id": "rumpo",
@@ -1856,7 +1856,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/rumpo.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/rumpo.png"
       },
       {
         "id": "sanchez",
@@ -1867,7 +1867,7 @@
         "class": "Dirt bike",
         "top_speed_kph": 170,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/sanchez.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/sanchez.jpg"
       },
       {
         "id": "securicar",
@@ -1875,7 +1875,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/securicar.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/securicar.jpg"
       },
       {
         "id": "sentinel",
@@ -1886,7 +1886,7 @@
         "class": "Sedan",
         "top_speed_kph": 175,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/sentinel.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/sentinel.png"
       },
       {
         "id": "sindacco-argento",
@@ -1894,7 +1894,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/sindacco-argento.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/sindacco-argento.png"
       },
       {
         "id": "speeder",
@@ -1905,7 +1905,7 @@
         "class": "Speedboat",
         "top_speed_kph": 105,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/speeder.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/speeder.png"
       },
       {
         "id": "stallion",
@@ -1916,7 +1916,7 @@
         "class": "Muscle",
         "top_speed_kph": 190,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/stallion.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/stallion.jpg"
       },
       {
         "id": "stinger",
@@ -1927,7 +1927,7 @@
         "class": "Sports",
         "top_speed_kph": 205,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-liberty-city-stories/stinger.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/stinger.jpg"
       },
       {
         "id": "stretch",
@@ -1935,7 +1935,7 @@
         "category": "Four-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/stretch.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/stretch.png"
       },
       {
         "id": "taxi",
@@ -1943,7 +1943,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/taxi.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/taxi.png"
       },
       {
         "id": "thunder-rodd",
@@ -1951,7 +1951,7 @@
         "category": "Two-door cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/thunder-rodd.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/thunder-rodd.jpg"
       },
       {
         "id": "toyz",
@@ -1959,7 +1959,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/toyz.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/toyz.jpg"
       },
       {
         "id": "train",
@@ -1967,7 +1967,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/train.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/train.jpg"
       },
       {
         "id": "trashmaster",
@@ -1975,7 +1975,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/trashmaster.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/trashmaster.png"
       },
       {
         "id": "triad-fish-van",
@@ -1983,7 +1983,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/triad-fish-van.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/triad-fish-van.jpg"
       },
       {
         "id": "v8-ghost",
@@ -1991,7 +1991,7 @@
         "category": "Sports & supercars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/v8-ghost.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/v8-ghost.png"
       },
       {
         "id": "yakuza-stinger",
@@ -1999,7 +1999,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/yakuza-stinger.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/yakuza-stinger.jpg"
       },
       {
         "id": "yankee",
@@ -2007,7 +2007,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/yankee.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/yankee.png"
       },
       {
         "id": "yardie-lobo",
@@ -2015,7 +2015,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-liberty-city-stories/yardie-lobo.svg"
+        "image": "assets/img/vehicle/gta-liberty-city-stories/yardie-lobo.jpg"
       }
     ]
   },
@@ -2028,7 +2028,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/357.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/357.png"
       },
       {
         "id": "ak",
@@ -2036,7 +2036,7 @@
         "type": "Assault Rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/ak.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/ak.png"
       },
       {
         "id": "ak-47",
@@ -2058,7 +2058,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-liberty-city-stories/baseball-bat.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/baseball-bat.png"
       },
       {
         "id": "brass-knuckles",
@@ -2066,7 +2066,7 @@
         "type": "Unarmed",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/brass-knuckles.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/brass-knuckles.png"
       },
       {
         "id": "camera",
@@ -2074,7 +2074,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/camera.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/camera.png"
       },
       {
         "id": "chainsaw",
@@ -2085,7 +2085,7 @@
         "damage_tier": "Very high",
         "ammo": "—",
         "unlock": "Mission reward",
-        "image": "assets/img/weapon/gta-liberty-city-stories/chainsaw.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/chainsaw.png"
       },
       {
         "id": "chisel",
@@ -2093,7 +2093,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/chisel.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/chisel.png"
       },
       {
         "id": "detonator",
@@ -2101,7 +2101,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/detonator.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/detonator.png"
       },
       {
         "id": "fist",
@@ -2109,7 +2109,7 @@
         "type": "Unarmed",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/fist.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/fist.png"
       },
       {
         "id": "flame-thrower",
@@ -2117,7 +2117,7 @@
         "type": "Heavy Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/flame-thrower.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/flame-thrower.png"
       },
       {
         "id": "flamethrower",
@@ -2128,7 +2128,7 @@
         "price": null,
         "unlock": "Pickups",
         "verified": true,
-        "image": "assets/img/weapon/gta-liberty-city-stories/flamethrower.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/flamethrower.png"
       },
       {
         "id": "grenade",
@@ -2136,7 +2136,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/grenade.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/grenade.png"
       },
       {
         "id": "grenades",
@@ -2155,7 +2155,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/hand-axe.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/hand-axe.png"
       },
       {
         "id": "hockey-stick",
@@ -2163,7 +2163,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/hockey-stick.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/hockey-stick.png"
       },
       {
         "id": "katana",
@@ -2171,7 +2171,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/katana.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/katana.png"
       },
       {
         "id": "knife",
@@ -2179,7 +2179,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/knife.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/knife.png"
       },
       {
         "id": "laser-sighted-sniper-rifle",
@@ -2187,7 +2187,7 @@
         "type": "Sniper Rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/laser-sighted-sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/laser-sighted-sniper-rifle.png"
       },
       {
         "id": "m4",
@@ -2198,7 +2198,7 @@
         "damage_tier": "Very high",
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-liberty-city-stories/m4.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/m4.png"
       },
       {
         "id": "m60",
@@ -2206,7 +2206,7 @@
         "type": "Heavy Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/m60.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/m60.png"
       },
       {
         "id": "mac-10",
@@ -2214,7 +2214,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/mac-10.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/mac-10.png"
       },
       {
         "id": "machete",
@@ -2222,7 +2222,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/machete.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/machete.png"
       },
       {
         "id": "meat-cleaver",
@@ -2230,7 +2230,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/meat-cleaver.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/meat-cleaver.png"
       },
       {
         "id": "micro-smg",
@@ -2238,7 +2238,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/micro-smg.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/micro-smg.png"
       },
       {
         "id": "minigun",
@@ -2246,7 +2246,7 @@
         "type": "Heavy Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/minigun.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/minigun.png"
       },
       {
         "id": "molotov-cocktail",
@@ -2254,7 +2254,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/molotov-cocktail.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/molotov-cocktail.png"
       },
       {
         "id": "molotov",
@@ -2265,7 +2265,7 @@
         "price": null,
         "unlock": "Street pickups",
         "verified": true,
-        "image": "assets/img/weapon/gta-liberty-city-stories/molotov.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/molotov.png"
       },
       {
         "id": "nightstick",
@@ -2273,7 +2273,7 @@
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/nightstick.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/nightstick.png"
       },
       {
         "id": "pistol",
@@ -2284,7 +2284,7 @@
         "damage_tier": "Medium",
         "ammo": "17 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-liberty-city-stories/pistol.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/pistol.png"
       },
       {
         "id": "remote-grenade",
@@ -2292,7 +2292,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/remote-grenade.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/remote-grenade.png"
       },
       {
         "id": "rocket-launcher",
@@ -2303,7 +2303,7 @@
         "damage_tier": "Lethal",
         "ammo": "5 rockets",
         "unlock": "Pickups",
-        "image": "assets/img/weapon/gta-liberty-city-stories/rocket-launcher.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/rocket-launcher.png"
       },
       {
         "id": "spas-12",
@@ -2311,7 +2311,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/spas-12.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/spas-12.png"
       },
       {
         "id": "shotgun",
@@ -2322,7 +2322,7 @@
         "damage_tier": "High",
         "ammo": "8 shells",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-liberty-city-stories/shotgun.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/shotgun.png"
       },
       {
         "id": "smg",
@@ -2330,7 +2330,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/smg.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/smg.png"
       },
       {
         "id": "sniper-rifle",
@@ -2341,7 +2341,7 @@
         "damage_tier": "Very high",
         "ammo": "5 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-liberty-city-stories/sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/sniper-rifle.png"
       },
       {
         "id": "stubby-shotgun",
@@ -2349,7 +2349,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/stubby-shotgun.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/stubby-shotgun.png"
       },
       {
         "id": "tear-gas",
@@ -2357,7 +2357,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/tear-gas.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/tear-gas.png"
       },
       {
         "id": "tec-9",
@@ -2365,7 +2365,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-liberty-city-stories/tec-9.svg"
+        "image": "assets/img/weapon/gta-liberty-city-stories/tec-9.png"
       },
       {
         "id": "uzi",

@@ -11,7 +11,7 @@
       "type": "Assault Rifles & Light Machine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-mg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-mg.png"
     },
     {
       "id": "advanced-sniper",
@@ -19,7 +19,7 @@
       "type": "Sniper Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-sniper.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/advanced-sniper.png"
     },
     {
       "id": "ap-pistol",
@@ -38,7 +38,7 @@
       "type": "Assault Rifles & Light Machine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-rifle.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-rifle.png"
     },
     {
       "id": "assault-smg",
@@ -49,7 +49,7 @@
       "damage_tier": "High",
       "ammo": "30 rounds",
       "unlock": "Pickups",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-smg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/assault-smg.png"
     },
     {
       "id": "automatic-shotgun",
@@ -68,7 +68,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/baseball-bat.png"
     },
     {
       "id": "carbine-rifle",
@@ -79,7 +79,7 @@
       "damage_tier": "Very high",
       "ammo": "30 rounds",
       "unlock": "Later missions",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/carbine-rifle.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/carbine-rifle.png"
     },
     {
       "id": "combat-pistol",
@@ -87,7 +87,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-pistol.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-pistol.png"
     },
     {
       "id": "combat-shotgun",
@@ -95,7 +95,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-shotgun.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-shotgun.png"
     },
     {
       "id": "combat-sniper",
@@ -103,7 +103,7 @@
       "type": "Sniper Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-sniper.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/combat-sniper.png"
     },
     {
       "id": "fist",
@@ -111,7 +111,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/fist.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/fist.png"
     },
     {
       "id": "gold-smg",
@@ -119,7 +119,7 @@
       "type": "Submachine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/gold-smg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/gold-smg.png"
     },
     {
       "id": "grenade",
@@ -135,7 +135,7 @@
       "type": "Heavy Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/grenade-launcher.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/grenade-launcher.png"
     },
     {
       "id": "knife",
@@ -143,7 +143,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/knife.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/knife.png"
     },
     {
       "id": "micro-smg",
@@ -151,7 +151,7 @@
       "type": "Submachine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/micro-smg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/micro-smg.png"
     },
     {
       "id": "molotov-cocktail",
@@ -159,7 +159,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/molotov-cocktail.png"
     },
     {
       "id": "pistol",
@@ -167,7 +167,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol.png"
     },
     {
       "id": "pistol-44",
@@ -175,7 +175,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol-44.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pistol-44.png"
     },
     {
       "id": "pump-shotgun",
@@ -183,7 +183,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pump-shotgun.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/pump-shotgun.png"
     },
     {
       "id": "random-pickable-objects",
@@ -191,7 +191,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/random-pickable-objects.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/random-pickable-objects.png"
     },
     {
       "id": "rpg",
@@ -202,7 +202,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Yusuf Amir",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/rpg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/rpg.png"
     },
     {
       "id": "sawn-off-shotgun",
@@ -221,7 +221,7 @@
       "type": "Submachine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/smg.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/smg.png"
     },
     {
       "id": "sniper-rifle",
@@ -232,7 +232,7 @@
       "damage_tier": "Very high",
       "ammo": "5 rounds",
       "unlock": "Mission",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sniper-rifle.png"
     },
     {
       "id": "sticky-bombs",
@@ -243,7 +243,7 @@
       "damage_tier": "Lethal",
       "ammo": "Count",
       "unlock": "Pickups",
-      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sticky-bombs.svg"
+      "image": "assets/img/weapon/gta-the-ballad-of-gay-tony/sticky-bombs.png"
     }
   ]
 }

@@ -16,7 +16,7 @@
       "status": "Varies",
       "first_appearance": "Grand Theft Auto 2",
       "verified": true,
-      "image": "assets/img/portrait/gta-2/claude-speed.svg"
+      "image": "assets/img/portrait/gta-2/claude-speed.png"
     },
     {
       "id": "hare-krishna-leader",
@@ -98,7 +98,7 @@
       "summary": "Gives 1 mission in gta-2, starting with \"Final jobs\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-2/zaibatsu.svg"
+      "image": "assets/img/portrait/gta-2/zaibatsu.jpg"
     },
     {
       "id": "zaibatsu-boss",

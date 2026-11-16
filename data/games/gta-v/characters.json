@@ -15,7 +15,7 @@
       "summary": "Michael's estranged wife, spending his money and testing the marriage.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/amanda-de-santa.svg"
+      "image": "assets/img/portrait/gta-v/amanda-de-santa.png"
     },
     {
       "id": "dave-norton",
@@ -27,7 +27,7 @@
       "summary": "The agent who put Michael in witness protection and keeps pulling him back in.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/dave-norton.svg"
+      "image": "assets/img/portrait/gta-v/dave-norton.png"
     },
     {
       "id": "dave-norton-fib",
@@ -37,7 +37,7 @@
       "summary": "Gives 3 missions in gta-v, starting with \"Dead Man Walking\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-v/dave-norton-fib.svg"
+      "image": "assets/img/portrait/gta-v/dave-norton-fib.png"
     },
     {
       "id": "devin-weston",
@@ -49,7 +49,7 @@
       "summary": "A billionaire who treats the crew as disposable contractors.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/devin-weston.svg"
+      "image": "assets/img/portrait/gta-v/devin-weston.jpg"
     },
     {
       "id": "dr-friedlander",
@@ -61,7 +61,7 @@
       "summary": "Michael's opportunistic psychiatrist, recordable as a collectible side objective.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/dr-friedlander.svg"
+      "image": "assets/img/portrait/gta-v/dr-friedlander.png"
     },
     {
       "id": "franklin-clinton",
@@ -74,7 +74,7 @@
       "summary": "A repo man from South Los Santos who wants a bigger life than gang politics allow.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/franklin-clinton.svg"
+      "image": "assets/img/portrait/gta-v/franklin-clinton.png"
     },
     {
       "id": "jimmy-de-santa",
@@ -86,7 +86,7 @@
       "summary": "Michael's aimless son, obsessed with games and internet fame.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/jimmy-de-santa.svg"
+      "image": "assets/img/portrait/gta-v/jimmy-de-santa.png"
     },
     {
       "id": "lamar-davis",
@@ -98,7 +98,7 @@
       "summary": "Franklin's best friend, whose schemes constantly put them both in danger.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/lamar-davis.svg"
+      "image": "assets/img/portrait/gta-v/lamar-davis.png"
     },
     {
       "id": "lester-crest",
@@ -110,7 +110,7 @@
       "summary": "A reclusive hacker and strategist who plans the crew's heists.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/lester-crest.svg"
+      "image": "assets/img/portrait/gta-v/lester-crest.png"
     },
     {
       "id": "martin-madrazo",
@@ -122,7 +122,7 @@
       "summary": "A Mexican drug lord with a mansion in Vinewood Hills.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/martin-madrazo.svg"
+      "image": "assets/img/portrait/gta-v/martin-madrazo.png"
     },
     {
       "id": "michael-de-santa",
@@ -136,7 +136,7 @@
       "status": "Alive",
       "first_appearance": "Grand Theft Auto V",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/michael-de-santa.svg"
+      "image": "assets/img/portrait/gta-v/michael-de-santa.png"
     },
     {
       "id": "molly-schultz",
@@ -148,7 +148,7 @@
       "summary": "Devin Weston's lawyer and fixer.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/molly-schultz.svg"
+      "image": "assets/img/portrait/gta-v/molly-schultz.png"
     },
     {
       "id": "none-flashback",
@@ -170,7 +170,7 @@
       "summary": "Martin's wife, who leaves him for Trevor.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/patricia-madrazo.svg"
+      "image": "assets/img/portrait/gta-v/patricia-madrazo.png"
     },
     {
       "id": "ron-jakowski",
@@ -182,7 +182,7 @@
       "summary": "Trevor's paranoid radio-operator and business partner.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/ron-jakowski.svg"
+      "image": "assets/img/portrait/gta-v/ron-jakowski.png"
     },
     {
       "id": "simeon-yetarian",
@@ -194,7 +194,7 @@
       "summary": "A shady luxury car dealer who employs Franklin and Michael.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/simeon-yetarian.svg"
+      "image": "assets/img/portrait/gta-v/simeon-yetarian.png"
     },
     {
       "id": "solomon-richards",
@@ -204,7 +204,7 @@
       "summary": "Gives 3 missions in gta-v, starting with \"Mr. Richards\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-v/solomon-richards.svg"
+      "image": "assets/img/portrait/gta-v/solomon-richards.png"
     },
     {
       "id": "steve-haines",
@@ -216,7 +216,7 @@
       "summary": "A publicity-hungry FIB agent who blackmails the crew into government jobs.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/steve-haines.svg"
+      "image": "assets/img/portrait/gta-v/steve-haines.png"
     },
     {
       "id": "steve-haines-fib",
@@ -226,7 +226,7 @@
       "summary": "Gives 10 missions in gta-v, starting with \"By the Book\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-v/steve-haines-fib.svg"
+      "image": "assets/img/portrait/gta-v/steve-haines-fib.png"
     },
     {
       "id": "stretch",
@@ -238,7 +238,7 @@
       "summary": "Lamar's former associate who betrays the crew.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/stretch.svg"
+      "image": "assets/img/portrait/gta-v/stretch.png"
     },
     {
       "id": "tao-cheng",
@@ -248,7 +248,7 @@
       "summary": "Gives 2 missions in gta-v, starting with \"Trevor Philips Industries\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-v/tao-cheng.svg"
+      "image": "assets/img/portrait/gta-v/tao-cheng.png"
     },
     {
       "id": "tracey-de-santa",
@@ -260,7 +260,7 @@
       "summary": "Michael's daughter, chasing reality-TV fame.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/tracey-de-santa.svg"
+      "image": "assets/img/portrait/gta-v/tracey-de-santa.png"
     },
     {
       "id": "trevor-philips",
@@ -273,7 +273,7 @@
       "summary": "A violent, unpredictable career criminal running arms and drugs out of Sandy Shores.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/trevor-philips.svg"
+      "image": "assets/img/portrait/gta-v/trevor-philips.png"
     },
     {
       "id": "wade-hebert",
@@ -285,7 +285,7 @@
       "summary": "Trevor's loyal but simple-minded friend.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-v/wade-hebert.svg"
+      "image": "assets/img/portrait/gta-v/wade-hebert.png"
     }
   ]
 }

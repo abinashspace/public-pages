@@ -15,7 +15,7 @@
       "summary": "One of the Mendez brothers running the cartel's Vice City operation.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/armando-mendez.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/armando-mendez.jpg"
     },
     {
       "id": "bryan-forbes",
@@ -27,7 +27,7 @@
       "summary": "Cartel enforcer caught in a feud with Victor.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/bryan-forbes.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/bryan-forbes.jpg"
     },
     {
       "id": "diego-mendez",
@@ -39,7 +39,7 @@
       "summary": "The other Mendez brother and cartel co-leader.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/diego-mendez.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/diego-mendez.jpg"
     },
     {
       "id": "gonzales",
@@ -49,7 +49,7 @@
       "summary": "Gives 2 missions in gta-vice-city-stories, starting with \"Home's on the Range\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-vice-city-stories/gonzales.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/gonzales.jpg"
     },
     {
       "id": "gonzalez",
@@ -61,7 +61,7 @@
       "summary": "Diaz's nervous middleman, already active in 1984.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/gonzalez.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/gonzalez.jpg"
     },
     {
       "id": "jerry-martinez",
@@ -74,7 +74,7 @@
       "summary": "Corrupt sergeant who betrays Victor and becomes a cartel player.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/jerry-martinez.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/jerry-martinez.png"
     },
     {
       "id": "lance-vance",
@@ -86,7 +86,7 @@
       "summary": "Victor's younger brother and partner in the family business.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/lance-vance.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/lance-vance.jpg"
     },
     {
       "id": "louise-cassidy-williams",
@@ -98,7 +98,7 @@
       "summary": "Widow of Marty Jay Williams who becomes Victor's partner and love interest.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/louise-cassidy-williams.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/louise-cassidy-williams.png"
     },
     {
       "id": "marty-jay-williams",
@@ -110,7 +110,7 @@
       "summary": "Abusive gang leader running the trailer park racket.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/marty-jay-williams.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/marty-jay-williams.png"
     },
     {
       "id": "mendez-brothers",
@@ -120,7 +120,7 @@
       "summary": "Gives 5 missions in gta-vice-city-stories, starting with \"The Mugshot Longshot\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-vice-city-stories/mendez-brothers.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/mendez-brothers.jpg"
     },
     {
       "id": "phil-cassidy",
@@ -132,7 +132,7 @@
       "summary": "Louise's brother and the family's weapons supplier.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/phil-cassidy.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/phil-cassidy.jpg"
     },
     {
       "id": "reni-wassulmaier",
@@ -144,7 +144,7 @@
       "summary": "Eccentric film director who gives Victor a set of missions.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/reni-wassulmaier.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/reni-wassulmaier.jpg"
     },
     {
       "id": "ricardo-diaz",
@@ -156,7 +156,7 @@
       "summary": "A rising drug figure in 1984, later the kingpin of Vice City.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/ricardo-diaz.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/ricardo-diaz.jpg"
     },
     {
       "id": "umberto-robina",
@@ -168,7 +168,7 @@
       "summary": "Cuban gang leader and early ally of Victor.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/umberto-robina.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/umberto-robina.jpg"
     },
     {
       "id": "victor-vance",
@@ -182,7 +182,7 @@
       "status": "Deceased",
       "first_appearance": "GTA: Vice City Stories",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city-stories/victor-vance.svg"
+      "image": "assets/img/portrait/gta-vice-city-stories/victor-vance.png"
     }
   ]
 }

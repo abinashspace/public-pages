@@ -5,7 +5,7 @@
     "year": 2026,
     "type": "Main",
     "status": "upcoming",
-    "generated": "2026-11-15T23:43:20.901Z",
+    "generated": "2026-11-16T03:33:24.166Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "official-only",
@@ -26,8 +26,8 @@
       "collectibles": 0
     },
     "images": {
-      "cover": "assets/img/cover/gta-vi/cover.svg",
-      "banner": "assets/img/banner/gta-vi/banner.svg",
+      "cover": "assets/img/cover/gta-vi/cover.png",
+      "banner": "assets/img/banner/gta-vi/banner.png",
       "map": "assets/img/map/gta-vi/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "first_appearance": "Grand Theft Auto VI",
         "verified": true,
         "source": "Rockstar Games GTA VI Trailer 1",
-        "image": "assets/img/portrait/gta-vi/jason.svg"
+        "image": "assets/img/portrait/gta-vi/jason.png"
       },
       {
         "id": "lucia",
@@ -61,7 +61,7 @@
         "first_appearance": "Grand Theft Auto VI",
         "verified": true,
         "source": "Rockstar Games GTA VI Trailer 1",
-        "image": "assets/img/portrait/gta-vi/lucia.svg"
+        "image": "assets/img/portrait/gta-vi/lucia.png"
       }
     ]
   },

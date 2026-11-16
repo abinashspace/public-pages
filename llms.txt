@@ -2,7 +2,7 @@
 
 > A machine-first encyclopedia of the Grand Theft Auto series: characters, missions, vehicles, weapons, cheats, locations and collectibles for all 17 games, published as static HTML and portable JSON.
 
-Static site, no external services. Regenerated 2026-11-15.
+Static site, no external services. Regenerated 2026-11-16.
 
 ## Machine entry points
 
@@ -120,4 +120,4 @@ Unknown numbers are null, never 0.
 ## Notes
 
 - Unofficial fan data. Trademarks belong to Rockstar Games / Take-Two Interactive.
-- Artwork is not included; image paths resolve to generated placeholders.
+- Artwork mostly sourced from GTA Wiki (1834/3807 slots); the rest resolve to generated placeholders. See /data/images.json for per-slot status.

@@ -14,7 +14,7 @@
       "damage_tier": "High",
       "ammo": "30 rounds",
       "unlock": "Terry Thorpe",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-rifle.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-rifle.png"
     },
     {
       "id": "assault-shotgun",
@@ -22,7 +22,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-shotgun.png"
     },
     {
       "id": "automatic-9mm",
@@ -30,7 +30,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/automatic-9mm.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/automatic-9mm.png"
     },
     {
       "id": "baseball-bat",
@@ -41,7 +41,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.png"
     },
     {
       "id": "carbine-rifle",
@@ -49,7 +49,7 @@
       "type": "Assault Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/carbine-rifle.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/carbine-rifle.png"
     },
     {
       "id": "combat-pistol",
@@ -57,7 +57,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-pistol.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-pistol.png"
     },
     {
       "id": "combat-shotgun",
@@ -65,7 +65,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-shotgun.png"
     },
     {
       "id": "combat-sniper",
@@ -73,7 +73,7 @@
       "type": "Sniper Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-sniper.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-sniper.png"
     },
     {
       "id": "fist",
@@ -81,7 +81,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/fist.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/fist.png"
     },
     {
       "id": "glock-17",
@@ -100,7 +100,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade.png"
     },
     {
       "id": "grenade-launcher",
@@ -111,7 +111,7 @@
       "damage_tier": "Lethal",
       "ammo": "6 rounds",
       "unlock": "Club supply",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.png"
     },
     {
       "id": "knife",
@@ -119,7 +119,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/knife.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/knife.png"
     },
     {
       "id": "micro-smg",
@@ -130,7 +130,7 @@
       "damage_tier": "Medium",
       "ammo": "30 rounds",
       "unlock": "Club supply",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/micro-smg.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/micro-smg.png"
     },
     {
       "id": "molotov-cocktail",
@@ -138,7 +138,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/molotov-cocktail.png"
     },
     {
       "id": "pipe-bomb",
@@ -149,7 +149,7 @@
       "damage_tier": "High",
       "ammo": "Count",
       "unlock": "Club supply",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.png"
     },
     {
       "id": "pistol",
@@ -157,7 +157,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pistol.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pistol.png"
     },
     {
       "id": "pool-cue",
@@ -165,7 +165,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pool-cue.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pool-cue.png"
     },
     {
       "id": "pump-shotgun",
@@ -173,7 +173,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pump-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pump-shotgun.png"
     },
     {
       "id": "random-pickable-objects",
@@ -181,7 +181,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/random-pickable-objects.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/random-pickable-objects.png"
     },
     {
       "id": "rpg",
@@ -192,7 +192,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Club supply",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/rpg.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/rpg.png"
     },
     {
       "id": "sawn-off-shotgun",
@@ -203,7 +203,7 @@
       "damage_tier": "Very high",
       "ammo": "2 shells",
       "unlock": "Club supply",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sawn-off-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sawn-off-shotgun.png"
     },
     {
       "id": "smg",
@@ -211,7 +211,7 @@
       "type": "Submachine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/smg.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/smg.png"
     },
     {
       "id": "sniper-rifle",
@@ -219,7 +219,7 @@
       "type": "Sniper Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sniper-rifle.png"
     }
   ]
 }

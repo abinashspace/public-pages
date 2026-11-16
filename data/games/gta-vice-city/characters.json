@@ -15,7 +15,7 @@
       "summary": "Congressman whose campaign Tommy rigs through the film studio.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/alex-shrub.svg"
+      "image": "assets/img/portrait/gta-vice-city/alex-shrub.png"
     },
     {
       "id": "auntie-poulet",
@@ -27,7 +27,7 @@
       "summary": "Haitian community leader and drug cook who uses voodoo imagery.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/auntie-poulet.svg"
+      "image": "assets/img/portrait/gta-vice-city/auntie-poulet.jpg"
     },
     {
       "id": "avery-carrington",
@@ -37,7 +37,7 @@
       "summary": "Gives 3 missions in gta-vice-city, starting with \"Four Iron\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-vice-city/avery-carrington.svg"
+      "image": "assets/img/portrait/gta-vice-city/avery-carrington.png"
     },
     {
       "id": "big-mitch-baker",
@@ -49,7 +49,7 @@
       "summary": "Runs the biker bar and tests Tommy with a gang ride.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/big-mitch-baker.svg"
+      "image": "assets/img/portrait/gta-vice-city/big-mitch-baker.png"
     },
     {
       "id": "bj-smith",
@@ -73,7 +73,7 @@
       "summary": "Safe-cracker broken out of police custody for the Malibu heist.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/cam-jones.svg"
+      "image": "assets/img/portrait/gta-vice-city/cam-jones.jpg"
     },
     {
       "id": "candy-suxxx",
@@ -109,7 +109,7 @@
       "summary": "Diaz's nervous middleman, used by Tommy to reach the cartel.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/gonzalez.svg"
+      "image": "assets/img/portrait/gta-vice-city/gonzalez.jpg"
     },
     {
       "id": "hilary-king",
@@ -121,7 +121,7 @@
       "summary": "Nervous racing driver recruited for the bank job.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/hilary-king.svg"
+      "image": "assets/img/portrait/gta-vice-city/hilary-king.jpg"
     },
     {
       "id": "juan-cortez",
@@ -131,7 +131,7 @@
       "summary": "Gives 5 missions in gta-vice-city, starting with \"Treacherous Swine\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-vice-city/juan-cortez.svg"
+      "image": "assets/img/portrait/gta-vice-city/juan-cortez.jpg"
     },
     {
       "id": "ken-rosenberg",
@@ -144,7 +144,7 @@
       "summary": "Cocaine-addled lawyer who introduces Tommy to Vice City's underworld.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/ken-rosenberg.svg"
+      "image": "assets/img/portrait/gta-vice-city/ken-rosenberg.jpg"
     },
     {
       "id": "kent-paul",
@@ -156,7 +156,7 @@
       "summary": "Sleazy music-business contact who knows everyone in the clubs.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/kent-paul.svg"
+      "image": "assets/img/portrait/gta-vice-city/kent-paul.jpg"
     },
     {
       "id": "lance-vance",
@@ -169,7 +169,7 @@
       "summary": "The surviving Vance brother, who partners with Tommy before turning on him.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/lance-vance.svg"
+      "image": "assets/img/portrait/gta-vice-city/lance-vance.jpg"
     },
     {
       "id": "mercedes",
@@ -181,7 +181,7 @@
       "summary": "The colonel's daughter, who introduces Tommy to the club scene.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/mercedes.svg"
+      "image": "assets/img/portrait/gta-vice-city/mercedes.jpg"
     },
     {
       "id": "mitch-baker",
@@ -191,7 +191,7 @@
       "summary": "Gives 3 missions in gta-vice-city, starting with \"Alloy Wheels of Steel\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-vice-city/mitch-baker.svg"
+      "image": "assets/img/portrait/gta-vice-city/mitch-baker.png"
     },
     {
       "id": "mr-black",
@@ -213,7 +213,7 @@
       "summary": "Scam televangelist selling salvation and real estate.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/pastor-richards.svg"
+      "image": "assets/img/portrait/gta-vice-city/pastor-richards.jpg"
     },
     {
       "id": "phil-cassidy",
@@ -225,7 +225,7 @@
       "summary": "One-armed weapons dealer running the shooting range and the Malibu heist guns.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/phil-cassidy.svg"
+      "image": "assets/img/portrait/gta-vice-city/phil-cassidy.jpg"
     },
     {
       "id": "ricardo-diaz",
@@ -237,7 +237,7 @@
       "summary": "Paranoid cocaine kingpin whose mansion Tommy eventually takes.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/ricardo-diaz.svg"
+      "image": "assets/img/portrait/gta-vice-city/ricardo-diaz.jpg"
     },
     {
       "id": "sonny-forelli",
@@ -249,7 +249,7 @@
       "summary": "Liberty City mob boss who sends Tommy to Vice City and expects a cut of everything.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/sonny-forelli.svg"
+      "image": "assets/img/portrait/gta-vice-city/sonny-forelli.jpg"
     },
     {
       "id": "steve-scott",
@@ -261,7 +261,7 @@
       "summary": "Porn director at the film studio asset.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/steve-scott.svg"
+      "image": "assets/img/portrait/gta-vice-city/steve-scott.jpg"
     },
     {
       "id": "tommy-vercetti",
@@ -275,7 +275,7 @@
       "status": "Alive",
       "first_appearance": "Grand Theft Auto: Vice City",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/tommy-vercetti.svg"
+      "image": "assets/img/portrait/gta-vice-city/tommy-vercetti.jpg"
     },
     {
       "id": "umberto-robina",
@@ -287,7 +287,7 @@
       "summary": "Cuban gang boss in Little Havana who wants the Cholos wiped out.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-vice-city/umberto-robina.svg"
+      "image": "assets/img/portrait/gta-vice-city/umberto-robina.jpg"
     }
   ]
 }

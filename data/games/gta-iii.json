@@ -5,7 +5,7 @@
     "year": 2001,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.622Z",
+    "generated": "2026-11-16T03:33:23.902Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -26,8 +26,8 @@
       "collectibles": 3
     },
     "images": {
-      "cover": "assets/img/cover/gta-iii/cover.svg",
-      "banner": "assets/img/banner/gta-iii/banner.svg",
+      "cover": "assets/img/cover/gta-iii/cover.jpg",
+      "banner": "assets/img/banner/gta-iii/banner.jpg",
       "map": "assets/img/map/gta-iii/map.svg"
     },
     "sources": [
@@ -51,7 +51,7 @@
         "status": "Alive",
         "first_appearance": "Grand Theft Auto III",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/8-ball.svg"
+        "image": "assets/img/portrait/gta-iii/8-ball.jpg"
       },
       {
         "id": "asuka-kasen",
@@ -63,7 +63,7 @@
         "summary": "Runs the Yakuza's Staunton Island operations and becomes Claude's main employer after Portland.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/asuka-kasen.svg"
+        "image": "assets/img/portrait/gta-iii/asuka-kasen.png"
       },
       {
         "id": "catalina",
@@ -75,7 +75,7 @@
         "summary": "Claude's ex-girlfriend who shoots him at the start and later leads the Cartel.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/catalina.svg"
+        "image": "assets/img/portrait/gta-iii/catalina.png"
       },
       {
         "id": "claude",
@@ -90,7 +90,7 @@
         "status": "Alive",
         "first_appearance": "Grand Theft Auto III",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/claude.svg"
+        "image": "assets/img/portrait/gta-iii/claude.png"
       },
       {
         "id": "d-ice",
@@ -114,7 +114,7 @@
         "summary": "A reclusive businessman whose real-estate ambitions involve the Cartel and the Colombian drug trade.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/donald-love.svg"
+        "image": "assets/img/portrait/gta-iii/donald-love.jpg"
       },
       {
         "id": "el-burro",
@@ -138,7 +138,7 @@
         "summary": "Salvatore's son, based at a Portland garage; assigns car-theft and disposal jobs.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/joey-leone.svg"
+        "image": "assets/img/portrait/gta-iii/joey-leone.jpg"
       },
       {
         "id": "kenji-kasen",
@@ -150,7 +150,7 @@
         "summary": "Asuka's brother, based at a Staunton casino; assigns jobs against the Triads and Cartel.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/kenji-kasen.svg"
+        "image": "assets/img/portrait/gta-iii/kenji-kasen.png"
       },
       {
         "id": "king-courtney",
@@ -162,7 +162,7 @@
         "summary": "Jamaican gang boss in Staunton who sets Claude up during a later job.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/king-courtney.svg"
+        "image": "assets/img/portrait/gta-iii/king-courtney.jpg"
       },
       {
         "id": "luigi-goterelli",
@@ -174,7 +174,7 @@
         "summary": "Runs Luigi's Sex Club 7 and gives Claude his first paying work in Portland.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/luigi-goterelli.svg"
+        "image": "assets/img/portrait/gta-iii/luigi-goterelli.jpg"
       },
       {
         "id": "maria-latare",
@@ -186,7 +186,7 @@
         "summary": "Salvatore's unpredictable partner, who attaches herself to Claude after leaving the don.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/maria-latare.svg"
+        "image": "assets/img/portrait/gta-iii/maria-latare.jpg"
       },
       {
         "id": "marty-chonks",
@@ -198,7 +198,7 @@
         "summary": "Runs a dog food factory and asks Claude to dispose of people who threaten him.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/marty-chonks.svg"
+        "image": "assets/img/portrait/gta-iii/marty-chonks.png"
       },
       {
         "id": "miguel",
@@ -210,7 +210,7 @@
         "summary": "Catalina's partner in the Cartel's SPANK drug operation.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/miguel.svg"
+        "image": "assets/img/portrait/gta-iii/miguel.jpg"
       },
       {
         "id": "phil-cassidy",
@@ -222,7 +222,7 @@
         "summary": "One-armed arms dealer operating out of a Portland warehouse.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/phil-cassidy.svg"
+        "image": "assets/img/portrait/gta-iii/phil-cassidy.jpg"
       },
       {
         "id": "ray-machowski",
@@ -235,7 +235,7 @@
         "summary": "A dirty cop selling protection and information, eventually forced to flee the city.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/ray-machowski.svg"
+        "image": "assets/img/portrait/gta-iii/ray-machowski.png"
       },
       {
         "id": "salvatore-leone",
@@ -247,7 +247,7 @@
         "summary": "Aging head of the Leone family who takes Claude on before suspecting him of betrayal.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/salvatore-leone.svg"
+        "image": "assets/img/portrait/gta-iii/salvatore-leone.jpg"
       },
       {
         "id": "toni-cipriani",
@@ -259,7 +259,7 @@
         "summary": "Salvatore's trusted enforcer in Portland. Later the protagonist of Liberty City Stories.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iii/toni-cipriani.svg"
+        "image": "assets/img/portrait/gta-iii/toni-cipriani.png"
       },
       {
         "id": "toni-the-tiger",
@@ -1314,7 +1314,7 @@
         "category": "Aircraft",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/airtrain.svg"
+        "image": "assets/img/vehicle/gta-iii/airtrain.jpg"
       },
       {
         "id": "ambulance",
@@ -1325,7 +1325,7 @@
         "class": "Medical",
         "top_speed_kph": 140,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/ambulance.svg"
+        "image": "assets/img/vehicle/gta-iii/ambulance.jpg"
       },
       {
         "id": "banshee",
@@ -1336,7 +1336,7 @@
         "class": "Sports",
         "top_speed_kph": 200,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/banshee.svg"
+        "image": "assets/img/vehicle/gta-iii/banshee.jpg"
       },
       {
         "id": "barracks-ol",
@@ -1347,7 +1347,7 @@
         "class": "Truck",
         "top_speed_kph": 90,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/barracks-ol.svg"
+        "image": "assets/img/vehicle/gta-iii/barracks-ol.jpg"
       },
       {
         "id": "bf-injection",
@@ -1358,7 +1358,7 @@
         "class": "Buggy",
         "top_speed_kph": 175,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/bf-injection.svg"
+        "image": "assets/img/vehicle/gta-iii/bf-injection.jpg"
       },
       {
         "id": "bobcat",
@@ -1369,7 +1369,7 @@
         "class": "Pickup",
         "top_speed_kph": 155,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/bobcat.svg"
+        "image": "assets/img/vehicle/gta-iii/bobcat.jpg"
       },
       {
         "id": "borgnine",
@@ -1380,7 +1380,7 @@
         "class": "Taxi",
         "top_speed_kph": 165,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/borgnine.svg"
+        "image": "assets/img/vehicle/gta-iii/borgnine.jpg"
       },
       {
         "id": "bus",
@@ -1391,7 +1391,7 @@
         "class": "Bus",
         "top_speed_kph": 110,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/bus.svg"
+        "image": "assets/img/vehicle/gta-iii/bus.jpg"
       },
       {
         "id": "cabbie",
@@ -1402,7 +1402,7 @@
         "class": "Sedan",
         "top_speed_kph": 165,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/cabbie.svg"
+        "image": "assets/img/vehicle/gta-iii/cabbie.jpg"
       },
       {
         "id": "cartel-cruiser",
@@ -1413,7 +1413,7 @@
         "class": "Gang",
         "top_speed_kph": 190,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/cartel-cruiser.svg"
+        "image": "assets/img/vehicle/gta-iii/cartel-cruiser.jpg"
       },
       {
         "id": "cheetah",
@@ -1424,7 +1424,7 @@
         "class": "Sports",
         "top_speed_kph": 220,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/cheetah.svg"
+        "image": "assets/img/vehicle/gta-iii/cheetah.jpg"
       },
       {
         "id": "coach",
@@ -1435,7 +1435,7 @@
         "class": "Bus",
         "top_speed_kph": 120,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/coach.svg"
+        "image": "assets/img/vehicle/gta-iii/coach.jpg"
       },
       {
         "id": "diablo-stallion",
@@ -1446,7 +1446,7 @@
         "class": "Gang",
         "top_speed_kph": 195,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/diablo-stallion.svg"
+        "image": "assets/img/vehicle/gta-iii/diablo-stallion.jpg"
       },
       {
         "id": "dodo",
@@ -1457,7 +1457,7 @@
         "class": "Plane",
         "top_speed_kph": 180,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/dodo.svg"
+        "image": "assets/img/vehicle/gta-iii/dodo.jpg"
       },
       {
         "id": "dozer",
@@ -1488,7 +1488,7 @@
         "class": "Police van",
         "top_speed_kph": 130,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/enforcer.svg"
+        "image": "assets/img/vehicle/gta-iii/enforcer.jpg"
       },
       {
         "id": "esperanto",
@@ -1499,7 +1499,7 @@
         "class": "Coupe",
         "top_speed_kph": 165,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/esperanto.svg"
+        "image": "assets/img/vehicle/gta-iii/esperanto.jpg"
       },
       {
         "id": "fbi-car",
@@ -1510,7 +1510,7 @@
         "class": "Police",
         "top_speed_kph": 200,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/fbi-car.svg"
+        "image": "assets/img/vehicle/gta-iii/fbi-car.jpg"
       },
       {
         "id": "firetruck",
@@ -1521,7 +1521,7 @@
         "class": "Fire",
         "top_speed_kph": 120,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/firetruck.svg"
+        "image": "assets/img/vehicle/gta-iii/firetruck.jpg"
       },
       {
         "id": "flatbed",
@@ -1532,7 +1532,7 @@
         "class": "Truck",
         "top_speed_kph": 110,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/flatbed.svg"
+        "image": "assets/img/vehicle/gta-iii/flatbed.jpg"
       },
       {
         "id": "ghost",
@@ -1540,7 +1540,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/ghost.svg"
+        "image": "assets/img/vehicle/gta-iii/ghost.png"
       },
       {
         "id": "helicopter",
@@ -1548,7 +1548,7 @@
         "category": "Aircraft",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/helicopter.svg"
+        "image": "assets/img/vehicle/gta-iii/helicopter.png"
       },
       {
         "id": "hoods-rumpo-xl",
@@ -1559,7 +1559,7 @@
         "class": "Gang",
         "top_speed_kph": 150,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.svg"
+        "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.jpg"
       },
       {
         "id": "idaho",
@@ -1570,7 +1570,7 @@
         "class": "Coupe",
         "top_speed_kph": 165,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/idaho.svg"
+        "image": "assets/img/vehicle/gta-iii/idaho.jpg"
       },
       {
         "id": "infernus",
@@ -1581,7 +1581,7 @@
         "class": "Sports",
         "top_speed_kph": 220,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/infernus.svg"
+        "image": "assets/img/vehicle/gta-iii/infernus.jpg"
       },
       {
         "id": "kuruma",
@@ -1592,7 +1592,7 @@
         "class": "Sedan",
         "top_speed_kph": 170,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/kuruma.svg"
+        "image": "assets/img/vehicle/gta-iii/kuruma.jpg"
       },
       {
         "id": "landstalker",
@@ -1603,7 +1603,7 @@
         "class": "SUV",
         "top_speed_kph": 160,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/landstalker.svg"
+        "image": "assets/img/vehicle/gta-iii/landstalker.jpg"
       },
       {
         "id": "linerunner",
@@ -1614,7 +1614,7 @@
         "class": "Semi",
         "top_speed_kph": 110,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/linerunner.svg"
+        "image": "assets/img/vehicle/gta-iii/linerunner.jpg"
       },
       {
         "id": "mafia-sentinel",
@@ -1622,7 +1622,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/mafia-sentinel.svg"
+        "image": "assets/img/vehicle/gta-iii/mafia-sentinel.jpg"
       },
       {
         "id": "manana",
@@ -1633,7 +1633,7 @@
         "class": "Coupe",
         "top_speed_kph": 160,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/manana.svg"
+        "image": "assets/img/vehicle/gta-iii/manana.jpg"
       },
       {
         "id": "maverick",
@@ -1653,7 +1653,7 @@
         "top_speed_kph": 150,
         "seats": 4,
         "verified": true,
-        "image": "assets/img/vehicle/gta-iii/moonbeam.svg"
+        "image": "assets/img/vehicle/gta-iii/moonbeam.jpg"
       },
       {
         "id": "mr-whoopee",
@@ -1661,7 +1661,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/mr-whoopee.svg"
+        "image": "assets/img/vehicle/gta-iii/mr-whoopee.jpg"
       },
       {
         "id": "mr-wongs",
@@ -1669,7 +1669,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/mr-wongs.svg"
+        "image": "assets/img/vehicle/gta-iii/mr-wongs.jpg"
       },
       {
         "id": "mule",
@@ -1680,7 +1680,7 @@
         "class": "Truck",
         "top_speed_kph": 120,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/mule.svg"
+        "image": "assets/img/vehicle/gta-iii/mule.jpg"
       },
       {
         "id": "packer",
@@ -1698,7 +1698,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/panlantic.svg"
+        "image": "assets/img/vehicle/gta-iii/panlantic.jpg"
       },
       {
         "id": "patriot",
@@ -1709,7 +1709,7 @@
         "class": "SUV",
         "top_speed_kph": 170,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/patriot.svg"
+        "image": "assets/img/vehicle/gta-iii/patriot.jpg"
       },
       {
         "id": "perennial",
@@ -1720,7 +1720,7 @@
         "class": "Station wagon",
         "top_speed_kph": 150,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/perennial.svg"
+        "image": "assets/img/vehicle/gta-iii/perennial.jpg"
       },
       {
         "id": "police",
@@ -1728,7 +1728,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/police.svg"
+        "image": "assets/img/vehicle/gta-iii/police.jpg"
       },
       {
         "id": "police-car",
@@ -1759,7 +1759,7 @@
         "class": "Van",
         "top_speed_kph": 145,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/pony.svg"
+        "image": "assets/img/vehicle/gta-iii/pony.jpg"
       },
       {
         "id": "predator",
@@ -1770,7 +1770,7 @@
         "class": "Police boat",
         "top_speed_kph": 90,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/predator.svg"
+        "image": "assets/img/vehicle/gta-iii/predator.png"
       },
       {
         "id": "rc-bandit",
@@ -1778,7 +1778,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/rc-bandit.svg"
+        "image": "assets/img/vehicle/gta-iii/rc-bandit.jpg"
       },
       {
         "id": "reefer",
@@ -1789,7 +1789,7 @@
         "class": "Boat",
         "top_speed_kph": 60,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/reefer.svg"
+        "image": "assets/img/vehicle/gta-iii/reefer.png"
       },
       {
         "id": "rhino",
@@ -1800,7 +1800,7 @@
         "class": "Tank",
         "top_speed_kph": 60,
         "seats": 1,
-        "image": "assets/img/vehicle/gta-iii/rhino.svg"
+        "image": "assets/img/vehicle/gta-iii/rhino.jpg"
       },
       {
         "id": "rumpo",
@@ -1811,7 +1811,7 @@
         "class": "Van",
         "top_speed_kph": 145,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/rumpo.svg"
+        "image": "assets/img/vehicle/gta-iii/rumpo.jpg"
       },
       {
         "id": "securicar",
@@ -1822,7 +1822,7 @@
         "class": "Armored van",
         "top_speed_kph": 110,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/securicar.svg"
+        "image": "assets/img/vehicle/gta-iii/securicar.jpg"
       },
       {
         "id": "sentinel",
@@ -1833,7 +1833,7 @@
         "class": "Sedan",
         "top_speed_kph": 175,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/sentinel.svg"
+        "image": "assets/img/vehicle/gta-iii/sentinel.jpg"
       },
       {
         "id": "speeder",
@@ -1844,7 +1844,7 @@
         "class": "Speedboat",
         "top_speed_kph": 100,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/speeder.svg"
+        "image": "assets/img/vehicle/gta-iii/speeder.png"
       },
       {
         "id": "stallion",
@@ -1855,7 +1855,7 @@
         "class": "Muscle",
         "top_speed_kph": 190,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/stallion.svg"
+        "image": "assets/img/vehicle/gta-iii/stallion.jpg"
       },
       {
         "id": "stinger",
@@ -1866,7 +1866,7 @@
         "class": "Sports",
         "top_speed_kph": 200,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/stinger.svg"
+        "image": "assets/img/vehicle/gta-iii/stinger.jpg"
       },
       {
         "id": "stretch",
@@ -1877,7 +1877,7 @@
         "class": "Limousine",
         "top_speed_kph": 170,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/stretch.svg"
+        "image": "assets/img/vehicle/gta-iii/stretch.jpg"
       },
       {
         "id": "taxi",
@@ -1888,7 +1888,7 @@
         "class": "Sedan",
         "top_speed_kph": 170,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/taxi.svg"
+        "image": "assets/img/vehicle/gta-iii/taxi.jpg"
       },
       {
         "id": "toyz",
@@ -1896,7 +1896,7 @@
         "category": "Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/toyz.svg"
+        "image": "assets/img/vehicle/gta-iii/toyz.jpg"
       },
       {
         "id": "train",
@@ -1904,7 +1904,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/train.svg"
+        "image": "assets/img/vehicle/gta-iii/train.jpg"
       },
       {
         "id": "trashmaster",
@@ -1915,7 +1915,7 @@
         "class": "Truck",
         "top_speed_kph": 100,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/trashmaster.svg"
+        "image": "assets/img/vehicle/gta-iii/trashmaster.jpg"
       },
       {
         "id": "triad-fish-van",
@@ -1923,7 +1923,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/triad-fish-van.svg"
+        "image": "assets/img/vehicle/gta-iii/triad-fish-van.jpg"
       },
       {
         "id": "yakuza-stinger",
@@ -1931,7 +1931,7 @@
         "category": "Gang cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iii/yakuza-stinger.svg"
+        "image": "assets/img/vehicle/gta-iii/yakuza-stinger.jpg"
       },
       {
         "id": "yankee",
@@ -1942,7 +1942,7 @@
         "class": "Truck",
         "top_speed_kph": 115,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iii/yankee.svg"
+        "image": "assets/img/vehicle/gta-iii/yankee.jpg"
       },
       {
         "id": "yardie-lobo",
@@ -1953,7 +1953,7 @@
         "class": "Gang",
         "top_speed_kph": 185,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iii/yardie-lobo.svg"
+        "image": "assets/img/vehicle/gta-iii/yardie-lobo.jpg"
       }
     ]
   },
@@ -1969,7 +1969,7 @@
         "price": null,
         "unlock": "Ammu-Nation (later)",
         "verified": true,
-        "image": "assets/img/weapon/gta-iii/ak-47.svg"
+        "image": "assets/img/weapon/gta-iii/ak-47.png"
       },
       {
         "id": "ak47",
@@ -1977,7 +1977,7 @@
         "type": "Large Firearms",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iii/ak47.svg"
+        "image": "assets/img/weapon/gta-iii/ak47.png"
       },
       {
         "id": "arms-shortage",
@@ -1996,7 +1996,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-iii/baseball-bat.svg"
+        "image": "assets/img/weapon/gta-iii/baseball-bat.png"
       },
       {
         "id": "bomb-da-base-act-ii",
@@ -2012,7 +2012,7 @@
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iii/detonator.svg"
+        "image": "assets/img/weapon/gta-iii/detonator.png"
       },
       {
         "id": "dont-spank-ma-bitch-up",
@@ -2031,7 +2031,7 @@
         "damage_tier": "Low",
         "ammo": "—",
         "unlock": "Default",
-        "image": "assets/img/weapon/gta-iii/fist.svg"
+        "image": "assets/img/weapon/gta-iii/fist.png"
       },
       {
         "id": "flamethrower",
@@ -2042,7 +2042,7 @@
         "damage_tier": "Very high",
         "ammo": "Continuous",
         "unlock": "El Burro mission / pickups",
-        "image": "assets/img/weapon/gta-iii/flamethrower.svg"
+        "image": "assets/img/weapon/gta-iii/flamethrower.png"
       },
       {
         "id": "grenade",
@@ -2050,7 +2050,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iii/grenade.svg"
+        "image": "assets/img/weapon/gta-iii/grenade.png"
       },
       {
         "id": "grenades",
@@ -2072,7 +2072,7 @@
         "damage_tier": "Very high",
         "ammo": "60 rounds",
         "unlock": "Hidden packages reward",
-        "image": "assets/img/weapon/gta-iii/m16.svg"
+        "image": "assets/img/weapon/gta-iii/m16.png"
       },
       {
         "id": "marked-man",
@@ -2088,7 +2088,7 @@
         "type": "Thrown",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iii/molotov-cocktail.svg"
+        "image": "assets/img/weapon/gta-iii/molotov-cocktail.png"
       },
       {
         "id": "molotov",
@@ -2099,7 +2099,7 @@
         "price": null,
         "unlock": "Street pickups",
         "verified": true,
-        "image": "assets/img/weapon/gta-iii/molotov.svg"
+        "image": "assets/img/weapon/gta-iii/molotov.png"
       },
       {
         "id": "pistol",
@@ -2110,7 +2110,7 @@
         "damage_tier": "Medium",
         "ammo": "17 rounds",
         "unlock": "Default sidearm; Ammu-Nation",
-        "image": "assets/img/weapon/gta-iii/pistol.svg"
+        "image": "assets/img/weapon/gta-iii/pistol.png"
       },
       {
         "id": "pump-action-pimp",
@@ -2129,7 +2129,7 @@
         "damage_tier": "Lethal",
         "ammo": "5 rockets",
         "unlock": "Phil Cassidy / hidden packages",
-        "image": "assets/img/weapon/gta-iii/rocket-launcher.svg"
+        "image": "assets/img/weapon/gta-iii/rocket-launcher.png"
       },
       {
         "id": "shotgun",
@@ -2140,7 +2140,7 @@
         "damage_tier": "High",
         "ammo": "8 shells",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-iii/shotgun.svg"
+        "image": "assets/img/weapon/gta-iii/shotgun.png"
       },
       {
         "id": "silence-the-sneak",
@@ -2159,7 +2159,7 @@
         "damage_tier": "Very high",
         "ammo": "5 rounds",
         "unlock": "Ammu-Nation",
-        "image": "assets/img/weapon/gta-iii/sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-iii/sniper-rifle.png"
       },
       {
         "id": "taking-out-the-laundry",
@@ -2186,7 +2186,7 @@
         "damage_tier": "Medium",
         "ammo": "25 rounds",
         "unlock": "Ammu-Nation / 8-Ball",
-        "image": "assets/img/weapon/gta-iii/uzi.svg"
+        "image": "assets/img/weapon/gta-iii/uzi.png"
       },
       {
         "id": "uzi-money",

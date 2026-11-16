@@ -13,7 +13,7 @@
       "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Medical",
       "seats": 2,
-      "image": "assets/img/vehicle/gta-advance/ambulance.svg"
+      "image": "assets/img/vehicle/gta-advance/ambulance.png"
     },
     {
       "id": "banshee",
@@ -23,7 +23,7 @@
       "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sports",
       "seats": 2,
-      "image": "assets/img/vehicle/gta-advance/banshee.svg"
+      "image": "assets/img/vehicle/gta-advance/banshee.png"
     },
     {
       "id": "barracks",
@@ -31,7 +31,7 @@
       "category": "Emergency",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/barracks.svg"
+      "image": "assets/img/vehicle/gta-advance/barracks.png"
     },
     {
       "id": "belly",
@@ -39,7 +39,7 @@
       "category": "Vans & Trucks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/belly.svg"
+      "image": "assets/img/vehicle/gta-advance/belly.png"
     },
     {
       "id": "bf-injection",
@@ -47,7 +47,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/bf-injection.svg"
+      "image": "assets/img/vehicle/gta-advance/bf-injection.png"
     },
     {
       "id": "borgnine",
@@ -55,7 +55,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/borgnine.svg"
+      "image": "assets/img/vehicle/gta-advance/borgnine.png"
     },
     {
       "id": "brit",
@@ -63,7 +63,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/brit.svg"
+      "image": "assets/img/vehicle/gta-advance/brit.png"
     },
     {
       "id": "cheetah",
@@ -81,7 +81,7 @@
       "category": "Vans & Trucks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/coach.svg"
+      "image": "assets/img/vehicle/gta-advance/coach.png"
     },
     {
       "id": "diablo",
@@ -89,7 +89,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/diablo.svg"
+      "image": "assets/img/vehicle/gta-advance/diablo.png"
     },
     {
       "id": "esperanto",
@@ -97,7 +97,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/esperanto.svg"
+      "image": "assets/img/vehicle/gta-advance/esperanto.png"
     },
     {
       "id": "f1",
@@ -105,7 +105,7 @@
       "category": "Misc",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/f1.svg"
+      "image": "assets/img/vehicle/gta-advance/f1.png"
     },
     {
       "id": "fbi-car",
@@ -113,7 +113,7 @@
       "category": "Emergency",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/fbi-car.svg"
+      "image": "assets/img/vehicle/gta-advance/fbi-car.png"
     },
     {
       "id": "fire-truck",
@@ -121,7 +121,7 @@
       "category": "Emergency",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/fire-truck.svg"
+      "image": "assets/img/vehicle/gta-advance/fire-truck.png"
     },
     {
       "id": "hoods",
@@ -129,7 +129,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/hoods.svg"
+      "image": "assets/img/vehicle/gta-advance/hoods.png"
     },
     {
       "id": "idaho",
@@ -137,7 +137,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/idaho.svg"
+      "image": "assets/img/vehicle/gta-advance/idaho.png"
     },
     {
       "id": "kuruma",
@@ -155,7 +155,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/manana.svg"
+      "image": "assets/img/vehicle/gta-advance/manana.png"
     },
     {
       "id": "monster-truck",
@@ -163,7 +163,7 @@
       "category": "Vans & Trucks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/monster-truck.svg"
+      "image": "assets/img/vehicle/gta-advance/monster-truck.png"
     },
     {
       "id": "police-car",
@@ -173,7 +173,7 @@
       "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Police",
       "seats": 4,
-      "image": "assets/img/vehicle/gta-advance/police-car.svg"
+      "image": "assets/img/vehicle/gta-advance/police-car.png"
     },
     {
       "id": "rhino",
@@ -191,7 +191,7 @@
       "category": "Vans & Trucks",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/rumpo.svg"
+      "image": "assets/img/vehicle/gta-advance/rumpo.png"
     },
     {
       "id": "sentinel",
@@ -201,7 +201,7 @@
       "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Sedan",
       "seats": 4,
-      "image": "assets/img/vehicle/gta-advance/sentinel.svg"
+      "image": "assets/img/vehicle/gta-advance/sentinel.png"
     },
     {
       "id": "stretch",
@@ -209,7 +209,7 @@
       "category": "Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/stretch.svg"
+      "image": "assets/img/vehicle/gta-advance/stretch.png"
     },
     {
       "id": "swat-van",
@@ -217,7 +217,7 @@
       "category": "Emergency",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/swat-van.svg"
+      "image": "assets/img/vehicle/gta-advance/swat-van.png"
     },
     {
       "id": "tank",
@@ -225,7 +225,7 @@
       "category": "Emergency",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/tank.svg"
+      "image": "assets/img/vehicle/gta-advance/tank.png"
     },
     {
       "id": "taxi",
@@ -235,7 +235,7 @@
       "source": "GTA Wiki vehicle list (model names and class grouping)",
       "class": "Taxi",
       "seats": 4,
-      "image": "assets/img/vehicle/gta-advance/taxi.svg"
+      "image": "assets/img/vehicle/gta-advance/taxi.png"
     },
     {
       "id": "wong",
@@ -243,7 +243,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/wong.svg"
+      "image": "assets/img/vehicle/gta-advance/wong.png"
     },
     {
       "id": "yakuza",
@@ -251,7 +251,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/yakuza.svg"
+      "image": "assets/img/vehicle/gta-advance/yakuza.png"
     },
     {
       "id": "yakuza-asuka",
@@ -259,7 +259,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/yakuza-asuka.svg"
+      "image": "assets/img/vehicle/gta-advance/yakuza-asuka.png"
     },
     {
       "id": "yardie",
@@ -267,7 +267,7 @@
       "category": "Gang Cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-advance/yardie.svg"
+      "image": "assets/img/vehicle/gta-advance/yardie.png"
     }
   ]
 }

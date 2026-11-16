@@ -38,7 +38,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-vice-city/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-vice-city/baseball-bat.png"
     },
     {
       "id": "brass-knuckles",
@@ -49,7 +49,7 @@
       "damage_tier": "Low",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-vice-city/brass-knuckles.svg"
+      "image": "assets/img/weapon/gta-vice-city/brass-knuckles.png"
     },
     {
       "id": "camera",
@@ -57,7 +57,7 @@
       "type": "Special",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/camera.svg"
+      "image": "assets/img/weapon/gta-vice-city/camera.png"
     },
     {
       "id": "cannon-fodder",
@@ -76,7 +76,7 @@
       "damage_tier": "Very high",
       "ammo": "—",
       "unlock": "Treacherous Swine / pickups",
-      "image": "assets/img/weapon/gta-vice-city/chainsaw.svg"
+      "image": "assets/img/weapon/gta-vice-city/chainsaw.png"
     },
     {
       "id": "check-out-at-the-check-in",
@@ -108,7 +108,7 @@
       "type": "Special",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/detonator.svg"
+      "image": "assets/img/weapon/gta-vice-city/detonator.png"
     },
     {
       "id": "dirty-lickins",
@@ -124,7 +124,7 @@
       "type": "Unarmed",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/fist.svg"
+      "image": "assets/img/weapon/gta-vice-city/fist.png"
     },
     {
       "id": "flamethrower",
@@ -135,7 +135,7 @@
       "damage_tier": "Very high",
       "ammo": "Continuous",
       "unlock": "Pickups",
-      "image": "assets/img/weapon/gta-vice-city/flamethrower.svg"
+      "image": "assets/img/weapon/gta-vice-city/flamethrower.png"
     },
     {
       "id": "golf-club",
@@ -143,7 +143,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/golf-club.svg"
+      "image": "assets/img/weapon/gta-vice-city/golf-club.png"
     },
     {
       "id": "grenade",
@@ -151,7 +151,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/grenade.svg"
+      "image": "assets/img/weapon/gta-vice-city/grenade.png"
     },
     {
       "id": "grenades",
@@ -186,7 +186,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/hammer.svg"
+      "image": "assets/img/weapon/gta-vice-city/hammer.png"
     },
     {
       "id": "ingram-mac-10-mac",
@@ -205,7 +205,7 @@
       "damage_tier": "High",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-vice-city/katana.svg"
+      "image": "assets/img/weapon/gta-vice-city/katana.png"
     },
     {
       "id": "keep-your-friends-close",
@@ -221,7 +221,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/knife.svg"
+      "image": "assets/img/weapon/gta-vice-city/knife.png"
     },
     {
       "id": "m4",
@@ -232,7 +232,7 @@
       "damage_tier": "Very high",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation / pickup",
-      "image": "assets/img/weapon/gta-vice-city/m4.svg"
+      "image": "assets/img/weapon/gta-vice-city/m4.png"
     },
     {
       "id": "m60",
@@ -240,7 +240,7 @@
       "type": "Heavy Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/m60.svg"
+      "image": "assets/img/weapon/gta-vice-city/m60.png"
     },
     {
       "id": "machete",
@@ -248,7 +248,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/machete.svg"
+      "image": "assets/img/weapon/gta-vice-city/machete.png"
     },
     {
       "id": "marthas-mug-shot",
@@ -264,7 +264,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/meat-cleaver.svg"
+      "image": "assets/img/weapon/gta-vice-city/meat-cleaver.png"
     },
     {
       "id": "minigun",
@@ -275,7 +275,7 @@
       "damage_tier": "Lethal",
       "ammo": "150 rounds",
       "unlock": "Hidden packages reward",
-      "image": "assets/img/weapon/gta-vice-city/minigun.svg"
+      "image": "assets/img/weapon/gta-vice-city/minigun.png"
     },
     {
       "id": "molotov-cocktail",
@@ -283,7 +283,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-vice-city/molotov-cocktail.png"
     },
     {
       "id": "molotov",
@@ -294,7 +294,7 @@
       "price": null,
       "unlock": "Street pickups",
       "verified": true,
-      "image": "assets/img/weapon/gta-vice-city/molotov.svg"
+      "image": "assets/img/weapon/gta-vice-city/molotov.png"
     },
     {
       "id": "mp5",
@@ -321,7 +321,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/nightstick.svg"
+      "image": "assets/img/weapon/gta-vice-city/nightstick.png"
     },
     {
       "id": "phnom-penh-86",
@@ -340,7 +340,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-vice-city/pistol.svg"
+      "image": "assets/img/weapon/gta-vice-city/pistol.png"
     },
     {
       "id": "psg-1-308-sniper",
@@ -367,7 +367,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/remote-grenade.svg"
+      "image": "assets/img/weapon/gta-vice-city/remote-grenade.png"
     },
     {
       "id": "rocket-launcher",
@@ -378,7 +378,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Phil Cassidy / pickups",
-      "image": "assets/img/weapon/gta-vice-city/rocket-launcher.svg"
+      "image": "assets/img/weapon/gta-vice-city/rocket-launcher.png"
     },
     {
       "id": "rub-out",
@@ -413,7 +413,7 @@
       "type": "Melee Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/screwdriver.svg"
+      "image": "assets/img/weapon/gta-vice-city/screwdriver.png"
     },
     {
       "id": "shotgun",
@@ -424,7 +424,7 @@
       "damage_tier": "High",
       "ammo": "8 shells",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-vice-city/shotgun.svg"
+      "image": "assets/img/weapon/gta-vice-city/shotgun.png"
     },
     {
       "id": "sniper-rifle",
@@ -435,7 +435,7 @@
       "damage_tier": "Very high",
       "ammo": "5 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-vice-city/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-vice-city/sniper-rifle.png"
     },
     {
       "id": "spas-12",
@@ -446,7 +446,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-vice-city/spas-12.svg"
+      "image": "assets/img/weapon/gta-vice-city/spas-12.png"
     },
     {
       "id": "spaz-shotgun-spas-12",
@@ -462,7 +462,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/stubby-shotgun.svg"
+      "image": "assets/img/weapon/gta-vice-city/stubby-shotgun.png"
     },
     {
       "id": "supply-and-demand",
@@ -481,7 +481,7 @@
       "damage_tier": "Low",
       "ammo": "20",
       "unlock": "Pickups",
-      "image": "assets/img/weapon/gta-vice-city/tear-gas.svg"
+      "image": "assets/img/weapon/gta-vice-city/tear-gas.png"
     },
     {
       "id": "tec-9",
@@ -492,7 +492,7 @@
       "damage_tier": "Medium",
       "ammo": "30 rounds",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-vice-city/tec-9.svg"
+      "image": "assets/img/weapon/gta-vice-city/tec-9.png"
     },
     {
       "id": "the-job",

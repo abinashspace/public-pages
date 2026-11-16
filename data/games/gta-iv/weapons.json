@@ -14,7 +14,7 @@
       "damage_tier": "High",
       "ammo": "30 rounds",
       "unlock": "Little Jacob",
-      "image": "assets/img/weapon/gta-iv/assault-rifle.svg"
+      "image": "assets/img/weapon/gta-iv/assault-rifle.png"
     },
     {
       "id": "baseball-bat",
@@ -25,7 +25,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-iv/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-iv/baseball-bat.png"
     },
     {
       "id": "carbine-rifle",
@@ -36,7 +36,7 @@
       "damage_tier": "Very high",
       "ammo": "30 rounds",
       "unlock": "Little Jacob (later)",
-      "image": "assets/img/weapon/gta-iv/carbine-rifle.svg"
+      "image": "assets/img/weapon/gta-iv/carbine-rifle.png"
     },
     {
       "id": "combat-pistol",
@@ -44,7 +44,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/combat-pistol.svg"
+      "image": "assets/img/weapon/gta-iv/combat-pistol.png"
     },
     {
       "id": "combat-shotgun",
@@ -52,7 +52,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/combat-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv/combat-shotgun.png"
     },
     {
       "id": "combat-sniper",
@@ -60,7 +60,7 @@
       "type": "Sniper Rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/combat-sniper.svg"
+      "image": "assets/img/weapon/gta-iv/combat-sniper.png"
     },
     {
       "id": "desert-eagle",
@@ -79,7 +79,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/fist.svg"
+      "image": "assets/img/weapon/gta-iv/fist.png"
     },
     {
       "id": "fists",
@@ -120,7 +120,7 @@
       "price": null,
       "unlock": "Little Jacob",
       "verified": true,
-      "image": "assets/img/weapon/gta-iv/grenades.svg"
+      "image": "assets/img/weapon/gta-iv/grenades.png"
     },
     {
       "id": "knife",
@@ -131,7 +131,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-iv/knife.svg"
+      "image": "assets/img/weapon/gta-iv/knife.png"
     },
     {
       "id": "micro-smg",
@@ -142,7 +142,7 @@
       "damage_tier": "Medium",
       "ammo": "30 rounds",
       "unlock": "Little Jacob",
-      "image": "assets/img/weapon/gta-iv/micro-smg.svg"
+      "image": "assets/img/weapon/gta-iv/micro-smg.png"
     },
     {
       "id": "molotov-cocktail",
@@ -150,7 +150,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-iv/molotov-cocktail.png"
     },
     {
       "id": "molotov",
@@ -161,7 +161,7 @@
       "price": null,
       "unlock": "Street pickups",
       "verified": true,
-      "image": "assets/img/weapon/gta-iv/molotov.svg"
+      "image": "assets/img/weapon/gta-iv/molotov.png"
     },
     {
       "id": "mp5",
@@ -180,7 +180,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/pistol.svg"
+      "image": "assets/img/weapon/gta-iv/pistol.png"
     },
     {
       "id": "pump-shotgun",
@@ -191,7 +191,7 @@
       "damage_tier": "High",
       "ammo": "8 shells",
       "unlock": "Little Jacob",
-      "image": "assets/img/weapon/gta-iv/pump-shotgun.svg"
+      "image": "assets/img/weapon/gta-iv/pump-shotgun.png"
     },
     {
       "id": "random-pickable-objects",
@@ -199,7 +199,7 @@
       "type": "Thrown Weapons",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/random-pickable-objects.svg"
+      "image": "assets/img/weapon/gta-iv/random-pickable-objects.png"
     },
     {
       "id": "rpg",
@@ -210,7 +210,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Little Jacob",
-      "image": "assets/img/weapon/gta-iv/rpg.svg"
+      "image": "assets/img/weapon/gta-iv/rpg.png"
     },
     {
       "id": "smg",
@@ -218,7 +218,7 @@
       "type": "Submachine Guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iv/smg.svg"
+      "image": "assets/img/weapon/gta-iv/smg.png"
     },
     {
       "id": "sniper-rifle",
@@ -229,7 +229,7 @@
       "damage_tier": "Very high",
       "ammo": "5 rounds",
       "unlock": "Little Jacob",
-      "image": "assets/img/weapon/gta-iv/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-iv/sniper-rifle.png"
     }
   ]
 }

@@ -13,7 +13,7 @@
       "top_speed_kph": 250,
       "seats": 4,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/buzzard-attack.svg"
+      "image": "assets/img/vehicle/gta-online/buzzard-attack.png"
     },
     {
       "id": "deluxo",
@@ -23,7 +23,7 @@
       "top_speed_kph": 200,
       "seats": 2,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/deluxo.svg"
+      "image": "assets/img/vehicle/gta-online/deluxo.png"
     },
     {
       "id": "hydra",
@@ -33,7 +33,7 @@
       "top_speed_kph": 500,
       "seats": 1,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/hydra.svg"
+      "image": "assets/img/vehicle/gta-online/hydra.png"
     },
     {
       "id": "insurgent-pickup-custom",
@@ -43,7 +43,7 @@
       "top_speed_kph": 260,
       "seats": 4,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.svg"
+      "image": "assets/img/vehicle/gta-online/insurgent-pickup-custom.png"
     },
     {
       "id": "kosatka",
@@ -53,7 +53,7 @@
       "top_speed_kph": 40,
       "seats": 4,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/kosatka.svg"
+      "image": "assets/img/vehicle/gta-online/kosatka.png"
     },
     {
       "id": "nightshark",
@@ -63,7 +63,7 @@
       "top_speed_kph": 250,
       "seats": 4,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/nightshark.svg"
+      "image": "assets/img/vehicle/gta-online/nightshark.png"
     },
     {
       "id": "oppressor-mk-ii",
@@ -73,7 +73,7 @@
       "top_speed_kph": 220,
       "seats": 1,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.svg"
+      "image": "assets/img/vehicle/gta-online/oppressor-mk-ii.png"
     },
     {
       "id": "toreador",
@@ -83,7 +83,7 @@
       "top_speed_kph": 230,
       "seats": 2,
       "verified": true,
-      "image": "assets/img/vehicle/gta-online/toreador.svg"
+      "image": "assets/img/vehicle/gta-online/toreador.png"
     }
   ]
 }

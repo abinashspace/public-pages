@@ -47,11 +47,12 @@
 <h2 id="accuracy">Accuracy</h2>
 <p>Every record has <code>verified</code>. <code>true</code> means the record was checked against the game or a documented source; <code>false</code> means it is best-effort and may contain errors. Where a field is genuinely unknown it is <code>null</code> — never a guess. GTA VI is <code>official-only</code>: nothing beyond confirmed Rockstar material is recorded.</p>
 <h2 id="images">Images</h2>
-<p>Real in-game artwork is owned by Rockstar Games and cannot be redistributed here. Each image slot currently resolves to an original generated SVG placeholder at the exact target dimensions. To swap in real art, place a file at the same path with the same basename and a real extension:</p>
+<p>Most images are real in-game art — character portraits, vehicle and weapon renders, and box art — fetched from <a href="https://gta.wiki" rel="noreferrer">GTA Wiki</a> by <code>tools/fetch-images.mjs</code>. That artwork remains the property of Rockstar Games / Take-Two Interactive and is used here for a personal, non-commercial reference site; see <a href="../assets/img/CREDITS.md">image credits</a>.</p>
+<p>Every remaining slot resolves to an original generated SVG placeholder at the exact target dimensions. To replace a placeholder with your own file, put it at the same path with the same basename and a real extension:</p>
 <pre><code>assets/img/portrait/gta-iii/claude.jpg
 assets/img/vehicle/gta-v/adder.png
 assets/img/weapon/gta-san-andreas/ak-47.webp</code></pre>
-<p>Rebuild: <code>node tools/build.mjs</code>. The build prefers the real file, updates <code>data/images.json</code>, and leaves every URL and record untouched.</p>
+<p>Rebuild: <code>node tools/build.mjs</code>. The build prefers the real file, updates <code>data/images.json</code>, and leaves every URL and record untouched. <code>data/images.json</code> lists every slot with its <code>status</code> (<code>real</code> or <code>placeholder</code>), so what is still missing is always explicit.</p>
 <h2 id="build">Build</h2>
 <pre><code>node tools/validate.mjs   # data checks
 node tools/build.mjs      # content/ + assets/ → docs/

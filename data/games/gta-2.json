@@ -5,7 +5,7 @@
     "year": 1999,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.603Z",
+    "generated": "2026-11-16T03:33:23.883Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -26,8 +26,8 @@
       "collectibles": 1
     },
     "images": {
-      "cover": "assets/img/cover/gta-2/cover.svg",
-      "banner": "assets/img/banner/gta-2/banner.svg",
+      "cover": "assets/img/cover/gta-2/cover.jpg",
+      "banner": "assets/img/banner/gta-2/banner.jpg",
       "map": "assets/img/map/gta-2/map.svg"
     },
     "sources": [
@@ -50,7 +50,7 @@
         "status": "Varies",
         "first_appearance": "Grand Theft Auto 2",
         "verified": true,
-        "image": "assets/img/portrait/gta-2/claude-speed.svg"
+        "image": "assets/img/portrait/gta-2/claude-speed.png"
       },
       {
         "id": "hare-krishna-leader",
@@ -132,7 +132,7 @@
         "summary": "Gives 1 mission in gta-2, starting with \"Final jobs\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-2/zaibatsu.svg"
+        "image": "assets/img/portrait/gta-2/zaibatsu.jpg"
       },
       {
         "id": "zaibatsu-boss",

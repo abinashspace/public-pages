@@ -14,7 +14,7 @@
       "price": null,
       "unlock": "Ammu-Nation (later)",
       "verified": true,
-      "image": "assets/img/weapon/gta-iii/ak-47.svg"
+      "image": "assets/img/weapon/gta-iii/ak-47.png"
     },
     {
       "id": "ak47",
@@ -22,7 +22,7 @@
       "type": "Large Firearms",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/ak47.svg"
+      "image": "assets/img/weapon/gta-iii/ak47.png"
     },
     {
       "id": "arms-shortage",
@@ -41,7 +41,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Street pickups",
-      "image": "assets/img/weapon/gta-iii/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-iii/baseball-bat.png"
     },
     {
       "id": "bomb-da-base-act-ii",
@@ -57,7 +57,7 @@
       "type": "Special",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/detonator.svg"
+      "image": "assets/img/weapon/gta-iii/detonator.png"
     },
     {
       "id": "dont-spank-ma-bitch-up",
@@ -76,7 +76,7 @@
       "damage_tier": "Low",
       "ammo": "—",
       "unlock": "Default",
-      "image": "assets/img/weapon/gta-iii/fist.svg"
+      "image": "assets/img/weapon/gta-iii/fist.png"
     },
     {
       "id": "flamethrower",
@@ -87,7 +87,7 @@
       "damage_tier": "Very high",
       "ammo": "Continuous",
       "unlock": "El Burro mission / pickups",
-      "image": "assets/img/weapon/gta-iii/flamethrower.svg"
+      "image": "assets/img/weapon/gta-iii/flamethrower.png"
     },
     {
       "id": "grenade",
@@ -95,7 +95,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/grenade.svg"
+      "image": "assets/img/weapon/gta-iii/grenade.png"
     },
     {
       "id": "grenades",
@@ -117,7 +117,7 @@
       "damage_tier": "Very high",
       "ammo": "60 rounds",
       "unlock": "Hidden packages reward",
-      "image": "assets/img/weapon/gta-iii/m16.svg"
+      "image": "assets/img/weapon/gta-iii/m16.png"
     },
     {
       "id": "marked-man",
@@ -133,7 +133,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-iii/molotov-cocktail.png"
     },
     {
       "id": "molotov",
@@ -144,7 +144,7 @@
       "price": null,
       "unlock": "Street pickups",
       "verified": true,
-      "image": "assets/img/weapon/gta-iii/molotov.svg"
+      "image": "assets/img/weapon/gta-iii/molotov.png"
     },
     {
       "id": "pistol",
@@ -155,7 +155,7 @@
       "damage_tier": "Medium",
       "ammo": "17 rounds",
       "unlock": "Default sidearm; Ammu-Nation",
-      "image": "assets/img/weapon/gta-iii/pistol.svg"
+      "image": "assets/img/weapon/gta-iii/pistol.png"
     },
     {
       "id": "pump-action-pimp",
@@ -174,7 +174,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Phil Cassidy / hidden packages",
-      "image": "assets/img/weapon/gta-iii/rocket-launcher.svg"
+      "image": "assets/img/weapon/gta-iii/rocket-launcher.png"
     },
     {
       "id": "shotgun",
@@ -185,7 +185,7 @@
       "damage_tier": "High",
       "ammo": "8 shells",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-iii/shotgun.svg"
+      "image": "assets/img/weapon/gta-iii/shotgun.png"
     },
     {
       "id": "silence-the-sneak",
@@ -204,7 +204,7 @@
       "damage_tier": "Very high",
       "ammo": "5 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-iii/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-iii/sniper-rifle.png"
     },
     {
       "id": "taking-out-the-laundry",
@@ -231,7 +231,7 @@
       "damage_tier": "Medium",
       "ammo": "25 rounds",
       "unlock": "Ammu-Nation / 8-Ball",
-      "image": "assets/img/weapon/gta-iii/uzi.svg"
+      "image": "assets/img/weapon/gta-iii/uzi.png"
     },
     {
       "id": "uzi-money",

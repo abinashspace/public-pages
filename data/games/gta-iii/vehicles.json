@@ -11,7 +11,7 @@
       "category": "Aircraft",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/airtrain.svg"
+      "image": "assets/img/vehicle/gta-iii/airtrain.jpg"
     },
     {
       "id": "ambulance",
@@ -22,7 +22,7 @@
       "class": "Medical",
       "top_speed_kph": 140,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/ambulance.svg"
+      "image": "assets/img/vehicle/gta-iii/ambulance.jpg"
     },
     {
       "id": "banshee",
@@ -33,7 +33,7 @@
       "class": "Sports",
       "top_speed_kph": 200,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/banshee.svg"
+      "image": "assets/img/vehicle/gta-iii/banshee.jpg"
     },
     {
       "id": "barracks-ol",
@@ -44,7 +44,7 @@
       "class": "Truck",
       "top_speed_kph": 90,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/barracks-ol.svg"
+      "image": "assets/img/vehicle/gta-iii/barracks-ol.jpg"
     },
     {
       "id": "bf-injection",
@@ -55,7 +55,7 @@
       "class": "Buggy",
       "top_speed_kph": 175,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/bf-injection.svg"
+      "image": "assets/img/vehicle/gta-iii/bf-injection.jpg"
     },
     {
       "id": "bobcat",
@@ -66,7 +66,7 @@
       "class": "Pickup",
       "top_speed_kph": 155,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/bobcat.svg"
+      "image": "assets/img/vehicle/gta-iii/bobcat.jpg"
     },
     {
       "id": "borgnine",
@@ -77,7 +77,7 @@
       "class": "Taxi",
       "top_speed_kph": 165,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/borgnine.svg"
+      "image": "assets/img/vehicle/gta-iii/borgnine.jpg"
     },
     {
       "id": "bus",
@@ -88,7 +88,7 @@
       "class": "Bus",
       "top_speed_kph": 110,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/bus.svg"
+      "image": "assets/img/vehicle/gta-iii/bus.jpg"
     },
     {
       "id": "cabbie",
@@ -99,7 +99,7 @@
       "class": "Sedan",
       "top_speed_kph": 165,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/cabbie.svg"
+      "image": "assets/img/vehicle/gta-iii/cabbie.jpg"
     },
     {
       "id": "cartel-cruiser",
@@ -110,7 +110,7 @@
       "class": "Gang",
       "top_speed_kph": 190,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/cartel-cruiser.svg"
+      "image": "assets/img/vehicle/gta-iii/cartel-cruiser.jpg"
     },
     {
       "id": "cheetah",
@@ -121,7 +121,7 @@
       "class": "Sports",
       "top_speed_kph": 220,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/cheetah.svg"
+      "image": "assets/img/vehicle/gta-iii/cheetah.jpg"
     },
     {
       "id": "coach",
@@ -132,7 +132,7 @@
       "class": "Bus",
       "top_speed_kph": 120,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/coach.svg"
+      "image": "assets/img/vehicle/gta-iii/coach.jpg"
     },
     {
       "id": "diablo-stallion",
@@ -143,7 +143,7 @@
       "class": "Gang",
       "top_speed_kph": 195,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/diablo-stallion.svg"
+      "image": "assets/img/vehicle/gta-iii/diablo-stallion.jpg"
     },
     {
       "id": "dodo",
@@ -154,7 +154,7 @@
       "class": "Plane",
       "top_speed_kph": 180,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/dodo.svg"
+      "image": "assets/img/vehicle/gta-iii/dodo.jpg"
     },
     {
       "id": "dozer",
@@ -185,7 +185,7 @@
       "class": "Police van",
       "top_speed_kph": 130,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/enforcer.svg"
+      "image": "assets/img/vehicle/gta-iii/enforcer.jpg"
     },
     {
       "id": "esperanto",
@@ -196,7 +196,7 @@
       "class": "Coupe",
       "top_speed_kph": 165,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/esperanto.svg"
+      "image": "assets/img/vehicle/gta-iii/esperanto.jpg"
     },
     {
       "id": "fbi-car",
@@ -207,7 +207,7 @@
       "class": "Police",
       "top_speed_kph": 200,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/fbi-car.svg"
+      "image": "assets/img/vehicle/gta-iii/fbi-car.jpg"
     },
     {
       "id": "firetruck",
@@ -218,7 +218,7 @@
       "class": "Fire",
       "top_speed_kph": 120,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/firetruck.svg"
+      "image": "assets/img/vehicle/gta-iii/firetruck.jpg"
     },
     {
       "id": "flatbed",
@@ -229,7 +229,7 @@
       "class": "Truck",
       "top_speed_kph": 110,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/flatbed.svg"
+      "image": "assets/img/vehicle/gta-iii/flatbed.jpg"
     },
     {
       "id": "ghost",
@@ -237,7 +237,7 @@
       "category": "Boats",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/ghost.svg"
+      "image": "assets/img/vehicle/gta-iii/ghost.png"
     },
     {
       "id": "helicopter",
@@ -245,7 +245,7 @@
       "category": "Aircraft",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/helicopter.svg"
+      "image": "assets/img/vehicle/gta-iii/helicopter.png"
     },
     {
       "id": "hoods-rumpo-xl",
@@ -256,7 +256,7 @@
       "class": "Gang",
       "top_speed_kph": 150,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.svg"
+      "image": "assets/img/vehicle/gta-iii/hoods-rumpo-xl.jpg"
     },
     {
       "id": "idaho",
@@ -267,7 +267,7 @@
       "class": "Coupe",
       "top_speed_kph": 165,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/idaho.svg"
+      "image": "assets/img/vehicle/gta-iii/idaho.jpg"
     },
     {
       "id": "infernus",
@@ -278,7 +278,7 @@
       "class": "Sports",
       "top_speed_kph": 220,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/infernus.svg"
+      "image": "assets/img/vehicle/gta-iii/infernus.jpg"
     },
     {
       "id": "kuruma",
@@ -289,7 +289,7 @@
       "class": "Sedan",
       "top_speed_kph": 170,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/kuruma.svg"
+      "image": "assets/img/vehicle/gta-iii/kuruma.jpg"
     },
     {
       "id": "landstalker",
@@ -300,7 +300,7 @@
       "class": "SUV",
       "top_speed_kph": 160,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/landstalker.svg"
+      "image": "assets/img/vehicle/gta-iii/landstalker.jpg"
     },
     {
       "id": "linerunner",
@@ -311,7 +311,7 @@
       "class": "Semi",
       "top_speed_kph": 110,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/linerunner.svg"
+      "image": "assets/img/vehicle/gta-iii/linerunner.jpg"
     },
     {
       "id": "mafia-sentinel",
@@ -319,7 +319,7 @@
       "category": "Gang cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/mafia-sentinel.svg"
+      "image": "assets/img/vehicle/gta-iii/mafia-sentinel.jpg"
     },
     {
       "id": "manana",
@@ -330,7 +330,7 @@
       "class": "Coupe",
       "top_speed_kph": 160,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/manana.svg"
+      "image": "assets/img/vehicle/gta-iii/manana.jpg"
     },
     {
       "id": "maverick",
@@ -350,7 +350,7 @@
       "top_speed_kph": 150,
       "seats": 4,
       "verified": true,
-      "image": "assets/img/vehicle/gta-iii/moonbeam.svg"
+      "image": "assets/img/vehicle/gta-iii/moonbeam.jpg"
     },
     {
       "id": "mr-whoopee",
@@ -358,7 +358,7 @@
       "category": "Vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/mr-whoopee.svg"
+      "image": "assets/img/vehicle/gta-iii/mr-whoopee.jpg"
     },
     {
       "id": "mr-wongs",
@@ -366,7 +366,7 @@
       "category": "Gang cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/mr-wongs.svg"
+      "image": "assets/img/vehicle/gta-iii/mr-wongs.jpg"
     },
     {
       "id": "mule",
@@ -377,7 +377,7 @@
       "class": "Truck",
       "top_speed_kph": 120,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/mule.svg"
+      "image": "assets/img/vehicle/gta-iii/mule.jpg"
     },
     {
       "id": "packer",
@@ -395,7 +395,7 @@
       "category": "Vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/panlantic.svg"
+      "image": "assets/img/vehicle/gta-iii/panlantic.jpg"
     },
     {
       "id": "patriot",
@@ -406,7 +406,7 @@
       "class": "SUV",
       "top_speed_kph": 170,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/patriot.svg"
+      "image": "assets/img/vehicle/gta-iii/patriot.jpg"
     },
     {
       "id": "perennial",
@@ -417,7 +417,7 @@
       "class": "Station wagon",
       "top_speed_kph": 150,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/perennial.svg"
+      "image": "assets/img/vehicle/gta-iii/perennial.jpg"
     },
     {
       "id": "police",
@@ -425,7 +425,7 @@
       "category": "Emergency, rescue & government",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/police.svg"
+      "image": "assets/img/vehicle/gta-iii/police.jpg"
     },
     {
       "id": "police-car",
@@ -456,7 +456,7 @@
       "class": "Van",
       "top_speed_kph": 145,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/pony.svg"
+      "image": "assets/img/vehicle/gta-iii/pony.jpg"
     },
     {
       "id": "predator",
@@ -467,7 +467,7 @@
       "class": "Police boat",
       "top_speed_kph": 90,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/predator.svg"
+      "image": "assets/img/vehicle/gta-iii/predator.png"
     },
     {
       "id": "rc-bandit",
@@ -475,7 +475,7 @@
       "category": "Miscellaneous",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/rc-bandit.svg"
+      "image": "assets/img/vehicle/gta-iii/rc-bandit.jpg"
     },
     {
       "id": "reefer",
@@ -486,7 +486,7 @@
       "class": "Boat",
       "top_speed_kph": 60,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/reefer.svg"
+      "image": "assets/img/vehicle/gta-iii/reefer.png"
     },
     {
       "id": "rhino",
@@ -497,7 +497,7 @@
       "class": "Tank",
       "top_speed_kph": 60,
       "seats": 1,
-      "image": "assets/img/vehicle/gta-iii/rhino.svg"
+      "image": "assets/img/vehicle/gta-iii/rhino.jpg"
     },
     {
       "id": "rumpo",
@@ -508,7 +508,7 @@
       "class": "Van",
       "top_speed_kph": 145,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/rumpo.svg"
+      "image": "assets/img/vehicle/gta-iii/rumpo.jpg"
     },
     {
       "id": "securicar",
@@ -519,7 +519,7 @@
       "class": "Armored van",
       "top_speed_kph": 110,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/securicar.svg"
+      "image": "assets/img/vehicle/gta-iii/securicar.jpg"
     },
     {
       "id": "sentinel",
@@ -530,7 +530,7 @@
       "class": "Sedan",
       "top_speed_kph": 175,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/sentinel.svg"
+      "image": "assets/img/vehicle/gta-iii/sentinel.jpg"
     },
     {
       "id": "speeder",
@@ -541,7 +541,7 @@
       "class": "Speedboat",
       "top_speed_kph": 100,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/speeder.svg"
+      "image": "assets/img/vehicle/gta-iii/speeder.png"
     },
     {
       "id": "stallion",
@@ -552,7 +552,7 @@
       "class": "Muscle",
       "top_speed_kph": 190,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/stallion.svg"
+      "image": "assets/img/vehicle/gta-iii/stallion.jpg"
     },
     {
       "id": "stinger",
@@ -563,7 +563,7 @@
       "class": "Sports",
       "top_speed_kph": 200,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/stinger.svg"
+      "image": "assets/img/vehicle/gta-iii/stinger.jpg"
     },
     {
       "id": "stretch",
@@ -574,7 +574,7 @@
       "class": "Limousine",
       "top_speed_kph": 170,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/stretch.svg"
+      "image": "assets/img/vehicle/gta-iii/stretch.jpg"
     },
     {
       "id": "taxi",
@@ -585,7 +585,7 @@
       "class": "Sedan",
       "top_speed_kph": 170,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/taxi.svg"
+      "image": "assets/img/vehicle/gta-iii/taxi.jpg"
     },
     {
       "id": "toyz",
@@ -593,7 +593,7 @@
       "category": "Vans",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/toyz.svg"
+      "image": "assets/img/vehicle/gta-iii/toyz.jpg"
     },
     {
       "id": "train",
@@ -601,7 +601,7 @@
       "category": "Public service",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/train.svg"
+      "image": "assets/img/vehicle/gta-iii/train.jpg"
     },
     {
       "id": "trashmaster",
@@ -612,7 +612,7 @@
       "class": "Truck",
       "top_speed_kph": 100,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/trashmaster.svg"
+      "image": "assets/img/vehicle/gta-iii/trashmaster.jpg"
     },
     {
       "id": "triad-fish-van",
@@ -620,7 +620,7 @@
       "category": "Gang cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/triad-fish-van.svg"
+      "image": "assets/img/vehicle/gta-iii/triad-fish-van.jpg"
     },
     {
       "id": "yakuza-stinger",
@@ -628,7 +628,7 @@
       "category": "Gang cars",
       "verified": true,
       "source": "GTA Wiki vehicle list (model names and class grouping)",
-      "image": "assets/img/vehicle/gta-iii/yakuza-stinger.svg"
+      "image": "assets/img/vehicle/gta-iii/yakuza-stinger.jpg"
     },
     {
       "id": "yankee",
@@ -639,7 +639,7 @@
       "class": "Truck",
       "top_speed_kph": 115,
       "seats": 2,
-      "image": "assets/img/vehicle/gta-iii/yankee.svg"
+      "image": "assets/img/vehicle/gta-iii/yankee.jpg"
     },
     {
       "id": "yardie-lobo",
@@ -650,7 +650,7 @@
       "class": "Gang",
       "top_speed_kph": 185,
       "seats": 4,
-      "image": "assets/img/vehicle/gta-iii/yardie-lobo.svg"
+      "image": "assets/img/vehicle/gta-iii/yardie-lobo.jpg"
     }
   ]
 }

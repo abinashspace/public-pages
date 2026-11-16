@@ -15,7 +15,7 @@
       "summary": "Bomb-maker who appears before the events of GTA III.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-advance/8-ball.svg"
+      "image": "assets/img/portrait/gta-advance/8-ball.jpg"
     },
     {
       "id": "asuka-kasen",
@@ -27,7 +27,7 @@
       "summary": "Already running Yakuza operations in 2000.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-advance/asuka-kasen.svg"
+      "image": "assets/img/portrait/gta-advance/asuka-kasen.png"
     },
     {
       "id": "cisco",
@@ -39,7 +39,7 @@
       "summary": "A contact in Mike's early jobs.",
       "status": "Alive",
       "verified": false,
-      "image": "assets/img/portrait/gta-advance/cisco.svg"
+      "image": "assets/img/portrait/gta-advance/cisco.jpg"
     },
     {
       "id": "king-courtney",
@@ -51,7 +51,7 @@
       "summary": "Yardie boss active in Liberty City before GTA III.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-advance/king-courtney.svg"
+      "image": "assets/img/portrait/gta-advance/king-courtney.jpg"
     },
     {
       "id": "mike",
@@ -65,7 +65,7 @@
       "status": "Alive",
       "first_appearance": "GTA Advance",
       "verified": true,
-      "image": "assets/img/portrait/gta-advance/mike.svg"
+      "image": "assets/img/portrait/gta-advance/mike.jpg"
     },
     {
       "id": "uncle-fu-advance",
@@ -77,7 +77,7 @@
       "summary": "A crime figure involved in the game's central betrayal.",
       "status": "Deceased",
       "verified": false,
-      "image": "assets/img/portrait/gta-advance/uncle-fu-advance.svg"
+      "image": "assets/img/portrait/gta-advance/uncle-fu-advance.png"
     },
     {
       "id": "vinnie",
@@ -89,7 +89,7 @@
       "summary": "Mike's partner whose betrayal drives the story.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-advance/vinnie.svg"
+      "image": "assets/img/portrait/gta-advance/vinnie.jpg"
     }
   ]
 }

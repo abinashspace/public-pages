@@ -15,7 +15,7 @@
       "summary": "Wheelchair-bound club member and mechanic.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/angus-martin.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/angus-martin.jpg"
     },
     {
       "id": "ashley-butler",
@@ -27,7 +27,7 @@
       "summary": "Johnny's ex-girlfriend, struggling with addiction and tied to Billy.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ashley-butler.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ashley-butler.png"
     },
     {
       "id": "billy-grey",
@@ -39,7 +39,7 @@
       "summary": "The Lost's unstable president, whose feud with the Angels of Death escalates everything.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/billy-grey.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/billy-grey.jpg"
     },
     {
       "id": "brian-jeremy",
@@ -51,7 +51,7 @@
       "summary": "Billy loyalist who turns on Johnny after the leadership split.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/brian-jeremy.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/brian-jeremy.jpg"
     },
     {
       "id": "clay-simons",
@@ -63,7 +63,7 @@
       "summary": "The club's road captain and Johnny's right hand.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/clay-simons.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/clay-simons.png"
     },
     {
       "id": "elizabeta-torres",
@@ -75,7 +75,7 @@
       "summary": "Bohan drug queenpin connected to the Lost's business.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/elizabeta-torres.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/elizabeta-torres.png"
     },
     {
       "id": "jim-fitzgerald",
@@ -87,7 +87,7 @@
       "summary": "Johnny's most trusted club brother and the chapter's voice of reason.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/jim-fitzgerald.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/jim-fitzgerald.png"
     },
     {
       "id": "johnny-klebitz",
@@ -100,7 +100,7 @@
       "status": "Varies",
       "first_appearance": "GTA IV: The Lost and Damned",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/johnny-klebitz.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/johnny-klebitz.png"
     },
     {
       "id": "niko-bellic",
@@ -112,7 +112,7 @@
       "summary": "Appears in shared scenes during the diamond storyline.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/niko-bellic.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/niko-bellic.png"
     },
     {
       "id": "ray-boccino",
@@ -124,7 +124,7 @@
       "summary": "The mob contact who hires the Lost for diamond-related work.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ray-boccino.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ray-boccino.jpg"
     },
     {
       "id": "terry-thorpe",
@@ -136,7 +136,7 @@
       "summary": "Heavy weapons specialist and loyal club member.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/terry-thorpe.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/terry-thorpe.png"
     },
     {
       "id": "thomas-stubbs",
@@ -148,7 +148,7 @@
       "summary": "Corrupt congressman who pays the Lost for dirty work.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/thomas-stubbs.svg"
+      "image": "assets/img/portrait/gta-iv-the-lost-and-damned/thomas-stubbs.jpg"
     }
   ]
 }

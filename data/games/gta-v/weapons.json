@@ -11,7 +11,7 @@
       "type": "Assault rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/advanced-rifle.svg"
+      "image": "assets/img/weapon/gta-v/advanced-rifle.png"
     },
     {
       "id": "antique-cavalry-dagger",
@@ -19,7 +19,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/antique-cavalry-dagger.svg"
+      "image": "assets/img/weapon/gta-v/antique-cavalry-dagger.png"
     },
     {
       "id": "ap-pistol",
@@ -30,7 +30,7 @@
       "damage_tier": "High",
       "ammo": "18 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/ap-pistol.svg"
+      "image": "assets/img/weapon/gta-v/ap-pistol.png"
     },
     {
       "id": "assault-rifle",
@@ -41,7 +41,7 @@
       "damage_tier": "High",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/assault-rifle.svg"
+      "image": "assets/img/weapon/gta-v/assault-rifle.png"
     },
     {
       "id": "assault-shotgun",
@@ -52,7 +52,7 @@
       "damage_tier": "Very high",
       "ammo": "8 shells",
       "unlock": "Ammu-Nation (later)",
-      "image": "assets/img/weapon/gta-v/assault-shotgun.svg"
+      "image": "assets/img/weapon/gta-v/assault-shotgun.png"
     },
     {
       "id": "assault-smg",
@@ -60,7 +60,7 @@
       "type": "Machine guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/assault-smg.svg"
+      "image": "assets/img/weapon/gta-v/assault-smg.png"
     },
     {
       "id": "ball",
@@ -68,7 +68,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/ball.svg"
+      "image": "assets/img/weapon/gta-v/ball.png"
     },
     {
       "id": "baseball-bat",
@@ -79,7 +79,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/baseball-bat.svg"
+      "image": "assets/img/weapon/gta-v/baseball-bat.png"
     },
     {
       "id": "bottle",
@@ -87,7 +87,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/bottle.svg"
+      "image": "assets/img/weapon/gta-v/bottle.png"
     },
     {
       "id": "bullpup-rifle",
@@ -95,7 +95,7 @@
       "type": "Assault rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/bullpup-rifle.svg"
+      "image": "assets/img/weapon/gta-v/bullpup-rifle.png"
     },
     {
       "id": "bullpup-shotgun",
@@ -103,7 +103,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/bullpup-shotgun.svg"
+      "image": "assets/img/weapon/gta-v/bullpup-shotgun.png"
     },
     {
       "id": "bz-gas",
@@ -111,7 +111,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/bz-gas.svg"
+      "image": "assets/img/weapon/gta-v/bz-gas.png"
     },
     {
       "id": "carbine-rifle",
@@ -122,7 +122,7 @@
       "damage_tier": "High",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/carbine-rifle.svg"
+      "image": "assets/img/weapon/gta-v/carbine-rifle.png"
     },
     {
       "id": "combat-mg",
@@ -133,7 +133,7 @@
       "damage_tier": "Very high",
       "ammo": "100 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/combat-mg.svg"
+      "image": "assets/img/weapon/gta-v/combat-mg.png"
     },
     {
       "id": "combat-pdw",
@@ -141,7 +141,7 @@
       "type": "Machine guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/combat-pdw.svg"
+      "image": "assets/img/weapon/gta-v/combat-pdw.png"
     },
     {
       "id": "combat-pistol",
@@ -152,7 +152,7 @@
       "damage_tier": "High",
       "ammo": "12 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/combat-pistol.svg"
+      "image": "assets/img/weapon/gta-v/combat-pistol.png"
     },
     {
       "id": "crowbar",
@@ -163,7 +163,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/crowbar.svg"
+      "image": "assets/img/weapon/gta-v/crowbar.png"
     },
     {
       "id": "digiscanner",
@@ -171,7 +171,7 @@
       "type": "Special",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/digiscanner.svg"
+      "image": "assets/img/weapon/gta-v/digiscanner.png"
     },
     {
       "id": "firework-launcher",
@@ -179,7 +179,7 @@
       "type": "Heavy",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/firework-launcher.svg"
+      "image": "assets/img/weapon/gta-v/firework-launcher.png"
     },
     {
       "id": "fist",
@@ -190,7 +190,7 @@
       "damage_tier": "Low",
       "ammo": "—",
       "unlock": "Default",
-      "image": "assets/img/weapon/gta-v/fist.svg"
+      "image": "assets/img/weapon/gta-v/fist.png"
     },
     {
       "id": "golf-club",
@@ -198,7 +198,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/golf-club.svg"
+      "image": "assets/img/weapon/gta-v/golf-club.png"
     },
     {
       "id": "grenade",
@@ -214,7 +214,7 @@
       "type": "Heavy",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/grenade-launcher.svg"
+      "image": "assets/img/weapon/gta-v/grenade-launcher.png"
     },
     {
       "id": "grenades",
@@ -225,7 +225,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-v/grenades.svg"
+      "image": "assets/img/weapon/gta-v/grenades.png"
     },
     {
       "id": "gusenberg-sweeper",
@@ -233,7 +233,7 @@
       "type": "Machine guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/gusenberg-sweeper.svg"
+      "image": "assets/img/weapon/gta-v/gusenberg-sweeper.png"
     },
     {
       "id": "hammer",
@@ -241,7 +241,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/hammer.svg"
+      "image": "assets/img/weapon/gta-v/hammer.png"
     },
     {
       "id": "hatchet",
@@ -249,7 +249,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/hatchet.svg"
+      "image": "assets/img/weapon/gta-v/hatchet.png"
     },
     {
       "id": "heavy-pistol",
@@ -257,7 +257,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/heavy-pistol.svg"
+      "image": "assets/img/weapon/gta-v/heavy-pistol.png"
     },
     {
       "id": "heavy-shotgun",
@@ -265,7 +265,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/heavy-shotgun.svg"
+      "image": "assets/img/weapon/gta-v/heavy-shotgun.png"
     },
     {
       "id": "heavy-sniper",
@@ -276,7 +276,7 @@
       "damage_tier": "Lethal",
       "ammo": "6 rounds",
       "unlock": "Ammu-Nation (later)",
-      "image": "assets/img/weapon/gta-v/heavy-sniper.svg"
+      "image": "assets/img/weapon/gta-v/heavy-sniper.png"
     },
     {
       "id": "homing-launcher",
@@ -284,7 +284,7 @@
       "type": "Heavy",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/homing-launcher.svg"
+      "image": "assets/img/weapon/gta-v/homing-launcher.png"
     },
     {
       "id": "jerry-can",
@@ -292,7 +292,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/jerry-can.svg"
+      "image": "assets/img/weapon/gta-v/jerry-can.png"
     },
     {
       "id": "knife",
@@ -303,7 +303,7 @@
       "damage_tier": "Medium",
       "ammo": "—",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/knife.svg"
+      "image": "assets/img/weapon/gta-v/knife.png"
     },
     {
       "id": "knuckledusters",
@@ -319,7 +319,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/machete.svg"
+      "image": "assets/img/weapon/gta-v/machete.png"
     },
     {
       "id": "machine-pistol",
@@ -327,7 +327,7 @@
       "type": "Machine guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/machine-pistol.svg"
+      "image": "assets/img/weapon/gta-v/machine-pistol.png"
     },
     {
       "id": "marksman-pistol",
@@ -335,7 +335,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/marksman-pistol.svg"
+      "image": "assets/img/weapon/gta-v/marksman-pistol.png"
     },
     {
       "id": "marksman-rifle",
@@ -343,7 +343,7 @@
       "type": "Sniper rifles",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/marksman-rifle.svg"
+      "image": "assets/img/weapon/gta-v/marksman-rifle.png"
     },
     {
       "id": "mg",
@@ -351,7 +351,7 @@
       "type": "Machine guns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/mg.svg"
+      "image": "assets/img/weapon/gta-v/mg.png"
     },
     {
       "id": "micro-smg",
@@ -362,7 +362,7 @@
       "damage_tier": "Medium",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/micro-smg.svg"
+      "image": "assets/img/weapon/gta-v/micro-smg.png"
     },
     {
       "id": "minigun",
@@ -373,7 +373,7 @@
       "damage_tier": "Lethal",
       "ammo": "150 rounds",
       "unlock": "Later missions",
-      "image": "assets/img/weapon/gta-v/minigun.svg"
+      "image": "assets/img/weapon/gta-v/minigun.png"
     },
     {
       "id": "molotov-cocktail",
@@ -381,7 +381,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/molotov-cocktail.svg"
+      "image": "assets/img/weapon/gta-v/molotov-cocktail.png"
     },
     {
       "id": "molotov",
@@ -392,7 +392,7 @@
       "price": null,
       "unlock": "Street pickups",
       "verified": true,
-      "image": "assets/img/weapon/gta-v/molotov.svg"
+      "image": "assets/img/weapon/gta-v/molotov.png"
     },
     {
       "id": "musket",
@@ -400,7 +400,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/musket.svg"
+      "image": "assets/img/weapon/gta-v/musket.png"
     },
     {
       "id": "nightstick",
@@ -408,7 +408,7 @@
       "type": "Melee",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/nightstick.svg"
+      "image": "assets/img/weapon/gta-v/nightstick.png"
     },
     {
       "id": "pistol",
@@ -419,7 +419,7 @@
       "damage_tier": "Medium",
       "ammo": "12 rounds",
       "unlock": "Default",
-      "image": "assets/img/weapon/gta-v/pistol.svg"
+      "image": "assets/img/weapon/gta-v/pistol.png"
     },
     {
       "id": "pistol-50",
@@ -427,7 +427,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/pistol-50.svg"
+      "image": "assets/img/weapon/gta-v/pistol-50.png"
     },
     {
       "id": "proximity-mine",
@@ -446,7 +446,7 @@
       "damage_tier": "High",
       "ammo": "8 shells",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/pump-shotgun.svg"
+      "image": "assets/img/weapon/gta-v/pump-shotgun.png"
     },
     {
       "id": "railgun",
@@ -454,7 +454,7 @@
       "type": "Heavy",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/railgun.svg"
+      "image": "assets/img/weapon/gta-v/railgun.png"
     },
     {
       "id": "remote-sniper",
@@ -473,7 +473,7 @@
       "damage_tier": "Lethal",
       "ammo": "5 rockets",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/rpg.svg"
+      "image": "assets/img/weapon/gta-v/rpg.png"
     },
     {
       "id": "sawed-off-shotgun",
@@ -481,7 +481,7 @@
       "type": "Shotguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/sawed-off-shotgun.svg"
+      "image": "assets/img/weapon/gta-v/sawed-off-shotgun.png"
     },
     {
       "id": "smg",
@@ -492,7 +492,7 @@
       "damage_tier": "Medium",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/smg.svg"
+      "image": "assets/img/weapon/gta-v/smg.png"
     },
     {
       "id": "sniper-rifle",
@@ -503,7 +503,7 @@
       "damage_tier": "Very high",
       "ammo": "10 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/sniper-rifle.svg"
+      "image": "assets/img/weapon/gta-v/sniper-rifle.png"
     },
     {
       "id": "sns-pistol",
@@ -511,7 +511,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/sns-pistol.svg"
+      "image": "assets/img/weapon/gta-v/sns-pistol.png"
     },
     {
       "id": "special-carbine",
@@ -522,7 +522,7 @@
       "damage_tier": "Very high",
       "ammo": "30 rounds",
       "unlock": "Ammu-Nation",
-      "image": "assets/img/weapon/gta-v/special-carbine.svg"
+      "image": "assets/img/weapon/gta-v/special-carbine.png"
     },
     {
       "id": "sticky-bomb",
@@ -541,7 +541,7 @@
       "price": null,
       "unlock": "Ammu-Nation",
       "verified": true,
-      "image": "assets/img/weapon/gta-v/sticky-bombs.svg"
+      "image": "assets/img/weapon/gta-v/sticky-bombs.png"
     },
     {
       "id": "stun-gun",
@@ -549,7 +549,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/stun-gun.svg"
+      "image": "assets/img/weapon/gta-v/stun-gun.png"
     },
     {
       "id": "tear-gas",
@@ -557,7 +557,7 @@
       "type": "Thrown",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/tear-gas.svg"
+      "image": "assets/img/weapon/gta-v/tear-gas.png"
     },
     {
       "id": "vintage-pistol",
@@ -565,7 +565,7 @@
       "type": "Handguns",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-v/vintage-pistol.svg"
+      "image": "assets/img/weapon/gta-v/vintage-pistol.png"
     }
   ]
 }

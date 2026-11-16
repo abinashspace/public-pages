@@ -5,7 +5,7 @@
     "year": 1997,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.548Z",
+    "generated": "2026-11-16T03:33:23.825Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -26,8 +26,8 @@
       "collectibles": 1
     },
     "images": {
-      "cover": "assets/img/cover/gta/cover.svg",
-      "banner": "assets/img/banner/gta/banner.svg",
+      "cover": "assets/img/cover/gta/cover.jpg",
+      "banner": "assets/img/banner/gta/banner.jpg",
       "map": "assets/img/map/gta/map.svg"
     },
     "sources": [
@@ -75,7 +75,7 @@
         "summary": "Vice City mission contact in the original game.",
         "status": "Alive",
         "verified": false,
-        "image": "assets/img/portrait/gta/samuel-deever.svg"
+        "image": "assets/img/portrait/gta/samuel-deever.png"
       },
       {
         "id": "uncle-fu",
@@ -87,7 +87,7 @@
         "summary": "One of the city bosses who hands out missions in Liberty City.",
         "status": "Alive",
         "verified": false,
-        "image": "assets/img/portrait/gta/uncle-fu.svg"
+        "image": "assets/img/portrait/gta/uncle-fu.png"
       }
     ]
   },

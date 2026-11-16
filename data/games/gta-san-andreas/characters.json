@@ -16,7 +16,7 @@
       "status": "Alive",
       "first_appearance": "Grand Theft Auto: San Andreas",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/carl-johnson.svg"
+      "image": "assets/img/portrait/gta-san-andreas/carl-johnson.png"
     },
     {
       "id": "catalina",
@@ -28,7 +28,7 @@
       "summary": "CJ's brief girlfriend in the Badlands; robs stores with him in a series of missions.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/catalina.svg"
+      "image": "assets/img/portrait/gta-san-andreas/catalina.png"
     },
     {
       "id": "cesar-vialpando",
@@ -40,7 +40,7 @@
       "summary": "Kendl's boyfriend and leader of the Aztecas; CJ's most reliable ally.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/cesar-vialpando.svg"
+      "image": "assets/img/portrait/gta-san-andreas/cesar-vialpando.jpg"
     },
     {
       "id": "denise-robinson",
@@ -52,7 +52,7 @@
       "summary": "Grove Street affiliate and one of CJ's girlfriends.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/denise-robinson.svg"
+      "image": "assets/img/portrait/gta-san-andreas/denise-robinson.jpg"
     },
     {
       "id": "eddie-pulaski",
@@ -64,7 +64,7 @@
       "summary": "Tenpenny's brutal partner, killed by CJ in the desert.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/eddie-pulaski.svg"
+      "image": "assets/img/portrait/gta-san-andreas/eddie-pulaski.jpg"
     },
     {
       "id": "frank-tenpenny",
@@ -77,7 +77,7 @@
       "summary": "The primary antagonist, a corrupt cop who manipulates every gang in the state.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/frank-tenpenny.svg"
+      "image": "assets/img/portrait/gta-san-andreas/frank-tenpenny.png"
     },
     {
       "id": "hernandez",
@@ -89,7 +89,7 @@
       "summary": "The youngest C.R.A.S.H. officer, torn between loyalty and doing the right thing.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/hernandez.svg"
+      "image": "assets/img/portrait/gta-san-andreas/hernandez.jpg"
     },
     {
       "id": "jizzy-b",
@@ -101,7 +101,7 @@
       "summary": "Pimp whose club fronts the Loco Syndicate's drug operation.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/jizzy-b.svg"
+      "image": "assets/img/portrait/gta-san-andreas/jizzy-b.png"
     },
     {
       "id": "ken-rosenberg",
@@ -114,7 +114,7 @@
       "summary": "Vice City lawyer now managing a Las Venturas casino for the mob.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/ken-rosenberg.svg"
+      "image": "assets/img/portrait/gta-san-andreas/ken-rosenberg.jpg"
     },
     {
       "id": "kendl",
@@ -126,7 +126,7 @@
       "summary": "CJ and Sweet's sister, partner of Cesar Vialpando.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/kendl.svg"
+      "image": "assets/img/portrait/gta-san-andreas/kendl.png"
     },
     {
       "id": "kent-paul",
@@ -138,7 +138,7 @@
       "summary": "Lewd music-business fixer encountered in San Fierro and Las Venturas.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/kent-paul.svg"
+      "image": "assets/img/portrait/gta-san-andreas/kent-paul.jpg"
     },
     {
       "id": "ryder",
@@ -151,7 +151,7 @@
       "summary": "Hot-headed Grove member who turns on the family.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/ryder.svg"
+      "image": "assets/img/portrait/gta-san-andreas/ryder.png"
     },
     {
       "id": "madd-dogg",
@@ -176,7 +176,7 @@
       "summary": "CJ's childhood friend whose ambition leads him to betray Grove Street.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/big-smoke.svg"
+      "image": "assets/img/portrait/gta-san-andreas/big-smoke.jpg"
     },
     {
       "id": "mike-toreno",
@@ -188,7 +188,7 @@
       "summary": "A shadowy federal agent who blackmails CJ into running missions for him.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/mike-toreno.svg"
+      "image": "assets/img/portrait/gta-san-andreas/mike-toreno.jpg"
     },
     {
       "id": "millie-perkins",
@@ -200,7 +200,7 @@
       "summary": "Casino manager CJ dates to obtain the key card for the Caligula's heist.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/millie-perkins.svg"
+      "image": "assets/img/portrait/gta-san-andreas/millie-perkins.jpg"
     },
     {
       "id": "og-loc",
@@ -224,7 +224,7 @@
       "summary": "Senior Triad figure whose protection is a recurring obligation.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/ran-fa-li.svg"
+      "image": "assets/img/portrait/gta-san-andreas/ran-fa-li.jpg"
     },
     {
       "id": "salvatore-leone",
@@ -236,7 +236,7 @@
       "summary": "Liberty City don who owns Caligula's Palace and is targeted by the Triads.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/salvatore-leone.svg"
+      "image": "assets/img/portrait/gta-san-andreas/salvatore-leone.jpg"
     },
     {
       "id": "sweet",
@@ -248,7 +248,7 @@
       "summary": "CJ's older brother and the stubborn leader of Grove Street.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/sweet.svg"
+      "image": "assets/img/portrait/gta-san-andreas/sweet.png"
     },
     {
       "id": "the-truth",
@@ -260,7 +260,7 @@
       "summary": "A hippie conspiracy theorist who supplies CJ with vehicles and information.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/the-truth.svg"
+      "image": "assets/img/portrait/gta-san-andreas/the-truth.jpg"
     },
     {
       "id": "woozie",
@@ -270,7 +270,7 @@
       "summary": "Gives 18 missions in gta-san-andreas, starting with \"Toreno's Last Flight\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-san-andreas/woozie.svg"
+      "image": "assets/img/portrait/gta-san-andreas/woozie.jpg"
     },
     {
       "id": "wu-zi-mu",
@@ -282,7 +282,7 @@
       "summary": "Blind Triad boss who becomes CJ's business partner in San Fierro and Las Venturas.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/wu-zi-mu.svg"
+      "image": "assets/img/portrait/gta-san-andreas/wu-zi-mu.jpg"
     },
     {
       "id": "zero",
@@ -294,7 +294,7 @@
       "summary": "RC hobbyist and electronics genius with a shop in San Fierro.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-san-andreas/zero.svg"
+      "image": "assets/img/portrait/gta-san-andreas/zero.jpg"
     }
   ]
 }

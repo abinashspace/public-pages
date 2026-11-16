@@ -15,7 +15,7 @@
       "summary": "An old friend of Niko's from the war, now a flamboyant political fixer.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/bernie-crane.svg"
+      "image": "assets/img/portrait/gta-iv/bernie-crane.jpg"
     },
     {
       "id": "brucie-kibbutz",
@@ -27,7 +27,7 @@
       "summary": "Steroid-obsessed car dealer and adrenaline junkie.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/brucie-kibbutz.svg"
+      "image": "assets/img/portrait/gta-iv/brucie-kibbutz.png"
     },
     {
       "id": "derrick-mcreary",
@@ -37,7 +37,7 @@
       "summary": "Gives 3 missions in gta-iv, starting with \"Smackdown\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/derrick-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/derrick-mcreary.jpg"
     },
     {
       "id": "dimitri-rascalov",
@@ -49,7 +49,7 @@
       "summary": "A manipulative Russian gangster who betrays everyone he works with.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/dimitri-rascalov.svg"
+      "image": "assets/img/portrait/gta-iv/dimitri-rascalov.jpg"
     },
     {
       "id": "dwayne-forge",
@@ -61,7 +61,7 @@
       "summary": "An ex-con trying to rebuild his life after prison.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/dwayne-forge.svg"
+      "image": "assets/img/portrait/gta-iv/dwayne-forge.png"
     },
     {
       "id": "elizabeta-torres",
@@ -71,7 +71,7 @@
       "summary": "Gives 4 missions in gta-iv, starting with \"Luck of the Irish\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/elizabeta-torres.svg"
+      "image": "assets/img/portrait/gta-iv/elizabeta-torres.png"
     },
     {
       "id": "francis-mcreary",
@@ -84,7 +84,7 @@
       "summary": "A police detective who blackmails Niko into cleaning up his problems.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/francis-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/francis-mcreary.jpg"
     },
     {
       "id": "gerald-mcreary",
@@ -96,7 +96,7 @@
       "summary": "The eldest McReary brother, running the family business from prison.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/gerald-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/gerald-mcreary.jpg"
     },
     {
       "id": "gerry-mcreary",
@@ -106,7 +106,7 @@
       "summary": "Gives 5 missions in gta-iv, starting with \"Actions Speak Louder than Words\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/gerry-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/gerry-mcreary.jpg"
     },
     {
       "id": "jimmy-pegorino",
@@ -118,7 +118,7 @@
       "summary": "The head of the Alderney family and Niko's final employer.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/jimmy-pegorino.svg"
+      "image": "assets/img/portrait/gta-iv/jimmy-pegorino.jpg"
     },
     {
       "id": "jon-gravelli",
@@ -128,7 +128,7 @@
       "summary": "Gives 3 missions in gta-iv, starting with \"Entourage\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/jon-gravelli.svg"
+      "image": "assets/img/portrait/gta-iv/jon-gravelli.jpg"
     },
     {
       "id": "kate-mcreary",
@@ -140,7 +140,7 @@
       "summary": "Packie's sister and Niko's moral counterweight.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/kate-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/kate-mcreary.png"
     },
     {
       "id": "little-jacob",
@@ -153,7 +153,7 @@
       "summary": "Jamaican arms dealer and Niko's most loyal friend.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/little-jacob.svg"
+      "image": "assets/img/portrait/gta-iv/little-jacob.png"
     },
     {
       "id": "mallorie-bardas",
@@ -163,7 +163,7 @@
       "summary": "Gives 1 mission in gta-iv, starting with \"Hostile Negotiation\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/mallorie-bardas.svg"
+      "image": "assets/img/portrait/gta-iv/mallorie-bardas.jpg"
     },
     {
       "id": "manny-escuela",
@@ -173,7 +173,7 @@
       "summary": "Gives 3 missions in gta-iv, starting with \"Escuela of the Streets\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/manny-escuela.svg"
+      "image": "assets/img/portrait/gta-iv/manny-escuela.png"
     },
     {
       "id": "michelle",
@@ -195,7 +195,7 @@
       "summary": "Volatile Russian crime boss whose paranoia starts a war.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/mikhail-faustin.svg"
+      "image": "assets/img/portrait/gta-iv/mikhail-faustin.jpg"
     },
     {
       "id": "niko-bellic",
@@ -209,7 +209,7 @@
       "status": "Varies",
       "first_appearance": "Grand Theft Auto IV",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/niko-bellic.svg"
+      "image": "assets/img/portrait/gta-iv/niko-bellic.png"
     },
     {
       "id": "packie-mcreary",
@@ -221,7 +221,7 @@
       "summary": "The youngest McReary brother, a skilled bank robber and Niko's heist partner.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/packie-mcreary.svg"
+      "image": "assets/img/portrait/gta-iv/packie-mcreary.png"
     },
     {
       "id": "phil-bell",
@@ -233,7 +233,7 @@
       "summary": "A Pegorino associate running truck hijackings.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/phil-bell.svg"
+      "image": "assets/img/portrait/gta-iv/phil-bell.jpg"
     },
     {
       "id": "playboy-x",
@@ -245,7 +245,7 @@
       "summary": "An ambitious dealer whose partnership with Niko ends in a choice.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/playboy-x.svg"
+      "image": "assets/img/portrait/gta-iv/playboy-x.jpg"
     },
     {
       "id": "ray-boccino",
@@ -257,7 +257,7 @@
       "summary": "A Pegorino capo and diamond dealer.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/ray-boccino.svg"
+      "image": "assets/img/portrait/gta-iv/ray-boccino.jpg"
     },
     {
       "id": "roman-bellic",
@@ -269,7 +269,7 @@
       "summary": "Niko's cousin, whose exaggerated stories hide a gambling problem and loan-shark debt.",
       "status": "Varies",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/roman-bellic.svg"
+      "image": "assets/img/portrait/gta-iv/roman-bellic.jpg"
     },
     {
       "id": "ul-paper-contact",
@@ -291,7 +291,7 @@
       "summary": "Gives 4 missions in gta-iv, starting with \"Bull in a China Shop\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-iv/vlad-glebov.svg"
+      "image": "assets/img/portrait/gta-iv/vlad-glebov.jpg"
     },
     {
       "id": "vladimir-glebov",
@@ -303,7 +303,7 @@
       "summary": "A petty loan shark running a small crew out of Hove Beach.",
       "status": "Deceased",
       "verified": true,
-      "image": "assets/img/portrait/gta-iv/vladimir-glebov.svg"
+      "image": "assets/img/portrait/gta-iv/vladimir-glebov.jpg"
     }
   ]
 }

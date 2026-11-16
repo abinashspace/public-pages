@@ -15,7 +15,7 @@
       "summary": "Casino contact for the Diamond Casino & Resort storyline.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/agatha-baker.svg"
+      "image": "assets/img/portrait/gta-online/agatha-baker.png"
     },
     {
       "id": "agent-14",
@@ -27,7 +27,7 @@
       "summary": "Government handler for the Doomsday Heist and bunker research.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/agent-14.svg"
+      "image": "assets/img/portrait/gta-online/agent-14.png"
     },
     {
       "id": "ceo-office",
@@ -60,7 +60,7 @@
       "summary": "Returns as a contact for early low-level jobs and the Lowriders storyline.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/lamar-davis.svg"
+      "image": "assets/img/portrait/gta-online/lamar-davis.png"
     },
     {
       "id": "lester-crest",
@@ -72,7 +72,7 @@
       "summary": "Plans the original apartment heists and the Doomsday Scenario.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/lester-crest.svg"
+      "image": "assets/img/portrait/gta-online/lester-crest.png"
     },
     {
       "id": "miguel-madrazo",
@@ -84,7 +84,7 @@
       "summary": "Ranch-hand turned contact after his father's fall.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/miguel-madrazo.svg"
+      "image": "assets/img/portrait/gta-online/miguel-madrazo.png"
     },
     {
       "id": "online-player",
@@ -109,7 +109,7 @@
       "summary": "Submarine commander and planner of the Cayo Perico Heist.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/pavel.svg"
+      "image": "assets/img/portrait/gta-online/pavel.png"
     },
     {
       "id": "tom-connors",
@@ -121,7 +121,7 @@
       "summary": "Casino manager tied to the Diamond Casino Heist.",
       "status": "Alive",
       "verified": true,
-      "image": "assets/img/portrait/gta-online/tom-connors.svg"
+      "image": "assets/img/portrait/gta-online/tom-connors.png"
     },
     {
       "id": "tony-prince",
@@ -131,7 +131,7 @@
       "summary": "Gives 1 mission in gta-online, starting with \"Nightclub management\". Added from the mission table; affiliations are not tabulated here.",
       "verified": true,
       "source": "Derived from the mission list in this dataset (giver field)",
-      "image": "assets/img/portrait/gta-online/tony-prince.svg"
+      "image": "assets/img/portrait/gta-online/tony-prince.png"
     }
   ]
 }

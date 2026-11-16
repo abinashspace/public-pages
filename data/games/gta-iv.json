@@ -5,7 +5,7 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-15T23:43:20.759Z",
+    "generated": "2026-11-16T03:33:24.041Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -26,8 +26,8 @@
       "collectibles": 4
     },
     "images": {
-      "cover": "assets/img/cover/gta-iv/cover.svg",
-      "banner": "assets/img/banner/gta-iv/banner.svg",
+      "cover": "assets/img/cover/gta-iv/cover.jpg",
+      "banner": "assets/img/banner/gta-iv/banner.jpg",
       "map": "assets/img/map/gta-iv/map.svg"
     },
     "sources": [
@@ -49,7 +49,7 @@
         "summary": "An old friend of Niko's from the war, now a flamboyant political fixer.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/bernie-crane.svg"
+        "image": "assets/img/portrait/gta-iv/bernie-crane.jpg"
       },
       {
         "id": "brucie-kibbutz",
@@ -61,7 +61,7 @@
         "summary": "Steroid-obsessed car dealer and adrenaline junkie.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/brucie-kibbutz.svg"
+        "image": "assets/img/portrait/gta-iv/brucie-kibbutz.png"
       },
       {
         "id": "derrick-mcreary",
@@ -71,7 +71,7 @@
         "summary": "Gives 3 missions in gta-iv, starting with \"Smackdown\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/derrick-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/derrick-mcreary.jpg"
       },
       {
         "id": "dimitri-rascalov",
@@ -83,7 +83,7 @@
         "summary": "A manipulative Russian gangster who betrays everyone he works with.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/dimitri-rascalov.svg"
+        "image": "assets/img/portrait/gta-iv/dimitri-rascalov.jpg"
       },
       {
         "id": "dwayne-forge",
@@ -95,7 +95,7 @@
         "summary": "An ex-con trying to rebuild his life after prison.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/dwayne-forge.svg"
+        "image": "assets/img/portrait/gta-iv/dwayne-forge.png"
       },
       {
         "id": "elizabeta-torres",
@@ -105,7 +105,7 @@
         "summary": "Gives 4 missions in gta-iv, starting with \"Luck of the Irish\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/elizabeta-torres.svg"
+        "image": "assets/img/portrait/gta-iv/elizabeta-torres.png"
       },
       {
         "id": "francis-mcreary",
@@ -118,7 +118,7 @@
         "summary": "A police detective who blackmails Niko into cleaning up his problems.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/francis-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/francis-mcreary.jpg"
       },
       {
         "id": "gerald-mcreary",
@@ -130,7 +130,7 @@
         "summary": "The eldest McReary brother, running the family business from prison.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/gerald-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/gerald-mcreary.jpg"
       },
       {
         "id": "gerry-mcreary",
@@ -140,7 +140,7 @@
         "summary": "Gives 5 missions in gta-iv, starting with \"Actions Speak Louder than Words\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/gerry-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/gerry-mcreary.jpg"
       },
       {
         "id": "jimmy-pegorino",
@@ -152,7 +152,7 @@
         "summary": "The head of the Alderney family and Niko's final employer.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/jimmy-pegorino.svg"
+        "image": "assets/img/portrait/gta-iv/jimmy-pegorino.jpg"
       },
       {
         "id": "jon-gravelli",
@@ -162,7 +162,7 @@
         "summary": "Gives 3 missions in gta-iv, starting with \"Entourage\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/jon-gravelli.svg"
+        "image": "assets/img/portrait/gta-iv/jon-gravelli.jpg"
       },
       {
         "id": "kate-mcreary",
@@ -174,7 +174,7 @@
         "summary": "Packie's sister and Niko's moral counterweight.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/kate-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/kate-mcreary.png"
       },
       {
         "id": "little-jacob",
@@ -187,7 +187,7 @@
         "summary": "Jamaican arms dealer and Niko's most loyal friend.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/little-jacob.svg"
+        "image": "assets/img/portrait/gta-iv/little-jacob.png"
       },
       {
         "id": "mallorie-bardas",
@@ -197,7 +197,7 @@
         "summary": "Gives 1 mission in gta-iv, starting with \"Hostile Negotiation\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/mallorie-bardas.svg"
+        "image": "assets/img/portrait/gta-iv/mallorie-bardas.jpg"
       },
       {
         "id": "manny-escuela",
@@ -207,7 +207,7 @@
         "summary": "Gives 3 missions in gta-iv, starting with \"Escuela of the Streets\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/manny-escuela.svg"
+        "image": "assets/img/portrait/gta-iv/manny-escuela.png"
       },
       {
         "id": "michelle",
@@ -229,7 +229,7 @@
         "summary": "Volatile Russian crime boss whose paranoia starts a war.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/mikhail-faustin.svg"
+        "image": "assets/img/portrait/gta-iv/mikhail-faustin.jpg"
       },
       {
         "id": "niko-bellic",
@@ -243,7 +243,7 @@
         "status": "Varies",
         "first_appearance": "Grand Theft Auto IV",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/niko-bellic.svg"
+        "image": "assets/img/portrait/gta-iv/niko-bellic.png"
       },
       {
         "id": "packie-mcreary",
@@ -255,7 +255,7 @@
         "summary": "The youngest McReary brother, a skilled bank robber and Niko's heist partner.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/packie-mcreary.svg"
+        "image": "assets/img/portrait/gta-iv/packie-mcreary.png"
       },
       {
         "id": "phil-bell",
@@ -267,7 +267,7 @@
         "summary": "A Pegorino associate running truck hijackings.",
         "status": "Alive",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/phil-bell.svg"
+        "image": "assets/img/portrait/gta-iv/phil-bell.jpg"
       },
       {
         "id": "playboy-x",
@@ -279,7 +279,7 @@
         "summary": "An ambitious dealer whose partnership with Niko ends in a choice.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/playboy-x.svg"
+        "image": "assets/img/portrait/gta-iv/playboy-x.jpg"
       },
       {
         "id": "ray-boccino",
@@ -291,7 +291,7 @@
         "summary": "A Pegorino capo and diamond dealer.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/ray-boccino.svg"
+        "image": "assets/img/portrait/gta-iv/ray-boccino.jpg"
       },
       {
         "id": "roman-bellic",
@@ -303,7 +303,7 @@
         "summary": "Niko's cousin, whose exaggerated stories hide a gambling problem and loan-shark debt.",
         "status": "Varies",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/roman-bellic.svg"
+        "image": "assets/img/portrait/gta-iv/roman-bellic.jpg"
       },
       {
         "id": "ul-paper-contact",
@@ -325,7 +325,7 @@
         "summary": "Gives 4 missions in gta-iv, starting with \"Bull in a China Shop\". Added from the mission table; affiliations are not tabulated here.",
         "verified": true,
         "source": "Derived from the mission list in this dataset (giver field)",
-        "image": "assets/img/portrait/gta-iv/vlad-glebov.svg"
+        "image": "assets/img/portrait/gta-iv/vlad-glebov.jpg"
       },
       {
         "id": "vladimir-glebov",
@@ -337,7 +337,7 @@
         "summary": "A petty loan shark running a small crew out of Hove Beach.",
         "status": "Deceased",
         "verified": true,
-        "image": "assets/img/portrait/gta-iv/vladimir-glebov.svg"
+        "image": "assets/img/portrait/gta-iv/vladimir-glebov.jpg"
       }
     ]
   },
@@ -1603,7 +1603,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/admiral.svg"
+        "image": "assets/img/vehicle/gta-iv/admiral.png"
       },
       {
         "id": "airtug",
@@ -1611,7 +1611,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/airtug.svg"
+        "image": "assets/img/vehicle/gta-iv/airtug.png"
       },
       {
         "id": "ambulance",
@@ -1622,7 +1622,7 @@
         "class": "Medical",
         "top_speed_kph": 165,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/ambulance.svg"
+        "image": "assets/img/vehicle/gta-iv/ambulance.png"
       },
       {
         "id": "annihilator",
@@ -1633,7 +1633,7 @@
         "class": "Attack helicopter",
         "top_speed_kph": 260,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/annihilator.svg"
+        "image": "assets/img/vehicle/gta-iv/annihilator.png"
       },
       {
         "id": "banshee",
@@ -1644,7 +1644,7 @@
         "class": "Sports",
         "top_speed_kph": 255,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/banshee.svg"
+        "image": "assets/img/vehicle/gta-iv/banshee.png"
       },
       {
         "id": "benson",
@@ -1652,7 +1652,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/benson.svg"
+        "image": "assets/img/vehicle/gta-iv/benson.png"
       },
       {
         "id": "biff",
@@ -1660,7 +1660,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/biff.svg"
+        "image": "assets/img/vehicle/gta-iv/biff.png"
       },
       {
         "id": "blista-compact",
@@ -1679,7 +1679,7 @@
         "class": "Pickup",
         "top_speed_kph": 195,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/bobcat.svg"
+        "image": "assets/img/vehicle/gta-iv/bobcat.png"
       },
       {
         "id": "boxville",
@@ -1687,7 +1687,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/boxville.svg"
+        "image": "assets/img/vehicle/gta-iv/boxville.png"
       },
       {
         "id": "bucanneer",
@@ -1703,7 +1703,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/burrito.svg"
+        "image": "assets/img/vehicle/gta-iv/burrito.png"
       },
       {
         "id": "bus",
@@ -1711,7 +1711,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/bus.svg"
+        "image": "assets/img/vehicle/gta-iv/bus.png"
       },
       {
         "id": "cabby",
@@ -1719,7 +1719,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/cabby.svg"
+        "image": "assets/img/vehicle/gta-iv/cabby.png"
       },
       {
         "id": "cablecar",
@@ -1727,7 +1727,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/cablecar.svg"
+        "image": "assets/img/vehicle/gta-iv/cablecar.png"
       },
       {
         "id": "cavalcade",
@@ -1738,7 +1738,7 @@
         "class": "SUV",
         "top_speed_kph": 200,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/cavalcade.svg"
+        "image": "assets/img/vehicle/gta-iv/cavalcade.png"
       },
       {
         "id": "cavalcade-fxt",
@@ -1746,7 +1746,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/cavalcade-fxt.svg"
+        "image": "assets/img/vehicle/gta-iv/cavalcade-fxt.png"
       },
       {
         "id": "chavos",
@@ -1754,7 +1754,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/chavos.svg"
+        "image": "assets/img/vehicle/gta-iv/chavos.png"
       },
       {
         "id": "cognoscenti",
@@ -1762,7 +1762,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/cognoscenti.svg"
+        "image": "assets/img/vehicle/gta-iv/cognoscenti.png"
       },
       {
         "id": "comet",
@@ -1773,7 +1773,7 @@
         "class": "Sports",
         "top_speed_kph": 250,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/comet.svg"
+        "image": "assets/img/vehicle/gta-iv/comet.png"
       },
       {
         "id": "contender",
@@ -1781,7 +1781,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/contender.svg"
+        "image": "assets/img/vehicle/gta-iv/contender.png"
       },
       {
         "id": "coquette",
@@ -1792,7 +1792,7 @@
         "class": "Sports",
         "top_speed_kph": 250,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/coquette.svg"
+        "image": "assets/img/vehicle/gta-iv/coquette.png"
       },
       {
         "id": "df8-90",
@@ -1800,7 +1800,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/df8-90.svg"
+        "image": "assets/img/vehicle/gta-iv/df8-90.png"
       },
       {
         "id": "dilettante",
@@ -1808,7 +1808,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/dilettante.svg"
+        "image": "assets/img/vehicle/gta-iv/dilettante.png"
       },
       {
         "id": "dinghy",
@@ -1816,7 +1816,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/dinghy.svg"
+        "image": "assets/img/vehicle/gta-iv/dinghy.png"
       },
       {
         "id": "dukes",
@@ -1827,7 +1827,7 @@
         "class": "Muscle",
         "top_speed_kph": 230,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/dukes.svg"
+        "image": "assets/img/vehicle/gta-iv/dukes.png"
       },
       {
         "id": "emperor",
@@ -1835,7 +1835,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/emperor.svg"
+        "image": "assets/img/vehicle/gta-iv/emperor.png"
       },
       {
         "id": "enforcer",
@@ -1846,7 +1846,7 @@
         "class": "Police van",
         "top_speed_kph": 160,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/enforcer.svg"
+        "image": "assets/img/vehicle/gta-iv/enforcer.png"
       },
       {
         "id": "esperanto",
@@ -1854,7 +1854,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/esperanto.svg"
+        "image": "assets/img/vehicle/gta-iv/esperanto.png"
       },
       {
         "id": "faction",
@@ -1862,7 +1862,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/faction.svg"
+        "image": "assets/img/vehicle/gta-iv/faction.png"
       },
       {
         "id": "faggio",
@@ -1870,7 +1870,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/faggio.svg"
+        "image": "assets/img/vehicle/gta-iv/faggio.png"
       },
       {
         "id": "fbi-buffalo",
@@ -1891,7 +1891,7 @@
         "class": "Sports",
         "top_speed_kph": 245,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/feltzer.svg"
+        "image": "assets/img/vehicle/gta-iv/feltzer.png"
       },
       {
         "id": "feroci",
@@ -1899,7 +1899,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/feroci.svg"
+        "image": "assets/img/vehicle/gta-iv/feroci.png"
       },
       {
         "id": "fib-buffalo",
@@ -1907,7 +1907,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/fib-buffalo.svg"
+        "image": "assets/img/vehicle/gta-iv/fib-buffalo.png"
       },
       {
         "id": "fire-truck",
@@ -1918,7 +1918,7 @@
         "class": "Fire",
         "top_speed_kph": 150,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/fire-truck.svg"
+        "image": "assets/img/vehicle/gta-iv/fire-truck.png"
       },
       {
         "id": "flatbed",
@@ -1926,7 +1926,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/flatbed.svg"
+        "image": "assets/img/vehicle/gta-iv/flatbed.png"
       },
       {
         "id": "forklift",
@@ -1934,7 +1934,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/forklift.svg"
+        "image": "assets/img/vehicle/gta-iv/forklift.png"
       },
       {
         "id": "fortune",
@@ -1942,7 +1942,7 @@
         "category": "Coupes & hatchbacks",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/fortune.svg"
+        "image": "assets/img/vehicle/gta-iv/fortune.png"
       },
       {
         "id": "freeway",
@@ -1953,7 +1953,7 @@
         "class": "Cruiser",
         "top_speed_kph": 200,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/freeway.svg"
+        "image": "assets/img/vehicle/gta-iv/freeway.png"
       },
       {
         "id": "futo",
@@ -1961,7 +1961,7 @@
         "category": "Coupes & hatchbacks",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/futo.svg"
+        "image": "assets/img/vehicle/gta-iv/futo.png"
       },
       {
         "id": "habanero",
@@ -1969,7 +1969,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/habanero.svg"
+        "image": "assets/img/vehicle/gta-iv/habanero.png"
       },
       {
         "id": "hakumai",
@@ -1977,7 +1977,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/hakumai.svg"
+        "image": "assets/img/vehicle/gta-iv/hakumai.png"
       },
       {
         "id": "helitours-maverick",
@@ -1985,7 +1985,7 @@
         "category": "Helicopters",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/helitours-maverick.svg"
+        "image": "assets/img/vehicle/gta-iv/helitours-maverick.png"
       },
       {
         "id": "hellfury",
@@ -1996,7 +1996,7 @@
         "class": "Cruiser",
         "top_speed_kph": 195,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/hellfury.svg"
+        "image": "assets/img/vehicle/gta-iv/hellfury.png"
       },
       {
         "id": "huntley-sport",
@@ -2007,7 +2007,7 @@
         "class": "SUV",
         "top_speed_kph": 210,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/huntley-sport.svg"
+        "image": "assets/img/vehicle/gta-iv/huntley-sport.png"
       },
       {
         "id": "infernus",
@@ -2018,7 +2018,7 @@
         "class": "Super",
         "top_speed_kph": 290,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/infernus.svg"
+        "image": "assets/img/vehicle/gta-iv/infernus.png"
       },
       {
         "id": "ingot",
@@ -2026,7 +2026,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/ingot.svg"
+        "image": "assets/img/vehicle/gta-iv/ingot.png"
       },
       {
         "id": "intruder",
@@ -2034,7 +2034,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/intruder.svg"
+        "image": "assets/img/vehicle/gta-iv/intruder.png"
       },
       {
         "id": "jetmax",
@@ -2045,7 +2045,7 @@
         "class": "Speedboat",
         "top_speed_kph": 130,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/jetmax.svg"
+        "image": "assets/img/vehicle/gta-iv/jetmax.png"
       },
       {
         "id": "landstalker",
@@ -2053,7 +2053,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/landstalker.svg"
+        "image": "assets/img/vehicle/gta-iv/landstalker.png"
       },
       {
         "id": "laundromat",
@@ -2061,7 +2061,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/laundromat.svg"
+        "image": "assets/img/vehicle/gta-iv/laundromat.png"
       },
       {
         "id": "lokus",
@@ -2069,7 +2069,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/lokus.svg"
+        "image": "assets/img/vehicle/gta-iv/lokus.png"
       },
       {
         "id": "manana",
@@ -2077,7 +2077,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/manana.svg"
+        "image": "assets/img/vehicle/gta-iv/manana.png"
       },
       {
         "id": "marbelle",
@@ -2085,7 +2085,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/marbelle.svg"
+        "image": "assets/img/vehicle/gta-iv/marbelle.png"
       },
       {
         "id": "marquis",
@@ -2093,7 +2093,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/marquis.svg"
+        "image": "assets/img/vehicle/gta-iv/marquis.png"
       },
       {
         "id": "maverick",
@@ -2104,7 +2104,7 @@
         "class": "Helicopter",
         "top_speed_kph": 230,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/maverick.svg"
+        "image": "assets/img/vehicle/gta-iv/maverick.png"
       },
       {
         "id": "merit",
@@ -2112,7 +2112,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/merit.svg"
+        "image": "assets/img/vehicle/gta-iv/merit.png"
       },
       {
         "id": "minivan",
@@ -2120,7 +2120,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/minivan.svg"
+        "image": "assets/img/vehicle/gta-iv/minivan.png"
       },
       {
         "id": "moonbeam",
@@ -2128,7 +2128,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/moonbeam.svg"
+        "image": "assets/img/vehicle/gta-iv/moonbeam.png"
       },
       {
         "id": "mr-tasty",
@@ -2136,7 +2136,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/mr-tasty.svg"
+        "image": "assets/img/vehicle/gta-iv/mr-tasty.png"
       },
       {
         "id": "mule",
@@ -2144,7 +2144,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/mule.svg"
+        "image": "assets/img/vehicle/gta-iv/mule.png"
       },
       {
         "id": "noose-cruiser",
@@ -2152,7 +2152,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/noose-cruiser.svg"
+        "image": "assets/img/vehicle/gta-iv/noose-cruiser.png"
       },
       {
         "id": "noose-patriot",
@@ -2160,7 +2160,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/noose-patriot.svg"
+        "image": "assets/img/vehicle/gta-iv/noose-patriot.png"
       },
       {
         "id": "nrg-900",
@@ -2171,7 +2171,7 @@
         "class": "Sport bike",
         "top_speed_kph": 260,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/nrg-900.svg"
+        "image": "assets/img/vehicle/gta-iv/nrg-900.png"
       },
       {
         "id": "oracle",
@@ -2182,7 +2182,7 @@
         "class": "Sedan",
         "top_speed_kph": 220,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/oracle.svg"
+        "image": "assets/img/vehicle/gta-iv/oracle.png"
       },
       {
         "id": "packer",
@@ -2190,7 +2190,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/packer.svg"
+        "image": "assets/img/vehicle/gta-iv/packer.png"
       },
       {
         "id": "patriot",
@@ -2201,7 +2201,7 @@
         "class": "SUV",
         "top_speed_kph": 205,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/patriot.svg"
+        "image": "assets/img/vehicle/gta-iv/patriot.png"
       },
       {
         "id": "pcj-600",
@@ -2212,7 +2212,7 @@
         "class": "Sport bike",
         "top_speed_kph": 240,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/pcj-600.svg"
+        "image": "assets/img/vehicle/gta-iv/pcj-600.png"
       },
       {
         "id": "perennial",
@@ -2220,7 +2220,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/perennial.svg"
+        "image": "assets/img/vehicle/gta-iv/perennial.png"
       },
       {
         "id": "peyote",
@@ -2228,7 +2228,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/peyote.svg"
+        "image": "assets/img/vehicle/gta-iv/peyote.png"
       },
       {
         "id": "phantom",
@@ -2236,7 +2236,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/phantom.svg"
+        "image": "assets/img/vehicle/gta-iv/phantom.png"
       },
       {
         "id": "pinnacle",
@@ -2244,7 +2244,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/pinnacle.svg"
+        "image": "assets/img/vehicle/gta-iv/pinnacle.png"
       },
       {
         "id": "pmp-600",
@@ -2255,7 +2255,7 @@
         "class": "Sedan",
         "top_speed_kph": 225,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/pmp-600.svg"
+        "image": "assets/img/vehicle/gta-iv/pmp-600.png"
       },
       {
         "id": "police-cruiser",
@@ -2266,7 +2266,7 @@
         "class": "Police",
         "top_speed_kph": 225,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/police-cruiser.svg"
+        "image": "assets/img/vehicle/gta-iv/police-cruiser.png"
       },
       {
         "id": "police-maverick",
@@ -2277,7 +2277,7 @@
         "class": "Helicopter",
         "top_speed_kph": 230,
         "seats": 3,
-        "image": "assets/img/vehicle/gta-iv/police-maverick.svg"
+        "image": "assets/img/vehicle/gta-iv/police-maverick.png"
       },
       {
         "id": "police-patrol",
@@ -2285,7 +2285,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/police-patrol.svg"
+        "image": "assets/img/vehicle/gta-iv/police-patrol.png"
       },
       {
         "id": "police-predator",
@@ -2293,7 +2293,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/police-predator.svg"
+        "image": "assets/img/vehicle/gta-iv/police-predator.png"
       },
       {
         "id": "police-stockade",
@@ -2301,7 +2301,7 @@
         "category": "Emergency, rescue & government",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/police-stockade.svg"
+        "image": "assets/img/vehicle/gta-iv/police-stockade.png"
       },
       {
         "id": "pony",
@@ -2309,7 +2309,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/pony.svg"
+        "image": "assets/img/vehicle/gta-iv/pony.png"
       },
       {
         "id": "premier",
@@ -2317,7 +2317,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/premier.svg"
+        "image": "assets/img/vehicle/gta-iv/premier.png"
       },
       {
         "id": "presidente",
@@ -2328,7 +2328,7 @@
         "class": "Sedan",
         "top_speed_kph": 220,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/presidente.svg"
+        "image": "assets/img/vehicle/gta-iv/presidente.png"
       },
       {
         "id": "primo",
@@ -2336,7 +2336,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/primo.svg"
+        "image": "assets/img/vehicle/gta-iv/primo.png"
       },
       {
         "id": "rancher",
@@ -2344,7 +2344,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/rancher.svg"
+        "image": "assets/img/vehicle/gta-iv/rancher.png"
       },
       {
         "id": "rebla",
@@ -2352,7 +2352,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/rebla.svg"
+        "image": "assets/img/vehicle/gta-iv/rebla.png"
       },
       {
         "id": "reefer",
@@ -2360,7 +2360,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/reefer.svg"
+        "image": "assets/img/vehicle/gta-iv/reefer.png"
       },
       {
         "id": "ripley",
@@ -2368,7 +2368,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/ripley.svg"
+        "image": "assets/img/vehicle/gta-iv/ripley.png"
       },
       {
         "id": "romans-taxi",
@@ -2379,7 +2379,7 @@
         "class": "Taxi",
         "top_speed_kph": 200,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/romans-taxi.svg"
+        "image": "assets/img/vehicle/gta-iv/romans-taxi.png"
       },
       {
         "id": "romero",
@@ -2387,7 +2387,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/romero.svg"
+        "image": "assets/img/vehicle/gta-iv/romero.png"
       },
       {
         "id": "ruiner",
@@ -2398,7 +2398,7 @@
         "class": "Muscle",
         "top_speed_kph": 235,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/ruiner.svg"
+        "image": "assets/img/vehicle/gta-iv/ruiner.png"
       },
       {
         "id": "sabre",
@@ -2406,7 +2406,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/sabre.svg"
+        "image": "assets/img/vehicle/gta-iv/sabre.png"
       },
       {
         "id": "sabre-gt",
@@ -2417,7 +2417,7 @@
         "class": "Muscle",
         "top_speed_kph": 240,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/sabre-gt.svg"
+        "image": "assets/img/vehicle/gta-iv/sabre-gt.png"
       },
       {
         "id": "sanchez",
@@ -2428,7 +2428,7 @@
         "class": "Dirt bike",
         "top_speed_kph": 210,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/sanchez.svg"
+        "image": "assets/img/vehicle/gta-iv/sanchez.png"
       },
       {
         "id": "schafter",
@@ -2439,7 +2439,7 @@
         "class": "Sedan",
         "top_speed_kph": 220,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/schafter.svg"
+        "image": "assets/img/vehicle/gta-iv/schafter.png"
       },
       {
         "id": "securicar",
@@ -2447,7 +2447,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/securicar.svg"
+        "image": "assets/img/vehicle/gta-iv/securicar.png"
       },
       {
         "id": "sentinel",
@@ -2458,7 +2458,7 @@
         "class": "Sedan",
         "top_speed_kph": 215,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/sentinel.svg"
+        "image": "assets/img/vehicle/gta-iv/sentinel.png"
       },
       {
         "id": "solair",
@@ -2466,7 +2466,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/solair.svg"
+        "image": "assets/img/vehicle/gta-iv/solair.png"
       },
       {
         "id": "speedo",
@@ -2474,7 +2474,7 @@
         "category": "Light trucks & vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/speedo.svg"
+        "image": "assets/img/vehicle/gta-iv/speedo.png"
       },
       {
         "id": "squalo",
@@ -2485,7 +2485,7 @@
         "class": "Speedboat",
         "top_speed_kph": 120,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/squalo.svg"
+        "image": "assets/img/vehicle/gta-iv/squalo.png"
       },
       {
         "id": "stallion",
@@ -2496,7 +2496,7 @@
         "class": "Muscle",
         "top_speed_kph": 225,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/stallion.svg"
+        "image": "assets/img/vehicle/gta-iv/stallion.png"
       },
       {
         "id": "steed",
@@ -2504,7 +2504,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/steed.svg"
+        "image": "assets/img/vehicle/gta-iv/steed.png"
       },
       {
         "id": "stratum",
@@ -2512,7 +2512,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/stratum.svg"
+        "image": "assets/img/vehicle/gta-iv/stratum.png"
       },
       {
         "id": "stretch",
@@ -2520,7 +2520,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/stretch.svg"
+        "image": "assets/img/vehicle/gta-iv/stretch.png"
       },
       {
         "id": "subway",
@@ -2536,7 +2536,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/sultan.svg"
+        "image": "assets/img/vehicle/gta-iv/sultan.png"
       },
       {
         "id": "sultan-rs",
@@ -2547,7 +2547,7 @@
         "class": "Sports",
         "top_speed_kph": 255,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/sultan-rs.svg"
+        "image": "assets/img/vehicle/gta-iv/sultan-rs.png"
       },
       {
         "id": "super-gt",
@@ -2557,7 +2557,7 @@
         "top_speed_kph": 265,
         "seats": 2,
         "verified": true,
-        "image": "assets/img/vehicle/gta-iv/super-gt.svg"
+        "image": "assets/img/vehicle/gta-iv/super-gt.png"
       },
       {
         "id": "supergt",
@@ -2565,7 +2565,7 @@
         "category": "Sports & supercars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/supergt.svg"
+        "image": "assets/img/vehicle/gta-iv/supergt.png"
       },
       {
         "id": "taxi",
@@ -2573,7 +2573,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/taxi.svg"
+        "image": "assets/img/vehicle/gta-iv/taxi.png"
       },
       {
         "id": "trashmaster",
@@ -2581,7 +2581,7 @@
         "category": "Public service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/trashmaster.svg"
+        "image": "assets/img/vehicle/gta-iv/trashmaster.png"
       },
       {
         "id": "tropic",
@@ -2592,7 +2592,7 @@
         "class": "Boat",
         "top_speed_kph": 100,
         "seats": 4,
-        "image": "assets/img/vehicle/gta-iv/tropic.svg"
+        "image": "assets/img/vehicle/gta-iv/tropic.png"
       },
       {
         "id": "tug",
@@ -2600,7 +2600,7 @@
         "category": "Boats",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/tug.svg"
+        "image": "assets/img/vehicle/gta-iv/tug.png"
       },
       {
         "id": "turismo",
@@ -2611,7 +2611,7 @@
         "class": "Super",
         "top_speed_kph": 285,
         "seats": 2,
-        "image": "assets/img/vehicle/gta-iv/turismo.svg"
+        "image": "assets/img/vehicle/gta-iv/turismo.png"
       },
       {
         "id": "uranus",
@@ -2619,7 +2619,7 @@
         "category": "Coupes & hatchbacks",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/uranus.svg"
+        "image": "assets/img/vehicle/gta-iv/uranus.png"
       },
       {
         "id": "vigero",
@@ -2627,7 +2627,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/vigero.svg"
+        "image": "assets/img/vehicle/gta-iv/vigero.png"
       },
       {
         "id": "vincent",
@@ -2635,7 +2635,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/vincent.svg"
+        "image": "assets/img/vehicle/gta-iv/vincent.png"
       },
       {
         "id": "virgo",
@@ -2643,7 +2643,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/virgo.svg"
+        "image": "assets/img/vehicle/gta-iv/virgo.png"
       },
       {
         "id": "voodoo",
@@ -2651,7 +2651,7 @@
         "category": "Muscle cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/voodoo.svg"
+        "image": "assets/img/vehicle/gta-iv/voodoo.png"
       },
       {
         "id": "washington",
@@ -2659,7 +2659,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/washington.svg"
+        "image": "assets/img/vehicle/gta-iv/washington.png"
       },
       {
         "id": "willard",
@@ -2667,7 +2667,7 @@
         "category": "Sedans & station wagons",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/willard.svg"
+        "image": "assets/img/vehicle/gta-iv/willard.png"
       },
       {
         "id": "yankee",
@@ -2675,7 +2675,7 @@
         "category": "Commercial & industrial",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/yankee.svg"
+        "image": "assets/img/vehicle/gta-iv/yankee.png"
       },
       {
         "id": "zombie",
@@ -2683,7 +2683,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-iv/zombie.svg"
+        "image": "assets/img/vehicle/gta-iv/zombie.png"
       }
     ]
   },
@@ -2699,7 +2699,7 @@
         "damage_tier": "High",
         "ammo": "30 rounds",
         "unlock": "Little Jacob",
-        "image": "assets/img/weapon/gta-iv/assault-rifle.svg"
+        "image": "assets/img/weapon/gta-iv/assault-rifle.png"
       },
       {
         "id": "baseball-bat",
@@ -2710,7 +2710,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-iv/baseball-bat.svg"
+        "image": "assets/img/weapon/gta-iv/baseball-bat.png"
       },
       {
         "id": "carbine-rifle",
@@ -2721,7 +2721,7 @@
         "damage_tier": "Very high",
         "ammo": "30 rounds",
         "unlock": "Little Jacob (later)",
-        "image": "assets/img/weapon/gta-iv/carbine-rifle.svg"
+        "image": "assets/img/weapon/gta-iv/carbine-rifle.png"
       },
       {
         "id": "combat-pistol",
@@ -2729,7 +2729,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/combat-pistol.svg"
+        "image": "assets/img/weapon/gta-iv/combat-pistol.png"
       },
       {
         "id": "combat-shotgun",
@@ -2737,7 +2737,7 @@
         "type": "Shotguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/combat-shotgun.svg"
+        "image": "assets/img/weapon/gta-iv/combat-shotgun.png"
       },
       {
         "id": "combat-sniper",
@@ -2745,7 +2745,7 @@
         "type": "Sniper Rifles",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/combat-sniper.svg"
+        "image": "assets/img/weapon/gta-iv/combat-sniper.png"
       },
       {
         "id": "desert-eagle",
@@ -2764,7 +2764,7 @@
         "type": "Melee",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/fist.svg"
+        "image": "assets/img/weapon/gta-iv/fist.png"
       },
       {
         "id": "fists",
@@ -2805,7 +2805,7 @@
         "price": null,
         "unlock": "Little Jacob",
         "verified": true,
-        "image": "assets/img/weapon/gta-iv/grenades.svg"
+        "image": "assets/img/weapon/gta-iv/grenades.png"
       },
       {
         "id": "knife",
@@ -2816,7 +2816,7 @@
         "damage_tier": "Medium",
         "ammo": "—",
         "unlock": "Street pickups",
-        "image": "assets/img/weapon/gta-iv/knife.svg"
+        "image": "assets/img/weapon/gta-iv/knife.png"
       },
       {
         "id": "micro-smg",
@@ -2827,7 +2827,7 @@
         "damage_tier": "Medium",
         "ammo": "30 rounds",
         "unlock": "Little Jacob",
-        "image": "assets/img/weapon/gta-iv/micro-smg.svg"
+        "image": "assets/img/weapon/gta-iv/micro-smg.png"
       },
       {
         "id": "molotov-cocktail",
@@ -2835,7 +2835,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/molotov-cocktail.svg"
+        "image": "assets/img/weapon/gta-iv/molotov-cocktail.png"
       },
       {
         "id": "molotov",
@@ -2846,7 +2846,7 @@
         "price": null,
         "unlock": "Street pickups",
         "verified": true,
-        "image": "assets/img/weapon/gta-iv/molotov.svg"
+        "image": "assets/img/weapon/gta-iv/molotov.png"
       },
       {
         "id": "mp5",
@@ -2865,7 +2865,7 @@
         "type": "Handguns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/pistol.svg"
+        "image": "assets/img/weapon/gta-iv/pistol.png"
       },
       {
         "id": "pump-shotgun",
@@ -2876,7 +2876,7 @@
         "damage_tier": "High",
         "ammo": "8 shells",
         "unlock": "Little Jacob",
-        "image": "assets/img/weapon/gta-iv/pump-shotgun.svg"
+        "image": "assets/img/weapon/gta-iv/pump-shotgun.png"
       },
       {
         "id": "random-pickable-objects",
@@ -2884,7 +2884,7 @@
         "type": "Thrown Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/random-pickable-objects.svg"
+        "image": "assets/img/weapon/gta-iv/random-pickable-objects.png"
       },
       {
         "id": "rpg",
@@ -2895,7 +2895,7 @@
         "damage_tier": "Lethal",
         "ammo": "5 rockets",
         "unlock": "Little Jacob",
-        "image": "assets/img/weapon/gta-iv/rpg.svg"
+        "image": "assets/img/weapon/gta-iv/rpg.png"
       },
       {
         "id": "smg",
@@ -2903,7 +2903,7 @@
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-iv/smg.svg"
+        "image": "assets/img/weapon/gta-iv/smg.png"
       },
       {
         "id": "sniper-rifle",
@@ -2914,7 +2914,7 @@
         "damage_tier": "Very high",
         "ammo": "5 rounds",
         "unlock": "Little Jacob",
-        "image": "assets/img/weapon/gta-iv/sniper-rifle.svg"
+        "image": "assets/img/weapon/gta-iv/sniper-rifle.png"
       }
     ]
   },
