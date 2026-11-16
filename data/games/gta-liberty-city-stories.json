@@ -5,7 +5,7 @@
     "year": 2005,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-16T03:33:24.000Z",
+    "generated": "2026-11-16T04:02:50.029Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -255,7 +255,7 @@
         "summary": "Opening cutscene, where Toni Cipriani arrives back home to Liberty City .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/introduction.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/introduction.jpg"
       },
       {
         "id": "home-sweet-home",
@@ -271,7 +271,7 @@
         "summary": "Toni returns to Liberty City and reports to Salvatore.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/home-sweet-home.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/home-sweet-home.png"
       },
       {
         "id": "slacker",
@@ -286,7 +286,7 @@
         "summary": "Escort Vincenzo's contact through the docks.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/slacker.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/slacker.png"
       },
       {
         "id": "dealing-revenge",
@@ -302,7 +302,7 @@
         "summary": "Steal a car and deal with a rival dealer.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/dealing-revenge.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/dealing-revenge.png"
       },
       {
         "id": "snuff",
@@ -318,7 +318,7 @@
         "summary": "Stop a snuff film being made in the Red Light District.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/snuff.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/snuff.png"
       },
       {
         "id": "smash-and-grab",
@@ -333,7 +333,7 @@
         "summary": "Rescue Leone Crime Family members from the cops after a botched raid",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/smash-and-grab.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/smash-and-grab.png"
       },
       {
         "id": "hot-wheels",
@@ -348,7 +348,7 @@
         "summary": "Pick up Vincenzo's car full of drugs and escape the Police",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/hot-wheels.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/hot-wheels.png"
       },
       {
         "id": "bone-voyeur",
@@ -363,7 +363,7 @@
         "summary": "Gather JD's money from the prostitutes around the Red Light District .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/bone-voyeur.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/bone-voyeur.png"
       },
       {
         "id": "don-in-60-seconds",
@@ -379,7 +379,7 @@
         "summary": "Drive Salvatore away from Paulie's Revue Bar and the cops.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/don-in-60-seconds.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/don-in-60-seconds.png"
       },
       {
         "id": "a-volatile-situation",
@@ -394,7 +394,7 @@
         "summary": "Defend a Leone Casino from the Sindaccos .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/a-volatile-situation.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/a-volatile-situation.png"
       },
       {
         "id": "blow-up-dolls",
@@ -409,7 +409,7 @@
         "summary": "Blow up the Sindacco owned brothel-casino .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/blow-up-dolls.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/blow-up-dolls.png"
       },
       {
         "id": "snappy-dresser",
@@ -424,7 +424,7 @@
         "summary": "Follow Giovanni Casa and take embarrassing photos of him.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/snappy-dresser.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/snappy-dresser.png"
       },
       {
         "id": "big-rumble-in-little-china",
@@ -437,7 +437,7 @@
         "summary": "A massive street fight in Chinatown.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/big-rumble-in-little-china.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/big-rumble-in-little-china.png"
       },
       {
         "id": "grease-sucho",
@@ -452,7 +452,7 @@
         "summary": "Kill a mechanic who has been informing on the family.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/grease-sucho.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/grease-sucho.png"
       },
       {
         "id": "dead-meat",
@@ -467,7 +467,7 @@
         "summary": "Dispose of a body for JD.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/dead-meat.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/dead-meat.png"
       },
       {
         "id": "no-son-of-mine",
@@ -480,7 +480,7 @@
         "summary": "Deal with a traitor inside the Leone family.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/no-son-of-mine.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/no-son-of-mine.png"
       },
       {
         "id": "the-offer",
@@ -495,7 +495,7 @@
         "summary": "Deliver a bribe to Jane Hopper and escape her ambush.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-offer.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-offer.png"
       },
       {
         "id": "ho-selecta",
@@ -510,7 +510,7 @@
         "summary": "Gather up prostitutes and deliver them to the docks .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/ho-selecta.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/ho-selecta.png"
       },
       {
         "id": "frighteners",
@@ -526,7 +526,7 @@
         "summary": "Scare three union bosses into submission.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/frighteners.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/frighteners.png"
       },
       {
         "id": "rollercoaster-ride",
@@ -542,7 +542,7 @@
         "summary": "Scare Jane Hopper into submission by recklessly driving her limo .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/rollercoaster-ride.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/rollercoaster-ride.png"
       },
       {
         "id": "shop-til-you-strop",
@@ -557,7 +557,7 @@
         "summary": "Take Maria out shopping.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/shop-til-you-strop.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/shop-til-you-strop.png"
       },
       {
         "id": "taken-for-a-ride",
@@ -572,7 +572,7 @@
         "summary": "Take Maria to her dealer and rescue her from the Sindaccos .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/taken-for-a-ride.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/taken-for-a-ride.png"
       },
       {
         "id": "booby-prize",
@@ -585,7 +585,7 @@
         "summary": "Win a bike race.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/booby-prize.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/booby-prize.png"
       },
       {
         "id": "biker-heat",
@@ -600,7 +600,7 @@
         "summary": "Kill Cedric 'Wayne' Fotheringay .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/biker-heat.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/biker-heat.png"
       },
       {
         "id": "overdose-of-trouble",
@@ -615,7 +615,7 @@
         "summary": "Find Maria's \"zap\" to prevent her from dying on a drug overdose.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/overdose-of-trouble.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/overdose-of-trouble.png"
       },
       {
         "id": "contra-banned",
@@ -630,7 +630,7 @@
         "summary": "Go to a drug deal in Portland Harbor and escape the Police.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/contra-banned.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/contra-banned.png"
       },
       {
         "id": "salvatores-salvation",
@@ -645,7 +645,7 @@
         "summary": "Rescue Salvatore from his kidnappers.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/salvatores-salvation.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/salvatores-salvation.jpg"
       },
       {
         "id": "the-guns-of-leone",
@@ -660,7 +660,7 @@
         "summary": "Protect Salvatore as he goes on a Sindacco killing rampage.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-guns-of-leone.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-guns-of-leone.png"
       },
       {
         "id": "calm-before-the-storm",
@@ -675,7 +675,7 @@
         "summary": "Follow Massimo Torini around town.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/calm-before-the-storm.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/calm-before-the-storm.jpg"
       },
       {
         "id": "the-made-man",
@@ -690,7 +690,7 @@
         "summary": "Take JD to be 'made'.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-made-man.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-made-man.jpg"
       },
       {
         "id": "the-portland-chainsaw-masquerade",
@@ -706,7 +706,7 @@
         "summary": "Survive a chainsaw ambush arranged by Vincenzo.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-portland-chainsaw-masquerade.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-portland-chainsaw-masquerade.png"
       },
       {
         "id": "sindacco-sabotage",
@@ -721,7 +721,7 @@
         "summary": "Defend Red Light District from the Diablos .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/sindacco-sabotage.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/sindacco-sabotage.png"
       },
       {
         "id": "the-trouble-with-triads",
@@ -736,7 +736,7 @@
         "summary": "Hit the Triads to protect Leone interests.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-trouble-with-triads.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-trouble-with-triads.png"
       },
       {
         "id": "driving-mr-leone",
@@ -752,7 +752,7 @@
         "summary": "Escape from the cops in Portland to Staunton Island with Salvatore.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/driving-mr-leone.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/driving-mr-leone.png"
       },
       {
         "id": "a-walk-in-the-park",
@@ -768,7 +768,7 @@
         "summary": "Kill a target walking through Belleville Park.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/a-walk-in-the-park.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/a-walk-in-the-park.png"
       },
       {
         "id": "making-toni",
@@ -784,7 +784,7 @@
         "summary": "Earn recognition and become a made man.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/making-toni.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/making-toni.jpg"
       },
       {
         "id": "the-morgue-party-candidate",
@@ -799,7 +799,7 @@
         "summary": "Steal a corpse for Donald Love.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-morgue-party-candidate.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-morgue-party-candidate.png"
       },
       {
         "id": "steering-the-vote",
@@ -815,7 +815,7 @@
         "summary": "Campaign for Donald Love by driving his campaign van around Staunton Island.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/steering-the-vote.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/steering-the-vote.png"
       },
       {
         "id": "cam-pain",
@@ -830,7 +830,7 @@
         "summary": "Kill Miles O'Donovan's campaigners.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/cam-pain.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/cam-pain.png"
       },
       {
         "id": "friggin-the-riggin",
@@ -846,7 +846,7 @@
         "summary": "Burn down a Forelli warehouse full of voting machines and fake ballots.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/friggin-the-riggin.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/friggin-the-riggin.png"
       },
       {
         "id": "love-and-bullets",
@@ -861,7 +861,7 @@
         "summary": "Protect Donald from the Forellis.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/love-and-bullets.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/love-and-bullets.png"
       },
       {
         "id": "counterfeit-count",
@@ -876,7 +876,7 @@
         "summary": "Steal uncounted votes from couriers.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/counterfeit-count.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/counterfeit-count.png"
       },
       {
         "id": "lc-confidential",
@@ -891,7 +891,7 @@
         "summary": "Steal a report and deliver it to Liberty Tree .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/lc-confidential.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/lc-confidential.jpg"
       },
       {
         "id": "the-passion-of-the-heist",
@@ -906,7 +906,7 @@
         "summary": "Steal stolen diamonds and deliver them to Liberty Tree.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-passion-of-the-heist.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-passion-of-the-heist.jpg"
       },
       {
         "id": "karmageddon",
@@ -921,7 +921,7 @@
         "summary": "Use a firetruck to cause havoc and destruction.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/karmageddon.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/karmageddon.jpg"
       },
       {
         "id": "false-idols",
@@ -937,7 +937,7 @@
         "summary": "Kill three celebrities: DB-P , Black Lightman and Faith W.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/false-idols.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/false-idols.jpg"
       },
       {
         "id": "caught-in-the-act",
@@ -952,7 +952,7 @@
         "summary": "Protect Salvatore from the mayor's secret service as he interrogates the Mayor's Assistant .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/caught-in-the-act.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/caught-in-the-act.jpg"
       },
       {
         "id": "search-and-rescue",
@@ -967,7 +967,7 @@
         "summary": "Rescue Salvatore from the Forellis in Fort Staunton .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/search-and-rescue.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/search-and-rescue.png"
       },
       {
         "id": "taking-the-peace",
@@ -982,7 +982,7 @@
         "summary": "Remote control Paulie Sindacco's car to botch his meeting with the Forellis.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/taking-the-peace.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/taking-the-peace.png"
       },
       {
         "id": "shoot-the-messenger",
@@ -998,7 +998,7 @@
         "summary": "Kill the Forelli wiseguy.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/shoot-the-messenger.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/shoot-the-messenger.png"
       },
       {
         "id": "sayonara-sindaccos",
@@ -1013,7 +1013,7 @@
         "summary": "Kill a lot of Sindaccos with Leon McAffrey.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/sayonara-sindaccos.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/sayonara-sindaccos.png"
       },
       {
         "id": "the-whole-9-yardies",
@@ -1028,7 +1028,7 @@
         "summary": "Lure Forellis into a Yardie ambush.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-whole-9-yardies.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-whole-9-yardies.png"
       },
       {
         "id": "crazy-69",
@@ -1044,7 +1044,7 @@
         "summary": "Kill 20 Forellis in Belleville Park with a katana .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/crazy-69.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/crazy-69.jpg"
       },
       {
         "id": "night-of-the-livid-dreads",
@@ -1059,7 +1059,7 @@
         "summary": "Protect Yardies from attacking Sindaccos.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/night-of-the-livid-dreads.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/night-of-the-livid-dreads.png"
       },
       {
         "id": "munitions-dump",
@@ -1074,7 +1074,7 @@
         "summary": "Destroy Forelli weapon trucks before they reach their destination.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/munitions-dump.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/munitions-dump.png"
       },
       {
         "id": "love-on-the-rocks",
@@ -1089,7 +1089,7 @@
         "summary": "Steal the evidence linking Donald Love to the Leone Crime Family .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/love-on-the-rocks.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/love-on-the-rocks.png"
       },
       {
         "id": "rough-justice",
@@ -1104,7 +1104,7 @@
         "summary": "Exact revenge on the Forellis in Wichita Gardens .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/rough-justice.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/rough-justice.png"
       },
       {
         "id": "dead-reckoning",
@@ -1119,7 +1119,7 @@
         "summary": "Kill Paulie Sindacco .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/dead-reckoning.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/dead-reckoning.png"
       },
       {
         "id": "shogun-showdown",
@@ -1134,7 +1134,7 @@
         "summary": "Infiltrate Yakuza's compound and destroy their tank .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/shogun-showdown.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/shogun-showdown.png"
       },
       {
         "id": "panlantic-land-grab",
@@ -1149,7 +1149,7 @@
         "summary": "Kill Avery Carrington and steal his redevelopment plans.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/panlantic-land-grab.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/panlantic-land-grab.png"
       },
       {
         "id": "stop-the-press",
@@ -1164,7 +1164,7 @@
         "summary": "Kill Ned Burner .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/stop-the-press.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/stop-the-press.png"
       },
       {
         "id": "morgue-party-resurrection",
@@ -1179,7 +1179,7 @@
         "summary": "Collect the bodies of Avery Carrington and Ned Burner for Donald.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/morgue-party-resurrection.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/morgue-party-resurrection.png"
       },
       {
         "id": "more-deadly-than-the-male",
@@ -1195,7 +1195,7 @@
         "summary": "Steal a Yakuza arms shipment.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/more-deadly-than-the-male.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/more-deadly-than-the-male.png"
       },
       {
         "id": "cash-clash",
@@ -1210,7 +1210,7 @@
         "summary": "Destroy three Yakuza money shipments before they reach their destination.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/cash-clash.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/cash-clash.jpg"
       },
       {
         "id": "a-date-with-death",
@@ -1226,7 +1226,7 @@
         "summary": "Take Toshiko to an Opera and escape the Forellis.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/a-date-with-death.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/a-date-with-death.png"
       },
       {
         "id": "cash-in-kazukis-chips",
@@ -1241,7 +1241,7 @@
         "summary": "Kill Kazuki Kasen .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/cash-in-kazukis-chips.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/cash-in-kazukis-chips.png"
       },
       {
         "id": "no-money-mo-problems",
@@ -1254,7 +1254,7 @@
         "summary": "Get $ 20,000 to pay 8-Ball for his explosives.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/no-money-mo-problems.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/no-money-mo-problems.png"
       },
       {
         "id": "bringing-the-house-down",
@@ -1269,7 +1269,7 @@
         "summary": "Rig explosives in the tunnels under Fort Staunton and blow up the whole district.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/bringing-the-house-down.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/bringing-the-house-down.png"
       },
       {
         "id": "love-on-the-run",
@@ -1284,7 +1284,7 @@
         "summary": "Defend Donald from the Colombian Cartel and take him to the airport .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/love-on-the-run.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/love-on-the-run.jpg"
       },
       {
         "id": "the-shoreside-redemption",
@@ -1299,7 +1299,7 @@
         "summary": "Late-game Leone operation on Shoreside Vale.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-shoreside-redemption.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-shoreside-redemption.jpg"
       },
       {
         "id": "the-sicilian-gambit",
@@ -1315,7 +1315,7 @@
         "summary": "Final mission: stop the Sicilian takeover.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-liberty-city-stories/the-sicilian-gambit.svg"
+        "image": "assets/img/mission/gta-liberty-city-stories/the-sicilian-gambit.png"
       }
     ]
   },

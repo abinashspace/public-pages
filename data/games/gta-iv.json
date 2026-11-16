@@ -5,7 +5,7 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T03:33:24.041Z",
+    "generated": "2026-11-16T04:02:50.074Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -357,7 +357,7 @@
         "summary": "Niko arrives on the Platypus and sees the reality behind Roman's stories.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/the-cousins-bellic.svg"
+        "image": "assets/img/mission/gta-iv/the-cousins-bellic.jpg"
       },
       {
         "id": "its-your-call",
@@ -370,7 +370,7 @@
         "summary": "Deal with the Albanian loan sharks threatening Roman.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/its-your-call.svg"
+        "image": "assets/img/mission/gta-iv/its-your-call.png"
       },
       {
         "id": "threes-a-crowd",
@@ -383,7 +383,7 @@
         "summary": "Rescue Roman and his cab from Albanian loan sharks at the docks.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/threes-a-crowd.svg"
+        "image": "assets/img/mission/gta-iv/threes-a-crowd.png"
       },
       {
         "id": "first-date",
@@ -398,7 +398,7 @@
         "summary": "Take Michelle bowling on a first date.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/first-date.svg"
+        "image": "assets/img/mission/gta-iv/first-date.jpg"
       },
       {
         "id": "bleed-out",
@@ -411,7 +411,7 @@
         "summary": "Save Roman from a beating at the Firefly Projects.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/bleed-out.svg"
+        "image": "assets/img/mission/gta-iv/bleed-out.png"
       },
       {
         "id": "easy-fare",
@@ -424,7 +424,7 @@
         "summary": "Collect a fare for Roman's cab company and shake a police tail.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/easy-fare.svg"
+        "image": "assets/img/mission/gta-iv/easy-fare.png"
       },
       {
         "id": "jamaican-heat",
@@ -439,7 +439,7 @@
         "summary": "Watch over Little Jacob's deal from a rooftop.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/jamaican-heat.svg"
+        "image": "assets/img/mission/gta-iv/jamaican-heat.png"
       },
       {
         "id": "concrete-jungle",
@@ -452,7 +452,7 @@
         "summary": "Clear a drug corner for Little Jacob.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/concrete-jungle.svg"
+        "image": "assets/img/mission/gta-iv/concrete-jungle.png"
       },
       {
         "id": "bull-in-a-china-shop",
@@ -465,7 +465,7 @@
         "summary": "Intimidate a shopkeeper who owes Vlad money.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/bull-in-a-china-shop.svg"
+        "image": "assets/img/mission/gta-iv/bull-in-a-china-shop.jpg"
       },
       {
         "id": "hung-out-to-dry",
@@ -478,7 +478,7 @@
         "summary": "Chase down a laundry owner who skipped out on Vlad.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/hung-out-to-dry.svg"
+        "image": "assets/img/mission/gta-iv/hung-out-to-dry.jpg"
       },
       {
         "id": "clean-getaway",
@@ -491,7 +491,7 @@
         "summary": "Steal a car for Vlad and keep it clean.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/clean-getaway.svg"
+        "image": "assets/img/mission/gta-iv/clean-getaway.jpg"
       },
       {
         "id": "ivan-the-not-so-terrible",
@@ -506,7 +506,7 @@
         "summary": "Track down Ivan Bytchkov across the rooftops.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/ivan-the-not-so-terrible.svg"
+        "image": "assets/img/mission/gta-iv/ivan-the-not-so-terrible.png"
       },
       {
         "id": "uncle-vlad",
@@ -519,7 +519,7 @@
         "summary": "Confront Vlad over Mallorie and kill him.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/uncle-vlad.svg"
+        "image": "assets/img/mission/gta-iv/uncle-vlad.png"
       },
       {
         "id": "crime-and-punishment",
@@ -534,7 +534,7 @@
         "summary": "Faustin's men kidnap the cousins and Dimitri appears.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/crime-and-punishment.svg"
+        "image": "assets/img/mission/gta-iv/crime-and-punishment.png"
       },
       {
         "id": "do-you-have-protection",
@@ -549,7 +549,7 @@
         "summary": "Collect protection money with Dimitri.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/do-you-have-protection.svg"
+        "image": "assets/img/mission/gta-iv/do-you-have-protection.jpg"
       },
       {
         "id": "final-destination",
@@ -562,7 +562,7 @@
         "summary": "Stop a man from testifying against Faustin.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/final-destination.svg"
+        "image": "assets/img/mission/gta-iv/final-destination.jpg"
       },
       {
         "id": "no-love-lost",
@@ -575,7 +575,7 @@
         "summary": "Kill the biker leader Faustin blames for an insult.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/no-love-lost.svg"
+        "image": "assets/img/mission/gta-iv/no-love-lost.jpg"
       },
       {
         "id": "rigged-to-blow",
@@ -588,7 +588,7 @@
         "summary": "Deliver a rigged car and get clear before it explodes.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/rigged-to-blow.svg"
+        "image": "assets/img/mission/gta-iv/rigged-to-blow.jpg"
       },
       {
         "id": "shadow",
@@ -603,7 +603,7 @@
         "summary": "Follow a target through Broker for Jacob.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/shadow.svg"
+        "image": "assets/img/mission/gta-iv/shadow.png"
       },
       {
         "id": "logging-on",
@@ -618,7 +618,7 @@
         "summary": "Meet Brucie Kibbutz through Roman.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/logging-on.svg"
+        "image": "assets/img/mission/gta-iv/logging-on.png"
       },
       {
         "id": "search-and-delete",
@@ -631,7 +631,7 @@
         "summary": "Kill Lyle Rivas and take his laptop.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/search-and-delete.svg"
+        "image": "assets/img/mission/gta-iv/search-and-delete.png"
       },
       {
         "id": "easy-as-can-be",
@@ -644,7 +644,7 @@
         "summary": "Steal Lyle Rivas's car for Brucie.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/easy-as-can-be.svg"
+        "image": "assets/img/mission/gta-iv/easy-as-can-be.jpg"
       },
       {
         "id": "the-master-and-the-molotov",
@@ -659,7 +659,7 @@
         "summary": "Kill Mikhail Faustin on Dimitri's word.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/the-master-and-the-molotov.svg"
+        "image": "assets/img/mission/gta-iv/the-master-and-the-molotov.jpg"
       },
       {
         "id": "russian-revolution",
@@ -674,7 +674,7 @@
         "summary": "Survive the ambush at the warehouse deal.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/russian-revolution.svg"
+        "image": "assets/img/mission/gta-iv/russian-revolution.jpg"
       },
       {
         "id": "romans-sorrow",
@@ -689,7 +689,7 @@
         "summary": "The flat and cab depot burn; the cousins move to Bohan.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/romans-sorrow.svg"
+        "image": "assets/img/mission/gta-iv/romans-sorrow.png"
       },
       {
         "id": "out-of-the-closet",
@@ -702,7 +702,7 @@
         "summary": "Deal with Tom Rivas for Brucie.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/out-of-the-closet.svg"
+        "image": "assets/img/mission/gta-iv/out-of-the-closet.jpg"
       },
       {
         "id": "no-1",
@@ -717,7 +717,7 @@
         "summary": "Win a street race for Brucie to earn his friendship.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/no-1.svg"
+        "image": "assets/img/mission/gta-iv/no-1.jpg"
       },
       {
         "id": "escuela-of-the-streets",
@@ -730,7 +730,7 @@
         "summary": "Help Manny film a crackdown on dealers.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/escuela-of-the-streets.svg"
+        "image": "assets/img/mission/gta-iv/escuela-of-the-streets.png"
       },
       {
         "id": "street-sweeper",
@@ -743,7 +743,7 @@
         "summary": "Clear a drug house for Manny's documentary.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/street-sweeper.svg"
+        "image": "assets/img/mission/gta-iv/street-sweeper.png"
       },
       {
         "id": "luck-of-the-irish",
@@ -758,7 +758,7 @@
         "summary": "Guard a drug deal for Elizabeta and meet Packie.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/luck-of-the-irish.svg"
+        "image": "assets/img/mission/gta-iv/luck-of-the-irish.png"
       },
       {
         "id": "blow-your-cover",
@@ -773,7 +773,7 @@
         "summary": "Survive a police raid on Elizabeta's deal.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/blow-your-cover.svg"
+        "image": "assets/img/mission/gta-iv/blow-your-cover.png"
       },
       {
         "id": "the-holland-play",
@@ -788,7 +788,7 @@
         "summary": "Settle the feud between Playboy X and Dwayne Forge.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/the-holland-play.svg"
+        "image": "assets/img/mission/gta-iv/the-holland-play.png"
       },
       {
         "id": "ruff-rider",
@@ -801,7 +801,7 @@
         "summary": "Track down a biker who robbed Dwayne.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/ruff-rider.svg"
+        "image": "assets/img/mission/gta-iv/ruff-rider.png"
       },
       {
         "id": "undress-to-kill",
@@ -814,7 +814,7 @@
         "summary": "Hit a strip club that muscled into Dwayne's turf.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/undress-to-kill.svg"
+        "image": "assets/img/mission/gta-iv/undress-to-kill.jpg"
       },
       {
         "id": "call-and-collect",
@@ -827,7 +827,7 @@
         "summary": "Recover a blackmail file for Francis McReary.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/call-and-collect.svg"
+        "image": "assets/img/mission/gta-iv/call-and-collect.jpg"
       },
       {
         "id": "the-puerto-rican-connection",
@@ -840,7 +840,7 @@
         "summary": "Follow a target's train route for Manny.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/the-puerto-rican-connection.svg"
+        "image": "assets/img/mission/gta-iv/the-puerto-rican-connection.jpg"
       },
       {
         "id": "the-snow-storm",
@@ -855,7 +855,7 @@
         "summary": "Steal Elizabeta's cocaine back from the police.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/the-snow-storm.svg"
+        "image": "assets/img/mission/gta-iv/the-snow-storm.jpg"
       },
       {
         "id": "have-a-heart",
@@ -868,7 +868,7 @@
         "summary": "Deliver a body for Elizabeta before the police arrive.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/have-a-heart.svg"
+        "image": "assets/img/mission/gta-iv/have-a-heart.png"
       },
       {
         "id": "final-interview",
@@ -883,7 +883,7 @@
         "summary": "Pass a job interview, then kill the lawyer behind it.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/final-interview.svg"
+        "image": "assets/img/mission/gta-iv/final-interview.png"
       },
       {
         "id": "holland-nights",
@@ -896,7 +896,7 @@
         "summary": "Kill a dealer in Holland for Francis.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/holland-nights.svg"
+        "image": "assets/img/mission/gta-iv/holland-nights.jpg"
       },
       {
         "id": "lure",
@@ -909,7 +909,7 @@
         "summary": "Lure a target out of his apartment and kill him.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/lure.svg"
+        "image": "assets/img/mission/gta-iv/lure.png"
       },
       {
         "id": "harboring-a-grudge",
@@ -924,7 +924,7 @@
         "summary": "Raid a warehouse with Packie for McReary loot.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/harboring-a-grudge.svg"
+        "image": "assets/img/mission/gta-iv/harboring-a-grudge.png"
       },
       {
         "id": "waste-not-want-knots",
@@ -939,7 +939,7 @@
         "summary": "Rob a money-laundering operation with the McRearys.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/waste-not-want-knots.svg"
+        "image": "assets/img/mission/gta-iv/waste-not-want-knots.jpg"
       },
       {
         "id": "three-leaf-clover",
@@ -954,7 +954,7 @@
         "summary": "Rob the Bank of Liberty with the McReary brothers.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/three-leaf-clover.svg"
+        "image": "assets/img/mission/gta-iv/three-leaf-clover.png"
       },
       {
         "id": "actions-speak-louder-than-words",
@@ -967,7 +967,7 @@
         "summary": "Plant a bomb in a rival union office for Gerry.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/actions-speak-louder-than-words.svg"
+        "image": "assets/img/mission/gta-iv/actions-speak-louder-than-words.png"
       },
       {
         "id": "i-need-your-clothes-your-boots-and-your-motorcycle",
@@ -980,7 +980,7 @@
         "summary": "Impersonate a biker and kill a target for Gerry.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/i-need-your-clothes-your-boots-and-your-motorcycle.svg"
+        "image": "assets/img/mission/gta-iv/i-need-your-clothes-your-boots-and-your-motorcycle.png"
       },
       {
         "id": "smackdown",
@@ -993,7 +993,7 @@
         "summary": "Kill a drug dealer who informed on Derrick.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/smackdown.svg"
+        "image": "assets/img/mission/gta-iv/smackdown.jpg"
       },
       {
         "id": "a-long-way-to-fall",
@@ -1006,7 +1006,7 @@
         "summary": "Throw a target off a rooftop for Ray Boccino.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/a-long-way-to-fall.svg"
+        "image": "assets/img/mission/gta-iv/a-long-way-to-fall.jpg"
       },
       {
         "id": "taking-in-the-trash",
@@ -1019,7 +1019,7 @@
         "summary": "Collect Ray's garbage trucks and their hidden cargo.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/taking-in-the-trash.svg"
+        "image": "assets/img/mission/gta-iv/taking-in-the-trash.png"
       },
       {
         "id": "meltdown",
@@ -1034,7 +1034,7 @@
         "summary": "Intercept the stolen diamonds for Ray.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/meltdown.svg"
+        "image": "assets/img/mission/gta-iv/meltdown.jpg"
       },
       {
         "id": "museum-piece",
@@ -1049,7 +1049,7 @@
         "summary": "Guard the diamond sale at the Libertonian museum.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/museum-piece.svg"
+        "image": "assets/img/mission/gta-iv/museum-piece.jpg"
       },
       {
         "id": "no-way-on-the-subway",
@@ -1064,7 +1064,7 @@
         "summary": "Chase a biker into the subway tunnels for Ray.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/no-way-on-the-subway.svg"
+        "image": "assets/img/mission/gta-iv/no-way-on-the-subway.png"
       },
       {
         "id": "babysitting",
@@ -1077,7 +1077,7 @@
         "summary": "Escort a boat shipment for Derrick.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/babysitting.svg"
+        "image": "assets/img/mission/gta-iv/babysitting.jpg"
       },
       {
         "id": "tunnel-of-death",
@@ -1090,7 +1090,7 @@
         "summary": "Ambush a prison convoy in the Booth Tunnel.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/tunnel-of-death.svg"
+        "image": "assets/img/mission/gta-iv/tunnel-of-death.png"
       },
       {
         "id": "blood-brothers",
@@ -1105,7 +1105,7 @@
         "summary": "Choose which McReary brother survives.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/blood-brothers.svg"
+        "image": "assets/img/mission/gta-iv/blood-brothers.png"
       },
       {
         "id": "undertaker",
@@ -1120,7 +1120,7 @@
         "summary": "Survive an Albanian attack at the McReary funeral.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/undertaker.svg"
+        "image": "assets/img/mission/gta-iv/undertaker.png"
       },
       {
         "id": "ill-take-her",
@@ -1135,7 +1135,7 @@
         "summary": "Kidnap Gracie Ancelotti for the McRearys.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/ill-take-her.svg"
+        "image": "assets/img/mission/gta-iv/ill-take-her.jpg"
       },
       {
         "id": "late-checkout",
@@ -1148,7 +1148,7 @@
         "summary": "Kill a target in his hotel suite for Ray.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/late-checkout.svg"
+        "image": "assets/img/mission/gta-iv/late-checkout.jpg"
       },
       {
         "id": "truck-hustle",
@@ -1161,7 +1161,7 @@
         "summary": "Hijack a truckload of heroin for Phil Bell.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/truck-hustle.svg"
+        "image": "assets/img/mission/gta-iv/truck-hustle.png"
       },
       {
         "id": "pegorinos-pride",
@@ -1174,7 +1174,7 @@
         "summary": "Defend the Pegorino compound from attackers.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/pegorinos-pride.svg"
+        "image": "assets/img/mission/gta-iv/pegorinos-pride.png"
       },
       {
         "id": "payback",
@@ -1187,7 +1187,7 @@
         "summary": "Take revenge on a crew that robbed the Pegorinos.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/payback.svg"
+        "image": "assets/img/mission/gta-iv/payback.jpg"
       },
       {
         "id": "catch-the-wave",
@@ -1200,7 +1200,7 @@
         "summary": "Steal a shipment of cocaine from the docks.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/catch-the-wave.svg"
+        "image": "assets/img/mission/gta-iv/catch-the-wave.png"
       },
       {
         "id": "flatline",
@@ -1215,7 +1215,7 @@
         "summary": "Get to a dying don in hospital before his rivals.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/flatline.svg"
+        "image": "assets/img/mission/gta-iv/flatline.jpg"
       },
       {
         "id": "trespass",
@@ -1228,7 +1228,7 @@
         "summary": "Clear squatters from a Pegorino property.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/trespass.svg"
+        "image": "assets/img/mission/gta-iv/trespass.png"
       },
       {
         "id": "to-live-and-die-in-alderney",
@@ -1241,7 +1241,7 @@
         "summary": "Escort a Pegorino deal out of Alderney.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/to-live-and-die-in-alderney.svg"
+        "image": "assets/img/mission/gta-iv/to-live-and-die-in-alderney.png"
       },
       {
         "id": "deconstruction-for-beginners",
@@ -1254,7 +1254,7 @@
         "summary": "Wipe out a construction crew for Playboy X.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/deconstruction-for-beginners.svg"
+        "image": "assets/img/mission/gta-iv/deconstruction-for-beginners.png"
       },
       {
         "id": "photo-shoot",
@@ -1267,7 +1267,7 @@
         "summary": "Photograph and kill a rival for Playboy X.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/photo-shoot.svg"
+        "image": "assets/img/mission/gta-iv/photo-shoot.jpg"
       },
       {
         "id": "hostile-negotiation",
@@ -1282,7 +1282,7 @@
         "summary": "Rescue Roman from Dimitri's kidnappers.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/hostile-negotiation.svg"
+        "image": "assets/img/mission/gta-iv/hostile-negotiation.png"
       },
       {
         "id": "wrong-is-right",
@@ -1295,7 +1295,7 @@
         "summary": "Work for the agency that employs Michelle.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/wrong-is-right.svg"
+        "image": "assets/img/mission/gta-iv/wrong-is-right.jpg"
       },
       {
         "id": "portrait-of-a-killer",
@@ -1308,7 +1308,7 @@
         "summary": "Track a killer through Liberty City for the agency.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/portrait-of-a-killer.svg"
+        "image": "assets/img/mission/gta-iv/portrait-of-a-killer.jpg"
       },
       {
         "id": "dust-off",
@@ -1321,7 +1321,7 @@
         "summary": "Follow a helicopter target for the agency.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/dust-off.svg"
+        "image": "assets/img/mission/gta-iv/dust-off.jpg"
       },
       {
         "id": "paper-trail",
@@ -1336,7 +1336,7 @@
         "summary": "Take down Borodin's helicopter with Little Jacob.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/paper-trail.svg"
+        "image": "assets/img/mission/gta-iv/paper-trail.png"
       },
       {
         "id": "ransom",
@@ -1349,7 +1349,7 @@
         "summary": "Deliver the ransom for Gracie Ancelotti.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/ransom.svg"
+        "image": "assets/img/mission/gta-iv/ransom.jpg"
       },
       {
         "id": "weekend-at-florians",
@@ -1362,7 +1362,7 @@
         "summary": "Find Florian Cravic, now Bernie Crane.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/weekend-at-florians.svg"
+        "image": "assets/img/mission/gta-iv/weekend-at-florians.jpg"
       },
       {
         "id": "shes-a-keeper",
@@ -1375,7 +1375,7 @@
         "summary": "Hold Gracie Ancelotti while the exchange is arranged.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/shes-a-keeper.svg"
+        "image": "assets/img/mission/gta-iv/shes-a-keeper.png"
       },
       {
         "id": "diamonds-are-a-girls-best-friend",
@@ -1390,7 +1390,7 @@
         "summary": "Trade Gracie for the diamonds and survive Bulgarin.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.svg"
+        "image": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.png"
       },
       {
         "id": "pest-control",
@@ -1403,7 +1403,7 @@
         "summary": "Kill two men who crossed the Pegorino family.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/pest-control.svg"
+        "image": "assets/img/mission/gta-iv/pest-control.png"
       },
       {
         "id": "hating-the-haters",
@@ -1416,7 +1416,7 @@
         "summary": "Stop a man harassing Bernie Crane.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/hating-the-haters.svg"
+        "image": "assets/img/mission/gta-iv/hating-the-haters.png"
       },
       {
         "id": "union-drive",
@@ -1429,7 +1429,7 @@
         "summary": "Intimidate a union official for Bernie.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/union-drive.svg"
+        "image": "assets/img/mission/gta-iv/union-drive.jpg"
       },
       {
         "id": "buoys-ahoy",
@@ -1442,7 +1442,7 @@
         "summary": "Deal with attackers on the water for Bernie.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/buoys-ahoy.svg"
+        "image": "assets/img/mission/gta-iv/buoys-ahoy.png"
       },
       {
         "id": "entourage",
@@ -1457,7 +1457,7 @@
         "summary": "Protect a visiting dignitary for Jon Gravelli.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/entourage.svg"
+        "image": "assets/img/mission/gta-iv/entourage.jpg"
       },
       {
         "id": "dining-out",
@@ -1470,7 +1470,7 @@
         "summary": "Kill a target in a restaurant for Gravelli.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/dining-out.svg"
+        "image": "assets/img/mission/gta-iv/dining-out.jpg"
       },
       {
         "id": "liquidize-the-assets",
@@ -1483,7 +1483,7 @@
         "summary": "Destroy a rival's assets for Gravelli.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/liquidize-the-assets.svg"
+        "image": "assets/img/mission/gta-iv/liquidize-the-assets.jpg"
       },
       {
         "id": "that-special-someone",
@@ -1498,7 +1498,7 @@
         "summary": "Confront Darko Brevic, the man who betrayed Niko's unit.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/that-special-someone.svg"
+        "image": "assets/img/mission/gta-iv/that-special-someone.png"
       },
       {
         "id": "one-last-thing",
@@ -1513,7 +1513,7 @@
         "summary": "Decide whether to take Dimitri's deal or go for revenge.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/one-last-thing.svg"
+        "image": "assets/img/mission/gta-iv/one-last-thing.jpg"
       },
       {
         "id": "if-the-price-is-right",
@@ -1529,7 +1529,7 @@
         "summary": "Deal path: the heroin exchange at Port Tudor goes wrong.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/if-the-price-is-right.svg"
+        "image": "assets/img/mission/gta-iv/if-the-price-is-right.jpg"
       },
       {
         "id": "a-dish-served-cold",
@@ -1544,7 +1544,7 @@
         "summary": "Revenge path: kill Dimitri aboard the Platypus.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/a-dish-served-cold.svg"
+        "image": "assets/img/mission/gta-iv/a-dish-served-cold.jpg"
       },
       {
         "id": "mr-and-mrs-bellic",
@@ -1559,7 +1559,7 @@
         "summary": "The wedding, and the drive-by that follows it.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/mr-and-mrs-bellic.svg"
+        "image": "assets/img/mission/gta-iv/mr-and-mrs-bellic.png"
       },
       {
         "id": "a-revengers-tragedy",
@@ -1574,7 +1574,7 @@
         "summary": "Deal path: chase Dimitri to Happiness Island and kill him.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/a-revengers-tragedy.svg"
+        "image": "assets/img/mission/gta-iv/a-revengers-tragedy.jpg"
       },
       {
         "id": "out-of-commission",
@@ -1590,7 +1590,7 @@
         "summary": "Revenge path: hunt Pegorino down on Happiness Island.",
         "verified": true,
         "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
-        "image": "assets/img/mission/gta-iv/out-of-commission.svg"
+        "image": "assets/img/mission/gta-iv/out-of-commission.png"
       }
     ]
   },

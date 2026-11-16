@@ -18,7 +18,7 @@
       "summary": "Opening sequence: CJ returns to Los Santos for his mother's funeral and is picked up by C.R.A.S.H.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/in-the-beginning.svg"
+      "image": "assets/img/mission/gta-san-andreas/in-the-beginning.png"
     },
     {
       "id": "big-smoke",
@@ -33,7 +33,7 @@
       "summary": "Ride with Big Smoke and take out the Ballas chasing him through the streets.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/big-smoke.svg"
+      "image": "assets/img/mission/gta-san-andreas/big-smoke.png"
     },
     {
       "id": "sweet-and-kendl",
@@ -48,7 +48,7 @@
       "summary": "Meet Sweet and Kendl after the funeral and deal with the Ballas who interrupt it.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/sweet-and-kendl.svg"
+      "image": "assets/img/mission/gta-san-andreas/sweet-and-kendl.png"
     },
     {
       "id": "ryder",
@@ -63,7 +63,7 @@
       "summary": "Pick up Ryder and rob a pizza restaurant to prove CJ is still Grove.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/ryder.svg"
+      "image": "assets/img/mission/gta-san-andreas/ryder.png"
     },
     {
       "id": "tagging-up-turf",
@@ -79,7 +79,7 @@
       "summary": "Spray over Ballas graffiti across the neighbourhood with Sweet and Ryder.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/tagging-up-turf.svg"
+      "image": "assets/img/mission/gta-san-andreas/tagging-up-turf.png"
     },
     {
       "id": "cleaning-the-hood",
@@ -94,7 +94,7 @@
       "summary": "Clear drug dealers out of Grove Street territory.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/cleaning-the-hood.svg"
+      "image": "assets/img/mission/gta-san-andreas/cleaning-the-hood.png"
     },
     {
       "id": "drive-thru",
@@ -110,7 +110,7 @@
       "summary": "Chase down the Ballas who shot up a Cluckin' Bell drive-thru.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/drive-thru.svg"
+      "image": "assets/img/mission/gta-san-andreas/drive-thru.png"
     },
     {
       "id": "nines-and-aks",
@@ -125,7 +125,7 @@
       "summary": "Buy guns from Emmet and practise shooting with Sweet.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/nines-and-aks.svg"
+      "image": "assets/img/mission/gta-san-andreas/nines-and-aks.png"
     },
     {
       "id": "drive-by",
@@ -141,7 +141,7 @@
       "summary": "Drive through Ballas territory and eliminate rival gang members from the car.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/drive-by.svg"
+      "image": "assets/img/mission/gta-san-andreas/drive-by.png"
     },
     {
       "id": "sweets-girl",
@@ -156,7 +156,7 @@
       "summary": "Rescue Sweet and his girlfriend from a Ballas ambush in Idlewood.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/sweets-girl.svg"
+      "image": "assets/img/mission/gta-san-andreas/sweets-girl.png"
     },
     {
       "id": "cesar-vialpando",
@@ -172,7 +172,7 @@
       "summary": "Enter a low-rider hydraulic competition against Cesar Vialpando's crew.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/cesar-vialpando.svg"
+      "image": "assets/img/mission/gta-san-andreas/cesar-vialpando.png"
     },
     {
       "id": "home-invasion",
@@ -187,7 +187,7 @@
       "summary": "Break into a house with Ryder and steal military equipment before the owners return.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/home-invasion.svg"
+      "image": "assets/img/mission/gta-san-andreas/home-invasion.png"
     },
     {
       "id": "catalyst",
@@ -202,7 +202,7 @@
       "summary": "Collect explosives from a train with Ryder and hold off the Ballas.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/catalyst.svg"
+      "image": "assets/img/mission/gta-san-andreas/catalyst.png"
     },
     {
       "id": "robbing-uncle-sam",
@@ -217,7 +217,7 @@
       "summary": "Raid the National Guard depot with Ryder using a forklift.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.svg"
+      "image": "assets/img/mission/gta-san-andreas/robbing-uncle-sam.png"
     },
     {
       "id": "og-loc",
@@ -232,7 +232,7 @@
       "summary": "Break OG Loc out of police custody during a prisoner transfer.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/og-loc.svg"
+      "image": "assets/img/mission/gta-san-andreas/og-loc.png"
     },
     {
       "id": "running-dog",
@@ -247,7 +247,7 @@
       "summary": "Chase down a Vagos runner for Big Smoke.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/running-dog.svg"
+      "image": "assets/img/mission/gta-san-andreas/running-dog.png"
     },
     {
       "id": "wrong-side-of-the-tracks",
@@ -262,7 +262,7 @@
       "summary": "Ride the train and kill the Vagos on the roof with Big Smoke.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/wrong-side-of-the-tracks.svg"
+      "image": "assets/img/mission/gta-san-andreas/wrong-side-of-the-tracks.png"
     },
     {
       "id": "just-business",
@@ -277,7 +277,7 @@
       "summary": "Cover Big Smoke during a deal that turns into a running highway shootout.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/just-business.svg"
+      "image": "assets/img/mission/gta-san-andreas/just-business.png"
     },
     {
       "id": "lifes-a-beach",
@@ -292,7 +292,7 @@
       "summary": "Steal a sound system from a beach party for OG Loc.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/lifes-a-beach.svg"
+      "image": "assets/img/mission/gta-san-andreas/lifes-a-beach.png"
     },
     {
       "id": "madd-doggs-rhymes",
@@ -307,7 +307,7 @@
       "summary": "Break into Madd Dogg's mansion and steal his rhyme book.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/madd-doggs-rhymes.svg"
+      "image": "assets/img/mission/gta-san-andreas/madd-doggs-rhymes.png"
     },
     {
       "id": "management-issues",
@@ -322,7 +322,7 @@
       "summary": "Kill Madd Dogg's manager and take his place at the studio.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/management-issues.svg"
+      "image": "assets/img/mission/gta-san-andreas/management-issues.png"
     },
     {
       "id": "house-party",
@@ -337,7 +337,7 @@
       "summary": "Defend OG Loc's house party from a Ballas attack.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/house-party.svg"
+      "image": "assets/img/mission/gta-san-andreas/house-party.png"
     },
     {
       "id": "burning-desire",
@@ -352,7 +352,7 @@
       "summary": "Firebomb a house for Tenpenny and rescue Denise from the flames.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/burning-desire.svg"
+      "image": "assets/img/mission/gta-san-andreas/burning-desire.png"
     },
     {
       "id": "gray-imports",
@@ -367,7 +367,7 @@
       "summary": "Raid a Vagos warehouse and destroy the imported weapons.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/gray-imports.svg"
+      "image": "assets/img/mission/gta-san-andreas/gray-imports.png"
     },
     {
       "id": "doberman",
@@ -382,7 +382,7 @@
       "summary": "Take over the first Ballas territory to start the gang war system.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/doberman.svg"
+      "image": "assets/img/mission/gta-san-andreas/doberman.png"
     },
     {
       "id": "los-sepulcros",
@@ -397,7 +397,7 @@
       "summary": "Hit a Ballas funeral to weaken their leadership.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/los-sepulcros.svg"
+      "image": "assets/img/mission/gta-san-andreas/los-sepulcros.png"
     },
     {
       "id": "high-stakes-low-rider",
@@ -413,7 +413,7 @@
       "summary": "Win a low-rider race against Cesar's rivals for cash.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/high-stakes-low-rider.svg"
+      "image": "assets/img/mission/gta-san-andreas/high-stakes-low-rider.png"
     },
     {
       "id": "reuniting-the-families",
@@ -428,7 +428,7 @@
       "summary": "Escape a police raid on the Grove Street leadership meeting.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/reuniting-the-families.svg"
+      "image": "assets/img/mission/gta-san-andreas/reuniting-the-families.png"
     },
     {
       "id": "the-green-sabre",
@@ -443,7 +443,7 @@
       "summary": "Act one finale: discover the traitors and lose everything in Los Santos.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/the-green-sabre.svg"
+      "image": "assets/img/mission/gta-san-andreas/the-green-sabre.png"
     },
     {
       "id": "badlands",
@@ -456,7 +456,7 @@
       "summary": "Reach the Badlands safehouse and shake the police tail.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/badlands.svg"
+      "image": "assets/img/mission/gta-san-andreas/badlands.png"
     },
     {
       "id": "first-date-then-tanker-commander",
@@ -487,7 +487,7 @@
       "summary": "Steal a combine harvester for the Truth's farm.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/body-harvest.svg"
+      "image": "assets/img/mission/gta-san-andreas/body-harvest.png"
     },
     {
       "id": "king-in-exile",
@@ -500,7 +500,7 @@
       "summary": "Meet the Truth and learn about the San Fierro connection.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/king-in-exile.svg"
+      "image": "assets/img/mission/gta-san-andreas/king-in-exile.png"
     },
     {
       "id": "first-base-then-local-liquor-store",
@@ -563,7 +563,7 @@
       "summary": "Race Wu Zi Mu's associate on a winding country road to earn a meeting with the Triads.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/wu-zi-mu.svg"
+      "image": "assets/img/mission/gta-san-andreas/wu-zi-mu.png"
     },
     {
       "id": "farewell-my-love",
@@ -578,7 +578,7 @@
       "summary": "Race Catalina on a mountain road and win her ZR-350.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/farewell-my-love.svg"
+      "image": "assets/img/mission/gta-san-andreas/farewell-my-love.png"
     },
     {
       "id": "are-you-going-to-san-fierro",
@@ -593,7 +593,7 @@
       "summary": "Burn the Truth's weed farm and drive to San Fierro.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/are-you-going-to-san-fierro.svg"
+      "image": "assets/img/mission/gta-san-andreas/are-you-going-to-san-fierro.png"
     },
     {
       "id": "wear-flowers-in-your-hair",
@@ -608,7 +608,7 @@
       "summary": "Recruit the Truth's associates and open the San Fierro safehouse.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/wear-flowers-in-your-hair.svg"
+      "image": "assets/img/mission/gta-san-andreas/wear-flowers-in-your-hair.png"
     },
     {
       "id": "555-we-tip",
@@ -623,7 +623,7 @@
       "summary": "Plant evidence on a district attorney's car to discredit him.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/555-we-tip.svg"
+      "image": "assets/img/mission/gta-san-andreas/555-we-tip.png"
     },
     {
       "id": "deconstruction",
@@ -636,7 +636,7 @@
       "summary": "Destroy a construction site that threatens the garage.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/deconstruction.svg"
+      "image": "assets/img/mission/gta-san-andreas/deconstruction.png"
     },
     {
       "id": "photo-opportunity",
@@ -651,7 +651,7 @@
       "summary": "Photograph a Loco Syndicate meeting from a rooftop.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/photo-opportunity.svg"
+      "image": "assets/img/mission/gta-san-andreas/photo-opportunity.png"
     },
     {
       "id": "jizzy",
@@ -667,7 +667,7 @@
       "summary": "Work for Jizzy to infiltrate the Loco Syndicate.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/jizzy.svg"
+      "image": "assets/img/mission/gta-san-andreas/jizzy.png"
     },
     {
       "id": "air-raid",
@@ -682,7 +682,7 @@
       "summary": "Defend Zero's shop from RC planes using a minigun.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/air-raid.svg"
+      "image": "assets/img/mission/gta-san-andreas/air-raid.png"
     },
     {
       "id": "supply-lines",
@@ -697,7 +697,7 @@
       "summary": "Fly an RC plane and destroy the rival delivery bikes before fuel runs out.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/supply-lines.svg"
+      "image": "assets/img/mission/gta-san-andreas/supply-lines.png"
     },
     {
       "id": "new-model-army",
@@ -713,7 +713,7 @@
       "summary": "Complete Zero's RC assault course to win the shop.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/new-model-army.svg"
+      "image": "assets/img/mission/gta-san-andreas/new-model-army.png"
     },
     {
       "id": "t-bone-mendez",
@@ -729,7 +729,7 @@
       "summary": "Chase T-Bone Mendez and recover the stolen cash.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/t-bone-mendez.svg"
+      "image": "assets/img/mission/gta-san-andreas/t-bone-mendez.png"
     },
     {
       "id": "mike-toreno",
@@ -745,7 +745,7 @@
       "summary": "Rescue Mike Toreno from a warehouse ambush.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/mike-toreno.svg"
+      "image": "assets/img/mission/gta-san-andreas/mike-toreno.png"
     },
     {
       "id": "outrider",
@@ -761,7 +761,7 @@
       "summary": "Escort a drug shipment across the city.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/outrider.svg"
+      "image": "assets/img/mission/gta-san-andreas/outrider.png"
     },
     {
       "id": "snail-trail",
@@ -774,7 +774,7 @@
       "summary": "Follow a journalist to find the Loco Syndicate's buyer.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/snail-trail.svg"
+      "image": "assets/img/mission/gta-san-andreas/snail-trail.png"
     },
     {
       "id": "ice-cold-killa",
@@ -790,7 +790,7 @@
       "summary": "Kill Jizzy B and take his club.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/ice-cold-killa.svg"
+      "image": "assets/img/mission/gta-san-andreas/ice-cold-killa.png"
     },
     {
       "id": "back-to-school",
@@ -805,7 +805,7 @@
       "summary": "Complete the driving school tests to unlock vehicle prizes.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/back-to-school.svg"
+      "image": "assets/img/mission/gta-san-andreas/back-to-school.jpg"
     },
     {
       "id": "pier-69",
@@ -821,7 +821,7 @@
       "summary": "Ambush the Loco Syndicate at the pier.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/pier-69.svg"
+      "image": "assets/img/mission/gta-san-andreas/pier-69.png"
     },
     {
       "id": "torenos-last-flight",
@@ -837,7 +837,7 @@
       "summary": "Destroy Toreno's helicopter before it leaves the docks.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/torenos-last-flight.svg"
+      "image": "assets/img/mission/gta-san-andreas/torenos-last-flight.png"
     },
     {
       "id": "mountain-cloud-boys",
@@ -853,7 +853,7 @@
       "summary": "Earn Wu Zi Mu's trust by helping the Triads against the Da Nang.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/mountain-cloud-boys.svg"
+      "image": "assets/img/mission/gta-san-andreas/mountain-cloud-boys.png"
     },
     {
       "id": "ran-fa-li",
@@ -869,7 +869,7 @@
       "summary": "Pick up Ran Fa Li from the airport while hitmen pursue.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/ran-fa-li.svg"
+      "image": "assets/img/mission/gta-san-andreas/ran-fa-li.png"
     },
     {
       "id": "lure",
@@ -885,7 +885,7 @@
       "summary": "Draw the Da Nang boys away from Triad headquarters.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/lure.svg"
+      "image": "assets/img/mission/gta-san-andreas/lure.png"
     },
     {
       "id": "amphibious-assault",
@@ -901,7 +901,7 @@
       "summary": "Swim to a cargo ship and steal the manifest.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/amphibious-assault.svg"
+      "image": "assets/img/mission/gta-san-andreas/amphibious-assault.png"
     },
     {
       "id": "the-da-nang-thang",
@@ -917,7 +917,7 @@
       "summary": "Clear the Da Nang gang from a freighter.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/the-da-nang-thang.svg"
+      "image": "assets/img/mission/gta-san-andreas/the-da-nang-thang.png"
     },
     {
       "id": "yay-ka-boom-boom",
@@ -933,7 +933,7 @@
       "summary": "Destroy the Loco Syndicate's factory.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/yay-ka-boom-boom.svg"
+      "image": "assets/img/mission/gta-san-andreas/yay-ka-boom-boom.png"
     },
     {
       "id": "zeroing-in",
@@ -949,7 +949,7 @@
       "summary": "Track a target's car using a homing device.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/zeroing-in.svg"
+      "image": "assets/img/mission/gta-san-andreas/zeroing-in.png"
     },
     {
       "id": "test-drive",
@@ -965,7 +965,7 @@
       "summary": "Test-drive two imported cars and outrun the police.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/test-drive.svg"
+      "image": "assets/img/mission/gta-san-andreas/test-drive.png"
     },
     {
       "id": "customs-fast-track",
@@ -981,7 +981,7 @@
       "summary": "Steal cars from the dockside customs compound.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/customs-fast-track.svg"
+      "image": "assets/img/mission/gta-san-andreas/customs-fast-track.png"
     },
     {
       "id": "puncture-wounds",
@@ -997,7 +997,7 @@
       "summary": "Stop a rival tyre-slashing racket and take over Wang Cars.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/puncture-wounds.svg"
+      "image": "assets/img/mission/gta-san-andreas/puncture-wounds.png"
     },
     {
       "id": "monster",
@@ -1013,7 +1013,7 @@
       "summary": "Drive a Monster truck through a desert checkpoint course.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/monster.svg"
+      "image": "assets/img/mission/gta-san-andreas/monster.png"
     },
     {
       "id": "highjack",
@@ -1028,7 +1028,7 @@
       "summary": "Hijack a truck on the highway for Toreno.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/highjack.svg"
+      "image": "assets/img/mission/gta-san-andreas/highjack.png"
     },
     {
       "id": "interdiction",
@@ -1043,7 +1043,7 @@
       "summary": "Recover a package from a desert airstrip under fire.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/interdiction.svg"
+      "image": "assets/img/mission/gta-san-andreas/interdiction.png"
     },
     {
       "id": "verdant-meadows",
@@ -1058,7 +1058,7 @@
       "summary": "Buy the abandoned airstrip and complete Toreno's first flying task.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/verdant-meadows.svg"
+      "image": "assets/img/mission/gta-san-andreas/verdant-meadows.png"
     },
     {
       "id": "learning-to-fly",
@@ -1073,7 +1073,7 @@
       "summary": "Complete flight school tests to earn a pilot's licence.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/learning-to-fly.svg"
+      "image": "assets/img/mission/gta-san-andreas/learning-to-fly.png"
     },
     {
       "id": "noe",
@@ -1088,7 +1088,7 @@
       "summary": "Fly a plane low under radar to drop supplies.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/noe.svg"
+      "image": "assets/img/mission/gta-san-andreas/noe.png"
     },
     {
       "id": "stowaway",
@@ -1103,7 +1103,7 @@
       "summary": "Board a moving plane and plant a bomb.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/stowaway.svg"
+      "image": "assets/img/mission/gta-san-andreas/stowaway.png"
     },
     {
       "id": "black-project",
@@ -1118,7 +1118,7 @@
       "summary": "Infiltrate Area 69 and steal the jetpack.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/black-project.svg"
+      "image": "assets/img/mission/gta-san-andreas/black-project.png"
     },
     {
       "id": "green-goo",
@@ -1134,7 +1134,7 @@
       "summary": "Use the jetpack to steal a train shipment.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/green-goo.svg"
+      "image": "assets/img/mission/gta-san-andreas/green-goo.png"
     },
     {
       "id": "fender-ketchup",
@@ -1150,7 +1150,7 @@
       "summary": "Intimidate a casino manager by hanging him from a car.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/fender-ketchup.svg"
+      "image": "assets/img/mission/gta-san-andreas/fender-ketchup.png"
     },
     {
       "id": "explosive-situation",
@@ -1166,7 +1166,7 @@
       "summary": "Steal explosives from a quarry for the casino heist.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/explosive-situation.svg"
+      "image": "assets/img/mission/gta-san-andreas/explosive-situation.png"
     },
     {
       "id": "youve-had-your-chips",
@@ -1182,7 +1182,7 @@
       "summary": "Destroy a counterfeit chip factory.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/youve-had-your-chips.svg"
+      "image": "assets/img/mission/gta-san-andreas/youve-had-your-chips.png"
     },
     {
       "id": "don-peyote",
@@ -1197,7 +1197,7 @@
       "summary": "Rescue Kent Paul and Maccer from a desert cult.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/don-peyote.svg"
+      "image": "assets/img/mission/gta-san-andreas/don-peyote.png"
     },
     {
       "id": "architectural-espionage",
@@ -1212,7 +1212,7 @@
       "summary": "Steal the Caligula's Palace blueprints.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/architectural-espionage.svg"
+      "image": "assets/img/mission/gta-san-andreas/architectural-espionage.png"
     },
     {
       "id": "key-to-her-heart",
@@ -1227,7 +1227,7 @@
       "summary": "Date Millie to obtain the casino key card.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/key-to-her-heart.svg"
+      "image": "assets/img/mission/gta-san-andreas/key-to-her-heart.png"
     },
     {
       "id": "dam-and-blast",
@@ -1242,7 +1242,7 @@
       "summary": "Sabotage the dam's power supply before the heist.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/dam-and-blast.svg"
+      "image": "assets/img/mission/gta-san-andreas/dam-and-blast.png"
     },
     {
       "id": "cop-wheels",
@@ -1257,7 +1257,7 @@
       "summary": "Steal four police bikes for the heist crew.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/cop-wheels.svg"
+      "image": "assets/img/mission/gta-san-andreas/cop-wheels.png"
     },
     {
       "id": "up-up-and-away",
@@ -1272,7 +1272,7 @@
       "summary": "Steal a helicopter from a military convoy.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/up-up-and-away.svg"
+      "image": "assets/img/mission/gta-san-andreas/up-up-and-away.png"
     },
     {
       "id": "intensive-care",
@@ -1288,7 +1288,7 @@
       "summary": "Kidnap a mob witness from a hospital.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/intensive-care.svg"
+      "image": "assets/img/mission/gta-san-andreas/intensive-care.png"
     },
     {
       "id": "the-meat-business",
@@ -1304,7 +1304,7 @@
       "summary": "Rescue Ken Rosenberg from the meat factory.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/the-meat-business.svg"
+      "image": "assets/img/mission/gta-san-andreas/the-meat-business.png"
     },
     {
       "id": "madd-dogg",
@@ -1319,7 +1319,7 @@
       "summary": "Save Madd Dogg from jumping off a casino roof.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/madd-dogg.svg"
+      "image": "assets/img/mission/gta-san-andreas/madd-dogg.png"
     },
     {
       "id": "fish-in-a-barrel",
@@ -1332,7 +1332,7 @@
       "summary": "Kill the men who tried to drown Madd Dogg.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/fish-in-a-barrel.svg"
+      "image": "assets/img/mission/gta-san-andreas/fish-in-a-barrel.png"
     },
     {
       "id": "misappropriation",
@@ -1345,7 +1345,7 @@
       "summary": "Raid a desert compound for C.R.A.S.H. evidence.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/misappropriation.svg"
+      "image": "assets/img/mission/gta-san-andreas/misappropriation.png"
     },
     {
       "id": "freefall",
@@ -1361,7 +1361,7 @@
       "summary": "Catch a falling plane with a charter jet.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/freefall.svg"
+      "image": "assets/img/mission/gta-san-andreas/freefall.png"
     },
     {
       "id": "high-noon",
@@ -1374,7 +1374,7 @@
       "summary": "Kill Pulaski in the desert.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/high-noon.svg"
+      "image": "assets/img/mission/gta-san-andreas/high-noon.png"
     },
     {
       "id": "saint-marks-bistro",
@@ -1390,7 +1390,7 @@
       "summary": "Hit a Liberty City restaurant full of Forellis.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/saint-marks-bistro.svg"
+      "image": "assets/img/mission/gta-san-andreas/saint-marks-bistro.png"
     },
     {
       "id": "breaking-the-bank-at-caligulas",
@@ -1406,7 +1406,7 @@
       "summary": "Rob Caligula's Palace casino using the stolen blueprints and key card.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/breaking-the-bank-at-caligulas.svg"
+      "image": "assets/img/mission/gta-san-andreas/breaking-the-bank-at-caligulas.png"
     },
     {
       "id": "a-home-in-the-hills",
@@ -1421,7 +1421,7 @@
       "summary": "Reclaim Madd Dogg's mansion from Big Poppa.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/a-home-in-the-hills.svg"
+      "image": "assets/img/mission/gta-san-andreas/a-home-in-the-hills.png"
     },
     {
       "id": "vertical-bird",
@@ -1437,7 +1437,7 @@
       "summary": "Steal a Harrier jump jet from an aircraft carrier.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/vertical-bird.svg"
+      "image": "assets/img/mission/gta-san-andreas/vertical-bird.png"
     },
     {
       "id": "home-coming",
@@ -1452,7 +1452,7 @@
       "summary": "Return to Los Santos and rejoin Sweet.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/home-coming.svg"
+      "image": "assets/img/mission/gta-san-andreas/home-coming.png"
     },
     {
       "id": "beat-down-on-b-dup",
@@ -1467,7 +1467,7 @@
       "summary": "Take back Grove Street territory from B Dup.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/beat-down-on-b-dup.svg"
+      "image": "assets/img/mission/gta-san-andreas/beat-down-on-b-dup.png"
     },
     {
       "id": "cut-throat-business",
@@ -1482,7 +1482,7 @@
       "summary": "Chase down a record producer who cheated Madd Dogg.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/cut-throat-business.svg"
+      "image": "assets/img/mission/gta-san-andreas/cut-throat-business.png"
     },
     {
       "id": "grove-4-life",
@@ -1498,7 +1498,7 @@
       "summary": "Defend Grove Street from a Ballas assault.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/grove-4-life.svg"
+      "image": "assets/img/mission/gta-san-andreas/grove-4-life.png"
     },
     {
       "id": "riot",
@@ -1511,7 +1511,7 @@
       "summary": "Survive the city-wide riots after Tenpenny's trial.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/riot.svg"
+      "image": "assets/img/mission/gta-san-andreas/riot.png"
     },
     {
       "id": "los-desperados",
@@ -1526,7 +1526,7 @@
       "summary": "Help Cesar retake Aztecas territory.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/los-desperados.svg"
+      "image": "assets/img/mission/gta-san-andreas/los-desperados.png"
     },
     {
       "id": "end-of-the-line",
@@ -1542,7 +1542,7 @@
       "summary": "Final mission: assault Big Smoke's crack palace and confront Tenpenny.",
       "verified": true,
       "source": "GTA San Andreas in-game mission list, order and rewards cross-checked against published mission tables",
-      "image": "assets/img/mission/gta-san-andreas/end-of-the-line.svg"
+      "image": "assets/img/mission/gta-san-andreas/end-of-the-line.png"
     }
   ]
 }

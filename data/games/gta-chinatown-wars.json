@@ -5,7 +5,7 @@
     "year": 2009,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-16T03:33:24.104Z",
+    "generated": "2026-11-16T04:02:50.135Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -179,7 +179,7 @@
         "summary": "Go to Kenny's home .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/yu-jian.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/yu-jian.jpg"
       },
       {
         "id": "pursuit-farce",
@@ -194,7 +194,7 @@
         "summary": "Take Ling Shan and lose the cops.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/pursuit-farce.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/pursuit-farce.jpg"
       },
       {
         "id": "under-the-gun",
@@ -209,7 +209,7 @@
         "summary": "Practice the fighting skills with Ling Shan and kill the goons attacking one of Kenny's restaurants, while witnessing Ling's death.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/under-the-gun.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/under-the-gun.png"
       },
       {
         "id": "payback",
@@ -224,7 +224,7 @@
         "summary": "Avenge Ling's death.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/payback.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/payback.jpg"
       },
       {
         "id": "the-wheelman",
@@ -239,7 +239,7 @@
         "summary": "Steal 3 cars for Chan Jaoming in 6 hours.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-wheelman.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-wheelman.jpg"
       },
       {
         "id": "tricks-of-the-triad",
@@ -254,7 +254,7 @@
         "summary": "Do a drug deal with two drug dealers , then stash the drugs in the apartment.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/tricks-of-the-triad.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/tricks-of-the-triad.jpg"
       },
       {
         "id": "pimp-his-ride",
@@ -269,7 +269,7 @@
         "summary": "Sabotage the race car of Chan's opponent.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/pimp-his-ride.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/pimp-his-ride.jpg"
       },
       {
         "id": "natural-burn-killer",
@@ -285,7 +285,7 @@
         "summary": "Burn down 2 stores who won't pay their rent.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/natural-burn-killer.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/natural-burn-killer.jpg"
       },
       {
         "id": "recruitment-drive",
@@ -301,7 +301,7 @@
         "summary": "Recruit new crime victims and recruit them as Triads.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/recruitment-drive.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/recruitment-drive.jpg"
       },
       {
         "id": "whack-the-racers",
@@ -317,7 +317,7 @@
         "summary": "Help Chan win a race by taking out the other racers.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/whack-the-racers.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/whack-the-racers.jpg"
       },
       {
         "id": "stealing-the-show",
@@ -332,7 +332,7 @@
         "summary": "Sneak onto the back of a delivery truck and toss the merchandise to Zhou .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/stealing-the-show.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/stealing-the-show.jpg"
       },
       {
         "id": "jackin-chan",
@@ -347,7 +347,7 @@
         "summary": "Rescue Chan from the&#160; Irish-American Killers .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/jackin-chan.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/jackin-chan.jpg"
       },
       {
         "id": "flatliner",
@@ -362,7 +362,7 @@
         "summary": "Steal an Ambulance containing Zhou's old friend Uri from Francis International Airport and drive it back to Zhou's house.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/flatliner.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/flatliner.jpg"
       },
       {
         "id": "bomb-disposal",
@@ -377,7 +377,7 @@
         "summary": "Disarm three of Hsin 's vans containing bombs meant to destroy Zhou's drug stash cars, and stop further attempts to do so.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/bomb-disposal.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/bomb-disposal.jpg"
       },
       {
         "id": "carpe-dime",
@@ -392,7 +392,7 @@
         "summary": "Steal a Spanish Lord 's van to check for the Yu Jian.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/carpe-dime.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/carpe-dime.jpg"
       },
       {
         "id": "store-wars",
@@ -407,7 +407,7 @@
         "summary": "Defend a store from the Spanish Lords .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/store-wars.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/store-wars.jpg"
       },
       {
         "id": "driven-to-destruction",
@@ -422,7 +422,7 @@
         "summary": "Drive Zhou on his Bobcat to African-American drug dealers and let him shoot them with his minigun, until the Carnage meter is filled.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/driven-to-destruction.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/driven-to-destruction.jpg"
       },
       {
         "id": "raw-deal",
@@ -438,7 +438,7 @@
         "summary": "Protect Chan from the Spanish Lords during a drug deal.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/raw-deal.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/raw-deal.jpg"
       },
       {
         "id": "the-tow-job",
@@ -451,7 +451,7 @@
         "summary": "Steal a Korean's car, gain police attention and park it outside the police station in Bohan.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-tow-job.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-tow-job.jpg"
       },
       {
         "id": "the-tail-bagging-the-dogs",
@@ -464,7 +464,7 @@
         "summary": "Kill the Korean and all his underbosses.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-tail-bagging-the-dogs.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-tail-bagging-the-dogs.jpg"
       },
       {
         "id": "trail-blazer",
@@ -479,7 +479,7 @@
         "summary": "Destroy a gambling den by ramming a leaking&#160; Tanker &#160;into it.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/trail-blazer.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/trail-blazer.jpg"
       },
       {
         "id": "copter-carnage",
@@ -494,7 +494,7 @@
         "summary": "Defend Kenny's merchandise from the Spanish Lords and tail the copter back to their warehouse.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/copter-carnage.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/copter-carnage.jpg"
       },
       {
         "id": "kenny-strikes-back",
@@ -509,7 +509,7 @@
         "summary": "Steal merchandise from the Spanish Lord's warehouse.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/kenny-strikes-back.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/kenny-strikes-back.jpg"
       },
       {
         "id": "weapons-of-mass-distraction",
@@ -522,7 +522,7 @@
         "summary": "Distract the Midtown Gangsters while Heston plants a bug in their base.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/weapons-of-mass-distraction.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/weapons-of-mass-distraction.jpg"
       },
       {
         "id": "street-of-rage",
@@ -537,7 +537,7 @@
         "summary": "Rescue Heston from the Wonsu Assassins .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/street-of-rage.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/street-of-rage.jpg"
       },
       {
         "id": "missed-the-boat",
@@ -552,7 +552,7 @@
         "summary": "Take a boat out to a drug deal and escape from the coast guards before bringing the drugs back to shore.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/missed-the-boat.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/missed-the-boat.jpg"
       },
       {
         "id": "cash-and-burn",
@@ -565,7 +565,7 @@
         "summary": "Burn all of the Korean's goods at a construction site and kill the security forces.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/cash-and-burn.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/cash-and-burn.jpg"
       },
       {
         "id": "dragon-haul-z",
@@ -580,7 +580,7 @@
         "summary": "Steal a truck containing a dragon costume and after Zhou robs a bank, do the instructed moves in the dragon costume without arrousing too much suspicion and escape.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/dragon-haul-z.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/dragon-haul-z.jpg"
       },
       {
         "id": "sa-boat-age",
@@ -595,7 +595,7 @@
         "summary": "Race Chan and protect him from the Spanish Lords.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/sa-boat-age.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/sa-boat-age.jpg"
       },
       {
         "id": "the-offshore-offload",
@@ -611,7 +611,7 @@
         "summary": "Rescue Hsin's men from the Feds, pick up Hsin's accountant and take them all to&#160; Castle Gardens .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-offshore-offload.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-offshore-offload.jpg"
       },
       {
         "id": "one-shot-one-kill",
@@ -626,7 +626,7 @@
         "summary": "Snipe an&#160; FIB &#160;informant against&#160; Chan Jaoming &#160;and lose the wanted level.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/one-shot-one-kill.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/one-shot-one-kill.jpg"
       },
       {
         "id": "counterfeit-gangster",
@@ -639,7 +639,7 @@
         "summary": "Opening arc: Huang's arrival and the stolen sword go wrong.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.jpg"
       },
       {
         "id": "slaying-with-fire",
@@ -654,7 +654,7 @@
         "summary": "Kill all of Chan's entourage.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/slaying-with-fire.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/slaying-with-fire.jpg"
       },
       {
         "id": "the-fandom-menace",
@@ -669,7 +669,7 @@
         "summary": "Escort Zhou and two other Triad members while avoiding paparazzi.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-fandom-menace.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-fandom-menace.jpg"
       },
       {
         "id": "operation-northwood",
@@ -684,7 +684,7 @@
         "summary": "Chase a drug dealer to his warehouse, then destroy it with the car bomb.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/operation-northwood.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/operation-northwood.jpg"
       },
       {
         "id": "torpedo-run",
@@ -697,7 +697,7 @@
         "summary": "Destroy Zhou Ming's&#160; drug boat &#160;then take out his escaping gang members.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/torpedo-run.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/torpedo-run.jpg"
       },
       {
         "id": "so-near-yet-sonar",
@@ -712,7 +712,7 @@
         "summary": "Recover sunken goods from Zhou's sunken ship using a sonar.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/so-near-yet-sonar.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/so-near-yet-sonar.jpg"
       },
       {
         "id": "by-myriads-of-swords",
@@ -727,7 +727,7 @@
         "summary": "Kill two of the Midtown Gangster leaders unfaithful to Hsin and collect their IDs.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/by-myriads-of-swords.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/by-myriads-of-swords.jpg"
       },
       {
         "id": "a-shadow-of-doubt",
@@ -740,7 +740,7 @@
         "summary": "Tail two Koreans to their hideout.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/a-shadow-of-doubt.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/a-shadow-of-doubt.jpg"
       },
       {
         "id": "double-trouble",
@@ -753,7 +753,7 @@
         "summary": "Take out some of&#160; The Lost &#160;gangsters and use the&#160; Monoglobe &#160;to destroy a building with The Lost members.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/double-trouble.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/double-trouble.jpg"
       },
       {
         "id": "grave-situation",
@@ -769,7 +769,7 @@
         "summary": "Protect D'Avanzo from Jimmy Capra 's men.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/grave-situation.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/grave-situation.jpg"
       },
       {
         "id": "faster-pusher-man-sell-sell",
@@ -784,7 +784,7 @@
         "summary": "Sell all of the&#160; AoD 's drugs before the rivals do.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/faster-pusher-man-sell-sell.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/faster-pusher-man-sell-sell.jpg"
       },
       {
         "id": "friend-or-foe",
@@ -797,7 +797,7 @@
         "summary": "Breach the Koreans' hideout and obtain the FIB files.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/friend-or-foe.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/friend-or-foe.jpg"
       },
       {
         "id": "scrambled",
@@ -810,7 +810,7 @@
         "summary": "Destroy 3 scramblers.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/scrambled.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/scrambled.jpg"
       },
       {
         "id": "steal-the-wheels",
@@ -825,7 +825,7 @@
         "summary": "Steal Jimmy Capra's car.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/steal-the-wheels.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/steal-the-wheels.jpg"
       },
       {
         "id": "arms-out-of-harms-way",
@@ -840,7 +840,7 @@
         "summary": "Kill the Midtown Gangsters' arms dealer.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/arms-out-of-harms-way.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/arms-out-of-harms-way.jpg"
       },
       {
         "id": "the-wages-of-hsin",
@@ -855,7 +855,7 @@
         "summary": "Destroy the Koreans' hideout with explosives.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-wages-of-hsin.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-wages-of-hsin.jpg"
       },
       {
         "id": "convoy-conflict",
@@ -870,7 +870,7 @@
         "summary": "Protect the Angels of Death convoy from The Lost MC members.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/convoy-conflict.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/convoy-conflict.jpg"
       },
       {
         "id": "the-worlds-a-stooge",
@@ -885,7 +885,7 @@
         "summary": "Take out three men mentioned in the record from Jimmy Capra's car.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/the-worlds-a-stooge.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/the-worlds-a-stooge.jpg"
       },
       {
         "id": "evidence-dash",
@@ -900,7 +900,7 @@
         "summary": "Destroy evidence in Heston's&#160; Admiral .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/evidence-dash.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/evidence-dash.jpg"
       },
       {
         "id": "oversights",
@@ -915,7 +915,7 @@
         "summary": "Snipe&#160; Jimmy Capra &#160;and his men.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/oversights.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/oversights.jpg"
       },
       {
         "id": "a-rude-awakening",
@@ -928,7 +928,7 @@
         "summary": "Chase and kill&#160; Rudy D'Avanzo .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/a-rude-awakening.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/a-rude-awakening.jpg"
       },
       {
         "id": "see-no-evil",
@@ -941,7 +941,7 @@
         "summary": "Protect Lester and Meredith from the&#160; Angels of Death &#160;as he transports her to her house, without frightening her.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/see-no-evil.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/see-no-evil.jpg"
       },
       {
         "id": "wi-find",
@@ -956,7 +956,7 @@
         "summary": "Hack the&#160; FIB &#160;files to identify the Triad's rat.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/wi-find.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/wi-find.jpg"
       },
       {
         "id": "rat-race",
@@ -969,7 +969,7 @@
         "summary": "Defend Kenny while he drives to warn&#160; Hsin Jaoming &#160;of&#160; Zhou Ming &#160;and&#160; Chan Jaoming 's betrayal.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/rat-race.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/rat-race.jpg"
       },
       {
         "id": "clear-the-pier",
@@ -984,7 +984,7 @@
         "summary": "Chase and kill Chan Jaoming.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/clear-the-pier.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/clear-the-pier.jpg"
       },
       {
         "id": "hit-from-the-tong",
@@ -999,7 +999,7 @@
         "summary": "Kill Zhou Ming.",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/hit-from-the-tong.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/hit-from-the-tong.jpg"
       },
       {
         "id": "salt-in-the-wound",
@@ -1012,7 +1012,7 @@
         "summary": "Chase and kill the real traitor .",
         "verified": true,
         "source": "GTA Wiki mission list: order, giver, description and rewards",
-        "image": "assets/img/mission/gta-chinatown-wars/salt-in-the-wound.svg"
+        "image": "assets/img/mission/gta-chinatown-wars/salt-in-the-wound.jpg"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T03:33:24.184Z",
+  "generated": "2026-11-16T04:02:50.217Z",
   "games": [
     {
       "slug": "gta",
@@ -616,7 +616,7 @@
   ],
   "images": {
     "total": 3807,
-    "real": 1834,
-    "placeholder": 1973
+    "real": 2460,
+    "placeholder": 1347
   }
 }
