@@ -12,7 +12,7 @@
       "total": 15,
       "reward": "Cash and weapon rewards",
       "verified": true,
-      "image": "assets/img/collectible/gta-liberty-city-stories/avenging-angels.svg"
+      "image": "assets/img/collectible/gta-liberty-city-stories/avenging-angels.jpg"
     },
     {
       "id": "hidden-packages",
@@ -30,7 +30,7 @@
       "total": 20,
       "reward": "Cash",
       "verified": true,
-      "image": "assets/img/collectible/gta-liberty-city-stories/rampages.svg"
+      "image": "assets/img/collectible/gta-liberty-city-stories/rampages.jpg"
     },
     {
       "id": "trash-dash",
@@ -39,7 +39,7 @@
       "total": 1,
       "reward": "Cash",
       "verified": false,
-      "image": "assets/img/collectible/gta-liberty-city-stories/trash-dash.svg"
+      "image": "assets/img/collectible/gta-liberty-city-stories/trash-dash.jpg"
     },
     {
       "id": "unique-jumps",
@@ -48,7 +48,7 @@
       "total": 26,
       "reward": "Cash toward 100%",
       "verified": true,
-      "image": "assets/img/collectible/gta-liberty-city-stories/unique-jumps.svg"
+      "image": "assets/img/collectible/gta-liberty-city-stories/unique-jumps.png"
     }
   ]
 }

@@ -21,7 +21,7 @@
       "parent": null,
       "summary": "1969 London rendered in the GTA 1 top-down engine, with period landmarks and vehicles.",
       "verified": true,
-      "image": "assets/img/location/gta-london-1969/london.svg"
+      "image": "assets/img/location/gta-london-1969/london.png"
     },
     {
       "id": "soho",
@@ -30,7 +30,7 @@
       "parent": "London",
       "summary": "Nightlife district used in several missions.",
       "verified": false,
-      "image": "assets/img/location/gta-london-1969/soho.svg"
+      "image": "assets/img/location/gta-london-1969/soho.png"
     },
     {
       "id": "westminster",
@@ -39,7 +39,7 @@
       "parent": "London",
       "summary": "Central district with Parliament and period architecture.",
       "verified": false,
-      "image": "assets/img/location/gta-london-1969/westminster.svg"
+      "image": "assets/img/location/gta-london-1969/westminster.png"
     }
   ]
 }

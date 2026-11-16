@@ -5,7 +5,7 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-16T04:02:49.879Z",
+    "generated": "2026-11-16T05:22:52.764Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -624,7 +624,7 @@
         "parent": null,
         "summary": "1961 London using the GTA 1 engine and the London 1969 map assets.",
         "verified": true,
-        "image": "assets/img/location/gta-london-1961/london.svg"
+        "image": "assets/img/location/gta-london-1961/london.png"
       }
     ]
   },

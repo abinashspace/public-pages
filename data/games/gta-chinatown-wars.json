@@ -5,7 +5,7 @@
     "year": 2009,
     "type": "Spin-off",
     "status": "released",
-    "generated": "2026-11-16T04:02:50.135Z",
+    "generated": "2026-11-16T05:22:53.023Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -2378,7 +2378,7 @@
         "parent": "Liberty City",
         "summary": "Industrial island.",
         "verified": true,
-        "image": "assets/img/location/gta-chinatown-wars/portland.svg"
+        "image": "assets/img/location/gta-chinatown-wars/portland.png"
       },
       {
         "id": "shoreside-vale",
@@ -2387,7 +2387,7 @@
         "parent": "Liberty City",
         "summary": "Suburban island.",
         "verified": true,
-        "image": "assets/img/location/gta-chinatown-wars/shoreside-vale.svg"
+        "image": "assets/img/location/gta-chinatown-wars/shoreside-vale.png"
       },
       {
         "id": "staunton-island",
@@ -2396,7 +2396,7 @@
         "parent": "Liberty City",
         "summary": "Commercial island.",
         "verified": true,
-        "image": "assets/img/location/gta-chinatown-wars/staunton-island.svg"
+        "image": "assets/img/location/gta-chinatown-wars/staunton-island.png"
       }
     ]
   },

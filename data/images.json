@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T04:02:49.807Z",
+  "generated": "2026-11-16T05:22:52.688Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -2340,10 +2340,10 @@
       "game": "gta",
       "id": "vice-city",
       "record": "vice-city",
-      "path": "assets/img/location/gta/vice-city.svg",
+      "path": "assets/img/location/gta/vice-city.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City"
     },
     {
@@ -3792,10 +3792,10 @@
       "game": "gta-london-1969",
       "id": "london",
       "record": "london",
-      "path": "assets/img/location/gta-london-1969/london.svg",
+      "path": "assets/img/location/gta-london-1969/london.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "London"
     },
     {
@@ -3803,10 +3803,10 @@
       "game": "gta-london-1969",
       "id": "soho",
       "record": "soho",
-      "path": "assets/img/location/gta-london-1969/soho.svg",
+      "path": "assets/img/location/gta-london-1969/soho.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Soho"
     },
     {
@@ -3814,10 +3814,10 @@
       "game": "gta-london-1969",
       "id": "westminster",
       "record": "westminster",
-      "path": "assets/img/location/gta-london-1969/westminster.svg",
+      "path": "assets/img/location/gta-london-1969/westminster.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Westminster"
     },
     {
@@ -4507,10 +4507,10 @@
       "game": "gta-london-1961",
       "id": "london",
       "record": "london",
-      "path": "assets/img/location/gta-london-1961/london.svg",
+      "path": "assets/img/location/gta-london-1961/london.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "London"
     },
     {
@@ -6025,10 +6025,10 @@
       "game": "gta-2",
       "id": "anywhere-city",
       "record": "anywhere-city",
-      "path": "assets/img/location/gta-2/anywhere-city.svg",
+      "path": "assets/img/location/gta-2/anywhere-city.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Anywhere City"
     },
     {
@@ -6058,10 +6058,10 @@
       "game": "gta-2",
       "id": "residential",
       "record": "residential",
-      "path": "assets/img/location/gta-2/residential.svg",
+      "path": "assets/img/location/gta-2/residential.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Residential"
     },
     {
@@ -8302,10 +8302,10 @@
       "game": "gta-iii",
       "id": "bedford-point",
       "record": "bedford-point",
-      "path": "assets/img/location/gta-iii/bedford-point.svg",
+      "path": "assets/img/location/gta-iii/bedford-point.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bedford Point"
     },
     {
@@ -8313,10 +8313,10 @@
       "game": "gta-iii",
       "id": "belleville-park",
       "record": "belleville-park",
-      "path": "assets/img/location/gta-iii/belleville-park.svg",
+      "path": "assets/img/location/gta-iii/belleville-park.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Belleville Park"
     },
     {
@@ -8324,10 +8324,10 @@
       "game": "gta-iii",
       "id": "cedar-grove",
       "record": "cedar-grove",
-      "path": "assets/img/location/gta-iii/cedar-grove.svg",
+      "path": "assets/img/location/gta-iii/cedar-grove.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Cedar Grove"
     },
     {
@@ -8346,10 +8346,10 @@
       "game": "gta-iii",
       "id": "cochrane-dam",
       "record": "cochrane-dam",
-      "path": "assets/img/location/gta-iii/cochrane-dam.svg",
+      "path": "assets/img/location/gta-iii/cochrane-dam.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Cochrane Dam"
     },
     {
@@ -8357,10 +8357,10 @@
       "game": "gta-iii",
       "id": "francis-international-airport",
       "record": "francis-international-airport",
-      "path": "assets/img/location/gta-iii/francis-international-airport.svg",
+      "path": "assets/img/location/gta-iii/francis-international-airport.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Francis International Airport"
     },
     {
@@ -8368,10 +8368,10 @@
       "game": "gta-iii",
       "id": "harwood",
       "record": "harwood",
-      "path": "assets/img/location/gta-iii/harwood.svg",
+      "path": "assets/img/location/gta-iii/harwood.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Harwood"
     },
     {
@@ -8379,10 +8379,10 @@
       "game": "gta-iii",
       "id": "hephurn-heights",
       "record": "hephurn-heights",
-      "path": "assets/img/location/gta-iii/hephurn-heights.svg",
+      "path": "assets/img/location/gta-iii/hephurn-heights.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hepburn Heights"
     },
     {
@@ -8401,10 +8401,10 @@
       "game": "gta-iii",
       "id": "pike-creek",
       "record": "pike-creek",
-      "path": "assets/img/location/gta-iii/pike-creek.svg",
+      "path": "assets/img/location/gta-iii/pike-creek.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Pike Creek"
     },
     {
@@ -8412,10 +8412,10 @@
       "game": "gta-iii",
       "id": "portland",
       "record": "portland",
-      "path": "assets/img/location/gta-iii/portland.svg",
+      "path": "assets/img/location/gta-iii/portland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Portland"
     },
     {
@@ -8423,10 +8423,10 @@
       "game": "gta-iii",
       "id": "red-light-district",
       "record": "red-light-district",
-      "path": "assets/img/location/gta-iii/red-light-district.svg",
+      "path": "assets/img/location/gta-iii/red-light-district.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Red Light District"
     },
     {
@@ -8434,10 +8434,10 @@
       "game": "gta-iii",
       "id": "saint-marks",
       "record": "saint-marks",
-      "path": "assets/img/location/gta-iii/saint-marks.svg",
+      "path": "assets/img/location/gta-iii/saint-marks.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Saint Mark's"
     },
     {
@@ -8445,10 +8445,10 @@
       "game": "gta-iii",
       "id": "shoreside-vale",
       "record": "shoreside-vale",
-      "path": "assets/img/location/gta-iii/shoreside-vale.svg",
+      "path": "assets/img/location/gta-iii/shoreside-vale.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Shoreside Vale"
     },
     {
@@ -8456,10 +8456,10 @@
       "game": "gta-iii",
       "id": "staunton-island",
       "record": "staunton-island",
-      "path": "assets/img/location/gta-iii/staunton-island.svg",
+      "path": "assets/img/location/gta-iii/staunton-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Staunton Island"
     },
     {
@@ -8467,10 +8467,10 @@
       "game": "gta-iii",
       "id": "torrington",
       "record": "torrington",
-      "path": "assets/img/location/gta-iii/torrington.svg",
+      "path": "assets/img/location/gta-iii/torrington.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Torrington"
     },
     {
@@ -8478,10 +8478,10 @@
       "game": "gta-iii",
       "id": "trenton",
       "record": "trenton",
-      "path": "assets/img/location/gta-iii/trenton.svg",
+      "path": "assets/img/location/gta-iii/trenton.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Trenton"
     },
     {
@@ -8489,10 +8489,10 @@
       "game": "gta-iii",
       "id": "wichita-gardens",
       "record": "wichita-gardens",
-      "path": "assets/img/location/gta-iii/wichita-gardens.svg",
+      "path": "assets/img/location/gta-iii/wichita-gardens.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Wichita Gardens"
     },
     {
@@ -8511,10 +8511,10 @@
       "game": "gta-iii",
       "id": "rampages",
       "record": "rampages",
-      "path": "assets/img/collectible/gta-iii/rampages.svg",
+      "path": "assets/img/collectible/gta-iii/rampages.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rampages"
     },
     {
@@ -8522,10 +8522,10 @@
       "game": "gta-iii",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-iii/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-iii/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Jumps"
     },
     {
@@ -11987,10 +11987,10 @@
       "game": "gta-vice-city",
       "id": "escobar-intl-airport",
       "record": "escobar-intl-airport",
-      "path": "assets/img/location/gta-vice-city/escobar-intl-airport.svg",
+      "path": "assets/img/location/gta-vice-city/escobar-intl-airport.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Escobar International Airport"
     },
     {
@@ -11998,10 +11998,10 @@
       "game": "gta-vice-city",
       "id": "hyman-memorial-stadium",
       "record": "hyman-memorial-stadium",
-      "path": "assets/img/location/gta-vice-city/hyman-memorial-stadium.svg",
+      "path": "assets/img/location/gta-vice-city/hyman-memorial-stadium.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hyman Memorial Stadium"
     },
     {
@@ -12009,10 +12009,10 @@
       "game": "gta-vice-city",
       "id": "little-cuba",
       "record": "little-cuba",
-      "path": "assets/img/location/gta-vice-city/little-cuba.svg",
+      "path": "assets/img/location/gta-vice-city/little-cuba.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Little Cuba"
     },
     {
@@ -12020,10 +12020,10 @@
       "game": "gta-vice-city",
       "id": "little-haiti",
       "record": "little-haiti",
-      "path": "assets/img/location/gta-vice-city/little-haiti.svg",
+      "path": "assets/img/location/gta-vice-city/little-haiti.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Little Haiti"
     },
     {
@@ -12031,10 +12031,10 @@
       "game": "gta-vice-city",
       "id": "little-havana",
       "record": "little-havana",
-      "path": "assets/img/location/gta-vice-city/little-havana.svg",
+      "path": "assets/img/location/gta-vice-city/little-havana.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Little Havana"
     },
     {
@@ -12042,10 +12042,10 @@
       "game": "gta-vice-city",
       "id": "ocean-beach",
       "record": "ocean-beach",
-      "path": "assets/img/location/gta-vice-city/ocean-beach.svg",
+      "path": "assets/img/location/gta-vice-city/ocean-beach.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ocean Beach"
     },
     {
@@ -12064,10 +12064,10 @@
       "game": "gta-vice-city",
       "id": "starfish-island",
       "record": "starfish-island",
-      "path": "assets/img/location/gta-vice-city/starfish-island.svg",
+      "path": "assets/img/location/gta-vice-city/starfish-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Starfish Island"
     },
     {
@@ -12075,10 +12075,10 @@
       "game": "gta-vice-city",
       "id": "the-malibu-club",
       "record": "the-malibu-club",
-      "path": "assets/img/location/gta-vice-city/the-malibu-club.svg",
+      "path": "assets/img/location/gta-vice-city/the-malibu-club.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "The Malibu Club"
     },
     {
@@ -12086,10 +12086,10 @@
       "game": "gta-vice-city",
       "id": "vice-beach",
       "record": "vice-beach",
-      "path": "assets/img/location/gta-vice-city/vice-beach.svg",
+      "path": "assets/img/location/gta-vice-city/vice-beach.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice Beach"
     },
     {
@@ -12097,10 +12097,10 @@
       "game": "gta-vice-city",
       "id": "vice-city",
       "record": "vice-city",
-      "path": "assets/img/location/gta-vice-city/vice-city.svg",
+      "path": "assets/img/location/gta-vice-city/vice-city.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City"
     },
     {
@@ -12108,10 +12108,10 @@
       "game": "gta-vice-city",
       "id": "vice-mainland",
       "record": "vice-mainland",
-      "path": "assets/img/location/gta-vice-city/vice-mainland.svg",
+      "path": "assets/img/location/gta-vice-city/vice-mainland.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City Mainland"
     },
     {
@@ -12130,10 +12130,10 @@
       "game": "gta-vice-city",
       "id": "vice-point",
       "record": "vice-point",
-      "path": "assets/img/location/gta-vice-city/vice-point.svg",
+      "path": "assets/img/location/gta-vice-city/vice-point.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice Point"
     },
     {
@@ -12141,10 +12141,10 @@
       "game": "gta-vice-city",
       "id": "vice-port",
       "record": "vice-port",
-      "path": "assets/img/location/gta-vice-city/vice-port.svg",
+      "path": "assets/img/location/gta-vice-city/vice-port.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice Port"
     },
     {
@@ -12152,10 +12152,10 @@
       "game": "gta-vice-city",
       "id": "washington-beach",
       "record": "washington-beach",
-      "path": "assets/img/location/gta-vice-city/washington-beach.svg",
+      "path": "assets/img/location/gta-vice-city/washington-beach.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Washington Beach"
     },
     {
@@ -12174,10 +12174,10 @@
       "game": "gta-vice-city",
       "id": "rampages",
       "record": "rampages",
-      "path": "assets/img/collectible/gta-vice-city/rampages.svg",
+      "path": "assets/img/collectible/gta-vice-city/rampages.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rampages"
     },
     {
@@ -12185,10 +12185,10 @@
       "game": "gta-vice-city",
       "id": "stores-robberies",
       "record": "stores-robberies",
-      "path": "assets/img/collectible/gta-vice-city/stores-robberies.svg",
+      "path": "assets/img/collectible/gta-vice-city/stores-robberies.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Store Robberies"
     },
     {
@@ -12196,10 +12196,10 @@
       "game": "gta-vice-city",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-vice-city/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-vice-city/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Jumps"
     },
     {
@@ -17619,10 +17619,10 @@
       "game": "gta-san-andreas",
       "id": "caligulas-palace",
       "record": "caligulas-palace",
-      "path": "assets/img/location/gta-san-andreas/caligulas-palace.svg",
+      "path": "assets/img/location/gta-san-andreas/caligulas-palace.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Caligula's Palace"
     },
     {
@@ -17663,10 +17663,10 @@
       "game": "gta-san-andreas",
       "id": "easter-basin",
       "record": "easter-basin",
-      "path": "assets/img/location/gta-san-andreas/easter-basin.svg",
+      "path": "assets/img/location/gta-san-andreas/easter-basin.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Easter Basin"
     },
     {
@@ -17674,10 +17674,10 @@
       "game": "gta-san-andreas",
       "id": "ganton",
       "record": "ganton",
-      "path": "assets/img/location/gta-san-andreas/ganton.svg",
+      "path": "assets/img/location/gta-san-andreas/ganton.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ganton"
     },
     {
@@ -17685,10 +17685,10 @@
       "game": "gta-san-andreas",
       "id": "glen-park",
       "record": "glen-park",
-      "path": "assets/img/location/gta-san-andreas/glen-park.svg",
+      "path": "assets/img/location/gta-san-andreas/glen-park.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Glen Park"
     },
     {
@@ -17696,10 +17696,10 @@
       "game": "gta-san-andreas",
       "id": "idlewood",
       "record": "idlewood",
-      "path": "assets/img/location/gta-san-andreas/idlewood.svg",
+      "path": "assets/img/location/gta-san-andreas/idlewood.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Idlewood"
     },
     {
@@ -17707,10 +17707,10 @@
       "game": "gta-san-andreas",
       "id": "jefferson",
       "record": "jefferson",
-      "path": "assets/img/location/gta-san-andreas/jefferson.svg",
+      "path": "assets/img/location/gta-san-andreas/jefferson.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jefferson"
     },
     {
@@ -17762,10 +17762,10 @@
       "game": "gta-san-andreas",
       "id": "mulholland",
       "record": "mulholland",
-      "path": "assets/img/location/gta-san-andreas/mulholland.svg",
+      "path": "assets/img/location/gta-san-andreas/mulholland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mulholland"
     },
     {
@@ -17773,10 +17773,10 @@
       "game": "gta-san-andreas",
       "id": "pier-69",
       "record": "pier-69",
-      "path": "assets/img/location/gta-san-andreas/pier-69.svg",
+      "path": "assets/img/location/gta-san-andreas/pier-69.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Pier 69"
     },
     {
@@ -17806,10 +17806,10 @@
       "game": "gta-san-andreas",
       "id": "the-strip",
       "record": "the-strip",
-      "path": "assets/img/location/gta-san-andreas/the-strip.svg",
+      "path": "assets/img/location/gta-san-andreas/the-strip.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "The Strip"
     },
     {
@@ -17817,10 +17817,10 @@
       "game": "gta-san-andreas",
       "id": "verdant-meadows",
       "record": "verdant-meadows",
-      "path": "assets/img/location/gta-san-andreas/verdant-meadows.svg",
+      "path": "assets/img/location/gta-san-andreas/verdant-meadows.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Verdant Meadows"
     },
     {
@@ -17828,10 +17828,10 @@
       "game": "gta-san-andreas",
       "id": "whetstone",
       "record": "whetstone",
-      "path": "assets/img/location/gta-san-andreas/whetstone.svg",
+      "path": "assets/img/location/gta-san-andreas/whetstone.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Whetstone"
     },
     {
@@ -17839,10 +17839,10 @@
       "game": "gta-san-andreas",
       "id": "gang-tags",
       "record": "gang-tags",
-      "path": "assets/img/collectible/gta-san-andreas/gang-tags.svg",
+      "path": "assets/img/collectible/gta-san-andreas/gang-tags.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Gang Tags"
     },
     {
@@ -17861,10 +17861,10 @@
       "game": "gta-san-andreas",
       "id": "horseshoes",
       "record": "horseshoes",
-      "path": "assets/img/collectible/gta-san-andreas/horseshoes.svg",
+      "path": "assets/img/collectible/gta-san-andreas/horseshoes.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Horseshoes"
     },
     {
@@ -17872,10 +17872,10 @@
       "game": "gta-san-andreas",
       "id": "oysters",
       "record": "oysters",
-      "path": "assets/img/collectible/gta-san-andreas/oysters.svg",
+      "path": "assets/img/collectible/gta-san-andreas/oysters.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Oysters"
     },
     {
@@ -17883,10 +17883,10 @@
       "game": "gta-san-andreas",
       "id": "snapshots",
       "record": "snapshots",
-      "path": "assets/img/collectible/gta-san-andreas/snapshots.svg",
+      "path": "assets/img/collectible/gta-san-andreas/snapshots.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Snapshots"
     },
     {
@@ -17894,10 +17894,10 @@
       "game": "gta-san-andreas",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-san-andreas/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-san-andreas/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Stunt Jumps"
     },
     {
@@ -19126,10 +19126,10 @@
       "game": "gta-advance",
       "id": "portland",
       "record": "portland",
-      "path": "assets/img/location/gta-advance/portland.svg",
+      "path": "assets/img/location/gta-advance/portland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Portland"
     },
     {
@@ -19137,10 +19137,10 @@
       "game": "gta-advance",
       "id": "shoreside-vale",
       "record": "shoreside-vale",
-      "path": "assets/img/location/gta-advance/shoreside-vale.svg",
+      "path": "assets/img/location/gta-advance/shoreside-vale.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Shoreside Vale"
     },
     {
@@ -19148,10 +19148,10 @@
       "game": "gta-advance",
       "id": "staunton-island",
       "record": "staunton-island",
-      "path": "assets/img/location/gta-advance/staunton-island.svg",
+      "path": "assets/img/location/gta-advance/staunton-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Staunton Island"
     },
     {
@@ -21986,10 +21986,10 @@
       "game": "gta-liberty-city-stories",
       "id": "atlantic-quays",
       "record": "atlantic-quays",
-      "path": "assets/img/location/gta-liberty-city-stories/atlantic-quays.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/atlantic-quays.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Atlantic Quays"
     },
     {
@@ -21997,10 +21997,10 @@
       "game": "gta-liberty-city-stories",
       "id": "belleville-park",
       "record": "belleville-park",
-      "path": "assets/img/location/gta-liberty-city-stories/belleville-park.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/belleville-park.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Belleville Park"
     },
     {
@@ -22030,10 +22030,10 @@
       "game": "gta-liberty-city-stories",
       "id": "portland",
       "record": "portland",
-      "path": "assets/img/location/gta-liberty-city-stories/portland.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/portland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Portland"
     },
     {
@@ -22041,10 +22041,10 @@
       "game": "gta-liberty-city-stories",
       "id": "red-light-district",
       "record": "red-light-district",
-      "path": "assets/img/location/gta-liberty-city-stories/red-light-district.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/red-light-district.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Red Light District"
     },
     {
@@ -22052,10 +22052,10 @@
       "game": "gta-liberty-city-stories",
       "id": "saint-marks",
       "record": "saint-marks",
-      "path": "assets/img/location/gta-liberty-city-stories/saint-marks.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/saint-marks.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Saint Mark's"
     },
     {
@@ -22063,10 +22063,10 @@
       "game": "gta-liberty-city-stories",
       "id": "shoreside-vale",
       "record": "shoreside-vale",
-      "path": "assets/img/location/gta-liberty-city-stories/shoreside-vale.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/shoreside-vale.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Shoreside Vale"
     },
     {
@@ -22074,10 +22074,10 @@
       "game": "gta-liberty-city-stories",
       "id": "staunton-island",
       "record": "staunton-island",
-      "path": "assets/img/location/gta-liberty-city-stories/staunton-island.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/staunton-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Staunton Island"
     },
     {
@@ -22085,10 +22085,10 @@
       "game": "gta-liberty-city-stories",
       "id": "torrington",
       "record": "torrington",
-      "path": "assets/img/location/gta-liberty-city-stories/torrington.svg",
+      "path": "assets/img/location/gta-liberty-city-stories/torrington.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Torrington"
     },
     {
@@ -22096,10 +22096,10 @@
       "game": "gta-liberty-city-stories",
       "id": "avenging-angels",
       "record": "avenging-angels",
-      "path": "assets/img/collectible/gta-liberty-city-stories/avenging-angels.svg",
+      "path": "assets/img/collectible/gta-liberty-city-stories/avenging-angels.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Avenging Angels"
     },
     {
@@ -22118,10 +22118,10 @@
       "game": "gta-liberty-city-stories",
       "id": "rampages",
       "record": "rampages",
-      "path": "assets/img/collectible/gta-liberty-city-stories/rampages.svg",
+      "path": "assets/img/collectible/gta-liberty-city-stories/rampages.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rampages"
     },
     {
@@ -22129,10 +22129,10 @@
       "game": "gta-liberty-city-stories",
       "id": "trash-dash",
       "record": "trash-dash",
-      "path": "assets/img/collectible/gta-liberty-city-stories/trash-dash.svg",
+      "path": "assets/img/collectible/gta-liberty-city-stories/trash-dash.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Trash Dash"
     },
     {
@@ -22140,10 +22140,10 @@
       "game": "gta-liberty-city-stories",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-liberty-city-stories/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-liberty-city-stories/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Jumps"
     },
     {
@@ -24978,10 +24978,10 @@
       "game": "gta-vice-city-stories",
       "id": "escobar-intl-airport",
       "record": "escobar-intl-airport",
-      "path": "assets/img/location/gta-vice-city-stories/escobar-intl-airport.svg",
+      "path": "assets/img/location/gta-vice-city-stories/escobar-intl-airport.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Escobar International Airport"
     },
     {
@@ -24989,10 +24989,10 @@
       "game": "gta-vice-city-stories",
       "id": "fort-baxter",
       "record": "fort-baxter",
-      "path": "assets/img/location/gta-vice-city-stories/fort-baxter.svg",
+      "path": "assets/img/location/gta-vice-city-stories/fort-baxter.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fort Baxter"
     },
     {
@@ -25000,10 +25000,10 @@
       "game": "gta-vice-city-stories",
       "id": "little-haiti",
       "record": "little-haiti",
-      "path": "assets/img/location/gta-vice-city-stories/little-haiti.svg",
+      "path": "assets/img/location/gta-vice-city-stories/little-haiti.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Little Haiti"
     },
     {
@@ -25011,10 +25011,10 @@
       "game": "gta-vice-city-stories",
       "id": "little-havana",
       "record": "little-havana",
-      "path": "assets/img/location/gta-vice-city-stories/little-havana.svg",
+      "path": "assets/img/location/gta-vice-city-stories/little-havana.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Little Havana"
     },
     {
@@ -25022,10 +25022,10 @@
       "game": "gta-vice-city-stories",
       "id": "starfish-island",
       "record": "starfish-island",
-      "path": "assets/img/location/gta-vice-city-stories/starfish-island.svg",
+      "path": "assets/img/location/gta-vice-city-stories/starfish-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Starfish Island"
     },
     {
@@ -25033,10 +25033,10 @@
       "game": "gta-vice-city-stories",
       "id": "trailer-park",
       "record": "trailer-park",
-      "path": "assets/img/location/gta-vice-city-stories/trailer-park.svg",
+      "path": "assets/img/location/gta-vice-city-stories/trailer-park.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Trailer Park"
     },
     {
@@ -25044,10 +25044,10 @@
       "game": "gta-vice-city-stories",
       "id": "vice-beach",
       "record": "vice-beach",
-      "path": "assets/img/location/gta-vice-city-stories/vice-beach.svg",
+      "path": "assets/img/location/gta-vice-city-stories/vice-beach.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice Beach"
     },
     {
@@ -25055,10 +25055,10 @@
       "game": "gta-vice-city-stories",
       "id": "vice-city",
       "record": "vice-city",
-      "path": "assets/img/location/gta-vice-city-stories/vice-city.svg",
+      "path": "assets/img/location/gta-vice-city-stories/vice-city.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City"
     },
     {
@@ -25066,10 +25066,10 @@
       "game": "gta-vice-city-stories",
       "id": "vice-mainland",
       "record": "vice-mainland",
-      "path": "assets/img/location/gta-vice-city-stories/vice-mainland.svg",
+      "path": "assets/img/location/gta-vice-city-stories/vice-mainland.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City Mainland"
     },
     {
@@ -25099,10 +25099,10 @@
       "game": "gta-vice-city-stories",
       "id": "rampages",
       "record": "rampages",
-      "path": "assets/img/collectible/gta-vice-city-stories/rampages.svg",
+      "path": "assets/img/collectible/gta-vice-city-stories/rampages.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rampages"
     },
     {
@@ -25110,10 +25110,10 @@
       "game": "gta-vice-city-stories",
       "id": "red-balloons",
       "record": "red-balloons",
-      "path": "assets/img/collectible/gta-vice-city-stories/red-balloons.svg",
+      "path": "assets/img/collectible/gta-vice-city-stories/red-balloons.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Red Balloons"
     },
     {
@@ -25121,10 +25121,10 @@
       "game": "gta-vice-city-stories",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-vice-city-stories/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-vice-city-stories/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Jumps"
     },
     {
@@ -28388,10 +28388,10 @@
       "game": "gta-iv",
       "id": "alderney",
       "record": "alderney",
-      "path": "assets/img/location/gta-iv/alderney.svg",
+      "path": "assets/img/location/gta-iv/alderney.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Alderney"
     },
     {
@@ -28399,10 +28399,10 @@
       "game": "gta-iv",
       "id": "algonquin",
       "record": "algonquin",
-      "path": "assets/img/location/gta-iv/algonquin.svg",
+      "path": "assets/img/location/gta-iv/algonquin.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Algonquin"
     },
     {
@@ -28410,10 +28410,10 @@
       "game": "gta-iv",
       "id": "bohan",
       "record": "bohan",
-      "path": "assets/img/location/gta-iv/bohan.svg",
+      "path": "assets/img/location/gta-iv/bohan.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bohan"
     },
     {
@@ -28421,10 +28421,10 @@
       "game": "gta-iv",
       "id": "broker",
       "record": "broker",
-      "path": "assets/img/location/gta-iv/broker.svg",
+      "path": "assets/img/location/gta-iv/broker.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Broker"
     },
     {
@@ -28432,10 +28432,10 @@
       "game": "gta-iv",
       "id": "colon-island",
       "record": "colon-island",
-      "path": "assets/img/location/gta-iv/colon-island.svg",
+      "path": "assets/img/location/gta-iv/colon-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Colony Island"
     },
     {
@@ -28443,10 +28443,10 @@
       "game": "gta-iv",
       "id": "dukes",
       "record": "dukes",
-      "path": "assets/img/location/gta-iv/dukes.svg",
+      "path": "assets/img/location/gta-iv/dukes.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Dukes"
     },
     {
@@ -28454,10 +28454,10 @@
       "game": "gta-iv",
       "id": "francis-international-airport",
       "record": "francis-international-airport",
-      "path": "assets/img/location/gta-iv/francis-international-airport.svg",
+      "path": "assets/img/location/gta-iv/francis-international-airport.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Francis International Airport"
     },
     {
@@ -28465,10 +28465,10 @@
       "game": "gta-iv",
       "id": "happiness-island",
       "record": "happiness-island",
-      "path": "assets/img/location/gta-iv/happiness-island.svg",
+      "path": "assets/img/location/gta-iv/happiness-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Happiness Island"
     },
     {
@@ -28476,10 +28476,10 @@
       "game": "gta-iv",
       "id": "hove-beach",
       "record": "hove-beach",
-      "path": "assets/img/location/gta-iv/hove-beach.svg",
+      "path": "assets/img/location/gta-iv/hove-beach.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hove Beach"
     },
     {
@@ -28487,10 +28487,10 @@
       "game": "gta-iv",
       "id": "libertian-museum",
       "record": "libertian-museum",
-      "path": "assets/img/location/gta-iv/libertian-museum.svg",
+      "path": "assets/img/location/gta-iv/libertian-museum.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Libertonian Museum"
     },
     {
@@ -28509,10 +28509,10 @@
       "game": "gta-iv",
       "id": "north-holland",
       "record": "north-holland",
-      "path": "assets/img/location/gta-iv/north-holland.svg",
+      "path": "assets/img/location/gta-iv/north-holland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "North Holland"
     },
     {
@@ -28520,10 +28520,10 @@
       "game": "gta-iv",
       "id": "flying-rats",
       "record": "flying-rats",
-      "path": "assets/img/collectible/gta-iv/flying-rats.svg",
+      "path": "assets/img/collectible/gta-iv/flying-rats.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Flying Rats"
     },
     {
@@ -28531,10 +28531,10 @@
       "game": "gta-iv",
       "id": "most-wanted",
       "record": "most-wanted",
-      "path": "assets/img/collectible/gta-iv/most-wanted.svg",
+      "path": "assets/img/collectible/gta-iv/most-wanted.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Most Wanted"
     },
     {
@@ -28542,10 +28542,10 @@
       "game": "gta-iv",
       "id": "unique-jumps",
       "record": "unique-jumps",
-      "path": "assets/img/collectible/gta-iv/unique-jumps.svg",
+      "path": "assets/img/collectible/gta-iv/unique-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Unique Stunt Jumps"
     },
     {
@@ -30819,10 +30819,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "alderney",
       "record": "alderney",
-      "path": "assets/img/location/gta-iv-the-lost-and-damned/alderney.svg",
+      "path": "assets/img/location/gta-iv-the-lost-and-damned/alderney.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Alderney"
     },
     {
@@ -30830,10 +30830,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "algonquin",
       "record": "algonquin",
-      "path": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.svg",
+      "path": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Algonquin"
     },
     {
@@ -30841,10 +30841,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "bohan",
       "record": "bohan",
-      "path": "assets/img/location/gta-iv-the-lost-and-damned/bohan.svg",
+      "path": "assets/img/location/gta-iv-the-lost-and-damned/bohan.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bohan"
     },
     {
@@ -30852,10 +30852,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "broker",
       "record": "broker",
-      "path": "assets/img/location/gta-iv-the-lost-and-damned/broker.svg",
+      "path": "assets/img/location/gta-iv-the-lost-and-damned/broker.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Broker"
     },
     {
@@ -30885,10 +30885,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "gang-wars",
       "record": "gang-wars",
-      "path": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.svg",
+      "path": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Gang Wars"
     },
     {
@@ -30896,10 +30896,10 @@
       "game": "gta-iv-the-lost-and-damned",
       "id": "seagulls",
       "record": "seagulls",
-      "path": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.svg",
+      "path": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Seagulls"
     },
     {
@@ -33239,10 +33239,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "alderney",
       "record": "alderney",
-      "path": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.svg",
+      "path": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Alderney"
     },
     {
@@ -33250,10 +33250,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "algonquin",
       "record": "algonquin",
-      "path": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.svg",
+      "path": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Algonquin"
     },
     {
@@ -33261,10 +33261,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "bohan",
       "record": "bohan",
-      "path": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.svg",
+      "path": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bohan"
     },
     {
@@ -33272,10 +33272,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "hercules",
       "record": "hercules",
-      "path": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.svg",
+      "path": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hercules"
     },
     {
@@ -33305,10 +33305,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "middle-park",
       "record": "middle-park",
-      "path": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.svg",
+      "path": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Middle Park"
     },
     {
@@ -33316,10 +33316,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "base-jumps",
       "record": "base-jumps",
-      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.svg",
+      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Base Jumps"
     },
     {
@@ -33338,10 +33338,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "seagulls",
       "record": "seagulls",
-      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.svg",
+      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Seagulls"
     },
     {
@@ -33349,10 +33349,10 @@
       "game": "gta-the-ballad-of-gay-tony",
       "id": "triathlons",
       "record": "triathlons",
-      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.svg",
+      "path": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Triathlons"
     },
     {
@@ -35571,10 +35571,10 @@
       "game": "gta-chinatown-wars",
       "id": "portland",
       "record": "portland",
-      "path": "assets/img/location/gta-chinatown-wars/portland.svg",
+      "path": "assets/img/location/gta-chinatown-wars/portland.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Portland"
     },
     {
@@ -35582,10 +35582,10 @@
       "game": "gta-chinatown-wars",
       "id": "shoreside-vale",
       "record": "shoreside-vale",
-      "path": "assets/img/location/gta-chinatown-wars/shoreside-vale.svg",
+      "path": "assets/img/location/gta-chinatown-wars/shoreside-vale.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Shoreside Vale"
     },
     {
@@ -35593,10 +35593,10 @@
       "game": "gta-chinatown-wars",
       "id": "staunton-island",
       "record": "staunton-island",
-      "path": "assets/img/location/gta-chinatown-wars/staunton-island.svg",
+      "path": "assets/img/location/gta-chinatown-wars/staunton-island.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Staunton Island"
     },
     {
@@ -41104,10 +41104,10 @@
       "game": "gta-v",
       "id": "blaine-county",
       "record": "blaine-county",
-      "path": "assets/img/location/gta-v/blaine-county.svg",
+      "path": "assets/img/location/gta-v/blaine-county.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Blaine County"
     },
     {
@@ -41115,10 +41115,10 @@
       "game": "gta-v",
       "id": "chamberlain-hills",
       "record": "chamberlain-hills",
-      "path": "assets/img/location/gta-v/chamberlain-hills.svg",
+      "path": "assets/img/location/gta-v/chamberlain-hills.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Chamberlain Hills"
     },
     {
@@ -41137,10 +41137,10 @@
       "game": "gta-v",
       "id": "fort-zancudo",
       "record": "fort-zancudo",
-      "path": "assets/img/location/gta-v/fort-zancudo.svg",
+      "path": "assets/img/location/gta-v/fort-zancudo.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fort Zancudo"
     },
     {
@@ -41148,10 +41148,10 @@
       "game": "gta-v",
       "id": "humane-labs",
       "record": "humane-labs",
-      "path": "assets/img/location/gta-v/humane-labs.svg",
+      "path": "assets/img/location/gta-v/humane-labs.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Humane Labs and Research"
     },
     {
@@ -41181,10 +41181,10 @@
       "game": "gta-v",
       "id": "paleto-bay",
       "record": "paleto-bay",
-      "path": "assets/img/location/gta-v/paleto-bay.svg",
+      "path": "assets/img/location/gta-v/paleto-bay.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Paleto Bay"
     },
     {
@@ -41192,10 +41192,10 @@
       "game": "gta-v",
       "id": "rockford-hills",
       "record": "rockford-hills",
-      "path": "assets/img/location/gta-v/rockford-hills.svg",
+      "path": "assets/img/location/gta-v/rockford-hills.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rockford Hills"
     },
     {
@@ -41214,10 +41214,10 @@
       "game": "gta-v",
       "id": "sandy-shores",
       "record": "sandy-shores",
-      "path": "assets/img/location/gta-v/sandy-shores.svg",
+      "path": "assets/img/location/gta-v/sandy-shores.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Sandy Shores"
     },
     {
@@ -41225,10 +41225,10 @@
       "game": "gta-v",
       "id": "union-depository",
       "record": "union-depository",
-      "path": "assets/img/location/gta-v/union-depository.svg",
+      "path": "assets/img/location/gta-v/union-depository.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Union Depository"
     },
     {
@@ -41236,10 +41236,10 @@
       "game": "gta-v",
       "id": "vespucci",
       "record": "vespucci",
-      "path": "assets/img/location/gta-v/vespucci.svg",
+      "path": "assets/img/location/gta-v/vespucci.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vespucci"
     },
     {
@@ -41258,10 +41258,10 @@
       "game": "gta-v",
       "id": "letter-scraps",
       "record": "letter-scraps",
-      "path": "assets/img/collectible/gta-v/letter-scraps.svg",
+      "path": "assets/img/collectible/gta-v/letter-scraps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Letter Scraps"
     },
     {
@@ -41269,10 +41269,10 @@
       "game": "gta-v",
       "id": "monkey-mosaics",
       "record": "monkey-mosaics",
-      "path": "assets/img/collectible/gta-v/monkey-mosaics.svg",
+      "path": "assets/img/collectible/gta-v/monkey-mosaics.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Monkey Mosaics"
     },
     {
@@ -41280,10 +41280,10 @@
       "game": "gta-v",
       "id": "nuclear-waste",
       "record": "nuclear-waste",
-      "path": "assets/img/collectible/gta-v/nuclear-waste.svg",
+      "path": "assets/img/collectible/gta-v/nuclear-waste.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Nuclear Waste"
     },
     {
@@ -41302,10 +41302,10 @@
       "game": "gta-v",
       "id": "spaceship-parts",
       "record": "spaceship-parts",
-      "path": "assets/img/collectible/gta-v/spaceship-parts.svg",
+      "path": "assets/img/collectible/gta-v/spaceship-parts.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Spaceship Parts"
     },
     {
@@ -41313,10 +41313,10 @@
       "game": "gta-v",
       "id": "stunt-jumps",
       "record": "stunt-jumps",
-      "path": "assets/img/collectible/gta-v/stunt-jumps.svg",
+      "path": "assets/img/collectible/gta-v/stunt-jumps.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stunt Jumps"
     },
     {
@@ -41720,10 +41720,10 @@
       "game": "gta-online",
       "id": "blaine-county",
       "record": "blaine-county",
-      "path": "assets/img/location/gta-online/blaine-county.svg",
+      "path": "assets/img/location/gta-online/blaine-county.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Blaine County"
     },
     {
@@ -41731,10 +41731,10 @@
       "game": "gta-online",
       "id": "cayo-perico",
       "record": "cayo-perico",
-      "path": "assets/img/location/gta-online/cayo-perico.svg",
+      "path": "assets/img/location/gta-online/cayo-perico.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Cayo Perico"
     },
     {
@@ -41764,10 +41764,10 @@
       "game": "gta-online",
       "id": "the-diamond-casino",
       "record": "the-diamond-casino",
-      "path": "assets/img/location/gta-online/the-diamond-casino.svg",
+      "path": "assets/img/location/gta-online/the-diamond-casino.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "The Diamond Casino & Resort"
     },
     {
@@ -41775,10 +41775,10 @@
       "game": "gta-online",
       "id": "playing-cards",
       "record": "playing-cards",
-      "path": "assets/img/collectible/gta-online/playing-cards.svg",
+      "path": "assets/img/collectible/gta-online/playing-cards.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Playing Cards"
     },
     {
@@ -41786,10 +41786,10 @@
       "game": "gta-online",
       "id": "signal-jammers",
       "record": "signal-jammers",
-      "path": "assets/img/collectible/gta-online/signal-jammers.svg",
+      "path": "assets/img/collectible/gta-online/signal-jammers.png",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Signal Jammers"
     },
     {
@@ -41797,10 +41797,10 @@
       "game": "gta-online",
       "id": "treasure-chests",
       "record": "treasure-chests",
-      "path": "assets/img/collectible/gta-online/treasure-chests.svg",
+      "path": "assets/img/collectible/gta-online/treasure-chests.jpg",
       "width": 256,
       "height": 256,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Treasure Chests"
     },
     {
@@ -41863,10 +41863,10 @@
       "game": "gta-vi",
       "id": "leonida",
       "record": "leonida",
-      "path": "assets/img/location/gta-vi/leonida.svg",
+      "path": "assets/img/location/gta-vi/leonida.png",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Leonida"
     },
     {
@@ -41874,10 +41874,10 @@
       "game": "gta-vi",
       "id": "vice-city",
       "record": "vice-city",
-      "path": "assets/img/location/gta-vi/vice-city.svg",
+      "path": "assets/img/location/gta-vi/vice-city.jpg",
       "width": 1280,
       "height": 720,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vice City"
     }
   ]

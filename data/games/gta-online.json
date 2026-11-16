@@ -5,7 +5,7 @@
     "year": 2013,
     "type": "Online",
     "status": "live",
-    "generated": "2026-11-16T04:02:50.181Z",
+    "generated": "2026-11-16T05:22:53.073Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -464,7 +464,7 @@
         "parent": "San Andreas",
         "summary": "Desert and mountain region used for bunkers and facilities.",
         "verified": true,
-        "image": "assets/img/location/gta-online/blaine-county.svg"
+        "image": "assets/img/location/gta-online/blaine-county.png"
       },
       {
         "id": "cayo-perico",
@@ -473,7 +473,7 @@
         "parent": null,
         "summary": "Private Caribbean island added with the Cayo Perico Heist.",
         "verified": true,
-        "image": "assets/img/location/gta-online/cayo-perico.svg"
+        "image": "assets/img/location/gta-online/cayo-perico.jpg"
       },
       {
         "id": "los-santos",
@@ -500,7 +500,7 @@
         "parent": "Los Santos",
         "summary": "Casino and resort added in 2019.",
         "verified": true,
-        "image": "assets/img/location/gta-online/the-diamond-casino.svg"
+        "image": "assets/img/location/gta-online/the-diamond-casino.png"
       }
     ]
   },
@@ -514,7 +514,7 @@
         "total": 54,
         "reward": "Casino rewards and chips",
         "verified": true,
-        "image": "assets/img/collectible/gta-online/playing-cards.svg"
+        "image": "assets/img/collectible/gta-online/playing-cards.png"
       },
       {
         "id": "signal-jammers",
@@ -523,7 +523,7 @@
         "total": 50,
         "reward": "Award progress and cash",
         "verified": true,
-        "image": "assets/img/collectible/gta-online/signal-jammers.svg"
+        "image": "assets/img/collectible/gta-online/signal-jammers.png"
       },
       {
         "id": "treasure-chests",
@@ -532,7 +532,7 @@
         "total": 0,
         "reward": "Cash and rare items",
         "verified": false,
-        "image": "assets/img/collectible/gta-online/treasure-chests.svg"
+        "image": "assets/img/collectible/gta-online/treasure-chests.jpg"
       }
     ]
   }

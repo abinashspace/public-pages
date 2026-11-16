@@ -12,7 +12,7 @@
       "parent": null,
       "summary": "Dystopian city of 2013 split into three districts by bridges and water.",
       "verified": true,
-      "image": "assets/img/location/gta-2/anywhere-city.svg"
+      "image": "assets/img/location/gta-2/anywhere-city.png"
     },
     {
       "id": "downtown",
@@ -39,7 +39,7 @@
       "parent": "Anywhere City",
       "summary": "Suburban and asylum district, home to the Loonies.",
       "verified": true,
-      "image": "assets/img/location/gta-2/residential.svg"
+      "image": "assets/img/location/gta-2/residential.png"
     }
   ]
 }

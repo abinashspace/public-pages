@@ -5,7 +5,7 @@
     "year": 2026,
     "type": "Main",
     "status": "upcoming",
-    "generated": "2026-11-16T04:02:50.199Z",
+    "generated": "2026-11-16T05:22:53.091Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "official-only",
@@ -92,7 +92,7 @@
         "summary": "Rockstar-confirmed state inspired by Florida, the game's setting.",
         "verified": true,
         "source": "Rockstar Games GTA VI Trailer 1",
-        "image": "assets/img/location/gta-vi/leonida.svg"
+        "image": "assets/img/location/gta-vi/leonida.png"
       },
       {
         "id": "vice-city",
@@ -102,7 +102,7 @@
         "summary": "Rockstar-confirmed modern-day Vice City within Leonida.",
         "verified": true,
         "source": "Rockstar Games GTA VI Trailer 1",
-        "image": "assets/img/location/gta-vi/vice-city.svg"
+        "image": "assets/img/location/gta-vi/vice-city.jpg"
       }
     ]
   },

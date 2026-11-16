@@ -5,7 +5,7 @@
     "year": 2008,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T04:02:50.074Z",
+    "generated": "2026-11-16T05:22:52.956Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -3381,7 +3381,7 @@
         "parent": "Liberty City",
         "summary": "New Jersey analogue across the river, Pegorino territory.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/alderney.svg"
+        "image": "assets/img/location/gta-iv/alderney.png"
       },
       {
         "id": "algonquin",
@@ -3390,7 +3390,7 @@
         "parent": "Liberty City",
         "summary": "Manhattan analogue and the city's centre.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/algonquin.svg"
+        "image": "assets/img/location/gta-iv/algonquin.jpg"
       },
       {
         "id": "bohan",
@@ -3399,7 +3399,7 @@
         "parent": "Liberty City",
         "summary": "Bronx analogue, northern borough.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/bohan.svg"
+        "image": "assets/img/location/gta-iv/bohan.png"
       },
       {
         "id": "broker",
@@ -3408,7 +3408,7 @@
         "parent": "Liberty City",
         "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/broker.svg"
+        "image": "assets/img/location/gta-iv/broker.png"
       },
       {
         "id": "colon-island",
@@ -3417,7 +3417,7 @@
         "parent": "Liberty City",
         "summary": "Industrial island with the warehouse from The Snow Storm.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/colon-island.svg"
+        "image": "assets/img/location/gta-iv/colon-island.png"
       },
       {
         "id": "dukes",
@@ -3426,7 +3426,7 @@
         "parent": "Liberty City",
         "summary": "Queens analogue with the airport and McReary territory.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/dukes.svg"
+        "image": "assets/img/location/gta-iv/dukes.png"
       },
       {
         "id": "francis-international-airport",
@@ -3435,7 +3435,7 @@
         "parent": "Dukes",
         "summary": "Liberty City's main airport.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/francis-international-airport.svg"
+        "image": "assets/img/location/gta-iv/francis-international-airport.png"
       },
       {
         "id": "happiness-island",
@@ -3444,7 +3444,7 @@
         "parent": "Liberty City",
         "summary": "Statue island in the bay, significant in the endgame.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/happiness-island.svg"
+        "image": "assets/img/location/gta-iv/happiness-island.png"
       },
       {
         "id": "hove-beach",
@@ -3453,7 +3453,7 @@
         "parent": "Broker",
         "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/hove-beach.svg"
+        "image": "assets/img/location/gta-iv/hove-beach.png"
       },
       {
         "id": "libertian-museum",
@@ -3462,7 +3462,7 @@
         "parent": "Algonquin",
         "summary": "Museum where the diamond deal takes place.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/libertian-museum.svg"
+        "image": "assets/img/location/gta-iv/libertian-museum.png"
       },
       {
         "id": "liberty-city",
@@ -3480,7 +3480,7 @@
         "parent": "Algonquin",
         "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
         "verified": true,
-        "image": "assets/img/location/gta-iv/north-holland.svg"
+        "image": "assets/img/location/gta-iv/north-holland.png"
       }
     ]
   },
@@ -3494,7 +3494,7 @@
         "total": 200,
         "reward": "Weapons at safehouses per borough",
         "verified": true,
-        "image": "assets/img/collectible/gta-iv/flying-rats.svg"
+        "image": "assets/img/collectible/gta-iv/flying-rats.png"
       },
       {
         "id": "most-wanted",
@@ -3503,7 +3503,7 @@
         "total": 30,
         "reward": "Cash and weapon rewards",
         "verified": true,
-        "image": "assets/img/collectible/gta-iv/most-wanted.svg"
+        "image": "assets/img/collectible/gta-iv/most-wanted.jpg"
       },
       {
         "id": "unique-jumps",
@@ -3512,7 +3512,7 @@
         "total": 50,
         "reward": "Cash and 100% progress",
         "verified": true,
-        "image": "assets/img/collectible/gta-iv/unique-jumps.svg"
+        "image": "assets/img/collectible/gta-iv/unique-jumps.png"
       },
       {
         "id": "vigilante-levels",

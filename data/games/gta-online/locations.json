@@ -12,7 +12,7 @@
       "parent": "San Andreas",
       "summary": "Desert and mountain region used for bunkers and facilities.",
       "verified": true,
-      "image": "assets/img/location/gta-online/blaine-county.svg"
+      "image": "assets/img/location/gta-online/blaine-county.png"
     },
     {
       "id": "cayo-perico",
@@ -21,7 +21,7 @@
       "parent": null,
       "summary": "Private Caribbean island added with the Cayo Perico Heist.",
       "verified": true,
-      "image": "assets/img/location/gta-online/cayo-perico.svg"
+      "image": "assets/img/location/gta-online/cayo-perico.jpg"
     },
     {
       "id": "los-santos",
@@ -48,7 +48,7 @@
       "parent": "Los Santos",
       "summary": "Casino and resort added in 2019.",
       "verified": true,
-      "image": "assets/img/location/gta-online/the-diamond-casino.svg"
+      "image": "assets/img/location/gta-online/the-diamond-casino.png"
     }
   ]
 }

@@ -12,7 +12,7 @@
       "total": 15,
       "reward": "Cash and completion",
       "verified": true,
-      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.svg"
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/base-jumps.jpg"
     },
     {
       "id": "golden-guns",
@@ -30,7 +30,7 @@
       "total": 50,
       "reward": "Weapons and cash",
       "verified": true,
-      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.svg"
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/seagulls.jpg"
     },
     {
       "id": "triathlons",
@@ -39,7 +39,7 @@
       "total": 3,
       "reward": "Cash and clothing",
       "verified": true,
-      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.svg"
+      "image": "assets/img/collectible/gta-the-ballad-of-gay-tony/triathlons.png"
     }
   ]
 }

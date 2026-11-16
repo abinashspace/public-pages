@@ -21,7 +21,7 @@
       "parent": "Vice Mainland",
       "summary": "Main airport, used in smuggling and escape missions.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/escobar-intl-airport.svg"
+      "image": "assets/img/location/gta-vice-city/escobar-intl-airport.png"
     },
     {
       "id": "hyman-memorial-stadium",
@@ -30,7 +30,7 @@
       "parent": "Downtown",
       "summary": "Stadium hosting the Hotring Racer and Bloodring Banger events.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/hyman-memorial-stadium.svg"
+      "image": "assets/img/location/gta-vice-city/hyman-memorial-stadium.jpg"
     },
     {
       "id": "little-cuba",
@@ -39,7 +39,7 @@
       "parent": "Vice Mainland",
       "summary": "Cuban area around Umberto's cafe.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/little-cuba.svg"
+      "image": "assets/img/location/gta-vice-city/little-cuba.png"
     },
     {
       "id": "little-haiti",
@@ -48,7 +48,7 @@
       "parent": "Vice Mainland",
       "summary": "Haitian gang territory and Auntie Poulet's house.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/little-haiti.svg"
+      "image": "assets/img/location/gta-vice-city/little-haiti.png"
     },
     {
       "id": "little-havana",
@@ -57,7 +57,7 @@
       "parent": "Vice Mainland",
       "summary": "Cuban gang territory, Sunshine Autos and the print works.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/little-havana.svg"
+      "image": "assets/img/location/gta-vice-city/little-havana.png"
     },
     {
       "id": "ocean-beach",
@@ -66,7 +66,7 @@
       "parent": "Vice Beach",
       "summary": "Southern tip of the beach island, home to the Ocean View Hotel.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/ocean-beach.svg"
+      "image": "assets/img/location/gta-vice-city/ocean-beach.png"
     },
     {
       "id": "prairie-avenue",
@@ -84,7 +84,7 @@
       "parent": "Vice City",
       "summary": "Mansion island housing Diaz and later Tommy.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/starfish-island.svg"
+      "image": "assets/img/location/gta-vice-city/starfish-island.png"
     },
     {
       "id": "the-malibu-club",
@@ -93,7 +93,7 @@
       "parent": "Vice Point",
       "summary": "Nightclub asset that unlocks the bank heist missions.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/the-malibu-club.svg"
+      "image": "assets/img/location/gta-vice-city/the-malibu-club.png"
     },
     {
       "id": "vice-beach",
@@ -102,7 +102,7 @@
       "parent": "Vice City",
       "summary": "Eastern island with the beach, Ocean Beach and Washington Beach.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/vice-beach.svg"
+      "image": "assets/img/location/gta-vice-city/vice-beach.png"
     },
     {
       "id": "vice-city",
@@ -111,7 +111,7 @@
       "parent": null,
       "summary": "1986 Miami-inspired city split into two islands.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/vice-city.svg"
+      "image": "assets/img/location/gta-vice-city/vice-city.jpg"
     },
     {
       "id": "vice-mainland",
@@ -120,7 +120,7 @@
       "parent": "Vice City",
       "summary": "Western island with Downtown, Little Haiti, Little Havana and the airport.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/vice-mainland.svg"
+      "image": "assets/img/location/gta-vice-city/vice-mainland.jpg"
     },
     {
       "id": "vice-city-stadium",
@@ -138,7 +138,7 @@
       "parent": "Vice Beach",
       "summary": "Northern beach neighbourhood with the Malibu Club.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/vice-point.svg"
+      "image": "assets/img/location/gta-vice-city/vice-point.png"
     },
     {
       "id": "vice-port",
@@ -147,7 +147,7 @@
       "parent": "Vice Mainland",
       "summary": "Docks and warehouses on the west side.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/vice-port.svg"
+      "image": "assets/img/location/gta-vice-city/vice-port.png"
     },
     {
       "id": "washington-beach",
@@ -156,7 +156,7 @@
       "parent": "Vice Beach",
       "summary": "Beach strip with the mall and Ken's office nearby.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city/washington-beach.svg"
+      "image": "assets/img/location/gta-vice-city/washington-beach.png"
     }
   ]
 }

@@ -5,7 +5,7 @@
     "year": 2009,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-16T04:02:50.095Z",
+    "generated": "2026-11-16T05:22:52.984Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -1956,7 +1956,7 @@
         "parent": "Liberty City",
         "summary": "The Lost MC clubhouse and main operating area.",
         "verified": true,
-        "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.svg"
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.png"
       },
       {
         "id": "algonquin",
@@ -1965,7 +1965,7 @@
         "parent": "Liberty City",
         "summary": "Manhattan analogue used for diamond-related missions.",
         "verified": true,
-        "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.svg"
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.jpg"
       },
       {
         "id": "bohan",
@@ -1974,7 +1974,7 @@
         "parent": "Liberty City",
         "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
         "verified": true,
-        "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.svg"
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.png"
       },
       {
         "id": "broker",
@@ -1983,7 +1983,7 @@
         "parent": "Liberty City",
         "summary": "Eastern borough visited during club business.",
         "verified": true,
-        "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.svg"
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.png"
       },
       {
         "id": "liberty-city",
@@ -2015,7 +2015,7 @@
         "total": 1,
         "reward": "Club territory and weapon caches",
         "verified": true,
-        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.svg"
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.jpg"
       },
       {
         "id": "seagulls",
@@ -2024,7 +2024,7 @@
         "total": 50,
         "reward": "Weapons at the clubhouse",
         "verified": true,
-        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.svg"
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.jpg"
       }
     ]
   }

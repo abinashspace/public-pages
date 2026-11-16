@@ -21,7 +21,7 @@
       "parent": "Liberty City",
       "summary": "Industrial island.",
       "verified": true,
-      "image": "assets/img/location/gta-advance/portland.svg"
+      "image": "assets/img/location/gta-advance/portland.png"
     },
     {
       "id": "shoreside-vale",
@@ -30,7 +30,7 @@
       "parent": "Liberty City",
       "summary": "Suburban island.",
       "verified": true,
-      "image": "assets/img/location/gta-advance/shoreside-vale.svg"
+      "image": "assets/img/location/gta-advance/shoreside-vale.png"
     },
     {
       "id": "staunton-island",
@@ -39,7 +39,7 @@
       "parent": "Liberty City",
       "summary": "Commercial island.",
       "verified": true,
-      "image": "assets/img/location/gta-advance/staunton-island.svg"
+      "image": "assets/img/location/gta-advance/staunton-island.png"
     }
   ]
 }

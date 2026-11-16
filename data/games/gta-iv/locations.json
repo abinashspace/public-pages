@@ -12,7 +12,7 @@
       "parent": "Liberty City",
       "summary": "New Jersey analogue across the river, Pegorino territory.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/alderney.svg"
+      "image": "assets/img/location/gta-iv/alderney.png"
     },
     {
       "id": "algonquin",
@@ -21,7 +21,7 @@
       "parent": "Liberty City",
       "summary": "Manhattan analogue and the city's centre.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/algonquin.svg"
+      "image": "assets/img/location/gta-iv/algonquin.jpg"
     },
     {
       "id": "bohan",
@@ -30,7 +30,7 @@
       "parent": "Liberty City",
       "summary": "Bronx analogue, northern borough.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/bohan.svg"
+      "image": "assets/img/location/gta-iv/bohan.png"
     },
     {
       "id": "broker",
@@ -39,7 +39,7 @@
       "parent": "Liberty City",
       "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/broker.svg"
+      "image": "assets/img/location/gta-iv/broker.png"
     },
     {
       "id": "colon-island",
@@ -48,7 +48,7 @@
       "parent": "Liberty City",
       "summary": "Industrial island with the warehouse from The Snow Storm.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/colon-island.svg"
+      "image": "assets/img/location/gta-iv/colon-island.png"
     },
     {
       "id": "dukes",
@@ -57,7 +57,7 @@
       "parent": "Liberty City",
       "summary": "Queens analogue with the airport and McReary territory.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/dukes.svg"
+      "image": "assets/img/location/gta-iv/dukes.png"
     },
     {
       "id": "francis-international-airport",
@@ -66,7 +66,7 @@
       "parent": "Dukes",
       "summary": "Liberty City's main airport.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/francis-international-airport.svg"
+      "image": "assets/img/location/gta-iv/francis-international-airport.png"
     },
     {
       "id": "happiness-island",
@@ -75,7 +75,7 @@
       "parent": "Liberty City",
       "summary": "Statue island in the bay, significant in the endgame.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/happiness-island.svg"
+      "image": "assets/img/location/gta-iv/happiness-island.png"
     },
     {
       "id": "hove-beach",
@@ -84,7 +84,7 @@
       "parent": "Broker",
       "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/hove-beach.svg"
+      "image": "assets/img/location/gta-iv/hove-beach.png"
     },
     {
       "id": "libertian-museum",
@@ -93,7 +93,7 @@
       "parent": "Algonquin",
       "summary": "Museum where the diamond deal takes place.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/libertian-museum.svg"
+      "image": "assets/img/location/gta-iv/libertian-museum.png"
     },
     {
       "id": "liberty-city",
@@ -111,7 +111,7 @@
       "parent": "Algonquin",
       "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
       "verified": true,
-      "image": "assets/img/location/gta-iv/north-holland.svg"
+      "image": "assets/img/location/gta-iv/north-holland.png"
     }
   ]
 }

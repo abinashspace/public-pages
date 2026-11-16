@@ -30,7 +30,7 @@
       "parent": "Las Venturas",
       "summary": "Casino owned by the Leones and robbed in the finale of the LV act.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/caligulas-palace.svg"
+      "image": "assets/img/location/gta-san-andreas/caligulas-palace.jpg"
     },
     {
       "id": "chinatown-sf",
@@ -66,7 +66,7 @@
       "parent": "San Fierro",
       "summary": "Docks and naval area.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/easter-basin.svg"
+      "image": "assets/img/location/gta-san-andreas/easter-basin.png"
     },
     {
       "id": "ganton",
@@ -75,7 +75,7 @@
       "parent": "Los Santos",
       "summary": "Grove Street Families home turf and CJ's safehouse.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/ganton.svg"
+      "image": "assets/img/location/gta-san-andreas/ganton.png"
     },
     {
       "id": "glen-park",
@@ -84,7 +84,7 @@
       "parent": "Los Santos",
       "summary": "Contested neighbourhood during the gang war.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/glen-park.svg"
+      "image": "assets/img/location/gta-san-andreas/glen-park.png"
     },
     {
       "id": "idlewood",
@@ -93,7 +93,7 @@
       "parent": "Los Santos",
       "summary": "Ballas territory south of Ganton.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/idlewood.svg"
+      "image": "assets/img/location/gta-san-andreas/idlewood.png"
     },
     {
       "id": "jefferson",
@@ -102,7 +102,7 @@
       "parent": "Los Santos",
       "summary": "Motel district and site of Reuniting the Families.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/jefferson.svg"
+      "image": "assets/img/location/gta-san-andreas/jefferson.png"
     },
     {
       "id": "las-venturas",
@@ -147,7 +147,7 @@
       "parent": "Los Santos",
       "summary": "Hillside district with Madd Dogg's mansion.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/mulholland.svg"
+      "image": "assets/img/location/gta-san-andreas/mulholland.png"
     },
     {
       "id": "pier-69",
@@ -156,7 +156,7 @@
       "parent": "San Fierro",
       "summary": "Pier used for the Loco Syndicate ambush.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/pier-69.svg"
+      "image": "assets/img/location/gta-san-andreas/pier-69.jpg"
     },
     {
       "id": "san-andreas",
@@ -183,7 +183,7 @@
       "parent": "Las Venturas",
       "summary": "Main casino boulevard of Las Venturas.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/the-strip.svg"
+      "image": "assets/img/location/gta-san-andreas/the-strip.png"
     },
     {
       "id": "verdant-meadows",
@@ -192,7 +192,7 @@
       "parent": "San Andreas",
       "summary": "Abandoned airstrip bought during the Toreno missions.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/verdant-meadows.svg"
+      "image": "assets/img/location/gta-san-andreas/verdant-meadows.png"
     },
     {
       "id": "whetstone",
@@ -201,7 +201,7 @@
       "parent": "San Andreas",
       "summary": "Rural south-western region where the Badlands act begins.",
       "verified": true,
-      "image": "assets/img/location/gta-san-andreas/whetstone.svg"
+      "image": "assets/img/location/gta-san-andreas/whetstone.png"
     }
   ]
 }

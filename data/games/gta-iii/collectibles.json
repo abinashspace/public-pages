@@ -21,7 +21,7 @@
       "total": 20,
       "reward": "Cash and weapon pickups",
       "verified": true,
-      "image": "assets/img/collectible/gta-iii/rampages.svg"
+      "image": "assets/img/collectible/gta-iii/rampages.jpg"
     },
     {
       "id": "unique-jumps",
@@ -30,7 +30,7 @@
       "total": 20,
       "reward": "Cash, counted toward 100% completion",
       "verified": false,
-      "image": "assets/img/collectible/gta-iii/unique-jumps.svg"
+      "image": "assets/img/collectible/gta-iii/unique-jumps.png"
     }
   ]
 }

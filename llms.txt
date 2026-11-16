@@ -120,4 +120,4 @@ Unknown numbers are null, never 0.
 ## Notes
 
 - Unofficial fan data. Trademarks belong to Rockstar Games / Take-Two Interactive.
-- Artwork mostly sourced from GTA Wiki (2460/3807 slots); the rest resolve to generated placeholders. See /data/images.json for per-slot status.
+- Artwork mostly sourced from GTA Wiki (2598/3807 slots); the rest resolve to generated placeholders. See /data/images.json for per-slot status.

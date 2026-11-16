@@ -5,7 +5,7 @@
     "year": 1997,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T04:02:49.842Z",
+    "generated": "2026-11-16T05:22:52.725Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -2520,7 +2520,7 @@
         "parent": null,
         "summary": "Miami-inspired city with beach and downtown areas.",
         "verified": true,
-        "image": "assets/img/location/gta/vice-city.svg"
+        "image": "assets/img/location/gta/vice-city.jpg"
       }
     ]
   },

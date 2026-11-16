@@ -5,7 +5,7 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T04:02:49.979Z",
+    "generated": "2026-11-16T05:22:52.845Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -7398,7 +7398,7 @@
         "parent": "Las Venturas",
         "summary": "Casino owned by the Leones and robbed in the finale of the LV act.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/caligulas-palace.svg"
+        "image": "assets/img/location/gta-san-andreas/caligulas-palace.jpg"
       },
       {
         "id": "chinatown-sf",
@@ -7434,7 +7434,7 @@
         "parent": "San Fierro",
         "summary": "Docks and naval area.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/easter-basin.svg"
+        "image": "assets/img/location/gta-san-andreas/easter-basin.png"
       },
       {
         "id": "ganton",
@@ -7443,7 +7443,7 @@
         "parent": "Los Santos",
         "summary": "Grove Street Families home turf and CJ's safehouse.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/ganton.svg"
+        "image": "assets/img/location/gta-san-andreas/ganton.png"
       },
       {
         "id": "glen-park",
@@ -7452,7 +7452,7 @@
         "parent": "Los Santos",
         "summary": "Contested neighbourhood during the gang war.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/glen-park.svg"
+        "image": "assets/img/location/gta-san-andreas/glen-park.png"
       },
       {
         "id": "idlewood",
@@ -7461,7 +7461,7 @@
         "parent": "Los Santos",
         "summary": "Ballas territory south of Ganton.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/idlewood.svg"
+        "image": "assets/img/location/gta-san-andreas/idlewood.png"
       },
       {
         "id": "jefferson",
@@ -7470,7 +7470,7 @@
         "parent": "Los Santos",
         "summary": "Motel district and site of Reuniting the Families.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/jefferson.svg"
+        "image": "assets/img/location/gta-san-andreas/jefferson.png"
       },
       {
         "id": "las-venturas",
@@ -7515,7 +7515,7 @@
         "parent": "Los Santos",
         "summary": "Hillside district with Madd Dogg's mansion.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/mulholland.svg"
+        "image": "assets/img/location/gta-san-andreas/mulholland.png"
       },
       {
         "id": "pier-69",
@@ -7524,7 +7524,7 @@
         "parent": "San Fierro",
         "summary": "Pier used for the Loco Syndicate ambush.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/pier-69.svg"
+        "image": "assets/img/location/gta-san-andreas/pier-69.jpg"
       },
       {
         "id": "san-andreas",
@@ -7551,7 +7551,7 @@
         "parent": "Las Venturas",
         "summary": "Main casino boulevard of Las Venturas.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/the-strip.svg"
+        "image": "assets/img/location/gta-san-andreas/the-strip.png"
       },
       {
         "id": "verdant-meadows",
@@ -7560,7 +7560,7 @@
         "parent": "San Andreas",
         "summary": "Abandoned airstrip bought during the Toreno missions.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/verdant-meadows.svg"
+        "image": "assets/img/location/gta-san-andreas/verdant-meadows.png"
       },
       {
         "id": "whetstone",
@@ -7569,7 +7569,7 @@
         "parent": "San Andreas",
         "summary": "Rural south-western region where the Badlands act begins.",
         "verified": true,
-        "image": "assets/img/location/gta-san-andreas/whetstone.svg"
+        "image": "assets/img/location/gta-san-andreas/whetstone.png"
       }
     ]
   },
@@ -7583,7 +7583,7 @@
         "total": 100,
         "reward": "Weapons at the Johnson house",
         "verified": true,
-        "image": "assets/img/collectible/gta-san-andreas/gang-tags.svg"
+        "image": "assets/img/collectible/gta-san-andreas/gang-tags.png"
       },
       {
         "id": "hidden-packages",
@@ -7601,7 +7601,7 @@
         "total": 50,
         "reward": "Weapons and cash at the Four Dragons Casino",
         "verified": true,
-        "image": "assets/img/collectible/gta-san-andreas/horseshoes.svg"
+        "image": "assets/img/collectible/gta-san-andreas/horseshoes.png"
       },
       {
         "id": "oysters",
@@ -7610,7 +7610,7 @@
         "total": 50,
         "reward": "Increased lung capacity and 100% progress",
         "verified": true,
-        "image": "assets/img/collectible/gta-san-andreas/oysters.svg"
+        "image": "assets/img/collectible/gta-san-andreas/oysters.png"
       },
       {
         "id": "snapshots",
@@ -7619,7 +7619,7 @@
         "total": 50,
         "reward": "Weapons at the San Fierro garage",
         "verified": true,
-        "image": "assets/img/collectible/gta-san-andreas/snapshots.svg"
+        "image": "assets/img/collectible/gta-san-andreas/snapshots.png"
       },
       {
         "id": "unique-jumps",
@@ -7628,7 +7628,7 @@
         "total": 70,
         "reward": "Cash, counted toward 100% completion",
         "verified": true,
-        "image": "assets/img/collectible/gta-san-andreas/unique-jumps.svg"
+        "image": "assets/img/collectible/gta-san-andreas/unique-jumps.png"
       }
     ]
   }

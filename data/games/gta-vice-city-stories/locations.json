@@ -21,7 +21,7 @@
       "parent": "Vice Mainland",
       "summary": "Airport used in smuggling missions.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/escobar-intl-airport.svg"
+      "image": "assets/img/location/gta-vice-city-stories/escobar-intl-airport.png"
     },
     {
       "id": "fort-baxter",
@@ -30,7 +30,7 @@
       "parent": "Vice Mainland",
       "summary": "Military base where Victor is stationed.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/fort-baxter.svg"
+      "image": "assets/img/location/gta-vice-city-stories/fort-baxter.jpg"
     },
     {
       "id": "little-haiti",
@@ -39,7 +39,7 @@
       "parent": "Vice Mainland",
       "summary": "Haitian territory and drug business sites.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/little-haiti.svg"
+      "image": "assets/img/location/gta-vice-city-stories/little-haiti.png"
     },
     {
       "id": "little-havana",
@@ -48,7 +48,7 @@
       "parent": "Vice Mainland",
       "summary": "Cuban territory and early gang missions.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/little-havana.svg"
+      "image": "assets/img/location/gta-vice-city-stories/little-havana.png"
     },
     {
       "id": "starfish-island",
@@ -57,7 +57,7 @@
       "parent": "Vice City",
       "summary": "Mansion island used by the Mendez cartel.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/starfish-island.svg"
+      "image": "assets/img/location/gta-vice-city-stories/starfish-island.png"
     },
     {
       "id": "trailer-park",
@@ -66,7 +66,7 @@
       "parent": "Vice Mainland",
       "summary": "Marty Jay Williams' base of operations.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/trailer-park.svg"
+      "image": "assets/img/location/gta-vice-city-stories/trailer-park.jpg"
     },
     {
       "id": "vice-beach",
@@ -75,7 +75,7 @@
       "parent": "Vice City",
       "summary": "Beach island with Ocean Beach and Washington Beach.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/vice-beach.svg"
+      "image": "assets/img/location/gta-vice-city-stories/vice-beach.png"
     },
     {
       "id": "vice-city",
@@ -84,7 +84,7 @@
       "parent": null,
       "summary": "Vice City in 1984, two years before Tommy Vercetti's arrival.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/vice-city.svg"
+      "image": "assets/img/location/gta-vice-city-stories/vice-city.jpg"
     },
     {
       "id": "vice-mainland",
@@ -93,7 +93,7 @@
       "parent": "Vice City",
       "summary": "Mainland with Downtown, Little Haiti, Little Havana and the airport.",
       "verified": true,
-      "image": "assets/img/location/gta-vice-city-stories/vice-mainland.svg"
+      "image": "assets/img/location/gta-vice-city-stories/vice-mainland.jpg"
     }
   ]
 }

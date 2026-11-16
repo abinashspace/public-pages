@@ -30,7 +30,7 @@
       "total": 30,
       "reward": "Cash",
       "verified": true,
-      "image": "assets/img/collectible/gta-vice-city-stories/rampages.svg"
+      "image": "assets/img/collectible/gta-vice-city-stories/rampages.jpg"
     },
     {
       "id": "red-balloons",
@@ -39,7 +39,7 @@
       "total": 99,
       "reward": "Cash and 100% progress",
       "verified": true,
-      "image": "assets/img/collectible/gta-vice-city-stories/red-balloons.svg"
+      "image": "assets/img/collectible/gta-vice-city-stories/red-balloons.jpg"
     },
     {
       "id": "unique-jumps",
@@ -48,7 +48,7 @@
       "total": 36,
       "reward": "Cash toward 100%",
       "verified": true,
-      "image": "assets/img/collectible/gta-vice-city-stories/unique-jumps.svg"
+      "image": "assets/img/collectible/gta-vice-city-stories/unique-jumps.png"
     }
   ]
 }

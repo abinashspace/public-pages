@@ -21,7 +21,7 @@
       "total": 1,
       "reward": "Club territory and weapon caches",
       "verified": true,
-      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.svg"
+      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.jpg"
     },
     {
       "id": "seagulls",
@@ -30,7 +30,7 @@
       "total": 50,
       "reward": "Weapons at the clubhouse",
       "verified": true,
-      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.svg"
+      "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.jpg"
     }
   ]
 }

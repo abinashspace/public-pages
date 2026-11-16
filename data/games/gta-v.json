@@ -5,7 +5,7 @@
     "year": 2013,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T04:02:50.155Z",
+    "generated": "2026-11-16T05:22:53.044Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -5572,7 +5572,7 @@
         "parent": "San Andreas",
         "summary": "Rural desert and mountain county north of the city.",
         "verified": true,
-        "image": "assets/img/location/gta-v/blaine-county.svg"
+        "image": "assets/img/location/gta-v/blaine-county.png"
       },
       {
         "id": "chamberlain-hills",
@@ -5581,7 +5581,7 @@
         "parent": "Los Santos",
         "summary": "Franklin and Lamar's home neighbourhood.",
         "verified": true,
-        "image": "assets/img/location/gta-v/chamberlain-hills.svg"
+        "image": "assets/img/location/gta-v/chamberlain-hills.png"
       },
       {
         "id": "downtown-los-santos",
@@ -5599,7 +5599,7 @@
         "parent": "Blaine County",
         "summary": "Military base with restricted airspace.",
         "verified": true,
-        "image": "assets/img/location/gta-v/fort-zancudo.svg"
+        "image": "assets/img/location/gta-v/fort-zancudo.png"
       },
       {
         "id": "humane-labs",
@@ -5608,7 +5608,7 @@
         "parent": "Blaine County",
         "summary": "Research facility raided in Monkey Business.",
         "verified": true,
-        "image": "assets/img/location/gta-v/humane-labs.svg"
+        "image": "assets/img/location/gta-v/humane-labs.png"
       },
       {
         "id": "los-santos",
@@ -5635,7 +5635,7 @@
         "parent": "Blaine County",
         "summary": "Small northern town and bank heist location.",
         "verified": true,
-        "image": "assets/img/location/gta-v/paleto-bay.svg"
+        "image": "assets/img/location/gta-v/paleto-bay.png"
       },
       {
         "id": "rockford-hills",
@@ -5644,7 +5644,7 @@
         "parent": "Los Santos",
         "summary": "Affluent district and Michael's mansion.",
         "verified": true,
-        "image": "assets/img/location/gta-v/rockford-hills.svg"
+        "image": "assets/img/location/gta-v/rockford-hills.png"
       },
       {
         "id": "san-andreas",
@@ -5662,7 +5662,7 @@
         "parent": "Blaine County",
         "summary": "Desert town and Trevor's base of operations.",
         "verified": true,
-        "image": "assets/img/location/gta-v/sandy-shores.svg"
+        "image": "assets/img/location/gta-v/sandy-shores.png"
       },
       {
         "id": "union-depository",
@@ -5671,7 +5671,7 @@
         "parent": "Los Santos",
         "summary": "Target of the final heist.",
         "verified": true,
-        "image": "assets/img/location/gta-v/union-depository.svg"
+        "image": "assets/img/location/gta-v/union-depository.png"
       },
       {
         "id": "vespucci",
@@ -5680,7 +5680,7 @@
         "parent": "Los Santos",
         "summary": "Beach district and the boardwalk.",
         "verified": true,
-        "image": "assets/img/location/gta-v/vespucci.svg"
+        "image": "assets/img/location/gta-v/vespucci.png"
       },
       {
         "id": "vinewood",
@@ -5703,7 +5703,7 @@
         "total": 50,
         "reward": "Unlocks a murder-mystery side story",
         "verified": true,
-        "image": "assets/img/collectible/gta-v/letter-scraps.svg"
+        "image": "assets/img/collectible/gta-v/letter-scraps.png"
       },
       {
         "id": "monkey-mosaics",
@@ -5712,7 +5712,7 @@
         "total": 50,
         "reward": "Unlocks the Go Go Monkey Blista (enhanced editions)",
         "verified": false,
-        "image": "assets/img/collectible/gta-v/monkey-mosaics.svg"
+        "image": "assets/img/collectible/gta-v/monkey-mosaics.jpg"
       },
       {
         "id": "nuclear-waste",
@@ -5721,7 +5721,7 @@
         "total": 30,
         "reward": "Cash and 100% progress",
         "verified": true,
-        "image": "assets/img/collectible/gta-v/nuclear-waste.svg"
+        "image": "assets/img/collectible/gta-v/nuclear-waste.png"
       },
       {
         "id": "peyote-plants",
@@ -5739,7 +5739,7 @@
         "total": 50,
         "reward": "Unlocks the Space Docker vehicle",
         "verified": true,
-        "image": "assets/img/collectible/gta-v/spaceship-parts.svg"
+        "image": "assets/img/collectible/gta-v/spaceship-parts.jpg"
       },
       {
         "id": "stunt-jumps",
@@ -5748,7 +5748,7 @@
         "total": 50,
         "reward": "Cash and 100% progress",
         "verified": true,
-        "image": "assets/img/collectible/gta-v/stunt-jumps.svg"
+        "image": "assets/img/collectible/gta-v/stunt-jumps.png"
       }
     ]
   }

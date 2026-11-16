@@ -5,7 +5,7 @@
     "year": 2001,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T04:02:49.917Z",
+    "generated": "2026-11-16T05:22:52.799Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -2773,7 +2773,7 @@
         "parent": "Staunton Island",
         "summary": "Downtown district with the Liberty Tree offices.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/bedford-point.svg"
+        "image": "assets/img/location/gta-iii/bedford-point.png"
       },
       {
         "id": "belleville-park",
@@ -2782,7 +2782,7 @@
         "parent": "Staunton Island",
         "summary": "Central park area of Staunton.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/belleville-park.svg"
+        "image": "assets/img/location/gta-iii/belleville-park.png"
       },
       {
         "id": "cedar-grove",
@@ -2791,7 +2791,7 @@
         "parent": "Shoreside Vale",
         "summary": "Affluent hillside district with the Cartel mansion.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/cedar-grove.svg"
+        "image": "assets/img/location/gta-iii/cedar-grove.png"
       },
       {
         "id": "chinatown",
@@ -2809,7 +2809,7 @@
         "parent": "Shoreside Vale",
         "summary": "The dam where the final mission takes place.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/cochrane-dam.svg"
+        "image": "assets/img/location/gta-iii/cochrane-dam.png"
       },
       {
         "id": "francis-international-airport",
@@ -2818,7 +2818,7 @@
         "parent": "Shoreside Vale",
         "summary": "Airport used in A Drop in the Ocean and S.A.M.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/francis-international-airport.svg"
+        "image": "assets/img/location/gta-iii/francis-international-airport.png"
       },
       {
         "id": "harwood",
@@ -2827,7 +2827,7 @@
         "parent": "Portland",
         "summary": "Industrial area near the Callahan Bridge.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/harwood.svg"
+        "image": "assets/img/location/gta-iii/harwood.png"
       },
       {
         "id": "hephurn-heights",
@@ -2836,7 +2836,7 @@
         "parent": "Portland",
         "summary": "Diablos territory and El Burro's base.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/hephurn-heights.svg"
+        "image": "assets/img/location/gta-iii/hephurn-heights.png"
       },
       {
         "id": "liberty-city",
@@ -2854,7 +2854,7 @@
         "parent": "Shoreside Vale",
         "summary": "Residential area near the dam.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/pike-creek.svg"
+        "image": "assets/img/location/gta-iii/pike-creek.png"
       },
       {
         "id": "portland",
@@ -2863,7 +2863,7 @@
         "parent": "Liberty City",
         "summary": "Industrial starting island with the Leone heartland and the docks.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/portland.svg"
+        "image": "assets/img/location/gta-iii/portland.png"
       },
       {
         "id": "red-light-district",
@@ -2872,7 +2872,7 @@
         "parent": "Portland",
         "summary": "Luigi's Sex Club 7 and the early mission hub.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/red-light-district.svg"
+        "image": "assets/img/location/gta-iii/red-light-district.png"
       },
       {
         "id": "saint-marks",
@@ -2881,7 +2881,7 @@
         "parent": "Portland",
         "summary": "Leone family stronghold and Salvatore's mansion.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/saint-marks.svg"
+        "image": "assets/img/location/gta-iii/saint-marks.png"
       },
       {
         "id": "shoreside-vale",
@@ -2890,7 +2890,7 @@
         "parent": "Liberty City",
         "summary": "Suburban island with the airport, dam and Cochrane Dam finale.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/shoreside-vale.svg"
+        "image": "assets/img/location/gta-iii/shoreside-vale.png"
       },
       {
         "id": "staunton-island",
@@ -2899,7 +2899,7 @@
         "parent": "Liberty City",
         "summary": "Commercial and financial island, unlocked after Last Requests.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/staunton-island.svg"
+        "image": "assets/img/location/gta-iii/staunton-island.png"
       },
       {
         "id": "torrington",
@@ -2908,7 +2908,7 @@
         "parent": "Staunton Island",
         "summary": "Business district and Asuka's construction site.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/torrington.svg"
+        "image": "assets/img/location/gta-iii/torrington.png"
       },
       {
         "id": "trenton",
@@ -2917,7 +2917,7 @@
         "parent": "Portland",
         "summary": "Industrial district with Marty Chonks' dog food factory.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/trenton.svg"
+        "image": "assets/img/location/gta-iii/trenton.png"
       },
       {
         "id": "wichita-gardens",
@@ -2926,7 +2926,7 @@
         "parent": "Shoreside Vale",
         "summary": "Housing projects and Red Jacks territory.",
         "verified": true,
-        "image": "assets/img/location/gta-iii/wichita-gardens.svg"
+        "image": "assets/img/location/gta-iii/wichita-gardens.png"
       }
     ]
   },
@@ -2949,7 +2949,7 @@
         "total": 20,
         "reward": "Cash and weapon pickups",
         "verified": true,
-        "image": "assets/img/collectible/gta-iii/rampages.svg"
+        "image": "assets/img/collectible/gta-iii/rampages.jpg"
       },
       {
         "id": "unique-jumps",
@@ -2958,7 +2958,7 @@
         "total": 20,
         "reward": "Cash, counted toward 100% completion",
         "verified": false,
-        "image": "assets/img/collectible/gta-iii/unique-jumps.svg"
+        "image": "assets/img/collectible/gta-iii/unique-jumps.png"
       }
     ]
   }

@@ -12,7 +12,7 @@
       "total": 50,
       "reward": "Unlocks a murder-mystery side story",
       "verified": true,
-      "image": "assets/img/collectible/gta-v/letter-scraps.svg"
+      "image": "assets/img/collectible/gta-v/letter-scraps.png"
     },
     {
       "id": "monkey-mosaics",
@@ -21,7 +21,7 @@
       "total": 50,
       "reward": "Unlocks the Go Go Monkey Blista (enhanced editions)",
       "verified": false,
-      "image": "assets/img/collectible/gta-v/monkey-mosaics.svg"
+      "image": "assets/img/collectible/gta-v/monkey-mosaics.jpg"
     },
     {
       "id": "nuclear-waste",
@@ -30,7 +30,7 @@
       "total": 30,
       "reward": "Cash and 100% progress",
       "verified": true,
-      "image": "assets/img/collectible/gta-v/nuclear-waste.svg"
+      "image": "assets/img/collectible/gta-v/nuclear-waste.png"
     },
     {
       "id": "peyote-plants",
@@ -48,7 +48,7 @@
       "total": 50,
       "reward": "Unlocks the Space Docker vehicle",
       "verified": true,
-      "image": "assets/img/collectible/gta-v/spaceship-parts.svg"
+      "image": "assets/img/collectible/gta-v/spaceship-parts.jpg"
     },
     {
       "id": "stunt-jumps",
@@ -57,7 +57,7 @@
       "total": 50,
       "reward": "Cash and 100% progress",
       "verified": true,
-      "image": "assets/img/collectible/gta-v/stunt-jumps.svg"
+      "image": "assets/img/collectible/gta-v/stunt-jumps.png"
     }
   ]
 }

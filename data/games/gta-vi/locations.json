@@ -13,7 +13,7 @@
       "summary": "Rockstar-confirmed state inspired by Florida, the game's setting.",
       "verified": true,
       "source": "Rockstar Games GTA VI Trailer 1",
-      "image": "assets/img/location/gta-vi/leonida.svg"
+      "image": "assets/img/location/gta-vi/leonida.png"
     },
     {
       "id": "vice-city",
@@ -23,7 +23,7 @@
       "summary": "Rockstar-confirmed modern-day Vice City within Leonida.",
       "verified": true,
       "source": "Rockstar Games GTA VI Trailer 1",
-      "image": "assets/img/location/gta-vi/vice-city.svg"
+      "image": "assets/img/location/gta-vi/vice-city.jpg"
     }
   ]
 }

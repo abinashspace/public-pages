@@ -21,7 +21,7 @@
       "parent": "Liberty City",
       "summary": "The Lost MC clubhouse and main operating area.",
       "verified": true,
-      "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.svg"
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.png"
     },
     {
       "id": "algonquin",
@@ -30,7 +30,7 @@
       "parent": "Liberty City",
       "summary": "Manhattan analogue used for diamond-related missions.",
       "verified": true,
-      "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.svg"
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.jpg"
     },
     {
       "id": "bohan",
@@ -39,7 +39,7 @@
       "parent": "Liberty City",
       "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
       "verified": true,
-      "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.svg"
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.png"
     },
     {
       "id": "broker",
@@ -48,7 +48,7 @@
       "parent": "Liberty City",
       "summary": "Eastern borough visited during club business.",
       "verified": true,
-      "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.svg"
+      "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.png"
     },
     {
       "id": "liberty-city",

@@ -12,7 +12,7 @@
       "parent": "Portland",
       "summary": "Docks where Vincenzo operates.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/atlantic-quays.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/atlantic-quays.png"
     },
     {
       "id": "belleville-park",
@@ -21,7 +21,7 @@
       "parent": "Staunton Island",
       "summary": "Central park and mission location.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/belleville-park.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/belleville-park.png"
     },
     {
       "id": "chinatown",
@@ -48,7 +48,7 @@
       "parent": "Liberty City",
       "summary": "Industrial island and Leone heartland.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/portland.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/portland.png"
     },
     {
       "id": "red-light-district",
@@ -57,7 +57,7 @@
       "parent": "Portland",
       "summary": "Luigi's club and JD O'Toole's territory.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/red-light-district.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/red-light-district.png"
     },
     {
       "id": "saint-marks",
@@ -66,7 +66,7 @@
       "parent": "Portland",
       "summary": "Leone stronghold and Salvatore's mansion.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/saint-marks.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/saint-marks.png"
     },
     {
       "id": "shoreside-vale",
@@ -75,7 +75,7 @@
       "parent": "Liberty City",
       "summary": "Suburban island with the airport and dam.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/shoreside-vale.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/shoreside-vale.png"
     },
     {
       "id": "staunton-island",
@@ -84,7 +84,7 @@
       "parent": "Liberty City",
       "summary": "Commercial island with Belleville Park and Bedford Point.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/staunton-island.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/staunton-island.png"
     },
     {
       "id": "torrington",
@@ -93,7 +93,7 @@
       "parent": "Staunton Island",
       "summary": "Business district.",
       "verified": true,
-      "image": "assets/img/location/gta-liberty-city-stories/torrington.svg"
+      "image": "assets/img/location/gta-liberty-city-stories/torrington.png"
     }
   ]
 }

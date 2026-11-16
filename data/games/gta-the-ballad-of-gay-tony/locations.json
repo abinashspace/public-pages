@@ -12,7 +12,7 @@
       "parent": "Liberty City",
       "summary": "Industrial state across the river.",
       "verified": true,
-      "image": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.svg"
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/alderney.png"
     },
     {
       "id": "algonquin",
@@ -21,7 +21,7 @@
       "parent": "Liberty City",
       "summary": "Manhattan analogue and the club district.",
       "verified": true,
-      "image": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.svg"
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/algonquin.jpg"
     },
     {
       "id": "bohan",
@@ -30,7 +30,7 @@
       "parent": "Liberty City",
       "summary": "Northern borough, home turf of Luis's friends.",
       "verified": true,
-      "image": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.svg"
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/bohan.png"
     },
     {
       "id": "hercules",
@@ -39,7 +39,7 @@
       "parent": "Algonquin",
       "summary": "Tony's second club.",
       "verified": true,
-      "image": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.svg"
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/hercules.png"
     },
     {
       "id": "liberty-city",
@@ -66,7 +66,7 @@
       "parent": "Algonquin",
       "summary": "Central park used in Yusuf's missions.",
       "verified": true,
-      "image": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.svg"
+      "image": "assets/img/location/gta-the-ballad-of-gay-tony/middle-park.png"
     }
   ]
 }
