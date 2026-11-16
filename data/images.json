@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T05:22:52.688Z",
+  "generated": "2026-11-16T06:00:22.880Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [
@@ -1185,10 +1185,10 @@
       "game": "gta",
       "id": "29-special",
       "record": "29-special",
-      "path": "assets/img/vehicle/gta/29-special.svg",
+      "path": "assets/img/vehicle/gta/29-special.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "29 Special"
     },
     {
@@ -1196,10 +1196,10 @@
       "game": "gta",
       "id": "4-x-4",
       "record": "4-x-4",
-      "path": "assets/img/vehicle/gta/4-x-4.svg",
+      "path": "assets/img/vehicle/gta/4-x-4.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "4 x 4"
     },
     {
@@ -1207,10 +1207,10 @@
       "game": "gta",
       "id": "ambulance",
       "record": "ambulance",
-      "path": "assets/img/vehicle/gta/ambulance.svg",
+      "path": "assets/img/vehicle/gta/ambulance.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ambulance"
     },
     {
@@ -1229,10 +1229,10 @@
       "game": "gta",
       "id": "beast-gts",
       "record": "beast-gts",
-      "path": "assets/img/vehicle/gta/beast-gts.svg",
+      "path": "assets/img/vehicle/gta/beast-gts.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Beast GTS"
     },
     {
@@ -1240,10 +1240,10 @@
       "game": "gta",
       "id": "bike",
       "record": "bike",
-      "path": "assets/img/vehicle/gta/bike.svg",
+      "path": "assets/img/vehicle/gta/bike.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bike"
     },
     {
@@ -1251,10 +1251,10 @@
       "game": "gta",
       "id": "boat",
       "record": "boat",
-      "path": "assets/img/vehicle/gta/boat.svg",
+      "path": "assets/img/vehicle/gta/boat.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Boat"
     },
     {
@@ -1262,10 +1262,10 @@
       "game": "gta",
       "id": "brigham",
       "record": "brigham",
-      "path": "assets/img/vehicle/gta/brigham.svg",
+      "path": "assets/img/vehicle/gta/brigham.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Brigham"
     },
     {
@@ -1273,10 +1273,10 @@
       "game": "gta",
       "id": "bug",
       "record": "bug",
-      "path": "assets/img/vehicle/gta/bug.svg",
+      "path": "assets/img/vehicle/gta/bug.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bug"
     },
     {
@@ -1284,10 +1284,10 @@
       "game": "gta",
       "id": "bulldog",
       "record": "bulldog",
-      "path": "assets/img/vehicle/gta/bulldog.svg",
+      "path": "assets/img/vehicle/gta/bulldog.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bulldog"
     },
     {
@@ -1295,10 +1295,10 @@
       "game": "gta",
       "id": "bus",
       "record": "bus",
-      "path": "assets/img/vehicle/gta/bus.svg",
+      "path": "assets/img/vehicle/gta/bus.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bus"
     },
     {
@@ -1306,10 +1306,10 @@
       "game": "gta",
       "id": "challenger",
       "record": "challenger",
-      "path": "assets/img/vehicle/gta/challenger.svg",
+      "path": "assets/img/vehicle/gta/challenger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Challenger"
     },
     {
@@ -1328,10 +1328,10 @@
       "game": "gta",
       "id": "classic",
       "record": "classic",
-      "path": "assets/img/vehicle/gta/classic.svg",
+      "path": "assets/img/vehicle/gta/classic.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Classic"
     },
     {
@@ -1339,10 +1339,10 @@
       "game": "gta",
       "id": "coach",
       "record": "coach",
-      "path": "assets/img/vehicle/gta/coach.svg",
+      "path": "assets/img/vehicle/gta/coach.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Coach"
     },
     {
@@ -1350,10 +1350,10 @@
       "game": "gta",
       "id": "cossie",
       "record": "cossie",
-      "path": "assets/img/vehicle/gta/cossie.svg",
+      "path": "assets/img/vehicle/gta/cossie.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Cossie"
     },
     {
@@ -1361,10 +1361,10 @@
       "game": "gta",
       "id": "counthash",
       "record": "counthash",
-      "path": "assets/img/vehicle/gta/counthash.svg",
+      "path": "assets/img/vehicle/gta/counthash.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Counthash"
     },
     {
@@ -1372,10 +1372,10 @@
       "game": "gta",
       "id": "f-19",
       "record": "f-19",
-      "path": "assets/img/vehicle/gta/f-19.svg",
+      "path": "assets/img/vehicle/gta/f-19.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "F-19"
     },
     {
@@ -1383,10 +1383,10 @@
       "game": "gta",
       "id": "fire-truck",
       "record": "fire-truck",
-      "path": "assets/img/vehicle/gta/fire-truck.svg",
+      "path": "assets/img/vehicle/gta/fire-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fire Truck"
     },
     {
@@ -1394,10 +1394,10 @@
       "game": "gta",
       "id": "flamer",
       "record": "flamer",
-      "path": "assets/img/vehicle/gta/flamer.svg",
+      "path": "assets/img/vehicle/gta/flamer.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Flamer"
     },
     {
@@ -1405,10 +1405,10 @@
       "game": "gta",
       "id": "helicopter",
       "record": "helicopter",
-      "path": "assets/img/vehicle/gta/helicopter.svg",
+      "path": "assets/img/vehicle/gta/helicopter.jpg",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Helicopter"
     },
     {
@@ -1416,10 +1416,10 @@
       "game": "gta",
       "id": "hotrod",
       "record": "hotrod",
-      "path": "assets/img/vehicle/gta/hotrod.svg",
+      "path": "assets/img/vehicle/gta/hotrod.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hotrod"
     },
     {
@@ -1427,10 +1427,10 @@
       "game": "gta",
       "id": "impaler",
       "record": "impaler",
-      "path": "assets/img/vehicle/gta/impaler.svg",
+      "path": "assets/img/vehicle/gta/impaler.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Impaler"
     },
     {
@@ -1438,10 +1438,10 @@
       "game": "gta",
       "id": "itali",
       "record": "itali",
-      "path": "assets/img/vehicle/gta/itali.svg",
+      "path": "assets/img/vehicle/gta/itali.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Itali"
     },
     {
@@ -1449,10 +1449,10 @@
       "game": "gta",
       "id": "itali-gtb",
       "record": "itali-gtb",
-      "path": "assets/img/vehicle/gta/itali-gtb.svg",
+      "path": "assets/img/vehicle/gta/itali-gtb.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Itali GTB"
     },
     {
@@ -1460,10 +1460,10 @@
       "game": "gta",
       "id": "itali-gto",
       "record": "itali-gto",
-      "path": "assets/img/vehicle/gta/itali-gto.svg",
+      "path": "assets/img/vehicle/gta/itali-gto.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Itali GTO"
     },
     {
@@ -1471,10 +1471,10 @@
       "game": "gta",
       "id": "juggernaut",
       "record": "juggernaut",
-      "path": "assets/img/vehicle/gta/juggernaut.svg",
+      "path": "assets/img/vehicle/gta/juggernaut.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Juggernaut"
     },
     {
@@ -1482,10 +1482,10 @@
       "game": "gta",
       "id": "jugular",
       "record": "jugular",
-      "path": "assets/img/vehicle/gta/jugular.svg",
+      "path": "assets/img/vehicle/gta/jugular.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jugular"
     },
     {
@@ -1493,10 +1493,10 @@
       "game": "gta",
       "id": "lebonham",
       "record": "lebonham",
-      "path": "assets/img/vehicle/gta/lebonham.svg",
+      "path": "assets/img/vehicle/gta/lebonham.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "LeBonham"
     },
     {
@@ -1504,10 +1504,10 @@
       "game": "gta",
       "id": "limousine",
       "record": "limousine",
-      "path": "assets/img/vehicle/gta/limousine.svg",
+      "path": "assets/img/vehicle/gta/limousine.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Limousine"
     },
     {
@@ -1515,10 +1515,10 @@
       "game": "gta",
       "id": "love-wagon",
       "record": "love-wagon",
-      "path": "assets/img/vehicle/gta/love-wagon.svg",
+      "path": "assets/img/vehicle/gta/love-wagon.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Love Wagon"
     },
     {
@@ -1526,10 +1526,10 @@
       "game": "gta",
       "id": "mamba",
       "record": "mamba",
-      "path": "assets/img/vehicle/gta/mamba.svg",
+      "path": "assets/img/vehicle/gta/mamba.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mamba"
     },
     {
@@ -1537,10 +1537,10 @@
       "game": "gta",
       "id": "model-car",
       "record": "model-car",
-      "path": "assets/img/vehicle/gta/model-car.svg",
+      "path": "assets/img/vehicle/gta/model-car.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Model Car"
     },
     {
@@ -1548,10 +1548,10 @@
       "game": "gta",
       "id": "monster-bug",
       "record": "monster-bug",
-      "path": "assets/img/vehicle/gta/monster-bug.svg",
+      "path": "assets/img/vehicle/gta/monster-bug.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Monster Bug"
     },
     {
@@ -1559,10 +1559,10 @@
       "game": "gta",
       "id": "mundano",
       "record": "mundano",
-      "path": "assets/img/vehicle/gta/mundano.svg",
+      "path": "assets/img/vehicle/gta/mundano.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mundano"
     },
     {
@@ -1570,10 +1570,10 @@
       "game": "gta",
       "id": "panther",
       "record": "panther",
-      "path": "assets/img/vehicle/gta/panther.svg",
+      "path": "assets/img/vehicle/gta/panther.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Panther"
     },
     {
@@ -1581,10 +1581,10 @@
       "game": "gta",
       "id": "penetrator",
       "record": "penetrator",
-      "path": "assets/img/vehicle/gta/penetrator.svg",
+      "path": "assets/img/vehicle/gta/penetrator.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Penetrator"
     },
     {
@@ -1592,10 +1592,10 @@
       "game": "gta",
       "id": "pickup",
       "record": "pickup",
-      "path": "assets/img/vehicle/gta/pickup.svg",
+      "path": "assets/img/vehicle/gta/pickup.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Pickup"
     },
     {
@@ -1614,10 +1614,10 @@
       "game": "gta",
       "id": "porka",
       "record": "porka",
-      "path": "assets/img/vehicle/gta/porka.svg",
+      "path": "assets/img/vehicle/gta/porka.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Porka"
     },
     {
@@ -1625,10 +1625,10 @@
       "game": "gta",
       "id": "porka-turbo",
       "record": "porka-turbo",
-      "path": "assets/img/vehicle/gta/porka-turbo.svg",
+      "path": "assets/img/vehicle/gta/porka-turbo.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Porka Turbo"
     },
     {
@@ -1636,10 +1636,10 @@
       "game": "gta",
       "id": "portsmouth",
       "record": "portsmouth",
-      "path": "assets/img/vehicle/gta/portsmouth.svg",
+      "path": "assets/img/vehicle/gta/portsmouth.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Portsmouth"
     },
     {
@@ -1647,10 +1647,10 @@
       "game": "gta",
       "id": "regal",
       "record": "regal",
-      "path": "assets/img/vehicle/gta/regal.svg",
+      "path": "assets/img/vehicle/gta/regal.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Regal"
     },
     {
@@ -1658,10 +1658,10 @@
       "game": "gta",
       "id": "repair-van",
       "record": "repair-van",
-      "path": "assets/img/vehicle/gta/repair-van.svg",
+      "path": "assets/img/vehicle/gta/repair-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Repair Van"
     },
     {
@@ -1669,10 +1669,10 @@
       "game": "gta",
       "id": "roadster",
       "record": "roadster",
-      "path": "assets/img/vehicle/gta/roadster.svg",
+      "path": "assets/img/vehicle/gta/roadster.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Roadster"
     },
     {
@@ -1680,10 +1680,10 @@
       "game": "gta",
       "id": "speeder",
       "record": "speeder",
-      "path": "assets/img/vehicle/gta/speeder.svg",
+      "path": "assets/img/vehicle/gta/speeder.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Speeder"
     },
     {
@@ -1691,10 +1691,10 @@
       "game": "gta",
       "id": "squad-car",
       "record": "squad-car",
-      "path": "assets/img/vehicle/gta/squad-car.svg",
+      "path": "assets/img/vehicle/gta/squad-car.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Squad Car"
     },
     {
@@ -1702,10 +1702,10 @@
       "game": "gta",
       "id": "stallion",
       "record": "stallion",
-      "path": "assets/img/vehicle/gta/stallion.svg",
+      "path": "assets/img/vehicle/gta/stallion.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stallion"
     },
     {
@@ -1713,10 +1713,10 @@
       "game": "gta",
       "id": "stinger",
       "record": "stinger",
-      "path": "assets/img/vehicle/gta/stinger.svg",
+      "path": "assets/img/vehicle/gta/stinger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stinger"
     },
     {
@@ -1724,10 +1724,10 @@
       "game": "gta",
       "id": "stinger-z29",
       "record": "stinger-z29",
-      "path": "assets/img/vehicle/gta/stinger-z29.svg",
+      "path": "assets/img/vehicle/gta/stinger-z29.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stinger Z29"
     },
     {
@@ -1735,10 +1735,10 @@
       "game": "gta",
       "id": "superbike",
       "record": "superbike",
-      "path": "assets/img/vehicle/gta/superbike.svg",
+      "path": "assets/img/vehicle/gta/superbike.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Superbike"
     },
     {
@@ -1746,10 +1746,10 @@
       "game": "gta",
       "id": "tank",
       "record": "tank",
-      "path": "assets/img/vehicle/gta/tank.svg",
+      "path": "assets/img/vehicle/gta/tank.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tank"
     },
     {
@@ -1757,10 +1757,10 @@
       "game": "gta",
       "id": "tanker",
       "record": "tanker",
-      "path": "assets/img/vehicle/gta/tanker.svg",
+      "path": "assets/img/vehicle/gta/tanker.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tanker"
     },
     {
@@ -1768,10 +1768,10 @@
       "game": "gta",
       "id": "taxi",
       "record": "taxi",
-      "path": "assets/img/vehicle/gta/taxi.svg",
+      "path": "assets/img/vehicle/gta/taxi.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Taxi"
     },
     {
@@ -1779,10 +1779,10 @@
       "game": "gta",
       "id": "thunderhead",
       "record": "thunderhead",
-      "path": "assets/img/vehicle/gta/thunderhead.svg",
+      "path": "assets/img/vehicle/gta/thunderhead.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Thunderhead"
     },
     {
@@ -1790,10 +1790,10 @@
       "game": "gta",
       "id": "train",
       "record": "train",
-      "path": "assets/img/vehicle/gta/train.svg",
+      "path": "assets/img/vehicle/gta/train.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Train"
     },
     {
@@ -1801,10 +1801,10 @@
       "game": "gta",
       "id": "tram",
       "record": "tram",
-      "path": "assets/img/vehicle/gta/tram.svg",
+      "path": "assets/img/vehicle/gta/tram.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tram"
     },
     {
@@ -1812,10 +1812,10 @@
       "game": "gta",
       "id": "transit-van",
       "record": "transit-van",
-      "path": "assets/img/vehicle/gta/transit-van.svg",
+      "path": "assets/img/vehicle/gta/transit-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Transit Van"
     },
     {
@@ -1823,10 +1823,10 @@
       "game": "gta",
       "id": "tv-van",
       "record": "tv-van",
-      "path": "assets/img/vehicle/gta/tv-van.svg",
+      "path": "assets/img/vehicle/gta/tv-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "TV Van"
     },
     {
@@ -1834,10 +1834,10 @@
       "game": "gta",
       "id": "vulture",
       "record": "vulture",
-      "path": "assets/img/vehicle/gta/vulture.svg",
+      "path": "assets/img/vehicle/gta/vulture.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Vulture"
     },
     {
@@ -2945,10 +2945,10 @@
       "game": "gta-london-1969",
       "id": "ambulance",
       "record": "ambulance",
-      "path": "assets/img/vehicle/gta-london-1969/ambulance.svg",
+      "path": "assets/img/vehicle/gta-london-1969/ambulance.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ambulance"
     },
     {
@@ -2956,10 +2956,10 @@
       "game": "gta-london-1969",
       "id": "beagle-3",
       "record": "beagle-3",
-      "path": "assets/img/vehicle/gta-london-1969/beagle-3.svg",
+      "path": "assets/img/vehicle/gta-london-1969/beagle-3.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Beagle 3"
     },
     {
@@ -2967,10 +2967,10 @@
       "game": "gta-london-1969",
       "id": "bike",
       "record": "bike",
-      "path": "assets/img/vehicle/gta-london-1969/bike.svg",
+      "path": "assets/img/vehicle/gta-london-1969/bike.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bike"
     },
     {
@@ -2978,10 +2978,10 @@
       "game": "gta-london-1969",
       "id": "bug",
       "record": "bug",
-      "path": "assets/img/vehicle/gta-london-1969/bug.svg",
+      "path": "assets/img/vehicle/gta-london-1969/bug.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bug"
     },
     {
@@ -2989,10 +2989,10 @@
       "game": "gta-london-1969",
       "id": "camper",
       "record": "camper",
-      "path": "assets/img/vehicle/gta-london-1969/camper.svg",
+      "path": "assets/img/vehicle/gta-london-1969/camper.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Camper"
     },
     {
@@ -3011,10 +3011,10 @@
       "game": "gta-london-1969",
       "id": "coach",
       "record": "coach",
-      "path": "assets/img/vehicle/gta-london-1969/coach.svg",
+      "path": "assets/img/vehicle/gta-london-1969/coach.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Coach"
     },
     {
@@ -3022,10 +3022,10 @@
       "game": "gta-london-1969",
       "id": "copper",
       "record": "copper",
-      "path": "assets/img/vehicle/gta-london-1969/copper.svg",
+      "path": "assets/img/vehicle/gta-london-1969/copper.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Copper"
     },
     {
@@ -3033,10 +3033,10 @@
       "game": "gta-london-1969",
       "id": "crapi",
       "record": "crapi",
-      "path": "assets/img/vehicle/gta-london-1969/crapi.svg",
+      "path": "assets/img/vehicle/gta-london-1969/crapi.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Crapi"
     },
     {
@@ -3044,10 +3044,10 @@
       "game": "gta-london-1969",
       "id": "double-decker",
       "record": "double-decker",
-      "path": "assets/img/vehicle/gta-london-1969/double-decker.svg",
+      "path": "assets/img/vehicle/gta-london-1969/double-decker.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Double Decker"
     },
     {
@@ -3066,10 +3066,10 @@
       "game": "gta-london-1969",
       "id": "fat",
       "record": "fat",
-      "path": "assets/img/vehicle/gta-london-1969/fat.svg",
+      "path": "assets/img/vehicle/gta-london-1969/fat.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fat"
     },
     {
@@ -3077,10 +3077,10 @@
       "game": "gta-london-1969",
       "id": "ferocious-gto",
       "record": "ferocious-gto",
-      "path": "assets/img/vehicle/gta-london-1969/ferocious-gto.svg",
+      "path": "assets/img/vehicle/gta-london-1969/ferocious-gto.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ferocious GTO"
     },
     {
@@ -3088,10 +3088,10 @@
       "game": "gta-london-1969",
       "id": "fire-truck",
       "record": "fire-truck",
-      "path": "assets/img/vehicle/gta-london-1969/fire-truck.svg",
+      "path": "assets/img/vehicle/gta-london-1969/fire-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fire Truck"
     },
     {
@@ -3099,10 +3099,10 @@
       "game": "gta-london-1969",
       "id": "flatbed",
       "record": "flatbed",
-      "path": "assets/img/vehicle/gta-london-1969/flatbed.svg",
+      "path": "assets/img/vehicle/gta-london-1969/flatbed.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Flatbed"
     },
     {
@@ -3110,10 +3110,10 @@
       "game": "gta-london-1969",
       "id": "garden-shed",
       "record": "garden-shed",
-      "path": "assets/img/vehicle/gta-london-1969/garden-shed.svg",
+      "path": "assets/img/vehicle/gta-london-1969/garden-shed.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Garden Shed"
     },
     {
@@ -3121,10 +3121,10 @@
       "game": "gta-london-1969",
       "id": "harold",
       "record": "harold",
-      "path": "assets/img/vehicle/gta-london-1969/harold.svg",
+      "path": "assets/img/vehicle/gta-london-1969/harold.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Harold"
     },
     {
@@ -3132,10 +3132,10 @@
       "game": "gta-london-1969",
       "id": "icbm",
       "record": "icbm",
-      "path": "assets/img/vehicle/gta-london-1969/icbm.svg",
+      "path": "assets/img/vehicle/gta-london-1969/icbm.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "ICBM"
     },
     {
@@ -3154,10 +3154,10 @@
       "game": "gta-london-1969",
       "id": "james-bomb",
       "record": "james-bomb",
-      "path": "assets/img/vehicle/gta-london-1969/james-bomb.svg",
+      "path": "assets/img/vehicle/gta-london-1969/james-bomb.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "James Bomb"
     },
     {
@@ -3165,10 +3165,10 @@
       "game": "gta-london-1969",
       "id": "jug-mkii",
       "record": "jug-mkii",
-      "path": "assets/img/vehicle/gta-london-1969/jug-mkii.svg",
+      "path": "assets/img/vehicle/gta-london-1969/jug-mkii.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jug MkII"
     },
     {
@@ -3176,10 +3176,10 @@
       "game": "gta-london-1969",
       "id": "jug-swinger",
       "record": "jug-swinger",
-      "path": "assets/img/vehicle/gta-london-1969/jug-swinger.svg",
+      "path": "assets/img/vehicle/gta-london-1969/jug-swinger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jug Swinger"
     },
     {
@@ -3187,10 +3187,10 @@
       "game": "gta-london-1969",
       "id": "jugular-e",
       "record": "jugular-e",
-      "path": "assets/img/vehicle/gta-london-1969/jugular-e.svg",
+      "path": "assets/img/vehicle/gta-london-1969/jugular-e.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jugular E"
     },
     {
@@ -3198,10 +3198,10 @@
       "game": "gta-london-1969",
       "id": "locust",
       "record": "locust",
-      "path": "assets/img/vehicle/gta-london-1969/locust.svg",
+      "path": "assets/img/vehicle/gta-london-1969/locust.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Locust"
     },
     {
@@ -3209,10 +3209,10 @@
       "game": "gta-london-1969",
       "id": "london-cab",
       "record": "london-cab",
-      "path": "assets/img/vehicle/gta-london-1969/london-cab.svg",
+      "path": "assets/img/vehicle/gta-london-1969/london-cab.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "London Cab"
     },
     {
@@ -3220,10 +3220,10 @@
       "game": "gta-london-1969",
       "id": "mangler",
       "record": "mangler",
-      "path": "assets/img/vehicle/gta-london-1969/mangler.svg",
+      "path": "assets/img/vehicle/gta-london-1969/mangler.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mangler"
     },
     {
@@ -3231,10 +3231,10 @@
       "game": "gta-london-1969",
       "id": "mc-hamper",
       "record": "mc-hamper",
-      "path": "assets/img/vehicle/gta-london-1969/mc-hamper.svg",
+      "path": "assets/img/vehicle/gta-london-1969/mc-hamper.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "MC Hamper"
     },
     {
@@ -3253,10 +3253,10 @@
       "game": "gta-london-1969",
       "id": "mod-scooter",
       "record": "mod-scooter",
-      "path": "assets/img/vehicle/gta-london-1969/mod-scooter.svg",
+      "path": "assets/img/vehicle/gta-london-1969/mod-scooter.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mod Scooter"
     },
     {
@@ -3264,10 +3264,10 @@
       "game": "gta-london-1969",
       "id": "myni",
       "record": "myni",
-      "path": "assets/img/vehicle/gta-london-1969/myni.svg",
+      "path": "assets/img/vehicle/gta-london-1969/myni.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Myni"
     },
     {
@@ -3286,10 +3286,10 @@
       "game": "gta-london-1969",
       "id": "ranger",
       "record": "ranger",
-      "path": "assets/img/vehicle/gta-london-1969/ranger.svg",
+      "path": "assets/img/vehicle/gta-london-1969/ranger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ranger"
     },
     {
@@ -3297,10 +3297,10 @@
       "game": "gta-london-1969",
       "id": "raver",
       "record": "raver",
-      "path": "assets/img/vehicle/gta-london-1969/raver.svg",
+      "path": "assets/img/vehicle/gta-london-1969/raver.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Raver"
     },
     {
@@ -3308,10 +3308,10 @@
       "game": "gta-london-1969",
       "id": "reno-17tl",
       "record": "reno-17tl",
-      "path": "assets/img/vehicle/gta-london-1969/reno-17tl.svg",
+      "path": "assets/img/vehicle/gta-london-1969/reno-17tl.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Reno 17TL"
     },
     {
@@ -3319,10 +3319,10 @@
       "game": "gta-london-1969",
       "id": "royal-pain",
       "record": "royal-pain",
-      "path": "assets/img/vehicle/gta-london-1969/royal-pain.svg",
+      "path": "assets/img/vehicle/gta-london-1969/royal-pain.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Royal Pain"
     },
     {
@@ -3330,10 +3330,10 @@
       "game": "gta-london-1969",
       "id": "royal-stretch",
       "record": "royal-stretch",
-      "path": "assets/img/vehicle/gta-london-1969/royal-stretch.svg",
+      "path": "assets/img/vehicle/gta-london-1969/royal-stretch.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Royal Stretch"
     },
     {
@@ -3341,10 +3341,10 @@
       "game": "gta-london-1969",
       "id": "s-cart",
       "record": "s-cart",
-      "path": "assets/img/vehicle/gta-london-1969/s-cart.svg",
+      "path": "assets/img/vehicle/gta-london-1969/s-cart.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "S-Cart"
     },
     {
@@ -3352,10 +3352,10 @@
       "game": "gta-london-1969",
       "id": "squealey",
       "record": "squealey",
-      "path": "assets/img/vehicle/gta-london-1969/squealey.svg",
+      "path": "assets/img/vehicle/gta-london-1969/squealey.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Squealey"
     },
     {
@@ -3363,10 +3363,10 @@
       "game": "gta-london-1969",
       "id": "sweets-van",
       "record": "sweets-van",
-      "path": "assets/img/vehicle/gta-london-1969/sweets-van.svg",
+      "path": "assets/img/vehicle/gta-london-1969/sweets-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Sweets Van"
     },
     {
@@ -3374,10 +3374,10 @@
       "game": "gta-london-1969",
       "id": "tanker",
       "record": "tanker",
-      "path": "assets/img/vehicle/gta-london-1969/tanker.svg",
+      "path": "assets/img/vehicle/gta-london-1969/tanker.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tanker"
     },
     {
@@ -3385,10 +3385,10 @@
       "game": "gta-london-1969",
       "id": "tour-bus",
       "record": "tour-bus",
-      "path": "assets/img/vehicle/gta-london-1969/tour-bus.svg",
+      "path": "assets/img/vehicle/gta-london-1969/tour-bus.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tour Bus"
     },
     {
@@ -3396,10 +3396,10 @@
       "game": "gta-london-1969",
       "id": "wheelchair",
       "record": "wheelchair",
-      "path": "assets/img/vehicle/gta-london-1969/wheelchair.svg",
+      "path": "assets/img/vehicle/gta-london-1969/wheelchair.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Wheelchair"
     },
     {
@@ -3979,10 +3979,10 @@
       "game": "gta-london-1961",
       "id": "ambulance",
       "record": "ambulance",
-      "path": "assets/img/vehicle/gta-london-1961/ambulance.svg",
+      "path": "assets/img/vehicle/gta-london-1961/ambulance.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ambulance"
     },
     {
@@ -3990,10 +3990,10 @@
       "game": "gta-london-1961",
       "id": "beagle-3",
       "record": "beagle-3",
-      "path": "assets/img/vehicle/gta-london-1961/beagle-3.svg",
+      "path": "assets/img/vehicle/gta-london-1961/beagle-3.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Beagle 3"
     },
     {
@@ -4001,10 +4001,10 @@
       "game": "gta-london-1961",
       "id": "bentover",
       "record": "bentover",
-      "path": "assets/img/vehicle/gta-london-1961/bentover.svg",
+      "path": "assets/img/vehicle/gta-london-1961/bentover.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bentover"
     },
     {
@@ -4012,10 +4012,10 @@
       "game": "gta-london-1961",
       "id": "big-bends",
       "record": "big-bends",
-      "path": "assets/img/vehicle/gta-london-1961/big-bends.svg",
+      "path": "assets/img/vehicle/gta-london-1961/big-bends.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Big Bends"
     },
     {
@@ -4023,10 +4023,10 @@
       "game": "gta-london-1961",
       "id": "bike",
       "record": "bike",
-      "path": "assets/img/vehicle/gta-london-1961/bike.svg",
+      "path": "assets/img/vehicle/gta-london-1961/bike.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bike"
     },
     {
@@ -4034,10 +4034,10 @@
       "game": "gta-london-1961",
       "id": "camper",
       "record": "camper",
-      "path": "assets/img/vehicle/gta-london-1961/camper.svg",
+      "path": "assets/img/vehicle/gta-london-1961/camper.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Camper"
     },
     {
@@ -4056,10 +4056,10 @@
       "game": "gta-london-1961",
       "id": "copper",
       "record": "copper",
-      "path": "assets/img/vehicle/gta-london-1961/copper.svg",
+      "path": "assets/img/vehicle/gta-london-1961/copper.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Copper"
     },
     {
@@ -4067,10 +4067,10 @@
       "game": "gta-london-1961",
       "id": "double-decker",
       "record": "double-decker",
-      "path": "assets/img/vehicle/gta-london-1961/double-decker.svg",
+      "path": "assets/img/vehicle/gta-london-1961/double-decker.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Double Decker"
     },
     {
@@ -4089,10 +4089,10 @@
       "game": "gta-london-1961",
       "id": "fab",
       "record": "fab",
-      "path": "assets/img/vehicle/gta-london-1961/fab.svg",
+      "path": "assets/img/vehicle/gta-london-1961/fab.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fab"
     },
     {
@@ -4100,10 +4100,10 @@
       "game": "gta-london-1961",
       "id": "fat",
       "record": "fat",
-      "path": "assets/img/vehicle/gta-london-1961/fat.svg",
+      "path": "assets/img/vehicle/gta-london-1961/fat.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fat"
     },
     {
@@ -4111,10 +4111,10 @@
       "game": "gta-london-1961",
       "id": "ferocious-250",
       "record": "ferocious-250",
-      "path": "assets/img/vehicle/gta-london-1961/ferocious-250.svg",
+      "path": "assets/img/vehicle/gta-london-1961/ferocious-250.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ferocious 250"
     },
     {
@@ -4122,10 +4122,10 @@
       "game": "gta-london-1961",
       "id": "ferocious-312",
       "record": "ferocious-312",
-      "path": "assets/img/vehicle/gta-london-1961/ferocious-312.svg",
+      "path": "assets/img/vehicle/gta-london-1961/ferocious-312.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ferocious 312"
     },
     {
@@ -4133,10 +4133,10 @@
       "game": "gta-london-1961",
       "id": "fire-truck",
       "record": "fire-truck",
-      "path": "assets/img/vehicle/gta-london-1961/fire-truck.svg",
+      "path": "assets/img/vehicle/gta-london-1961/fire-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fire Truck"
     },
     {
@@ -4144,10 +4144,10 @@
       "game": "gta-london-1961",
       "id": "garden-shed",
       "record": "garden-shed",
-      "path": "assets/img/vehicle/gta-london-1961/garden-shed.svg",
+      "path": "assets/img/vehicle/gta-london-1961/garden-shed.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Garden Shed"
     },
     {
@@ -4155,10 +4155,10 @@
       "game": "gta-london-1961",
       "id": "jug-d-type",
       "record": "jug-d-type",
-      "path": "assets/img/vehicle/gta-london-1961/jug-d-type.svg",
+      "path": "assets/img/vehicle/gta-london-1961/jug-d-type.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jug D Type"
     },
     {
@@ -4166,10 +4166,10 @@
       "game": "gta-london-1961",
       "id": "jug-swinger",
       "record": "jug-swinger",
-      "path": "assets/img/vehicle/gta-london-1961/jug-swinger.svg",
+      "path": "assets/img/vehicle/gta-london-1961/jug-swinger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jug Swinger"
     },
     {
@@ -4177,10 +4177,10 @@
       "game": "gta-london-1961",
       "id": "lewd-lorry",
       "record": "lewd-lorry",
-      "path": "assets/img/vehicle/gta-london-1961/lewd-lorry.svg",
+      "path": "assets/img/vehicle/gta-london-1961/lewd-lorry.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Lewd Lorry"
     },
     {
@@ -4188,10 +4188,10 @@
       "game": "gta-london-1961",
       "id": "london-cab",
       "record": "london-cab",
-      "path": "assets/img/vehicle/gta-london-1961/london-cab.svg",
+      "path": "assets/img/vehicle/gta-london-1961/london-cab.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "London Cab"
     },
     {
@@ -4199,10 +4199,10 @@
       "game": "gta-london-1961",
       "id": "mcmk2",
       "record": "mcmk2",
-      "path": "assets/img/vehicle/gta-london-1961/mcmk2.svg",
+      "path": "assets/img/vehicle/gta-london-1961/mcmk2.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "MCMK2"
     },
     {
@@ -4221,10 +4221,10 @@
       "game": "gta-london-1961",
       "id": "mod-scooter",
       "record": "mod-scooter",
-      "path": "assets/img/vehicle/gta-london-1961/mod-scooter.svg",
+      "path": "assets/img/vehicle/gta-london-1961/mod-scooter.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Mod Scooter"
     },
     {
@@ -4232,10 +4232,10 @@
       "game": "gta-london-1961",
       "id": "myni",
       "record": "myni",
-      "path": "assets/img/vehicle/gta-london-1961/myni.svg",
+      "path": "assets/img/vehicle/gta-london-1961/myni.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Myni"
     },
     {
@@ -4254,10 +4254,10 @@
       "game": "gta-london-1961",
       "id": "porka-910",
       "record": "porka-910",
-      "path": "assets/img/vehicle/gta-london-1961/porka-910.svg",
+      "path": "assets/img/vehicle/gta-london-1961/porka-910.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Porka 910"
     },
     {
@@ -4265,10 +4265,10 @@
       "game": "gta-london-1961",
       "id": "potato-truck",
       "record": "potato-truck",
-      "path": "assets/img/vehicle/gta-london-1961/potato-truck.svg",
+      "path": "assets/img/vehicle/gta-london-1961/potato-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Potato Truck"
     },
     {
@@ -4276,10 +4276,10 @@
       "game": "gta-london-1961",
       "id": "ranger",
       "record": "ranger",
-      "path": "assets/img/vehicle/gta-london-1961/ranger.svg",
+      "path": "assets/img/vehicle/gta-london-1961/ranger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ranger"
     },
     {
@@ -4298,10 +4298,10 @@
       "game": "gta-london-1961",
       "id": "safari",
       "record": "safari",
-      "path": "assets/img/vehicle/gta-london-1961/safari.svg",
+      "path": "assets/img/vehicle/gta-london-1961/safari.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Safari"
     },
     {
@@ -4309,10 +4309,10 @@
       "game": "gta-london-1961",
       "id": "spider",
       "record": "spider",
-      "path": "assets/img/vehicle/gta-london-1961/spider.svg",
+      "path": "assets/img/vehicle/gta-london-1961/spider.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Spider"
     },
     {
@@ -4320,10 +4320,10 @@
       "game": "gta-london-1961",
       "id": "squealey",
       "record": "squealey",
-      "path": "assets/img/vehicle/gta-london-1961/squealey.svg",
+      "path": "assets/img/vehicle/gta-london-1961/squealey.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Squealey"
     },
     {
@@ -4331,10 +4331,10 @@
       "game": "gta-london-1961",
       "id": "sweets-van",
       "record": "sweets-van",
-      "path": "assets/img/vehicle/gta-london-1961/sweets-van.svg",
+      "path": "assets/img/vehicle/gta-london-1961/sweets-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Sweets Van"
     },
     {
@@ -4342,10 +4342,10 @@
       "game": "gta-london-1961",
       "id": "tiger-tank",
       "record": "tiger-tank",
-      "path": "assets/img/vehicle/gta-london-1961/tiger-tank.svg",
+      "path": "assets/img/vehicle/gta-london-1961/tiger-tank.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tiger Tank"
     },
     {
@@ -4353,10 +4353,10 @@
       "game": "gta-london-1961",
       "id": "tour-bus",
       "record": "tour-bus",
-      "path": "assets/img/vehicle/gta-london-1961/tour-bus.svg",
+      "path": "assets/img/vehicle/gta-london-1961/tour-bus.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tour Bus"
     },
     {
@@ -4364,10 +4364,10 @@
       "game": "gta-london-1961",
       "id": "tramp-tr3",
       "record": "tramp-tr3",
-      "path": "assets/img/vehicle/gta-london-1961/tramp-tr3.svg",
+      "path": "assets/img/vehicle/gta-london-1961/tramp-tr3.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tramp TR3"
     },
     {
@@ -4375,10 +4375,10 @@
       "game": "gta-london-1961",
       "id": "tramp-tr4",
       "record": "tramp-tr4",
-      "path": "assets/img/vehicle/gta-london-1961/tramp-tr4.svg",
+      "path": "assets/img/vehicle/gta-london-1961/tramp-tr4.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tramp TR4"
     },
     {
@@ -4386,10 +4386,10 @@
       "game": "gta-london-1961",
       "id": "tv-van",
       "record": "tv-van",
-      "path": "assets/img/vehicle/gta-london-1961/tv-van.svg",
+      "path": "assets/img/vehicle/gta-london-1961/tv-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "TV Van"
     },
     {
@@ -4397,10 +4397,10 @@
       "game": "gta-london-1961",
       "id": "voxel-concept",
       "record": "voxel-concept",
-      "path": "assets/img/vehicle/gta-london-1961/voxel-concept.svg",
+      "path": "assets/img/vehicle/gta-london-1961/voxel-concept.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Voxel Concept"
     },
     {
@@ -4694,10 +4694,10 @@
       "game": "gta-2",
       "id": "a-type",
       "record": "a-type",
-      "path": "assets/img/vehicle/gta-2/a-type.svg",
+      "path": "assets/img/vehicle/gta-2/a-type.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "A-Type"
     },
     {
@@ -4716,10 +4716,10 @@
       "game": "gta-2",
       "id": "aniston-bd4",
       "record": "aniston-bd4",
-      "path": "assets/img/vehicle/gta-2/aniston-bd4.svg",
+      "path": "assets/img/vehicle/gta-2/aniston-bd4.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Aniston BD4"
     },
     {
@@ -4727,10 +4727,10 @@
       "game": "gta-2",
       "id": "arachnid",
       "record": "arachnid",
-      "path": "assets/img/vehicle/gta-2/arachnid.svg",
+      "path": "assets/img/vehicle/gta-2/arachnid.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Arachnid"
     },
     {
@@ -4738,10 +4738,10 @@
       "game": "gta-2",
       "id": "armed-land-roamer",
       "record": "armed-land-roamer",
-      "path": "assets/img/vehicle/gta-2/armed-land-roamer.svg",
+      "path": "assets/img/vehicle/gta-2/armed-land-roamer.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Armed Land Roamer"
     },
     {
@@ -4749,10 +4749,10 @@
       "game": "gta-2",
       "id": "b-type",
       "record": "b-type",
-      "path": "assets/img/vehicle/gta-2/b-type.svg",
+      "path": "assets/img/vehicle/gta-2/b-type.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "B-Type"
     },
     {
@@ -4771,10 +4771,10 @@
       "game": "gta-2",
       "id": "beamer",
       "record": "beamer",
-      "path": "assets/img/vehicle/gta-2/beamer.svg",
+      "path": "assets/img/vehicle/gta-2/beamer.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Beamer"
     },
     {
@@ -4782,10 +4782,10 @@
       "game": "gta-2",
       "id": "benson",
       "record": "benson",
-      "path": "assets/img/vehicle/gta-2/benson.svg",
+      "path": "assets/img/vehicle/gta-2/benson.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Benson"
     },
     {
@@ -4793,10 +4793,10 @@
       "game": "gta-2",
       "id": "big-bug",
       "record": "big-bug",
-      "path": "assets/img/vehicle/gta-2/big-bug.svg",
+      "path": "assets/img/vehicle/gta-2/big-bug.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Big Bug"
     },
     {
@@ -4804,10 +4804,10 @@
       "game": "gta-2",
       "id": "box-car-boxcar-s",
       "record": "box-car-boxcar-s",
-      "path": "assets/img/vehicle/gta-2/box-car-boxcar-s.svg",
+      "path": "assets/img/vehicle/gta-2/box-car-boxcar-s.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Box Car (boxcar(s))"
     },
     {
@@ -4815,10 +4815,10 @@
       "game": "gta-2",
       "id": "box-truck",
       "record": "box-truck",
-      "path": "assets/img/vehicle/gta-2/box-truck.svg",
+      "path": "assets/img/vehicle/gta-2/box-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Box Truck"
     },
     {
@@ -4826,10 +4826,10 @@
       "game": "gta-2",
       "id": "bug",
       "record": "bug",
-      "path": "assets/img/vehicle/gta-2/bug.svg",
+      "path": "assets/img/vehicle/gta-2/bug.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bug"
     },
     {
@@ -4837,10 +4837,10 @@
       "game": "gta-2",
       "id": "bulwark",
       "record": "bulwark",
-      "path": "assets/img/vehicle/gta-2/bulwark.svg",
+      "path": "assets/img/vehicle/gta-2/bulwark.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bulwark"
     },
     {
@@ -4848,10 +4848,10 @@
       "game": "gta-2",
       "id": "bus",
       "record": "bus",
-      "path": "assets/img/vehicle/gta-2/bus.svg",
+      "path": "assets/img/vehicle/gta-2/bus.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Bus"
     },
     {
@@ -4859,10 +4859,10 @@
       "game": "gta-2",
       "id": "cop-car",
       "record": "cop-car",
-      "path": "assets/img/vehicle/gta-2/cop-car.svg",
+      "path": "assets/img/vehicle/gta-2/cop-car.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Cop Car"
     },
     {
@@ -4870,10 +4870,10 @@
       "game": "gta-2",
       "id": "dementia",
       "record": "dementia",
-      "path": "assets/img/vehicle/gta-2/dementia.svg",
+      "path": "assets/img/vehicle/gta-2/dementia.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Dementia"
     },
     {
@@ -4881,10 +4881,10 @@
       "game": "gta-2",
       "id": "dementia-limousine",
       "record": "dementia-limousine",
-      "path": "assets/img/vehicle/gta-2/dementia-limousine.svg",
+      "path": "assets/img/vehicle/gta-2/dementia-limousine.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Dementia Limousine"
     },
     {
@@ -4892,10 +4892,10 @@
       "game": "gta-2",
       "id": "eddy",
       "record": "eddy",
-      "path": "assets/img/vehicle/gta-2/eddy.svg",
+      "path": "assets/img/vehicle/gta-2/eddy.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Eddy"
     },
     {
@@ -4903,10 +4903,10 @@
       "game": "gta-2",
       "id": "fire-truck",
       "record": "fire-truck",
-      "path": "assets/img/vehicle/gta-2/fire-truck.svg",
+      "path": "assets/img/vehicle/gta-2/fire-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Fire Truck"
     },
     {
@@ -4914,10 +4914,10 @@
       "game": "gta-2",
       "id": "furore-gt",
       "record": "furore-gt",
-      "path": "assets/img/vehicle/gta-2/furore-gt.svg",
+      "path": "assets/img/vehicle/gta-2/furore-gt.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Furore GT"
     },
     {
@@ -4925,10 +4925,10 @@
       "game": "gta-2",
       "id": "g4-bank-van",
       "record": "g4-bank-van",
-      "path": "assets/img/vehicle/gta-2/g4-bank-van.svg",
+      "path": "assets/img/vehicle/gta-2/g4-bank-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "G4 Bank Van"
     },
     {
@@ -4936,10 +4936,10 @@
       "game": "gta-2",
       "id": "garbage-truck",
       "record": "garbage-truck",
-      "path": "assets/img/vehicle/gta-2/garbage-truck.svg",
+      "path": "assets/img/vehicle/gta-2/garbage-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Garbage Truck"
     },
     {
@@ -4947,10 +4947,10 @@
       "game": "gta-2",
       "id": "gt-a1",
       "record": "gt-a1",
-      "path": "assets/img/vehicle/gta-2/gt-a1.svg",
+      "path": "assets/img/vehicle/gta-2/gt-a1.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "GT-A1"
     },
     {
@@ -4958,10 +4958,10 @@
       "game": "gta-2",
       "id": "hachura",
       "record": "hachura",
-      "path": "assets/img/vehicle/gta-2/hachura.svg",
+      "path": "assets/img/vehicle/gta-2/hachura.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hachura"
     },
     {
@@ -4969,10 +4969,10 @@
       "game": "gta-2",
       "id": "hot-dog-van",
       "record": "hot-dog-van",
-      "path": "assets/img/vehicle/gta-2/hot-dog-van.svg",
+      "path": "assets/img/vehicle/gta-2/hot-dog-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Hot Dog Van"
     },
     {
@@ -4980,10 +4980,10 @@
       "game": "gta-2",
       "id": "ice-cream-van",
       "record": "ice-cream-van",
-      "path": "assets/img/vehicle/gta-2/ice-cream-van.svg",
+      "path": "assets/img/vehicle/gta-2/ice-cream-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Ice-Cream Van"
     },
     {
@@ -4991,10 +4991,10 @@
       "game": "gta-2",
       "id": "jagular-xk",
       "record": "jagular-xk",
-      "path": "assets/img/vehicle/gta-2/jagular-xk.svg",
+      "path": "assets/img/vehicle/gta-2/jagular-xk.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jagular XK"
     },
     {
@@ -5002,10 +5002,10 @@
       "game": "gta-2",
       "id": "jefferson",
       "record": "jefferson",
-      "path": "assets/img/vehicle/gta-2/jefferson.svg",
+      "path": "assets/img/vehicle/gta-2/jefferson.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Jefferson"
     },
     {
@@ -5013,10 +5013,10 @@
       "game": "gta-2",
       "id": "karma-bus",
       "record": "karma-bus",
-      "path": "assets/img/vehicle/gta-2/karma-bus.svg",
+      "path": "assets/img/vehicle/gta-2/karma-bus.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Karma Bus"
     },
     {
@@ -5024,10 +5024,10 @@
       "game": "gta-2",
       "id": "land-roamer",
       "record": "land-roamer",
-      "path": "assets/img/vehicle/gta-2/land-roamer.svg",
+      "path": "assets/img/vehicle/gta-2/land-roamer.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Land Roamer"
     },
     {
@@ -5035,10 +5035,10 @@
       "game": "gta-2",
       "id": "maurice",
       "record": "maurice",
-      "path": "assets/img/vehicle/gta-2/maurice.svg",
+      "path": "assets/img/vehicle/gta-2/maurice.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Maurice"
     },
     {
@@ -5046,10 +5046,10 @@
       "game": "gta-2",
       "id": "medicar",
       "record": "medicar",
-      "path": "assets/img/vehicle/gta-2/medicar.svg",
+      "path": "assets/img/vehicle/gta-2/medicar.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Medicar"
     },
     {
@@ -5057,10 +5057,10 @@
       "game": "gta-2",
       "id": "meteor-turbo",
       "record": "meteor-turbo",
-      "path": "assets/img/vehicle/gta-2/meteor-turbo.svg",
+      "path": "assets/img/vehicle/gta-2/meteor-turbo.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Meteor (turbo)"
     },
     {
@@ -5068,10 +5068,10 @@
       "game": "gta-2",
       "id": "miara",
       "record": "miara",
-      "path": "assets/img/vehicle/gta-2/miara.svg",
+      "path": "assets/img/vehicle/gta-2/miara.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Miara"
     },
     {
@@ -5079,10 +5079,10 @@
       "game": "gta-2",
       "id": "michelli-roadster",
       "record": "michelli-roadster",
-      "path": "assets/img/vehicle/gta-2/michelli-roadster.svg",
+      "path": "assets/img/vehicle/gta-2/michelli-roadster.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Michelli Roadster"
     },
     {
@@ -5090,10 +5090,10 @@
       "game": "gta-2",
       "id": "minx",
       "record": "minx",
-      "path": "assets/img/vehicle/gta-2/minx.svg",
+      "path": "assets/img/vehicle/gta-2/minx.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Minx"
     },
     {
@@ -5101,10 +5101,10 @@
       "game": "gta-2",
       "id": "morton",
       "record": "morton",
-      "path": "assets/img/vehicle/gta-2/morton.svg",
+      "path": "assets/img/vehicle/gta-2/morton.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Morton"
     },
     {
@@ -5112,10 +5112,10 @@
       "game": "gta-2",
       "id": "pacifier",
       "record": "pacifier",
-      "path": "assets/img/vehicle/gta-2/pacifier.svg",
+      "path": "assets/img/vehicle/gta-2/pacifier.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Pacifier"
     },
     {
@@ -5123,10 +5123,10 @@
       "game": "gta-2",
       "id": "panto",
       "record": "panto",
-      "path": "assets/img/vehicle/gta-2/panto.svg",
+      "path": "assets/img/vehicle/gta-2/panto.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Panto"
     },
     {
@@ -5134,10 +5134,10 @@
       "game": "gta-2",
       "id": "pickup",
       "record": "pickup",
-      "path": "assets/img/vehicle/gta-2/pickup.svg",
+      "path": "assets/img/vehicle/gta-2/pickup.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Pickup"
     },
     {
@@ -5156,10 +5156,10 @@
       "game": "gta-2",
       "id": "romero",
       "record": "romero",
-      "path": "assets/img/vehicle/gta-2/romero.svg",
+      "path": "assets/img/vehicle/gta-2/romero.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Romero"
     },
     {
@@ -5167,10 +5167,10 @@
       "game": "gta-2",
       "id": "rumbler",
       "record": "rumbler",
-      "path": "assets/img/vehicle/gta-2/rumbler.svg",
+      "path": "assets/img/vehicle/gta-2/rumbler.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Rumbler"
     },
     {
@@ -5178,10 +5178,10 @@
       "game": "gta-2",
       "id": "schmidt",
       "record": "schmidt",
-      "path": "assets/img/vehicle/gta-2/schmidt.svg",
+      "path": "assets/img/vehicle/gta-2/schmidt.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Schmidt"
     },
     {
@@ -5189,10 +5189,10 @@
       "game": "gta-2",
       "id": "shark",
       "record": "shark",
-      "path": "assets/img/vehicle/gta-2/shark.svg",
+      "path": "assets/img/vehicle/gta-2/shark.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Shark"
     },
     {
@@ -5200,10 +5200,10 @@
       "game": "gta-2",
       "id": "special-agent-car",
       "record": "special-agent-car",
-      "path": "assets/img/vehicle/gta-2/special-agent-car.svg",
+      "path": "assets/img/vehicle/gta-2/special-agent-car.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Special Agent Car"
     },
     {
@@ -5211,10 +5211,10 @@
       "game": "gta-2",
       "id": "sports-limousine",
       "record": "sports-limousine",
-      "path": "assets/img/vehicle/gta-2/sports-limousine.svg",
+      "path": "assets/img/vehicle/gta-2/sports-limousine.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Sports Limousine"
     },
     {
@@ -5222,10 +5222,10 @@
       "game": "gta-2",
       "id": "spritzer",
       "record": "spritzer",
-      "path": "assets/img/vehicle/gta-2/spritzer.svg",
+      "path": "assets/img/vehicle/gta-2/spritzer.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Spritzer"
     },
     {
@@ -5233,10 +5233,10 @@
       "game": "gta-2",
       "id": "stinger",
       "record": "stinger",
-      "path": "assets/img/vehicle/gta-2/stinger.svg",
+      "path": "assets/img/vehicle/gta-2/stinger.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stinger"
     },
     {
@@ -5244,10 +5244,10 @@
       "game": "gta-2",
       "id": "stretch-limousine",
       "record": "stretch-limousine",
-      "path": "assets/img/vehicle/gta-2/stretch-limousine.svg",
+      "path": "assets/img/vehicle/gta-2/stretch-limousine.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Stretch Limousine"
     },
     {
@@ -5255,10 +5255,10 @@
       "game": "gta-2",
       "id": "swat-van",
       "record": "swat-van",
-      "path": "assets/img/vehicle/gta-2/swat-van.svg",
+      "path": "assets/img/vehicle/gta-2/swat-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Swat Van"
     },
     {
@@ -5266,10 +5266,10 @@
       "game": "gta-2",
       "id": "t-rex",
       "record": "t-rex",
-      "path": "assets/img/vehicle/gta-2/t-rex.svg",
+      "path": "assets/img/vehicle/gta-2/t-rex.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "T-Rex"
     },
     {
@@ -5277,10 +5277,10 @@
       "game": "gta-2",
       "id": "tv-van",
       "record": "tv-van",
-      "path": "assets/img/vehicle/gta-2/tv-van.svg",
+      "path": "assets/img/vehicle/gta-2/tv-van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "T.V. Van"
     },
     {
@@ -5288,10 +5288,10 @@
       "game": "gta-2",
       "id": "tank",
       "record": "tank",
-      "path": "assets/img/vehicle/gta-2/tank.svg",
+      "path": "assets/img/vehicle/gta-2/tank.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tank"
     },
     {
@@ -5299,10 +5299,10 @@
       "game": "gta-2",
       "id": "taxi",
       "record": "taxi",
-      "path": "assets/img/vehicle/gta-2/taxi.svg",
+      "path": "assets/img/vehicle/gta-2/taxi.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Taxi"
     },
     {
@@ -5310,10 +5310,10 @@
       "game": "gta-2",
       "id": "taxi-xpress",
       "record": "taxi-xpress",
-      "path": "assets/img/vehicle/gta-2/taxi-xpress.svg",
+      "path": "assets/img/vehicle/gta-2/taxi-xpress.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Taxi Xpress"
     },
     {
@@ -5321,10 +5321,10 @@
       "game": "gta-2",
       "id": "tow-truck",
       "record": "tow-truck",
-      "path": "assets/img/vehicle/gta-2/tow-truck.svg",
+      "path": "assets/img/vehicle/gta-2/tow-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Tow Truck"
     },
     {
@@ -5332,10 +5332,10 @@
       "game": "gta-2",
       "id": "train-locomotive",
       "record": "train-locomotive",
-      "path": "assets/img/vehicle/gta-2/train-locomotive.svg",
+      "path": "assets/img/vehicle/gta-2/train-locomotive.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Train (locomotive)"
     },
     {
@@ -5343,10 +5343,10 @@
       "game": "gta-2",
       "id": "train-cab-coach",
       "record": "train-cab-coach",
-      "path": "assets/img/vehicle/gta-2/train-cab-coach.svg",
+      "path": "assets/img/vehicle/gta-2/train-cab-coach.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Train Cab (coach)"
     },
     {
@@ -5354,10 +5354,10 @@
       "game": "gta-2",
       "id": "train-fb-flatbed",
       "record": "train-fb-flatbed",
-      "path": "assets/img/vehicle/gta-2/train-fb-flatbed.svg",
+      "path": "assets/img/vehicle/gta-2/train-fb-flatbed.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Train FB (flatbed)"
     },
     {
@@ -5365,10 +5365,10 @@
       "game": "gta-2",
       "id": "trance-am",
       "record": "trance-am",
-      "path": "assets/img/vehicle/gta-2/trance-am.svg",
+      "path": "assets/img/vehicle/gta-2/trance-am.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Trance-AM"
     },
     {
@@ -5376,10 +5376,10 @@
       "game": "gta-2",
       "id": "truck-cab",
       "record": "truck-cab",
-      "path": "assets/img/vehicle/gta-2/truck-cab.svg",
+      "path": "assets/img/vehicle/gta-2/truck-cab.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Truck Cab"
     },
     {
@@ -5387,10 +5387,10 @@
       "game": "gta-2",
       "id": "truck-cab-sx",
       "record": "truck-cab-sx",
-      "path": "assets/img/vehicle/gta-2/truck-cab-sx.svg",
+      "path": "assets/img/vehicle/gta-2/truck-cab-sx.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Truck Cab SX"
     },
     {
@@ -5398,10 +5398,10 @@
       "game": "gta-2",
       "id": "u-jerk-truck",
       "record": "u-jerk-truck",
-      "path": "assets/img/vehicle/gta-2/u-jerk-truck.svg",
+      "path": "assets/img/vehicle/gta-2/u-jerk-truck.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "U-Jerk Truck"
     },
     {
@@ -5409,10 +5409,10 @@
       "game": "gta-2",
       "id": "van",
       "record": "van",
-      "path": "assets/img/vehicle/gta-2/van.svg",
+      "path": "assets/img/vehicle/gta-2/van.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Van"
     },
     {
@@ -5420,10 +5420,10 @@
       "game": "gta-2",
       "id": "wellard",
       "record": "wellard",
-      "path": "assets/img/vehicle/gta-2/wellard.svg",
+      "path": "assets/img/vehicle/gta-2/wellard.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Wellard"
     },
     {
@@ -5431,10 +5431,10 @@
       "game": "gta-2",
       "id": "z-type",
       "record": "z-type",
-      "path": "assets/img/vehicle/gta-2/z-type.svg",
+      "path": "assets/img/vehicle/gta-2/z-type.png",
       "width": 1024,
       "height": 576,
-      "status": "placeholder",
+      "status": "real",
       "alt": "Z-Type"
     },
     {

@@ -5,7 +5,7 @@
     "year": 1999,
     "type": "Expansion",
     "status": "released",
-    "generated": "2026-11-16T05:22:52.745Z",
+    "generated": "2026-11-16T06:00:22.940Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -704,7 +704,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Medical",
         "seats": 2,
-        "image": "assets/img/vehicle/gta-london-1969/ambulance.svg"
+        "image": "assets/img/vehicle/gta-london-1969/ambulance.png"
       },
       {
         "id": "beagle-3",
@@ -712,7 +712,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/beagle-3.svg"
+        "image": "assets/img/vehicle/gta-london-1969/beagle-3.png"
       },
       {
         "id": "bike",
@@ -720,7 +720,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/bike.svg"
+        "image": "assets/img/vehicle/gta-london-1969/bike.png"
       },
       {
         "id": "bug",
@@ -728,7 +728,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/bug.svg"
+        "image": "assets/img/vehicle/gta-london-1969/bug.png"
       },
       {
         "id": "camper",
@@ -736,7 +736,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/camper.svg"
+        "image": "assets/img/vehicle/gta-london-1969/camper.png"
       },
       {
         "id": "characters",
@@ -752,7 +752,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/coach.svg"
+        "image": "assets/img/vehicle/gta-london-1969/coach.png"
       },
       {
         "id": "copper",
@@ -760,7 +760,7 @@
         "category": "Government and Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/copper.svg"
+        "image": "assets/img/vehicle/gta-london-1969/copper.png"
       },
       {
         "id": "crapi",
@@ -768,7 +768,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/crapi.svg"
+        "image": "assets/img/vehicle/gta-london-1969/crapi.png"
       },
       {
         "id": "double-decker",
@@ -776,7 +776,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/double-decker.svg"
+        "image": "assets/img/vehicle/gta-london-1969/double-decker.png"
       },
       {
         "id": "double-decker-bus",
@@ -794,7 +794,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/fat.svg"
+        "image": "assets/img/vehicle/gta-london-1969/fat.png"
       },
       {
         "id": "ferocious-gto",
@@ -802,7 +802,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/ferocious-gto.svg"
+        "image": "assets/img/vehicle/gta-london-1969/ferocious-gto.png"
       },
       {
         "id": "fire-truck",
@@ -810,7 +810,7 @@
         "category": "Government and Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/fire-truck.svg"
+        "image": "assets/img/vehicle/gta-london-1969/fire-truck.png"
       },
       {
         "id": "flatbed",
@@ -818,7 +818,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/flatbed.svg"
+        "image": "assets/img/vehicle/gta-london-1969/flatbed.png"
       },
       {
         "id": "garden-shed",
@@ -826,7 +826,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/garden-shed.svg"
+        "image": "assets/img/vehicle/gta-london-1969/garden-shed.png"
       },
       {
         "id": "harold",
@@ -834,7 +834,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/harold.svg"
+        "image": "assets/img/vehicle/gta-london-1969/harold.png"
       },
       {
         "id": "icbm",
@@ -842,7 +842,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/icbm.svg"
+        "image": "assets/img/vehicle/gta-london-1969/icbm.png"
       },
       {
         "id": "jaguar",
@@ -860,7 +860,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/james-bomb.svg"
+        "image": "assets/img/vehicle/gta-london-1969/james-bomb.png"
       },
       {
         "id": "jug-mkii",
@@ -868,7 +868,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/jug-mkii.svg"
+        "image": "assets/img/vehicle/gta-london-1969/jug-mkii.png"
       },
       {
         "id": "jug-swinger",
@@ -876,7 +876,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/jug-swinger.svg"
+        "image": "assets/img/vehicle/gta-london-1969/jug-swinger.png"
       },
       {
         "id": "jugular-e",
@@ -884,7 +884,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/jugular-e.svg"
+        "image": "assets/img/vehicle/gta-london-1969/jugular-e.png"
       },
       {
         "id": "locust",
@@ -892,7 +892,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/locust.svg"
+        "image": "assets/img/vehicle/gta-london-1969/locust.png"
       },
       {
         "id": "london-cab",
@@ -902,7 +902,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Taxi",
         "seats": 4,
-        "image": "assets/img/vehicle/gta-london-1969/london-cab.svg"
+        "image": "assets/img/vehicle/gta-london-1969/london-cab.png"
       },
       {
         "id": "mangler",
@@ -910,7 +910,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/mangler.svg"
+        "image": "assets/img/vehicle/gta-london-1969/mangler.png"
       },
       {
         "id": "mc-hamper",
@@ -918,7 +918,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/mc-hamper.svg"
+        "image": "assets/img/vehicle/gta-london-1969/mc-hamper.png"
       },
       {
         "id": "mini",
@@ -936,7 +936,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/mod-scooter.svg"
+        "image": "assets/img/vehicle/gta-london-1969/mod-scooter.png"
       },
       {
         "id": "myni",
@@ -944,7 +944,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/myni.svg"
+        "image": "assets/img/vehicle/gta-london-1969/myni.png"
       },
       {
         "id": "police-car",
@@ -962,7 +962,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/ranger.svg"
+        "image": "assets/img/vehicle/gta-london-1969/ranger.png"
       },
       {
         "id": "raver",
@@ -970,7 +970,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/raver.svg"
+        "image": "assets/img/vehicle/gta-london-1969/raver.png"
       },
       {
         "id": "reno-17tl",
@@ -978,7 +978,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/reno-17tl.svg"
+        "image": "assets/img/vehicle/gta-london-1969/reno-17tl.png"
       },
       {
         "id": "royal-pain",
@@ -986,7 +986,7 @@
         "category": "Government and Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/royal-pain.svg"
+        "image": "assets/img/vehicle/gta-london-1969/royal-pain.png"
       },
       {
         "id": "royal-stretch",
@@ -994,7 +994,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/royal-stretch.svg"
+        "image": "assets/img/vehicle/gta-london-1969/royal-stretch.png"
       },
       {
         "id": "s-cart",
@@ -1002,7 +1002,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/s-cart.svg"
+        "image": "assets/img/vehicle/gta-london-1969/s-cart.png"
       },
       {
         "id": "squealey",
@@ -1010,7 +1010,7 @@
         "category": "Sports Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/squealey.svg"
+        "image": "assets/img/vehicle/gta-london-1969/squealey.png"
       },
       {
         "id": "sweets-van",
@@ -1018,7 +1018,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/sweets-van.svg"
+        "image": "assets/img/vehicle/gta-london-1969/sweets-van.png"
       },
       {
         "id": "tanker",
@@ -1026,7 +1026,7 @@
         "category": "4x4s, Lorries, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/tanker.svg"
+        "image": "assets/img/vehicle/gta-london-1969/tanker.png"
       },
       {
         "id": "tour-bus",
@@ -1034,7 +1034,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/tour-bus.svg"
+        "image": "assets/img/vehicle/gta-london-1969/tour-bus.png"
       },
       {
         "id": "wheelchair",
@@ -1042,7 +1042,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta-london-1969/wheelchair.svg"
+        "image": "assets/img/vehicle/gta-london-1969/wheelchair.png"
       }
     ]
   },

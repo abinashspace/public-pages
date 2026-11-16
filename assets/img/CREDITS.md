@@ -15,7 +15,7 @@ included here for a personal, non-commercial reference site and are not licensed
 - Anything unmatched stays a generated placeholder and is listed as such in
   `data/images.json`.
 
-2026-11-16T05:22:53.151Z
+2026-11-16T06:00:23.321Z
 
 | Kind | Real | Slots |
 |---|---|---|
@@ -24,9 +24,9 @@ included here for a personal, non-commercial reference site and are not licensed
 | map | 0 | 17 |
 | portrait | 189 | 221 |
 | mission | 626 | 840 |
-| vehicle | 1298 | 1560 |
+| vehicle | 1491 | 1560 |
 | weapon | 313 | 490 |
 | cheat | 0 | 452 |
 | location | 105 | 144 |
 | collectible | 33 | 49 |
-| **total** | **2598** | **3807** |
+| **total** | **2791** | **3807** |

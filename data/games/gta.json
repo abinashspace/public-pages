@@ -5,7 +5,7 @@
     "year": 1997,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T05:22:52.725Z",
+    "generated": "2026-11-16T06:00:22.918Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "limited",
@@ -1405,7 +1405,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/29-special.svg"
+        "image": "assets/img/vehicle/gta/29-special.png"
       },
       {
         "id": "4-x-4",
@@ -1413,7 +1413,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/4-x-4.svg"
+        "image": "assets/img/vehicle/gta/4-x-4.png"
       },
       {
         "id": "ambulance",
@@ -1423,7 +1423,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Medical",
         "seats": 2,
-        "image": "assets/img/vehicle/gta/ambulance.svg"
+        "image": "assets/img/vehicle/gta/ambulance.png"
       },
       {
         "id": "banshee",
@@ -1441,7 +1441,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/beast-gts.svg"
+        "image": "assets/img/vehicle/gta/beast-gts.png"
       },
       {
         "id": "bike",
@@ -1449,7 +1449,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/bike.svg"
+        "image": "assets/img/vehicle/gta/bike.png"
       },
       {
         "id": "boat",
@@ -1457,7 +1457,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/boat.svg"
+        "image": "assets/img/vehicle/gta/boat.png"
       },
       {
         "id": "brigham",
@@ -1465,7 +1465,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/brigham.svg"
+        "image": "assets/img/vehicle/gta/brigham.png"
       },
       {
         "id": "bug",
@@ -1473,7 +1473,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/bug.svg"
+        "image": "assets/img/vehicle/gta/bug.png"
       },
       {
         "id": "bulldog",
@@ -1481,7 +1481,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/bulldog.svg"
+        "image": "assets/img/vehicle/gta/bulldog.png"
       },
       {
         "id": "bus",
@@ -1491,7 +1491,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Bus",
         "seats": 4,
-        "image": "assets/img/vehicle/gta/bus.svg"
+        "image": "assets/img/vehicle/gta/bus.png"
       },
       {
         "id": "challenger",
@@ -1499,7 +1499,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/challenger.svg"
+        "image": "assets/img/vehicle/gta/challenger.png"
       },
       {
         "id": "cheetah",
@@ -1517,7 +1517,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/classic.svg"
+        "image": "assets/img/vehicle/gta/classic.png"
       },
       {
         "id": "coach",
@@ -1525,7 +1525,7 @@
         "category": "Public Service",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/coach.svg"
+        "image": "assets/img/vehicle/gta/coach.png"
       },
       {
         "id": "cossie",
@@ -1533,7 +1533,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/cossie.svg"
+        "image": "assets/img/vehicle/gta/cossie.png"
       },
       {
         "id": "counthash",
@@ -1541,7 +1541,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/counthash.svg"
+        "image": "assets/img/vehicle/gta/counthash.png"
       },
       {
         "id": "f-19",
@@ -1549,7 +1549,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/f-19.svg"
+        "image": "assets/img/vehicle/gta/f-19.png"
       },
       {
         "id": "fire-truck",
@@ -1559,7 +1559,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Fire",
         "seats": 2,
-        "image": "assets/img/vehicle/gta/fire-truck.svg"
+        "image": "assets/img/vehicle/gta/fire-truck.png"
       },
       {
         "id": "flamer",
@@ -1567,7 +1567,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/flamer.svg"
+        "image": "assets/img/vehicle/gta/flamer.png"
       },
       {
         "id": "helicopter",
@@ -1575,7 +1575,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/helicopter.svg"
+        "image": "assets/img/vehicle/gta/helicopter.jpg"
       },
       {
         "id": "hotrod",
@@ -1583,7 +1583,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/hotrod.svg"
+        "image": "assets/img/vehicle/gta/hotrod.png"
       },
       {
         "id": "impaler",
@@ -1591,7 +1591,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/impaler.svg"
+        "image": "assets/img/vehicle/gta/impaler.png"
       },
       {
         "id": "itali",
@@ -1599,7 +1599,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/itali.svg"
+        "image": "assets/img/vehicle/gta/itali.png"
       },
       {
         "id": "itali-gtb",
@@ -1607,7 +1607,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/itali-gtb.svg"
+        "image": "assets/img/vehicle/gta/itali-gtb.png"
       },
       {
         "id": "itali-gto",
@@ -1615,7 +1615,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/itali-gto.svg"
+        "image": "assets/img/vehicle/gta/itali-gto.png"
       },
       {
         "id": "juggernaut",
@@ -1623,7 +1623,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/juggernaut.svg"
+        "image": "assets/img/vehicle/gta/juggernaut.png"
       },
       {
         "id": "jugular",
@@ -1631,7 +1631,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/jugular.svg"
+        "image": "assets/img/vehicle/gta/jugular.png"
       },
       {
         "id": "lebonham",
@@ -1639,7 +1639,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/lebonham.svg"
+        "image": "assets/img/vehicle/gta/lebonham.png"
       },
       {
         "id": "limousine",
@@ -1647,7 +1647,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/limousine.svg"
+        "image": "assets/img/vehicle/gta/limousine.png"
       },
       {
         "id": "love-wagon",
@@ -1655,7 +1655,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/love-wagon.svg"
+        "image": "assets/img/vehicle/gta/love-wagon.png"
       },
       {
         "id": "mamba",
@@ -1663,7 +1663,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/mamba.svg"
+        "image": "assets/img/vehicle/gta/mamba.png"
       },
       {
         "id": "model-car",
@@ -1671,7 +1671,7 @@
         "category": "Miscellaneous",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/model-car.svg"
+        "image": "assets/img/vehicle/gta/model-car.png"
       },
       {
         "id": "monster-bug",
@@ -1679,7 +1679,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/monster-bug.svg"
+        "image": "assets/img/vehicle/gta/monster-bug.png"
       },
       {
         "id": "mundano",
@@ -1687,7 +1687,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/mundano.svg"
+        "image": "assets/img/vehicle/gta/mundano.png"
       },
       {
         "id": "panther",
@@ -1695,7 +1695,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/panther.svg"
+        "image": "assets/img/vehicle/gta/panther.png"
       },
       {
         "id": "penetrator",
@@ -1703,7 +1703,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/penetrator.svg"
+        "image": "assets/img/vehicle/gta/penetrator.png"
       },
       {
         "id": "pickup",
@@ -1711,7 +1711,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/pickup.svg"
+        "image": "assets/img/vehicle/gta/pickup.png"
       },
       {
         "id": "police-car",
@@ -1729,7 +1729,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/porka.svg"
+        "image": "assets/img/vehicle/gta/porka.png"
       },
       {
         "id": "porka-turbo",
@@ -1737,7 +1737,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/porka-turbo.svg"
+        "image": "assets/img/vehicle/gta/porka-turbo.png"
       },
       {
         "id": "portsmouth",
@@ -1745,7 +1745,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/portsmouth.svg"
+        "image": "assets/img/vehicle/gta/portsmouth.png"
       },
       {
         "id": "regal",
@@ -1753,7 +1753,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/regal.svg"
+        "image": "assets/img/vehicle/gta/regal.png"
       },
       {
         "id": "repair-van",
@@ -1761,7 +1761,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/repair-van.svg"
+        "image": "assets/img/vehicle/gta/repair-van.png"
       },
       {
         "id": "roadster",
@@ -1769,7 +1769,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/roadster.svg"
+        "image": "assets/img/vehicle/gta/roadster.png"
       },
       {
         "id": "speeder",
@@ -1777,7 +1777,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/speeder.svg"
+        "image": "assets/img/vehicle/gta/speeder.png"
       },
       {
         "id": "squad-car",
@@ -1785,7 +1785,7 @@
         "category": "Government and Emergency",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/squad-car.svg"
+        "image": "assets/img/vehicle/gta/squad-car.png"
       },
       {
         "id": "stallion",
@@ -1795,7 +1795,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Muscle",
         "seats": 2,
-        "image": "assets/img/vehicle/gta/stallion.svg"
+        "image": "assets/img/vehicle/gta/stallion.png"
       },
       {
         "id": "stinger",
@@ -1803,7 +1803,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/stinger.svg"
+        "image": "assets/img/vehicle/gta/stinger.png"
       },
       {
         "id": "stinger-z29",
@@ -1811,7 +1811,7 @@
         "category": "Sports, Muscle and Customized Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/stinger-z29.svg"
+        "image": "assets/img/vehicle/gta/stinger-z29.png"
       },
       {
         "id": "superbike",
@@ -1819,7 +1819,7 @@
         "category": "Motorcycles",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/superbike.svg"
+        "image": "assets/img/vehicle/gta/superbike.png"
       },
       {
         "id": "tank",
@@ -1829,7 +1829,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Tank",
         "seats": 1,
-        "image": "assets/img/vehicle/gta/tank.svg"
+        "image": "assets/img/vehicle/gta/tank.png"
       },
       {
         "id": "tanker",
@@ -1837,7 +1837,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/tanker.svg"
+        "image": "assets/img/vehicle/gta/tanker.png"
       },
       {
         "id": "taxi",
@@ -1847,7 +1847,7 @@
         "source": "GTA Wiki vehicle list (model names and class grouping)",
         "class": "Taxi",
         "seats": 4,
-        "image": "assets/img/vehicle/gta/taxi.svg"
+        "image": "assets/img/vehicle/gta/taxi.png"
       },
       {
         "id": "thunderhead",
@@ -1855,7 +1855,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/thunderhead.svg"
+        "image": "assets/img/vehicle/gta/thunderhead.png"
       },
       {
         "id": "train",
@@ -1863,7 +1863,7 @@
         "category": "Railway",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/train.svg"
+        "image": "assets/img/vehicle/gta/train.png"
       },
       {
         "id": "tram",
@@ -1871,7 +1871,7 @@
         "category": "Railway",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/tram.svg"
+        "image": "assets/img/vehicle/gta/tram.png"
       },
       {
         "id": "transit-van",
@@ -1879,7 +1879,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/transit-van.svg"
+        "image": "assets/img/vehicle/gta/transit-van.png"
       },
       {
         "id": "tv-van",
@@ -1887,7 +1887,7 @@
         "category": "SUVs, Trucks, and Vans",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/tv-van.svg"
+        "image": "assets/img/vehicle/gta/tv-van.png"
       },
       {
         "id": "vulture",
@@ -1895,7 +1895,7 @@
         "category": "Standard Cars",
         "verified": true,
         "source": "GTA Wiki vehicle list (model names and class grouping)",
-        "image": "assets/img/vehicle/gta/vulture.svg"
+        "image": "assets/img/vehicle/gta/vulture.png"
       }
     ]
   },
