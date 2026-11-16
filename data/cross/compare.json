@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T06:13:37.926Z",
+  "generated": "2026-11-16T06:52:15.195Z",
   "description": "Record counts per game and section, with section leaders and shared cities.",
   "sections": [
     {
@@ -241,7 +241,7 @@
         "characters": 19,
         "missions": 68,
         "vehicles": 63,
-        "weapons": 26,
+        "weapons": 16,
         "cheats": 23,
         "locations": 18,
         "collectibles": 3
@@ -255,7 +255,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 220
+      "records": 210
     },
     {
       "slug": "gta-vice-city",
@@ -287,7 +287,7 @@
         "characters": 24,
         "missions": 61,
         "vehicles": 107,
-        "weapons": 59,
+        "weapons": 43,
         "cheats": 59,
         "locations": 17,
         "collectibles": 4
@@ -301,7 +301,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 331
+      "records": 315
     },
     {
       "slug": "gta-san-andreas",
@@ -335,7 +335,7 @@
         "characters": 24,
         "missions": 101,
         "vehicles": 171,
-        "weapons": 90,
+        "weapons": 60,
         "cheats": 101,
         "locations": 22,
         "collectibles": 6
@@ -349,7 +349,7 @@
         "locations": "partial",
         "collectibles": "complete"
       },
-      "records": 515
+      "records": 485
     },
     {
       "slug": "gta-advance",
@@ -851,14 +851,14 @@
       "section": "weapons",
       "title": "Weapons",
       "leader": {
-        "slug": "gta-san-andreas",
-        "title": "Grand Theft Auto: San Andreas",
-        "count": 90
-      },
-      "runner_up": {
         "slug": "gta-v",
         "title": "Grand Theft Auto V",
         "count": 62
+      },
+      "runner_up": {
+        "slug": "gta-san-andreas",
+        "title": "Grand Theft Auto: San Andreas",
+        "count": 60
       }
     },
     {

@@ -5,7 +5,7 @@
     "year": 2004,
     "type": "Main",
     "status": "released",
-    "generated": "2026-11-16T06:13:38.171Z",
+    "generated": "2026-11-16T06:52:15.412Z",
     "schema_version": "1.0.0",
     "coverage": {
       "characters": "partial",
@@ -20,7 +20,7 @@
       "characters": 24,
       "missions": 101,
       "vehicles": 171,
-      "weapons": 90,
+      "weapons": 60,
       "cheats": 101,
       "locations": 22,
       "collectibles": 6
@@ -3405,22 +3405,6 @@
         "image": "assets/img/weapon/gta-san-andreas/9mm.png"
       },
       {
-        "id": "against-all-odds",
-        "name": "Against All Odds",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/against-all-odds.svg"
-      },
-      {
-        "id": "air-raid",
-        "name": "Air Raid",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/air-raid.svg"
-      },
-      {
         "id": "ak-47",
         "name": "AK-47",
         "type": "Assault rifle",
@@ -3440,36 +3424,12 @@
         "image": "assets/img/weapon/gta-san-andreas/ak47.png"
       },
       {
-        "id": "architectural-espionage",
-        "name": "Architectural Espionage",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/architectural-espionage.svg"
-      },
-      {
-        "id": "are-you-going-to-san-fierro",
-        "name": "Are You Going to San Fierro?",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/are-you-going-to-san-fierro.svg"
-      },
-      {
         "id": "assault",
         "name": "Assault",
         "type": "Weapon",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/assault.svg"
-      },
-      {
-        "id": "badlands",
-        "name": "Badlands",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/badlands.svg"
       },
       {
         "id": "baseball-bat",
@@ -3499,36 +3459,12 @@
         "image": "assets/img/weapon/gta-san-andreas/beta.svg"
       },
       {
-        "id": "black-project",
-        "name": "Black Project",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/black-project.svg"
-      },
-      {
         "id": "brass-knuckles",
         "name": "Brass Knuckles",
         "type": "Unarmed",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/brass-knuckles.png"
-      },
-      {
-        "id": "breaking-the-bank-at-caligulas",
-        "name": "Breaking the Bank at Caligula's",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/breaking-the-bank-at-caligulas.svg"
-      },
-      {
-        "id": "burning-desire",
-        "name": "Burning Desire",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/burning-desire.svg"
       },
       {
         "id": "camera",
@@ -3558,14 +3494,6 @@
         "image": "assets/img/weapon/gta-san-andreas/chainsaw.png"
       },
       {
-        "id": "cleaning-the-hood",
-        "name": "Cleaning the Hood",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/cleaning-the-hood.svg"
-      },
-      {
         "id": "combat-shotgun",
         "name": "Combat Shotgun",
         "type": "Shotguns",
@@ -3575,14 +3503,6 @@
         "ammo": "7 shells",
         "unlock": "Ammu-Nation",
         "image": "assets/img/weapon/gta-san-andreas/combat-shotgun.png"
-      },
-      {
-        "id": "dam-and-blast",
-        "name": "Dam and Blast",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/dam-and-blast.svg"
       },
       {
         "id": "desert-eagle",
@@ -3618,14 +3538,6 @@
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/dildo-short.png"
-      },
-      {
-        "id": "end-of-the-line",
-        "name": "End of the Line",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/end-of-the-line.svg"
       },
       {
         "id": "fire-extinguisher",
@@ -3666,28 +3578,12 @@
         "image": "assets/img/weapon/gta-san-andreas/flowers.png"
       },
       {
-        "id": "freefall",
-        "name": "Freefall",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/freefall.svg"
-      },
-      {
         "id": "golf-club",
         "name": "Golf Club",
         "type": "Melee Weapons",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/golf-club.png"
-      },
-      {
-        "id": "green-goo",
-        "name": "Green Goo",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/green-goo.svg"
       },
       {
         "id": "grenades",
@@ -3736,30 +3632,6 @@
         "image": "assets/img/weapon/gta-san-andreas/heavy.svg"
       },
       {
-        "id": "ice-cold-killa",
-        "name": "Ice Cold Killa",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/ice-cold-killa.svg"
-      },
-      {
-        "id": "interdiction",
-        "name": "Interdiction",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/interdiction.svg"
-      },
-      {
-        "id": "just-business",
-        "name": "Just Business",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/just-business.svg"
-      },
-      {
         "id": "katana",
         "name": "Katana",
         "type": "Melee Weapons",
@@ -3788,14 +3660,6 @@
         "ammo": "30 rounds",
         "unlock": "Ammu-Nation",
         "image": "assets/img/weapon/gta-san-andreas/m4.png"
-      },
-      {
-        "id": "madd-doggs-rhymes",
-        "name": "Madd Dogg's Rhymes",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/madd-doggs-rhymes.svg"
       },
       {
         "id": "melee",
@@ -3882,44 +3746,12 @@
         "image": "assets/img/weapon/gta-san-andreas/nightstick.png"
       },
       {
-        "id": "nines-and-aks",
-        "name": "Nines and AK's",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/nines-and-aks.svg"
-      },
-      {
-        "id": "outrider",
-        "name": "Outrider",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/outrider.svg"
-      },
-      {
         "id": "parachute",
         "name": "Parachute",
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/parachute.png"
-      },
-      {
-        "id": "photo-opportunity",
-        "name": "Photo Opportunity",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/photo-opportunity.svg"
-      },
-      {
-        "id": "pier-69",
-        "name": "Pier 69",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/pier-69.svg"
       },
       {
         "id": "pistol",
@@ -3939,14 +3771,6 @@
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/pool-cue.png"
-      },
-      {
-        "id": "reuniting-the-families",
-        "name": "Reuniting the Families",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/reuniting-the-families.svg"
       },
       {
         "id": "rifle",
@@ -4041,28 +3865,12 @@
         "image": "assets/img/weapon/gta-san-andreas/silenced-pistol.svg"
       },
       {
-        "id": "small-town-bank",
-        "name": "Small Town Bank",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/small-town-bank.svg"
-      },
-      {
         "id": "smg",
         "name": "SMG",
         "type": "Submachine Guns",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/smg.png"
-      },
-      {
-        "id": "snail-trail",
-        "name": "Snail Trail",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/snail-trail.svg"
       },
       {
         "id": "sniper",
@@ -4092,22 +3900,6 @@
         "image": "assets/img/weapon/gta-san-andreas/spray-can.png"
       },
       {
-        "id": "stowaway",
-        "name": "Stowaway",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/stowaway.svg"
-      },
-      {
-        "id": "tagging-up-turf",
-        "name": "Tagging Up Turf",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/tagging-up-turf.svg"
-      },
-      {
         "id": "tear-gas",
         "name": "Tear Gas",
         "type": "Thrown",
@@ -4124,44 +3916,12 @@
         "image": "assets/img/weapon/gta-san-andreas/tec9.png"
       },
       {
-        "id": "the-da-nang-thang",
-        "name": "The Da Nang Thang",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/the-da-nang-thang.svg"
-      },
-      {
-        "id": "the-green-sabre",
-        "name": "The Green Sabre",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/the-green-sabre.svg"
-      },
-      {
         "id": "thermal-vision",
         "name": "Thermal Vision",
         "type": "Special",
         "verified": true,
         "source": "GTA Wiki weapon list (names and weapon class)",
         "image": "assets/img/weapon/gta-san-andreas/thermal-vision.png"
-      },
-      {
-        "id": "torenos-last-flight",
-        "name": "Toreno's Last Flight",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/torenos-last-flight.svg"
-      },
-      {
-        "id": "vertical-bird",
-        "name": "Vertical Bird",
-        "type": "Additional Information",
-        "verified": true,
-        "source": "GTA Wiki weapon list (names and weapon class)",
-        "image": "assets/img/weapon/gta-san-andreas/vertical-bird.svg"
       },
       {
         "id": "vibrator",

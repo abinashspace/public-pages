@@ -55,17 +55,17 @@ Unknown numbers are null, never 0.
 ### Grand Theft Auto III (2001, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-iii/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-iii.json
-- Cities: Liberty City · Status: released · Records: 220
+- Cities: Liberty City · Status: released · Records: 210
 
 ### Grand Theft Auto: Vice City (2002, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-vice-city/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-vice-city.json
-- Cities: Vice City · Status: released · Records: 331
+- Cities: Vice City · Status: released · Records: 315
 
 ### Grand Theft Auto: San Andreas (2004, Main)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-san-andreas/
 - JSON: https://abinashspace.github.io/gta-hub/data/games/gta-san-andreas.json
-- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 515
+- Cities: Los Santos, San Fierro, Las Venturas · Status: released · Records: 485
 
 ### Grand Theft Auto Advance (2004, Spin-off)
 - Page: https://abinashspace.github.io/gta-hub/games/gta-advance/
@@ -120,4 +120,4 @@ Unknown numbers are null, never 0.
 ## Notes
 
 - Unofficial fan data. Trademarks belong to Rockstar Games / Take-Two Interactive.
-- Artwork mostly sourced from GTA Wiki (2794/3807 slots); the rest resolve to generated placeholders. See /data/images.json for per-slot status.
+- Artwork mostly sourced from GTA Wiki (2794/3751 slots); the rest resolve to generated placeholders. See /data/images.json for per-slot status.

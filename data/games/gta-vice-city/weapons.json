@@ -3,32 +3,8 @@
   "game_title": "Grand Theft Auto: Vice City",
   "section": "weapons",
   "coverage": "complete",
-  "count": 59,
+  "count": 43,
   "items": [
-    {
-      "id": "all-hands-on-deck",
-      "name": "All Hands On Deck!",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/all-hands-on-deck.svg"
-    },
-    {
-      "id": "autocide",
-      "name": "Autocide",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/autocide.svg"
-    },
-    {
-      "id": "back-alley-brawl",
-      "name": "Back Alley Brawl",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/back-alley-brawl.svg"
-    },
     {
       "id": "baseball-bat",
       "name": "Baseball Bat",
@@ -60,14 +36,6 @@
       "image": "assets/img/weapon/gta-vice-city/camera.png"
     },
     {
-      "id": "cannon-fodder",
-      "name": "Cannon Fodder",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/cannon-fodder.svg"
-    },
-    {
       "id": "chainsaw",
       "name": "Chainsaw",
       "type": "Melee Weapons",
@@ -77,14 +45,6 @@
       "ammo": "—",
       "unlock": "Treacherous Swine / pickups",
       "image": "assets/img/weapon/gta-vice-city/chainsaw.png"
-    },
-    {
-      "id": "check-out-at-the-check-in",
-      "name": "Check Out at the Check In",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/check-out-at-the-check-in.svg"
     },
     {
       "id": "colt-45-pistol",
@@ -109,14 +69,6 @@
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
       "image": "assets/img/weapon/gta-vice-city/detonator.png"
-    },
-    {
-      "id": "dirty-lickins",
-      "name": "Dirty Lickin's",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/dirty-lickins.svg"
     },
     {
       "id": "fist",
@@ -165,22 +117,6 @@
       "image": "assets/img/weapon/gta-vice-city/grenades.svg"
     },
     {
-      "id": "guardian-angels",
-      "name": "Guardian Angels",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/guardian-angels.svg"
-    },
-    {
-      "id": "gun-runner",
-      "name": "Gun Runner",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/gun-runner.svg"
-    },
-    {
       "id": "hammer",
       "name": "Hammer",
       "type": "Melee Weapons",
@@ -206,14 +142,6 @@
       "ammo": "—",
       "unlock": "Street pickups",
       "image": "assets/img/weapon/gta-vice-city/katana.png"
-    },
-    {
-      "id": "keep-your-friends-close",
-      "name": "Keep Your Friends Close...",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/keep-your-friends-close.svg"
     },
     {
       "id": "knife",
@@ -249,14 +177,6 @@
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
       "image": "assets/img/weapon/gta-vice-city/machete.png"
-    },
-    {
-      "id": "marthas-mug-shot",
-      "name": "Martha's Mug Shot",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/marthas-mug-shot.svg"
     },
     {
       "id": "meat-cleaver",
@@ -324,14 +244,6 @@
       "image": "assets/img/weapon/gta-vice-city/nightstick.png"
     },
     {
-      "id": "phnom-penh-86",
-      "name": "Phnom Penh '86",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/phnom-penh-86.svg"
-    },
-    {
       "id": "pistol",
       "name": "Pistol",
       "type": "Handgun",
@@ -379,14 +291,6 @@
       "ammo": "5 rockets",
       "unlock": "Phil Cassidy / pickups",
       "image": "assets/img/weapon/gta-vice-city/rocket-launcher.png"
-    },
-    {
-      "id": "rub-out",
-      "name": "Rub Out",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/rub-out.svg"
     },
     {
       "id": "ruger",
@@ -465,14 +369,6 @@
       "image": "assets/img/weapon/gta-vice-city/stubby-shotgun.png"
     },
     {
-      "id": "supply-and-demand",
-      "name": "Supply & Demand",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/supply-and-demand.svg"
-    },
-    {
       "id": "tear-gas",
       "name": "Tear Gas",
       "type": "Thrown Weapons",
@@ -493,30 +389,6 @@
       "ammo": "30 rounds",
       "unlock": "Street pickups",
       "image": "assets/img/weapon/gta-vice-city/tec-9.png"
-    },
-    {
-      "id": "the-job",
-      "name": "The Job",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/the-job.svg"
-    },
-    {
-      "id": "the-shootist",
-      "name": "The Shootist",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/the-shootist.svg"
-    },
-    {
-      "id": "treacherous-swine",
-      "name": "Treacherous Swine",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-vice-city/treacherous-swine.svg"
     },
     {
       "id": "uzi",

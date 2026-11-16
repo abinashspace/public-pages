@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T06:13:38.414Z",
+  "generated": "2026-11-16T06:52:15.642Z",
   "games": [
     {
       "slug": "gta",
@@ -149,7 +149,7 @@
       "slug": "gta-iii",
       "title": "Grand Theft Auto III",
       "status": "released",
-      "records": 220,
+      "records": 210,
       "sections": {
         "characters": {
           "count": 19,
@@ -164,7 +164,7 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 26,
+          "count": 16,
           "coverage": "complete"
         },
         "cheats": {
@@ -185,7 +185,7 @@
       "slug": "gta-vice-city",
       "title": "Grand Theft Auto: Vice City",
       "status": "released",
-      "records": 331,
+      "records": 315,
       "sections": {
         "characters": {
           "count": 24,
@@ -200,7 +200,7 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 59,
+          "count": 43,
           "coverage": "complete"
         },
         "cheats": {
@@ -221,7 +221,7 @@
       "slug": "gta-san-andreas",
       "title": "Grand Theft Auto: San Andreas",
       "status": "released",
-      "records": 515,
+      "records": 485,
       "sections": {
         "characters": {
           "count": 24,
@@ -236,7 +236,7 @@
           "coverage": "complete"
         },
         "weapons": {
-          "count": 90,
+          "count": 60,
           "coverage": "complete"
         },
         "cheats": {
@@ -615,8 +615,8 @@
     }
   ],
   "images": {
-    "total": 3807,
+    "total": 3751,
     "real": 2794,
-    "placeholder": 1013
+    "placeholder": 957
   }
 }

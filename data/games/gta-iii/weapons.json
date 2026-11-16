@@ -3,7 +3,7 @@
   "game_title": "Grand Theft Auto III",
   "section": "weapons",
   "coverage": "complete",
-  "count": 26,
+  "count": 16,
   "items": [
     {
       "id": "ak-47",
@@ -25,14 +25,6 @@
       "image": "assets/img/weapon/gta-iii/ak47.png"
     },
     {
-      "id": "arms-shortage",
-      "name": "Arms Shortage",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/arms-shortage.svg"
-    },
-    {
       "id": "baseball-bat",
       "name": "Baseball Bat",
       "type": "Melee",
@@ -44,28 +36,12 @@
       "image": "assets/img/weapon/gta-iii/baseball-bat.png"
     },
     {
-      "id": "bomb-da-base-act-ii",
-      "name": "Bomb Da Base: Act II",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/bomb-da-base-act-ii.svg"
-    },
-    {
       "id": "detonator",
       "name": "Detonator",
       "type": "Special",
       "verified": true,
       "source": "GTA Wiki weapon list (names and weapon class)",
       "image": "assets/img/weapon/gta-iii/detonator.png"
-    },
-    {
-      "id": "dont-spank-ma-bitch-up",
-      "name": "Don't Spank Ma Bitch Up",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/dont-spank-ma-bitch-up.svg"
     },
     {
       "id": "fist",
@@ -120,14 +96,6 @@
       "image": "assets/img/weapon/gta-iii/m16.png"
     },
     {
-      "id": "marked-man",
-      "name": "Marked Man",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/marked-man.svg"
-    },
-    {
       "id": "molotov-cocktail",
       "name": "Molotov Cocktail",
       "type": "Thrown",
@@ -158,14 +126,6 @@
       "image": "assets/img/weapon/gta-iii/pistol.png"
     },
     {
-      "id": "pump-action-pimp",
-      "name": "Pump-Action Pimp",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/pump-action-pimp.svg"
-    },
-    {
       "id": "rocket-launcher",
       "name": "Rocket Launcher",
       "type": "Heavy",
@@ -188,14 +148,6 @@
       "image": "assets/img/weapon/gta-iii/shotgun.png"
     },
     {
-      "id": "silence-the-sneak",
-      "name": "Silence the Sneak",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/silence-the-sneak.svg"
-    },
-    {
       "id": "sniper-rifle",
       "name": "Sniper Rifle",
       "type": "Large Firearms",
@@ -207,22 +159,6 @@
       "image": "assets/img/weapon/gta-iii/sniper-rifle.png"
     },
     {
-      "id": "taking-out-the-laundry",
-      "name": "Taking Out the Laundry",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/taking-out-the-laundry.svg"
-    },
-    {
-      "id": "trial-by-fire",
-      "name": "Trial By Fire",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/trial-by-fire.svg"
-    },
-    {
       "id": "uzi",
       "name": "Uzi",
       "type": "Small Firearms",
@@ -232,22 +168,6 @@
       "ammo": "25 rounds",
       "unlock": "Ammu-Nation / 8-Ball",
       "image": "assets/img/weapon/gta-iii/uzi.png"
-    },
-    {
-      "id": "uzi-money",
-      "name": "Uzi Money",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/uzi-money.svg"
-    },
-    {
-      "id": "uzi-rider",
-      "name": "Uzi Rider",
-      "type": "Additional Information",
-      "verified": true,
-      "source": "GTA Wiki weapon list (names and weapon class)",
-      "image": "assets/img/weapon/gta-iii/uzi-rider.svg"
     }
   ]
 }
