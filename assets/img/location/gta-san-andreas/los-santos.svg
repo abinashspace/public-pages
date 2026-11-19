@@ -10,6 +10,7 @@
 </defs>
 <rect width="1280" height="720" fill="url(#g)"/>
 <rect width="1280" height="720" fill="url(#p)"/>
+
 <rect x="12" y="12" width="1256" height="696" fill="none" stroke="#a7ffbc" stroke-opacity="0.25" stroke-width="6"/>
 <text x="640" y="340.56" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="129.6" fill="#a7ffbc" fill-opacity="0.22" letter-spacing="6.48">LS</text>
 <text x="640" y="398.4" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="64" fill="#a7ffbc">Los Santos</text>

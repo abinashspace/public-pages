@@ -15,7 +15,7 @@ included here for a personal, non-commercial reference site and are not licensed
 - Anything unmatched stays a generated placeholder and is listed as such in
   `data/images.json`.
 
-2026-11-16T06:52:15.693Z
+2026-11-19T15:13:52.345Z
 
 | Kind | Real | Slots |
 |---|---|---|

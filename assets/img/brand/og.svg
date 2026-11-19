@@ -10,6 +10,7 @@
 </defs>
 <rect width="1200" height="630" fill="url(#g)"/>
 <rect width="1200" height="630" fill="url(#p)"/>
+
 <rect x="10" y="10" width="1180" height="610" fill="none" stroke="#ffa9a9" stroke-opacity="0.25" stroke-width="5"/>
 <text x="600" y="297.99" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="113.39999999999999" fill="#ffa9a9" fill-opacity="0.22" letter-spacing="5.67">GH</text>
 <text x="600" y="353.4" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="64" fill="#ffa9a9">GTA Hub</text>

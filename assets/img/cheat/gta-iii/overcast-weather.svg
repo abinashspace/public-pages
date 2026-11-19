@@ -1,18 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Overcast weather — placeholder image">
-<title>Overcast weather — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#00002c"/><stop offset="1" stop-color="#001263"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(21)">
-<rect width="2" height="12" fill="#91e9ff" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#91e9ff" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#91e9ff" fill-opacity="0.22" letter-spacing="1.152">OW</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#91e9ff">Overcast weather</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#91e9ff" fill-opacity="0.72">gta-iii</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#91e9ff" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="ILIKESCOTLAND / L1 → L2 → R1 → R2 → R2 → R1 → L2 → Square / Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → Right Trigger (RT) → White → X">
+<title>ILIKESCOTLAND / L1 → L2 → R1 → R2 → R2 → R1 → L2 → Square / Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → Right Trigger (RT) → White → X</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="44.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">ILIKESCOTLAND</text>
+<text x="64" y="70.3" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">L1 → L2 → R1 → R2 → R2 → R1 → L2 → Square</text>
+<text x="64" y="96.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Left Trigger (LT) → White → Right Trigger (RT) → Black → Black → Right Trigger (RT) → White → X</text>
 </svg>

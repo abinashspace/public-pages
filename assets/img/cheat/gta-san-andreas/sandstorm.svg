@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Sandstorm — placeholder image">
-<title>Sandstorm — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#000800"/><stop offset="1" stop-color="#003f00"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(21)">
-<rect width="2" height="12" fill="#a7ffbc" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#a7ffbc" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#a7ffbc" fill-opacity="0.22" letter-spacing="1.152">S</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#a7ffbc">Sandstorm</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#a7ffbc" fill-opacity="0.72">gta-san-andreas</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#a7ffbc" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="JBWDWWO / CWJXUOC SANDINMYEARS* / D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2 / D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB) / D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black">
+<title>JBWDWWO / CWJXUOC SANDINMYEARS* / D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2 / D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB) / D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="18.100000000000005" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">JBWDWWO</text>
+<text x="64" y="44.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">CWJXUOC SANDINMYEARS*</text>
+<text x="64" y="70.3" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">D-Pad Up → D-Pad Down → L1 → L1 → L2 → L2 → L1 → L2 → R1 → R2</text>
+<text x="64" y="96.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → Left Bumper (LB) → Left Bumper (LB) → Left Trigger (LT) → Left Bumper (LB) → Right Trigger (RT) → Right Bumper (RB)</text>
+<text x="64" y="122.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">D-Pad Up → D-Pad Down → Left Trigger (LT) → Left Trigger (LT) → White → White → Left Trigger (LT) → White → Right Trigger (RT) → Black</text>
 </svg>

@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Rural theme ( CJ's outfit changes to a Binco Trucker Cap and overalls . Traffic and pedestrians are replaced with those usually seen in Red and Flint counties. ) — placeholder image">
-<title>Rural theme ( CJ's outfit changes to a Binco Trucker Cap and overalls . Traffic and pedestrians are replaced with those usually seen in Red and Flint counties. ) — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#000800"/><stop offset="1" stop-color="#003f00"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
-<rect width="2" height="12" fill="#a7ffbc" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#a7ffbc" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#a7ffbc" fill-opacity="0.22" letter-spacing="1.152">RT</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#a7ffbc">Rural theme ( CJ…</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#a7ffbc" fill-opacity="0.72">gta-san-andreas</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#a7ffbc" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="OAXCCRI / FVTMNBZ HICKSVILLE* / Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1 / Y → D-Pad Left → X → Left Bumper (LB) → D-Pad Up → Right Bumper (RB) → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT) / Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)">
+<title>OAXCCRI / FVTMNBZ HICKSVILLE* / Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1 / Y → D-Pad Left → X → Left Bumper (LB) → D-Pad Up → Right Bumper (RB) → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT) / Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="18.100000000000005" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">OAXCCRI</text>
+<text x="64" y="44.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">FVTMNBZ HICKSVILLE*</text>
+<text x="64" y="70.3" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Triangle → D-Pad Left → Square → R2 → D-Pad Up → L2 → D-Pad Down → L1 → Cross → L1 → L1 → L1</text>
+<text x="64" y="96.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Y → D-Pad Left → X → Left Bumper (LB) → D-Pad Up → Right Bumper (RB) → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)</text>
+<text x="64" y="122.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Y → D-Pad Left → X → White → D-Pad Up → Black → D-Pad Down → Left Trigger (LT) → A → Left Trigger (LT) → Left Trigger (LT) → Left Trigger (LT)</text>
 </svg>

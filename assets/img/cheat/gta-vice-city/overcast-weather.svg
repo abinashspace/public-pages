@@ -1,18 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Overcast weather — placeholder image">
-<title>Overcast weather — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#610000"/><stop offset="1" stop-color="#980800"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(21)">
-<rect width="2" height="12" fill="#ffdf7f" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#ffdf7f" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#ffdf7f" fill-opacity="0.22" letter-spacing="1.152">OW</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#ffdf7f">Overcast weather</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#ffdf7f" fill-opacity="0.72">gta-vice-city</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#ffdf7f" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="ABITDRIEG / R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square / Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → X">
+<title>ABITDRIEG / R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square / Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → X</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="44.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">ABITDRIEG</text>
+<text x="64" y="70.3" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">R2 → Cross → L1 → L1 → L2 → L2 → L2 → Square</text>
+<text x="64" y="96.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Black → A → Left Trigger (LT) → Left Trigger (LT) → White → White → White → X</text>
 </svg>
