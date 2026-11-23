@@ -10,6 +10,8 @@
 </defs>
 <rect width="1280" height="720" fill="url(#g)"/>
 <rect width="1280" height="720" fill="url(#p)"/>
+<g><rect x="0" y="0" width="1280" height="720" fill="#000" opacity="0.28"/><image href="../../portrait/gta-london-1969/player-character.svg" x="102.4" y="57.6" width="1075.2" height="518.4" preserveAspectRatio="xMidYMid slice"/><text x="640" y="648" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="28" fill="#fff">Player-named protagonist</text></g>
+
 <rect x="12" y="12" width="1256" height="696" fill="none" stroke="#ff9dd4" stroke-opacity="0.25" stroke-width="6"/>
 <text x="640" y="340.56" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="129.6" fill="#ff9dd4" fill-opacity="0.22" letter-spacing="6.48">M2</text>
 <text x="640" y="398.4" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="64" fill="#ff9dd4">Mission 2</text>

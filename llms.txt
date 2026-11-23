@@ -2,7 +2,7 @@
 
 > A machine-first encyclopedia of the Grand Theft Auto series: characters, missions, vehicles, weapons, cheats, locations and collectibles for all 17 games, published as static HTML and portable JSON.
 
-Static site, no external services. Regenerated 2026-11-22.
+Static site, no external services. Regenerated 2026-11-19.
 
 ## Machine entry points
 

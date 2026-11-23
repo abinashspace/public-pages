@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Spawn Rapid GT — placeholder image">
-<title>Spawn Rapid GT — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#001326"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(42)">
-<rect width="2" height="12" fill="#83eafd" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#83eafd" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#83eafd" fill-opacity="0.22" letter-spacing="1.152">SR</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#83eafd">Spawn Rapid GT</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#83eafd" fill-opacity="0.72">gta-v</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#83eafd" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="1-999-727-4348 (1-999-RAPID-GT) / RAPIDGT / R2 → L1 → Circle → L1 → R1 → Circle → R2 / Right Trigger (RT) → Left Bumper (LB) → B → D-Pad Right → Left Bumper (LB) → Right Bumper (RB) → D-Pad Right → D-Pad Left → B → Right Trigger (RT)">
+<title>1-999-727-4348 (1-999-RAPID-GT) / RAPIDGT / R2 → L1 → Circle → L1 → R1 → Circle → R2 / Right Trigger (RT) → Left Bumper (LB) → B → D-Pad Right → Left Bumper (LB) → Right Bumper (RB) → D-Pad Right → D-Pad Left → B → Right Trigger (RT)</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="31.150000000000002" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">1-999-727-4348 (1-999-RAPID-GT)</text>
+<text x="64" y="57.25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">RAPIDGT</text>
+<text x="64" y="83.35" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">R2 → L1 → Circle → L1 → R1 → Circle → R2</text>
+<text x="64" y="109.45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">Right Trigger (RT) → Left Bumper (LB) → B → D-Pad Right → Left Bumper (LB) → Right Bumper (RB) → D-Pad Right → D-Pad Left → B → Right Trigger (RT)</text>
 </svg>

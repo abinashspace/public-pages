@@ -10,6 +10,7 @@
 </defs>
 <rect width="2048" height="2048" fill="url(#g)"/>
 <rect width="2048" height="2048" fill="url(#p)"/>
+
 <rect x="32" y="32" width="1984" height="1984" fill="none" stroke="#e8c0ff" stroke-opacity="0.25" stroke-width="16"/>
 <text x="1024" y="968.704" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="368.64" fill="#e8c0ff" fill-opacity="0.22" letter-spacing="18.432">L1</text>
 <text x="1024" y="1062.4" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="64" fill="#e8c0ff">London 1961 map</text>

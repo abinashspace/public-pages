@@ -10,6 +10,7 @@
 </defs>
 <rect width="512" height="256" fill="url(#g)"/>
 <rect width="512" height="256" fill="url(#p)"/>
+
 <rect x="4" y="4" width="504" height="248" fill="none" stroke="#ffdf7f" stroke-opacity="0.25" stroke-width="2"/>
 <text x="256" y="121.088" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="46.08" fill="#ffdf7f" fill-opacity="0.22" letter-spacing="2.304">G</text>
 <text x="256" y="150.2" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="37" fill="#ffdf7f">Grenades</text>

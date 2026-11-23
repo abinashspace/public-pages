@@ -1,18 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="All levels, all weapons, infinite ammunition, Get out of jail free card, armor, 99 lives, 5X multiplier, maximum wanted level, display co-ordinates — placeholder image">
-<title>All levels, all weapons, infinite ammunition, Get out of jail free card, armor, 99 lives, 5X multiplier, maximum wanted level, display co-ordinates — placeholder</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#2c0000"/><stop offset="1" stop-color="#630000"/>
-</linearGradient>
-<pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(25)">
-<rect width="2" height="12" fill="#ff9dd4" opacity="0.07"/>
-</pattern>
-</defs>
-<rect width="128" height="128" fill="url(#g)"/>
-<rect width="128" height="128" fill="url(#p)"/>
-<rect x="4" y="4" width="120" height="120" fill="none" stroke="#ff9dd4" stroke-opacity="0.25" stroke-width="2"/>
-<text x="64" y="60.544" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" font-size="23.04" fill="#ff9dd4" fill-opacity="0.22" letter-spacing="1.152">AL</text>
-<text x="64" y="70.6" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="700" font-size="11" fill="#ff9dd4">All levels, all …</text>
-<text x="64" y="81.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="10" fill="#ff9dd4" fill-opacity="0.72">gta-london-1969</text>
-<text x="64" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="8" fill="#ff9dd4" fill-opacity="0.45">CHEAT · 128×128 · PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="GETCARTER">
+<title>GETCARTER</title>
+<rect width="128" height="128" fill="#000"/>
+<text x="64" y="70.3" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,monospace" font-size="18" font-weight="700" fill="#fff">GETCARTER</text>
 </svg>
