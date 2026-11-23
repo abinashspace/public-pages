@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="../../../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="../../../assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Locations — Grand Theft Auto IV","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"name":"Alderney"},{"@type":"ListItem","position":2,"name":"Algonquin"},{"@type":"ListItem","position":3,"name":"Bohan"},{"@type":"ListItem","position":4,"name":"Broker"},{"@type":"ListItem","position":5,"name":"Colony Island"},{"@type":"ListItem","position":6,"name":"Dukes"},{"@type":"ListItem","position":7,"name":"Francis International Airport"},{"@type":"ListItem","position":8,"name":"Happiness Island"},{"@type":"ListItem","position":9,"name":"Hove Beach"},{"@type":"ListItem","position":10,"name":"Libertonian Museum"},{"@type":"ListItem","position":11,"name":"Liberty City"},{"@type":"ListItem","position":12,"name":"North Holland"}]}</script>
 <script src="../../../assets/js/site.js" defer></script>
@@ -25,8 +26,16 @@
 <body data-page="section">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../">Games</a></li><li><a href="../../../timeline/">Timeline</a></li><li><a href="../../../compare/">Compare</a></li><li><a href="../../../cheats/">Cheats</a></li><li><a href="../../../locations/">Locations</a></li><li><a href="../../../data/">Data</a></li><li><a href="../../../search/">Search</a></li><li><a href="../../../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../../../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta-iv/">GTA IV</a></li><li><span aria-current="page">Locations</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -41,26 +50,31 @@
   <a class="btn btn-ghost" href="../../../data/games/gta-iv.json" type="application/json">Whole game bundle</a>
   
 </p>
-<div class="table-wrap">
-<table class="data-table has-thumb">
+<div class="filter-bar">
+  <label for="table-filter">Filter</label>
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 12 locations…" aria-controls="table-results">
+  <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
+</div>
+<div id="table-results"><div class="table-wrap">
+<table class="data-table has-thumb" data-sortable>
 <caption>Locations — Grand Theft Auto IV (12 records)</caption>
-<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col">Location</th><th scope="col">Type</th><th scope="col">Parent area</th></tr></thead>
+<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col" data-sort>Location</th><th scope="col" data-sort>Type</th><th scope="col" data-sort>Parent area</th></tr></thead>
 <tbody>
-<tr data-id="alderney"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/alderney.png" alt="Alderney" width="1280" height="720"></td><td><strong>Alderney</strong></td><td>State</td><td>Liberty City</td></tr>
-<tr data-id="algonquin"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/algonquin.jpg" alt="Algonquin" width="1280" height="720"></td><td><strong>Algonquin</strong></td><td>Borough</td><td>Liberty City</td></tr>
-<tr data-id="bohan"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/bohan.png" alt="Bohan" width="1280" height="720"></td><td><strong>Bohan</strong></td><td>Borough</td><td>Liberty City</td></tr>
-<tr data-id="broker"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/broker.png" alt="Broker" width="1280" height="720"></td><td><strong>Broker</strong></td><td>Borough</td><td>Liberty City</td></tr>
-<tr data-id="colon-island"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/colon-island.png" alt="Colony Island" width="1280" height="720"></td><td><strong>Colony Island</strong></td><td>Island</td><td>Liberty City</td></tr>
-<tr data-id="dukes"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/dukes.png" alt="Dukes" width="1280" height="720"></td><td><strong>Dukes</strong></td><td>Borough</td><td>Liberty City</td></tr>
-<tr data-id="francis-international-airport"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/francis-international-airport.png" alt="Francis International Airport" width="1280" height="720"></td><td><strong>Francis International Airport</strong></td><td>Landmark</td><td>Dukes</td></tr>
-<tr data-id="happiness-island"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/happiness-island.png" alt="Happiness Island" width="1280" height="720"></td><td><strong>Happiness Island</strong></td><td>Island</td><td>Liberty City</td></tr>
-<tr data-id="hove-beach"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/hove-beach.png" alt="Hove Beach" width="1280" height="720"></td><td><strong>Hove Beach</strong></td><td>Neighbourhood</td><td>Broker</td></tr>
-<tr data-id="libertian-museum"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/libertian-museum.png" alt="Libertonian Museum" width="1280" height="720"></td><td><strong>Libertonian Museum</strong></td><td>Landmark</td><td>Algonquin</td></tr>
-<tr data-id="liberty-city"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/liberty-city.svg" alt="Liberty City (placeholder)" width="1280" height="720"></td><td><strong>Liberty City</strong></td><td>City</td><td>—</td></tr>
-<tr data-id="north-holland"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/north-holland.png" alt="North Holland" width="1280" height="720"></td><td><strong>North Holland</strong></td><td>Neighbourhood</td><td>Algonquin</td></tr>
+<tr data-id="alderney" data-search="alderney alderney new jersey analogue across the river, pegorino territory."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/alderney.png" alt="Alderney" width="1280" height="720"></td><td data-sort="Alderney"><strong>Alderney</strong></td><td data-sort="State">State</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="algonquin" data-search="algonquin algonquin manhattan analogue and the city's centre."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/algonquin.jpg" alt="Algonquin" width="1280" height="720"></td><td data-sort="Algonquin"><strong>Algonquin</strong></td><td data-sort="Borough">Borough</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="bohan" data-search="bohan bohan bronx analogue, northern borough."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/bohan.png" alt="Bohan" width="1280" height="720"></td><td data-sort="Bohan"><strong>Bohan</strong></td><td data-sort="Borough">Borough</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="broker" data-search="broker broker brooklyn analogue and niko's first neighbourhood, hove beach."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/broker.png" alt="Broker" width="1280" height="720"></td><td data-sort="Broker"><strong>Broker</strong></td><td data-sort="Borough">Borough</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="colon-island" data-search="colon-island colony island industrial island with the warehouse from the snow storm."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/colon-island.png" alt="Colony Island" width="1280" height="720"></td><td data-sort="Colony Island"><strong>Colony Island</strong></td><td data-sort="Island">Island</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="dukes" data-search="dukes dukes queens analogue with the airport and mcreary territory."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/dukes.png" alt="Dukes" width="1280" height="720"></td><td data-sort="Dukes"><strong>Dukes</strong></td><td data-sort="Borough">Borough</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="francis-international-airport" data-search="francis-international-airport francis international airport liberty city's main airport."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/francis-international-airport.png" alt="Francis International Airport" width="1280" height="720"></td><td data-sort="Francis International Airport"><strong>Francis International Airport</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Dukes">Dukes</td></tr>
+<tr data-id="happiness-island" data-search="happiness-island happiness island statue island in the bay, significant in the endgame."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/happiness-island.png" alt="Happiness Island" width="1280" height="720"></td><td data-sort="Happiness Island"><strong>Happiness Island</strong></td><td data-sort="Island">Island</td><td data-sort="Liberty City">Liberty City</td></tr>
+<tr data-id="hove-beach" data-search="hove-beach hove beach russian immigrant neighbourhood with roman's taxi depot."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/hove-beach.png" alt="Hove Beach" width="1280" height="720"></td><td data-sort="Hove Beach"><strong>Hove Beach</strong></td><td data-sort="Neighbourhood">Neighbourhood</td><td data-sort="Broker">Broker</td></tr>
+<tr data-id="libertian-museum" data-search="libertian-museum libertonian museum museum where the diamond deal takes place."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/libertian-museum.png" alt="Libertonian Museum" width="1280" height="720"></td><td data-sort="Libertonian Museum"><strong>Libertonian Museum</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Algonquin">Algonquin</td></tr>
+<tr data-id="liberty-city" data-search="liberty-city liberty city the hd-era liberty city, modelled on new york and new jersey."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/liberty-city.svg" alt="Liberty City (placeholder)" width="1280" height="720"></td><td data-sort="Liberty City"><strong>Liberty City</strong></td><td data-sort="City">City</td><td data-sort="">—</td></tr>
+<tr data-id="north-holland" data-search="north-holland north holland harlem analogue; playboy x and dwayne forge territory."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-iv/north-holland.png" alt="North Holland" width="1280" height="720"></td><td data-sort="North Holland"><strong>North Holland</strong></td><td data-sort="Neighbourhood">Neighbourhood</td><td data-sort="Algonquin">Algonquin</td></tr>
 </tbody>
 </table>
-</div>
+</div></div>
 <h2 id="fields">Field definitions</h2><div class="table-wrap"><table class="data-table">
 <caption>Fields on every location record</caption>
 <thead><tr><th scope="col">Field</th><th scope="col">Type</th><th scope="col">Required</th><th scope="col">Notes</th></tr></thead>
@@ -71,9 +85,44 @@
 </nav>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="../../../data/index.json">index.json</a> · <a href="../../../data/search-index.json">search-index.json</a> · <a href="../../../llms.txt">llms.txt</a> · <a href="../../../sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../../../timeline/">Timeline</a></li>
+        <li><a href="../../../compare/">Compare games</a></li>
+        <li><a href="../../../cheats/">Cheat codes</a></li>
+        <li><a href="../../../locations/">Locations</a></li>
+        <li><a href="../../../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../../../data/index.json">index.json</a></li>
+        <li><a href="../../../data/search-index.json">search-index.json</a></li>
+        <li><a href="../../../data/images.json">images.json</a></li>
+        <li><a href="../../../llms.txt">llms.txt</a></li>
+        <li><a href="../../../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../../../about/">How this site works</a></li>
+        <li><a href="../../../about/#accuracy">Accuracy</a></li>
+        <li><a href="../../../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>

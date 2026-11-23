@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"GTA Hub","url":"https://abinashspace.github.io/gta-hub/","description":"A machine-first encyclopedia of the Grand Theft Auto series: characters, missions, vehicles, weapons, cheats, locations and collectibles for all 17 games, published as static HTML and portable JSON.","inLanguage":"en"}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Grand Theft Auto games","numberOfItems":17,"itemListElement":[{"@type":"ListItem","position":1,"name":"Grand Theft Auto","url":"https://abinashspace.github.io/gta-hub/games/gta/"},{"@type":"ListItem","position":2,"name":"Grand Theft Auto: London 1969","url":"https://abinashspace.github.io/gta-hub/games/gta-london-1969/"},{"@type":"ListItem","position":3,"name":"Grand Theft Auto: London 1961","url":"https://abinashspace.github.io/gta-hub/games/gta-london-1961/"},{"@type":"ListItem","position":4,"name":"Grand Theft Auto 2","url":"https://abinashspace.github.io/gta-hub/games/gta-2/"},{"@type":"ListItem","position":5,"name":"Grand Theft Auto III","url":"https://abinashspace.github.io/gta-hub/games/gta-iii/"},{"@type":"ListItem","position":6,"name":"Grand Theft Auto: Vice City","url":"https://abinashspace.github.io/gta-hub/games/gta-vice-city/"},{"@type":"ListItem","position":7,"name":"Grand Theft Auto: San Andreas","url":"https://abinashspace.github.io/gta-hub/games/gta-san-andreas/"},{"@type":"ListItem","position":8,"name":"Grand Theft Auto Advance","url":"https://abinashspace.github.io/gta-hub/games/gta-advance/"},{"@type":"ListItem","position":9,"name":"Grand Theft Auto: Liberty City Stories","url":"https://abinashspace.github.io/gta-hub/games/gta-liberty-city-stories/"},{"@type":"ListItem","position":10,"name":"Grand Theft Auto: Vice City Stories","url":"https://abinashspace.github.io/gta-hub/games/gta-vice-city-stories/"},{"@type":"ListItem","position":11,"name":"Grand Theft Auto IV","url":"https://abinashspace.github.io/gta-hub/games/gta-iv/"},{"@type":"ListItem","position":12,"name":"Grand Theft Auto IV: The Lost and Damned","url":"https://abinashspace.github.io/gta-hub/games/gta-iv-the-lost-and-damned/"},{"@type":"ListItem","position":13,"name":"Grand Theft Auto: The Ballad of Gay Tony","url":"https://abinashspace.github.io/gta-hub/games/gta-the-ballad-of-gay-tony/"},{"@type":"ListItem","position":14,"name":"Grand Theft Auto: Chinatown Wars","url":"https://abinashspace.github.io/gta-hub/games/gta-chinatown-wars/"},{"@type":"ListItem","position":15,"name":"Grand Theft Auto V","url":"https://abinashspace.github.io/gta-hub/games/gta-v/"},{"@type":"ListItem","position":16,"name":"Grand Theft Auto Online","url":"https://abinashspace.github.io/gta-hub/games/gta-online/"},{"@type":"ListItem","position":17,"name":"Grand Theft Auto VI","url":"https://abinashspace.github.io/gta-hub/games/gta-vi/"}]}</script>
@@ -26,165 +27,228 @@
 <body data-page="home">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="./"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
-  <nav aria-label="Primary"><ul><li><a href="./">Games</a></li><li><a href="timeline/">Timeline</a></li><li><a href="compare/">Compare</a></li><li><a href="cheats/">Cheats</a></li><li><a href="locations/">Locations</a></li><li><a href="data/">Data</a></li><li><a href="search/">Search</a></li><li><a href="about/">About</a></li></ul></nav>
+  <a class="brand" href="./"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+  <nav aria-label="Primary"><ul><li><a href="./" aria-current="page">Games</a></li><li><a href="timeline/">Timeline</a></li><li><a href="compare/">Compare</a></li><li><a href="cheats/">Cheats</a></li><li><a href="locations/">Locations</a></li><li><a href="data/">Data</a></li><li><a href="search/">Search</a></li><li><a href="about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 
 <main id="main" tabindex="-1">
-<header class="page-head">
+<section class="home-hero">
   <p class="eyebrow">Static · JSON-first · No external services</p>
-  <h1>GTA Hub</h1>
-  <p class="lead">17 games. 7 section types. 3700 records. Every page has a JSON twin.</p>
-  
-</header>
-<dl class="stats"><div class="stat"><dt>Games</dt><dd>17</dd></div><div class="stat"><dt>Records</dt><dd>3700</dd></div><div class="stat"><dt>Sections</dt><dd>7</dd></div><div class="stat"><dt>Build</dt><dd><time datetime="2026-11-16">2026-11-16</time></dd></div></dl>
-<ul class="cards"><li class="card">
-  <a href="games/gta/">
-    <span class="card-kicker">1997 · Main</span>
-    <span class="card-title">Grand Theft Auto</span>
-    <span class="card-meta">Liberty City · Vice City · San Andreas — 211 records</span>
+  <h1>The complete <em>GTA</em> reference</h1>
+  <p class="lead">17 games. 7 section types. 3,700 records. Every page has a JSON twin — search it, browse it, or read the raw data.</p>
+  <form class="home-search" role="search" action="search/" method="get">
+    <label class="visually-hidden" for="hero-q">Search every record</label>
+    <input id="hero-q" name="q" type="search" autocomplete="off" placeholder="Try “Rhino”, “Vice City”, “hidden package”…">
+    <button class="btn" type="submit">Search</button>
+  </form>
+  <div class="hero-tags">
+    <a href="games/gta-v/">GTA V</a>
+    <a href="games/gta-san-andreas/">San Andreas</a>
+    <a href="games/gta-vice-city/">Vice City</a>
+    <a href="games/gta-iv/">GTA IV</a>
+    <a href="games/gta-vi/">GTA VI</a>
+    <a href="cheats/">All cheats →</a>
+  </div>
+</section>
+<dl class="stats"><div class="stat"><dt>Games</dt><dd>17</dd></div><div class="stat"><dt>Records</dt><dd>3700</dd></div><div class="stat"><dt>Sections</dt><dd>7</dd></div><div class="stat"><dt>Universes</dt><dd><a href="timeline/">2D · 3D · HD · VI</a></dd></div></dl>
+<h2 id="library">Game library</h2>
+<p class="note">Seventeen releases, from the 1997 original to the upcoming GTA VI. Pick a cover to open its seven sections.</p>
+<ul class="game-grid"><li>
+  <a class="game-card" href="games/gta/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta/cover.jpg" alt="Grand Theft Auto box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">1997</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto</span>
+      <span class="game-meta">Main · 3 cities</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-london-1969/">
-    <span class="card-kicker">1999 · Expansion</span>
-    <span class="card-title">Grand Theft Auto: London 1969</span>
-    <span class="card-meta">London — 130 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-london-1969/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-london-1969/cover.jpg" alt="Grand Theft Auto: London 1969 box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">1999</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: London 1969</span>
+      <span class="game-meta">Expansion · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-london-1961/">
-    <span class="card-kicker">1999 · Expansion</span>
-    <span class="card-title">Grand Theft Auto: London 1961</span>
-    <span class="card-meta">London — 60 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-london-1961/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-london-1961/cover.jpg" alt="Grand Theft Auto: London 1961 box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">1999</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: London 1961</span>
+      <span class="game-meta">Expansion · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-2/">
-    <span class="card-kicker">1999 · Main</span>
-    <span class="card-title">Grand Theft Auto 2</span>
-    <span class="card-meta">Anywhere City — 139 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-2/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-2/cover.jpg" alt="Grand Theft Auto 2 box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">1999</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto 2</span>
+      <span class="game-meta">Main · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-iii/">
-    <span class="card-kicker">2001 · Main</span>
-    <span class="card-title">Grand Theft Auto III</span>
-    <span class="card-meta">Liberty City — 210 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-iii/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-iii/cover.jpg" alt="Grand Theft Auto III box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">2001</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto III</span>
+      <span class="game-meta">Main · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-vice-city/">
-    <span class="card-kicker">2002 · Main</span>
-    <span class="card-title">Grand Theft Auto: Vice City</span>
-    <span class="card-meta">Vice City — 315 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-vice-city/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-vice-city/cover.jpg" alt="Grand Theft Auto: Vice City box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">2002</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: Vice City</span>
+      <span class="game-meta">Main · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-san-andreas/">
-    <span class="card-kicker">2004 · Main</span>
-    <span class="card-title">Grand Theft Auto: San Andreas</span>
-    <span class="card-meta">Los Santos · San Fierro · Las Venturas — 485 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-san-andreas/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-san-andreas/cover.png" alt="Grand Theft Auto: San Andreas box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2004</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: San Andreas</span>
+      <span class="game-meta">Main · 3 cities</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-advance/">
-    <span class="card-kicker">2004 · Spin-off</span>
-    <span class="card-title">Grand Theft Auto Advance</span>
-    <span class="card-meta">Liberty City — 113 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-advance/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-advance/cover.jpg" alt="Grand Theft Auto Advance box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2004</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto Advance</span>
+      <span class="game-meta">Spin-off · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-liberty-city-stories/">
-    <span class="card-kicker">2005 · Spin-off</span>
-    <span class="card-title">Grand Theft Auto: Liberty City Stories</span>
-    <span class="card-meta">Liberty City — 267 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-liberty-city-stories/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-liberty-city-stories/cover.png" alt="Grand Theft Auto: Liberty City Stories box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2005</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: Liberty City Stories</span>
+      <span class="game-meta">Spin-off · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-vice-city-stories/">
-    <span class="card-kicker">2006 · Spin-off</span>
-    <span class="card-title">Grand Theft Auto: Vice City Stories</span>
-    <span class="card-meta">Vice City — 268 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-vice-city-stories/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-vice-city-stories/cover.jpg" alt="Grand Theft Auto: Vice City Stories box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2006</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: Vice City Stories</span>
+      <span class="game-meta">Spin-off · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-iv/">
-    <span class="card-kicker">2008 · Main</span>
-    <span class="card-title">Grand Theft Auto IV</span>
-    <span class="card-meta">Liberty City — 309 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-iv/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-iv/cover.jpg" alt="Grand Theft Auto IV box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2008</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto IV</span>
+      <span class="game-meta">Main · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-iv-the-lost-and-damned/">
-    <span class="card-kicker">2009 · Expansion</span>
-    <span class="card-title">Grand Theft Auto IV: The Lost and Damned</span>
-    <span class="card-meta">Liberty City — 210 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-iv-the-lost-and-damned/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-iv-the-lost-and-damned/cover.jpg" alt="Grand Theft Auto IV: The Lost and Damned box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2009</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto IV: The Lost and Damned</span>
+      <span class="game-meta">Expansion · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-the-ballad-of-gay-tony/">
-    <span class="card-kicker">2009 · Expansion</span>
-    <span class="card-title">Grand Theft Auto: The Ballad of Gay Tony</span>
-    <span class="card-meta">Liberty City — 220 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-the-ballad-of-gay-tony/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-the-ballad-of-gay-tony/cover.jpg" alt="Grand Theft Auto: The Ballad of Gay Tony box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2009</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: The Ballad of Gay Tony</span>
+      <span class="game-meta">Expansion · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-chinatown-wars/">
-    <span class="card-kicker">2009 · Spin-off</span>
-    <span class="card-title">Grand Theft Auto: Chinatown Wars</span>
-    <span class="card-meta">Liberty City — 203 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-chinatown-wars/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-chinatown-wars/cover.png" alt="Grand Theft Auto: Chinatown Wars box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2009</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto: Chinatown Wars</span>
+      <span class="game-meta">Spin-off · 1 city</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-v/">
-    <span class="card-kicker">2013 · Main</span>
-    <span class="card-title">Grand Theft Auto V</span>
-    <span class="card-meta">Los Santos · Blaine County — 515 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-v/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-v/cover.png" alt="Grand Theft Auto V box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2013</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto V</span>
+      <span class="game-meta">Main · 2 cities</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-online/">
-    <span class="card-kicker">2013 · Online</span>
-    <span class="card-title">Grand Theft Auto Online</span>
-    <span class="card-meta">Los Santos · Blaine County — 41 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-online/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-online/cover.jpg" alt="Grand Theft Auto Online box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2013</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto Online</span>
+      <span class="game-meta">Online · 2 cities</span>
+    </span>
   </a>
-</li><li class="card">
-  <a href="games/gta-vi/">
-    <span class="card-kicker">2026 · Main</span>
-    <span class="card-title">Grand Theft Auto VI</span>
-    <span class="card-meta">Vice City · Leonida — 4 records</span>
+</li><li>
+  <a class="game-card" href="games/gta-vi/">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta-vi/cover.png" alt="Grand Theft Auto VI box art" width="600" height="900" loading="lazy" decoding="async">
+      <span class="cover-badge">2026</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto VI</span>
+      <span class="game-meta">Main · 2 cities</span>
+    </span>
   </a>
 </li></ul>
-<h2 id="games">Every game</h2>
-<div class="table-wrap"><table class="data-table">
-<caption>All 17 games in the series</caption>
-<thead><tr><th scope="col" class="num">#</th><th scope="col">Title</th><th scope="col" class="num">Year</th><th scope="col">Type</th><th scope="col">Status</th><th scope="col">Cities</th><th scope="col">Cheats</th></tr></thead>
-<tbody><tr><td class="num">1</td><td><a href="games/gta/">Grand Theft Auto</a></td><td class="num">1997</td><td>Main</td><td>released</td><td>Liberty City, Vice City, San Andreas</td><td>Yes</td></tr>
-<tr><td class="num">2</td><td><a href="games/gta-london-1969/">Grand Theft Auto: London 1969</a></td><td class="num">1999</td><td>Expansion</td><td>released</td><td>London</td><td>Yes</td></tr>
-<tr><td class="num">3</td><td><a href="games/gta-london-1961/">Grand Theft Auto: London 1961</a></td><td class="num">1999</td><td>Expansion</td><td>released</td><td>London</td><td>Yes</td></tr>
-<tr><td class="num">4</td><td><a href="games/gta-2/">Grand Theft Auto 2</a></td><td class="num">1999</td><td>Main</td><td>released</td><td>Anywhere City</td><td>Yes</td></tr>
-<tr><td class="num">5</td><td><a href="games/gta-iii/">Grand Theft Auto III</a></td><td class="num">2001</td><td>Main</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
-<tr><td class="num">6</td><td><a href="games/gta-vice-city/">Grand Theft Auto: Vice City</a></td><td class="num">2002</td><td>Main</td><td>released</td><td>Vice City</td><td>Yes</td></tr>
-<tr><td class="num">7</td><td><a href="games/gta-san-andreas/">Grand Theft Auto: San Andreas</a></td><td class="num">2004</td><td>Main</td><td>released</td><td>Los Santos, San Fierro, Las Venturas</td><td>Yes</td></tr>
-<tr><td class="num">8</td><td><a href="games/gta-advance/">Grand Theft Auto Advance</a></td><td class="num">2004</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Limited</td></tr>
-<tr><td class="num">9</td><td><a href="games/gta-liberty-city-stories/">Grand Theft Auto: Liberty City Stories</a></td><td class="num">2005</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
-<tr><td class="num">10</td><td><a href="games/gta-vice-city-stories/">Grand Theft Auto: Vice City Stories</a></td><td class="num">2006</td><td>Spin-off</td><td>released</td><td>Vice City</td><td>Yes</td></tr>
-<tr><td class="num">11</td><td><a href="games/gta-iv/">Grand Theft Auto IV</a></td><td class="num">2008</td><td>Main</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
-<tr><td class="num">12</td><td><a href="games/gta-iv-the-lost-and-damned/">Grand Theft Auto IV: The Lost and Damned</a></td><td class="num">2009</td><td>Expansion</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
-<tr><td class="num">13</td><td><a href="games/gta-the-ballad-of-gay-tony/">Grand Theft Auto: The Ballad of Gay Tony</a></td><td class="num">2009</td><td>Expansion</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
-<tr><td class="num">14</td><td><a href="games/gta-chinatown-wars/">Grand Theft Auto: Chinatown Wars</a></td><td class="num">2009</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
-<tr><td class="num">15</td><td><a href="games/gta-v/">Grand Theft Auto V</a></td><td class="num">2013</td><td>Main</td><td>released</td><td>Los Santos, Blaine County</td><td>Yes</td></tr>
-<tr><td class="num">16</td><td><a href="games/gta-online/">Grand Theft Auto Online</a></td><td class="num">2013</td><td>Online</td><td>live</td><td>Los Santos, Blaine County</td><td>None</td></tr>
-<tr><td class="num">17</td><td><a href="games/gta-vi/">Grand Theft Auto VI</a></td><td class="num">2026</td><td>Main</td><td>upcoming</td><td>Vice City, Leonida</td><td>TBA</td></tr></tbody></table></div>
-<h2 id="coverage">Coverage</h2>
-<p class="note">Cells show how many records exist today. <span class="badge badge-complete">complete</span> <span class="badge badge-partial">partial</span> <span class="badge badge-limited">limited</span> <span class="badge badge-official-only">official-only</span> <span class="badge badge-empty">empty</span></p>
-<div class="table-wrap"><table class="data-table coverage-table">
-<caption>Coverage matrix — record count per section, per game</caption>
-<thead><tr><th scope="col">Game</th><th scope="col" class="num">Characters</th><th scope="col" class="num">Missions</th><th scope="col" class="num">Vehicles</th><th scope="col" class="num">Weapons</th><th scope="col" class="num">Cheat codes</th><th scope="col" class="num">Locations</th><th scope="col" class="num">Collectibles</th><th scope="col" class="num">Total</th></tr></thead>
-<tbody><tr><th scope="row"><a href="games/gta/">GTA</a></th><td class="num cov cov-limited">4</td><td class="num cov cov-complete">100</td><td class="num cov cov-complete">60</td><td class="num cov cov-complete">8</td><td class="num cov cov-complete">35</td><td class="num cov cov-partial">3</td><td class="num cov cov-limited">1</td><td class="num"><strong>211</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-london-1969/">London 1969</a></th><td class="num cov cov-limited">3</td><td class="num cov cov-complete">47</td><td class="num cov cov-complete">42</td><td class="num cov cov-complete">6</td><td class="num cov cov-complete">28</td><td class="num cov cov-partial">4</td><td class="num cov cov-empty">0</td><td class="num"><strong>130</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-london-1961/">London 1961</a></th><td class="num cov cov-limited">2</td><td class="num cov cov-complete">9</td><td class="num cov cov-complete">41</td><td class="num cov cov-complete">6</td><td class="num cov cov-limited">1</td><td class="num cov cov-partial">1</td><td class="num cov cov-empty">0</td><td class="num"><strong>60</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-2/">GTA 2</a></th><td class="num cov cov-limited">9</td><td class="num cov cov-limited">4</td><td class="num cov cov-complete">68</td><td class="num cov cov-complete">20</td><td class="num cov cov-complete">33</td><td class="num cov cov-partial">4</td><td class="num cov cov-limited">1</td><td class="num"><strong>139</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-iii/">GTA III</a></th><td class="num cov cov-partial">19</td><td class="num cov cov-complete">68</td><td class="num cov cov-complete">63</td><td class="num cov cov-complete">16</td><td class="num cov cov-complete">23</td><td class="num cov cov-partial">18</td><td class="num cov cov-complete">3</td><td class="num"><strong>210</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-vice-city/">Vice City</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">61</td><td class="num cov cov-complete">107</td><td class="num cov cov-complete">43</td><td class="num cov cov-complete">59</td><td class="num cov cov-partial">17</td><td class="num cov cov-complete">4</td><td class="num"><strong>315</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-san-andreas/">San Andreas</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">101</td><td class="num cov cov-complete">171</td><td class="num cov cov-complete">60</td><td class="num cov cov-complete">101</td><td class="num cov cov-partial">22</td><td class="num cov cov-complete">6</td><td class="num"><strong>485</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-advance/">GTA Advance</a></th><td class="num cov cov-limited">7</td><td class="num cov cov-complete">41</td><td class="num cov cov-complete">31</td><td class="num cov cov-complete">18</td><td class="num cov cov-complete">10</td><td class="num cov cov-partial">4</td><td class="num cov cov-complete">2</td><td class="num"><strong>113</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-liberty-city-stories/">LCS</a></th><td class="num cov cov-partial">17</td><td class="num cov cov-complete">71</td><td class="num cov cov-complete">81</td><td class="num cov cov-complete">40</td><td class="num cov cov-complete">43</td><td class="num cov cov-partial">10</td><td class="num cov cov-complete">5</td><td class="num"><strong>267</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-vice-city-stories/">VCS</a></th><td class="num cov cov-partial">15</td><td class="num cov cov-complete">59</td><td class="num cov cov-complete">106</td><td class="num cov cov-complete">42</td><td class="num cov cov-complete">31</td><td class="num cov cov-partial">10</td><td class="num cov cov-complete">5</td><td class="num"><strong>268</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-iv/">GTA IV</a></th><td class="num cov cov-partial">26</td><td class="num cov cov-complete">90</td><td class="num cov cov-complete">122</td><td class="num cov cov-complete">23</td><td class="num cov cov-complete">32</td><td class="num cov cov-partial">12</td><td class="num cov cov-complete">4</td><td class="num"><strong>309</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-iv-the-lost-and-damned/">TLAD</a></th><td class="num cov cov-partial">12</td><td class="num cov cov-complete">22</td><td class="num cov cov-complete">143</td><td class="num cov cov-complete">24</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">6</td><td class="num cov cov-partial">3</td><td class="num"><strong>210</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-the-ballad-of-gay-tony/">TBoGT</a></th><td class="num cov cov-partial">12</td><td class="num cov cov-complete">26</td><td class="num cov cov-complete">144</td><td class="num cov cov-complete">27</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">7</td><td class="num cov cov-complete">4</td><td class="num"><strong>220</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-chinatown-wars/">Chinatown Wars</a></th><td class="num cov cov-partial">10</td><td class="num cov cov-complete">58</td><td class="num cov cov-complete">75</td><td class="num cov cov-complete">33</td><td class="num cov cov-complete">20</td><td class="num cov cov-partial">5</td><td class="num cov cov-partial">2</td><td class="num"><strong>203</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-v/">GTA V</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">75</td><td class="num cov cov-complete">298</td><td class="num cov cov-complete">62</td><td class="num cov cov-complete">36</td><td class="num cov cov-partial">14</td><td class="num cov cov-complete">6</td><td class="num"><strong>515</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-online/">GTA Online</a></th><td class="num cov cov-limited">11</td><td class="num cov cov-limited">8</td><td class="num cov cov-limited">8</td><td class="num cov cov-limited">6</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">5</td><td class="num cov cov-limited">3</td><td class="num"><strong>41</strong></td></tr>
-<tr><th scope="row"><a href="games/gta-vi/">GTA VI</a></th><td class="num cov cov-official-only">2</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-official-only">2</td><td class="num cov cov-empty">0</td><td class="num"><strong>4</strong></td></tr></tbody>
-</table></div>
 <h2 id="cross">Cross-game views</h2>
 <ul class="cards"><li class="card">
   <a href="timeline/">
@@ -211,9 +275,62 @@
     <span class="card-meta">Cities, districts and landmarks across the series.</span>
   </a>
 </li></ul>
-<h2 id="machines">For machines</h2>
-<p>No JavaScript is required to read this site. Prefer JSON: every URL below is a static file in this repository.</p>
-<div class="table-wrap"><table class="data-table">
+<h2 id="reference">Reference tables</h2>
+<details class="panel">
+  <summary>Coverage matrix — records per section, per game</summary>
+  <div class="panel-body">
+    <p class="note">Cells show how many records exist today. <span class="badge badge-complete">complete</span> <span class="badge badge-partial">partial</span> <span class="badge badge-limited">limited</span> <span class="badge badge-official-only">official-only</span> <span class="badge badge-empty">empty</span></p>
+    <div class="table-wrap"><table class="data-table coverage-table">
+<caption>Coverage matrix — record count per section, per game</caption>
+<thead><tr><th scope="col">Game</th><th scope="col" class="num">Characters</th><th scope="col" class="num">Missions</th><th scope="col" class="num">Vehicles</th><th scope="col" class="num">Weapons</th><th scope="col" class="num">Cheat codes</th><th scope="col" class="num">Locations</th><th scope="col" class="num">Collectibles</th><th scope="col" class="num">Total</th></tr></thead>
+<tbody><tr><th scope="row"><a href="games/gta/">GTA</a></th><td class="num cov cov-limited">4</td><td class="num cov cov-complete">100</td><td class="num cov cov-complete">60</td><td class="num cov cov-complete">8</td><td class="num cov cov-complete">35</td><td class="num cov cov-partial">3</td><td class="num cov cov-limited">1</td><td class="num"><strong>211</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-london-1969/">London 1969</a></th><td class="num cov cov-limited">3</td><td class="num cov cov-complete">47</td><td class="num cov cov-complete">42</td><td class="num cov cov-complete">6</td><td class="num cov cov-complete">28</td><td class="num cov cov-partial">4</td><td class="num cov cov-empty">0</td><td class="num"><strong>130</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-london-1961/">London 1961</a></th><td class="num cov cov-limited">2</td><td class="num cov cov-complete">9</td><td class="num cov cov-complete">41</td><td class="num cov cov-complete">6</td><td class="num cov cov-limited">1</td><td class="num cov cov-partial">1</td><td class="num cov cov-empty">0</td><td class="num"><strong>60</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-2/">GTA 2</a></th><td class="num cov cov-limited">9</td><td class="num cov cov-limited">4</td><td class="num cov cov-complete">68</td><td class="num cov cov-complete">20</td><td class="num cov cov-complete">33</td><td class="num cov cov-partial">4</td><td class="num cov cov-limited">1</td><td class="num"><strong>139</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-iii/">GTA III</a></th><td class="num cov cov-partial">19</td><td class="num cov cov-complete">68</td><td class="num cov cov-complete">63</td><td class="num cov cov-complete">16</td><td class="num cov cov-complete">23</td><td class="num cov cov-partial">18</td><td class="num cov cov-complete">3</td><td class="num"><strong>210</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-vice-city/">Vice City</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">61</td><td class="num cov cov-complete">107</td><td class="num cov cov-complete">43</td><td class="num cov cov-complete">59</td><td class="num cov cov-partial">17</td><td class="num cov cov-complete">4</td><td class="num"><strong>315</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-san-andreas/">San Andreas</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">101</td><td class="num cov cov-complete">171</td><td class="num cov cov-complete">60</td><td class="num cov cov-complete">101</td><td class="num cov cov-partial">22</td><td class="num cov cov-complete">6</td><td class="num"><strong>485</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-advance/">GTA Advance</a></th><td class="num cov cov-limited">7</td><td class="num cov cov-complete">41</td><td class="num cov cov-complete">31</td><td class="num cov cov-complete">18</td><td class="num cov cov-complete">10</td><td class="num cov cov-partial">4</td><td class="num cov cov-complete">2</td><td class="num"><strong>113</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-liberty-city-stories/">LCS</a></th><td class="num cov cov-partial">17</td><td class="num cov cov-complete">71</td><td class="num cov cov-complete">81</td><td class="num cov cov-complete">40</td><td class="num cov cov-complete">43</td><td class="num cov cov-partial">10</td><td class="num cov cov-complete">5</td><td class="num"><strong>267</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-vice-city-stories/">VCS</a></th><td class="num cov cov-partial">15</td><td class="num cov cov-complete">59</td><td class="num cov cov-complete">106</td><td class="num cov cov-complete">42</td><td class="num cov cov-complete">31</td><td class="num cov cov-partial">10</td><td class="num cov cov-complete">5</td><td class="num"><strong>268</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-iv/">GTA IV</a></th><td class="num cov cov-partial">26</td><td class="num cov cov-complete">90</td><td class="num cov cov-complete">122</td><td class="num cov cov-complete">23</td><td class="num cov cov-complete">32</td><td class="num cov cov-partial">12</td><td class="num cov cov-complete">4</td><td class="num"><strong>309</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-iv-the-lost-and-damned/">TLAD</a></th><td class="num cov cov-partial">12</td><td class="num cov cov-complete">22</td><td class="num cov cov-complete">143</td><td class="num cov cov-complete">24</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">6</td><td class="num cov cov-partial">3</td><td class="num"><strong>210</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-the-ballad-of-gay-tony/">TBoGT</a></th><td class="num cov cov-partial">12</td><td class="num cov cov-complete">26</td><td class="num cov cov-complete">144</td><td class="num cov cov-complete">27</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">7</td><td class="num cov cov-complete">4</td><td class="num"><strong>220</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-chinatown-wars/">Chinatown Wars</a></th><td class="num cov cov-partial">10</td><td class="num cov cov-complete">58</td><td class="num cov cov-complete">75</td><td class="num cov cov-complete">33</td><td class="num cov cov-complete">20</td><td class="num cov cov-partial">5</td><td class="num cov cov-partial">2</td><td class="num"><strong>203</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-v/">GTA V</a></th><td class="num cov cov-partial">24</td><td class="num cov cov-complete">75</td><td class="num cov cov-complete">298</td><td class="num cov cov-complete">62</td><td class="num cov cov-complete">36</td><td class="num cov cov-partial">14</td><td class="num cov cov-complete">6</td><td class="num"><strong>515</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-online/">GTA Online</a></th><td class="num cov cov-limited">11</td><td class="num cov cov-limited">8</td><td class="num cov cov-limited">8</td><td class="num cov cov-limited">6</td><td class="num cov cov-empty">0</td><td class="num cov cov-partial">5</td><td class="num cov cov-limited">3</td><td class="num"><strong>41</strong></td></tr>
+<tr><th scope="row"><a href="games/gta-vi/">GTA VI</a></th><td class="num cov cov-official-only">2</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-empty">0</td><td class="num cov cov-official-only">2</td><td class="num cov cov-empty">0</td><td class="num"><strong>4</strong></td></tr></tbody>
+</table></div>
+  </div>
+</details>
+<details class="panel">
+  <summary>All 17 games at a glance</summary>
+  <div class="panel-body"><div class="table-wrap"><table class="data-table">
+<caption>All 17 games in the series</caption>
+<thead><tr><th scope="col" class="num">#</th><th scope="col">Title</th><th scope="col" class="num">Year</th><th scope="col">Type</th><th scope="col">Status</th><th scope="col">Cities</th><th scope="col">Cheats</th></tr></thead>
+<tbody><tr><td class="num">1</td><td><a href="games/gta/">Grand Theft Auto</a></td><td class="num">1997</td><td>Main</td><td>released</td><td>Liberty City, Vice City, San Andreas</td><td>Yes</td></tr>
+<tr><td class="num">2</td><td><a href="games/gta-london-1969/">Grand Theft Auto: London 1969</a></td><td class="num">1999</td><td>Expansion</td><td>released</td><td>London</td><td>Yes</td></tr>
+<tr><td class="num">3</td><td><a href="games/gta-london-1961/">Grand Theft Auto: London 1961</a></td><td class="num">1999</td><td>Expansion</td><td>released</td><td>London</td><td>Yes</td></tr>
+<tr><td class="num">4</td><td><a href="games/gta-2/">Grand Theft Auto 2</a></td><td class="num">1999</td><td>Main</td><td>released</td><td>Anywhere City</td><td>Yes</td></tr>
+<tr><td class="num">5</td><td><a href="games/gta-iii/">Grand Theft Auto III</a></td><td class="num">2001</td><td>Main</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
+<tr><td class="num">6</td><td><a href="games/gta-vice-city/">Grand Theft Auto: Vice City</a></td><td class="num">2002</td><td>Main</td><td>released</td><td>Vice City</td><td>Yes</td></tr>
+<tr><td class="num">7</td><td><a href="games/gta-san-andreas/">Grand Theft Auto: San Andreas</a></td><td class="num">2004</td><td>Main</td><td>released</td><td>Los Santos, San Fierro, Las Venturas</td><td>Yes</td></tr>
+<tr><td class="num">8</td><td><a href="games/gta-advance/">Grand Theft Auto Advance</a></td><td class="num">2004</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Limited</td></tr>
+<tr><td class="num">9</td><td><a href="games/gta-liberty-city-stories/">Grand Theft Auto: Liberty City Stories</a></td><td class="num">2005</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
+<tr><td class="num">10</td><td><a href="games/gta-vice-city-stories/">Grand Theft Auto: Vice City Stories</a></td><td class="num">2006</td><td>Spin-off</td><td>released</td><td>Vice City</td><td>Yes</td></tr>
+<tr><td class="num">11</td><td><a href="games/gta-iv/">Grand Theft Auto IV</a></td><td class="num">2008</td><td>Main</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
+<tr><td class="num">12</td><td><a href="games/gta-iv-the-lost-and-damned/">Grand Theft Auto IV: The Lost and Damned</a></td><td class="num">2009</td><td>Expansion</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
+<tr><td class="num">13</td><td><a href="games/gta-the-ballad-of-gay-tony/">Grand Theft Auto: The Ballad of Gay Tony</a></td><td class="num">2009</td><td>Expansion</td><td>released</td><td>Liberty City</td><td>Phone</td></tr>
+<tr><td class="num">14</td><td><a href="games/gta-chinatown-wars/">Grand Theft Auto: Chinatown Wars</a></td><td class="num">2009</td><td>Spin-off</td><td>released</td><td>Liberty City</td><td>Yes</td></tr>
+<tr><td class="num">15</td><td><a href="games/gta-v/">Grand Theft Auto V</a></td><td class="num">2013</td><td>Main</td><td>released</td><td>Los Santos, Blaine County</td><td>Yes</td></tr>
+<tr><td class="num">16</td><td><a href="games/gta-online/">Grand Theft Auto Online</a></td><td class="num">2013</td><td>Online</td><td>live</td><td>Los Santos, Blaine County</td><td>None</td></tr>
+<tr><td class="num">17</td><td><a href="games/gta-vi/">Grand Theft Auto VI</a></td><td class="num">2026</td><td>Main</td><td>upcoming</td><td>Vice City, Leonida</td><td>TBA</td></tr></tbody></table></div></div>
+</details>
+<details class="panel" id="machines">
+  <summary>Machine endpoints — for agents and crawlers</summary>
+  <div class="panel-body">
+    <p class="note">No JavaScript is required to read this site. Every URL below is a static file in this repository. Prefer JSON over scraping HTML.</p>
+    <div class="table-wrap"><table class="data-table">
 <caption>Machine endpoints</caption>
 <thead><tr><th scope="col">Path</th><th scope="col">Contents</th></tr></thead>
 <tbody>
@@ -226,12 +343,49 @@
 <tr><td><code>data/status.json</code></td><td>Per-game build + coverage status</td></tr>
 <tr><td><code>llms.txt</code></td><td>Plain-text map for LLM crawlers</td></tr>
 </tbody></table></div>
-<p class="data-link"><a href="llms.txt">llms.txt →</a> <a href="sitemap.xml">sitemap.xml →</a> <a href="robots.txt">robots.txt →</a></p>
+    <p class="data-link"><a href="llms.txt">llms.txt →</a> <a href="sitemap.xml">sitemap.xml →</a> <a href="robots.txt">robots.txt →</a></p>
+  </div>
+</details>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="data/index.json">index.json</a> · <a href="data/search-index.json">search-index.json</a> · <a href="llms.txt">llms.txt</a> · <a href="sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="./"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="timeline/">Timeline</a></li>
+        <li><a href="compare/">Compare games</a></li>
+        <li><a href="cheats/">Cheat codes</a></li>
+        <li><a href="locations/">Locations</a></li>
+        <li><a href="search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="data/index.json">index.json</a></li>
+        <li><a href="data/search-index.json">search-index.json</a></li>
+        <li><a href="data/images.json">images.json</a></li>
+        <li><a href="llms.txt">llms.txt</a></li>
+        <li><a href="sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="about/">How this site works</a></li>
+        <li><a href="about/#accuracy">Accuracy</a></li>
+        <li><a href="assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>

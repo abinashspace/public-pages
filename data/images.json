@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T06:52:15.265Z",
+  "generated": "2026-11-22T08:20:09.080Z",
   "base": "assets/img",
   "note": "status=placeholder means generated SVG. Drop a real file with the same basename (jpg/png/webp/avif) into assets/img/<kind>/<game>/ and rebuild.",
   "images": [

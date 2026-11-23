@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="../../../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="../../../assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Characters — Grand Theft Auto 2","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"name":"Claude Speed","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/claude-speed/"},{"@type":"ListItem","position":2,"name":"Hare Krishna leader","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/hare-krishna-leader/"},{"@type":"ListItem","position":3,"name":"Loonies leader","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/loonies-leader/"},{"@type":"ListItem","position":4,"name":"Rednecks leader","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/rednecks-leader/"},{"@type":"ListItem","position":5,"name":"Russian boss","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/russian-boss/"},{"@type":"ListItem","position":6,"name":"SRS leader","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/srs-leader/"},{"@type":"ListItem","position":7,"name":"Yakuza boss","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/yakuza-boss/"},{"@type":"ListItem","position":8,"name":"Zaibatsu","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/zaibatsu/"},{"@type":"ListItem","position":9,"name":"Zaibatsu boss","url":"https://abinashspace.github.io/gta-hub/games/gta-2/characters/zaibatsu-boss/"}]}</script>
 <script src="../../../assets/js/site.js" defer></script>
@@ -25,8 +26,16 @@
 <body data-page="section">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../">Games</a></li><li><a href="../../../timeline/">Timeline</a></li><li><a href="../../../compare/">Compare</a></li><li><a href="../../../cheats/">Cheats</a></li><li><a href="../../../locations/">Locations</a></li><li><a href="../../../data/">Data</a></li><li><a href="../../../search/">Search</a></li><li><a href="../../../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../../../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta-2/">GTA 2</a></li><li><span aria-current="page">Characters</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -41,23 +50,28 @@
   <a class="btn btn-ghost" href="../../../data/games/gta-2.json" type="application/json">Whole game bundle</a>
   <span class="badge badge-partial">7 unverified records</span>
 </p>
-<div class="table-wrap">
-<table class="data-table has-thumb">
+<div class="filter-bar">
+  <label for="table-filter">Filter</label>
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 9 characters…" aria-controls="table-results">
+  <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
+</div>
+<div id="table-results"><div class="table-wrap">
+<table class="data-table has-thumb" data-sortable>
 <caption>Characters — Grand Theft Auto 2 (9 records)</caption>
-<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col">Name</th><th scope="col">Role</th><th scope="col">Affiliations</th><th scope="col">Status</th></tr></thead>
+<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col" data-sort>Name</th><th scope="col" data-sort>Role</th><th scope="col" data-sort>Affiliations</th><th scope="col" data-sort>Status</th></tr></thead>
 <tbody>
-<tr data-id="claude-speed"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/claude-speed.png" alt="Claude Speed" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/claude-speed/">Claude Speed</a></td><td>Protagonist</td><td>Independent</td><td>Varies</td></tr>
-<tr data-id="hare-krishna-leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/hare-krishna-leader.svg" alt="Hare Krishna leader (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/hare-krishna-leader/">Hare Krishna leader</a></td><td>Gang leader</td><td>Hare Krishna</td><td>Alive</td></tr>
-<tr data-id="loonies-leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/loonies-leader.svg" alt="Loonies leader (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/loonies-leader/">Loonies leader</a></td><td>Gang leader</td><td>Loonies</td><td>Alive</td></tr>
-<tr data-id="rednecks-leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/rednecks-leader.svg" alt="Rednecks leader (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/rednecks-leader/">Rednecks leader</a></td><td>Gang leader</td><td>Rednecks</td><td>Alive</td></tr>
-<tr data-id="russian-boss" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/russian-boss.svg" alt="Russian boss (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/russian-boss/">Russian boss</a></td><td>Gang leader</td><td>Russian Mafia</td><td>Alive</td></tr>
-<tr data-id="srs-leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/srs-leader.svg" alt="SRS leader (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/srs-leader/">SRS leader</a></td><td>Gang leader</td><td>SRS Scientists</td><td>Alive</td></tr>
-<tr data-id="yakuza-boss" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/yakuza-boss.svg" alt="Yakuza boss (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/yakuza-boss/">Yakuza boss</a></td><td>Gang leader</td><td>Yakuza</td><td>Alive</td></tr>
-<tr data-id="zaibatsu"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/zaibatsu.jpg" alt="Zaibatsu" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/zaibatsu/">Zaibatsu</a></td><td>Mission giver</td><td>—</td><td>—</td></tr>
-<tr data-id="zaibatsu-boss" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/zaibatsu-boss.svg" alt="Zaibatsu boss (placeholder)" width="512" height="512"></td><td><a href="../../../games/gta-2/characters/zaibatsu-boss/">Zaibatsu boss</a></td><td>Corporation boss</td><td>Zaibatsu Corporation</td><td>Alive</td></tr>
+<tr data-id="claude-speed" data-search="claude-speed claude speed a nameless-until-the-ending criminal working for anywhere city's seven gangs. varies protagonist"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/claude-speed.png" alt="Claude Speed" width="512" height="512"></td><td data-sort="Claude Speed"><a href="../../../games/gta-2/characters/claude-speed/">Claude Speed</a></td><td data-sort="Protagonist">Protagonist</td><td data-sort="Independent">Independent</td><td data-sort="Varies">Varies</td></tr>
+<tr data-id="hare-krishna-leader" data-search="hare-krishna-leader hare krishna leader leader of the hare krishna gang. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/hare-krishna-leader.svg" alt="Hare Krishna leader (placeholder)" width="512" height="512"></td><td data-sort="Hare Krishna leader"><a href="../../../games/gta-2/characters/hare-krishna-leader/">Hare Krishna leader</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="Hare Krishna">Hare Krishna</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="loonies-leader" data-search="loonies-leader loonies leader leader of the insane asylum-based loonies gang. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/loonies-leader.svg" alt="Loonies leader (placeholder)" width="512" height="512"></td><td data-sort="Loonies leader"><a href="../../../games/gta-2/characters/loonies-leader/">Loonies leader</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="Loonies">Loonies</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="rednecks-leader" data-search="rednecks-leader rednecks leader leader of the rednecks in the industrial district. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/rednecks-leader.svg" alt="Rednecks leader (placeholder)" width="512" height="512"></td><td data-sort="Rednecks leader"><a href="../../../games/gta-2/characters/rednecks-leader/">Rednecks leader</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="Rednecks">Rednecks</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="russian-boss" data-search="russian-boss russian boss head of the russian mafia in anywhere city. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/russian-boss.svg" alt="Russian boss (placeholder)" width="512" height="512"></td><td data-sort="Russian boss"><a href="../../../games/gta-2/characters/russian-boss/">Russian boss</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="Russian Mafia">Russian Mafia</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="srs-leader" data-search="srs-leader srs leader leader of the srs scientists, a research-gang operating from a lab. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/srs-leader.svg" alt="SRS leader (placeholder)" width="512" height="512"></td><td data-sort="SRS leader"><a href="../../../games/gta-2/characters/srs-leader/">SRS leader</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="SRS Scientists">SRS Scientists</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="yakuza-boss" data-search="yakuza-boss yakuza boss head of the yakuza in anywhere city's downtown district. alive gang leader" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/yakuza-boss.svg" alt="Yakuza boss (placeholder)" width="512" height="512"></td><td data-sort="Yakuza boss"><a href="../../../games/gta-2/characters/yakuza-boss/">Yakuza boss</a></td><td data-sort="Gang leader">Gang leader</td><td data-sort="Yakuza">Yakuza</td><td data-sort="Alive">Alive</td></tr>
+<tr data-id="zaibatsu" data-search="zaibatsu zaibatsu gives 1 mission in gta-2, starting with &quot;final jobs&quot;. added from the mission table; affiliations are not tabulated here. mission giver"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/zaibatsu.jpg" alt="Zaibatsu" width="512" height="512"></td><td data-sort="Zaibatsu"><a href="../../../games/gta-2/characters/zaibatsu/">Zaibatsu</a></td><td data-sort="Mission giver">Mission giver</td><td data-sort="">—</td><td data-sort="">—</td></tr>
+<tr data-id="zaibatsu-boss" data-search="zaibatsu-boss zaibatsu boss head of the zaibatsu corporation, the city's dominant corporate power. alive corporation boss" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/portrait/gta-2/zaibatsu-boss.svg" alt="Zaibatsu boss (placeholder)" width="512" height="512"></td><td data-sort="Zaibatsu boss"><a href="../../../games/gta-2/characters/zaibatsu-boss/">Zaibatsu boss</a></td><td data-sort="Corporation boss">Corporation boss</td><td data-sort="Zaibatsu Corporation">Zaibatsu Corporation</td><td data-sort="Alive">Alive</td></tr>
 </tbody>
 </table>
-</div>
+</div></div>
 <h2 id="fields">Field definitions</h2><div class="table-wrap"><table class="data-table">
 <caption>Fields on every character record</caption>
 <thead><tr><th scope="col">Field</th><th scope="col">Type</th><th scope="col">Required</th><th scope="col">Notes</th></tr></thead>
@@ -68,9 +82,44 @@
 </nav>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="../../../data/index.json">index.json</a> · <a href="../../../data/search-index.json">search-index.json</a> · <a href="../../../llms.txt">llms.txt</a> · <a href="../../../sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../../../timeline/">Timeline</a></li>
+        <li><a href="../../../compare/">Compare games</a></li>
+        <li><a href="../../../cheats/">Cheat codes</a></li>
+        <li><a href="../../../locations/">Locations</a></li>
+        <li><a href="../../../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../../../data/index.json">index.json</a></li>
+        <li><a href="../../../data/search-index.json">search-index.json</a></li>
+        <li><a href="../../../data/images.json">images.json</a></li>
+        <li><a href="../../../llms.txt">llms.txt</a></li>
+        <li><a href="../../../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../../../about/">How this site works</a></li>
+        <li><a href="../../../about/#accuracy">Accuracy</a></li>
+        <li><a href="../../../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>

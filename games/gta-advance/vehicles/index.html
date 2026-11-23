@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="../../../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="../../../assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Vehicles — Grand Theft Auto Advance","numberOfItems":31,"itemListElement":[{"@type":"ListItem","position":1,"name":"Ambulance"},{"@type":"ListItem","position":2,"name":"Banshee"},{"@type":"ListItem","position":3,"name":"Barracks"},{"@type":"ListItem","position":4,"name":"Belly"},{"@type":"ListItem","position":5,"name":"BF Injection"},{"@type":"ListItem","position":6,"name":"Borgnine"},{"@type":"ListItem","position":7,"name":"Brit"},{"@type":"ListItem","position":8,"name":"Cheetah"},{"@type":"ListItem","position":9,"name":"Coach"},{"@type":"ListItem","position":10,"name":"Diablo"},{"@type":"ListItem","position":11,"name":"Esperanto"},{"@type":"ListItem","position":12,"name":"F1"},{"@type":"ListItem","position":13,"name":"FBI Car"},{"@type":"ListItem","position":14,"name":"Fire Truck"},{"@type":"ListItem","position":15,"name":"Hoods"},{"@type":"ListItem","position":16,"name":"Idaho"},{"@type":"ListItem","position":17,"name":"Kuruma"},{"@type":"ListItem","position":18,"name":"Manana"},{"@type":"ListItem","position":19,"name":"Monster Truck"},{"@type":"ListItem","position":20,"name":"Police Car"},{"@type":"ListItem","position":21,"name":"Rhino"},{"@type":"ListItem","position":22,"name":"Rumpo"},{"@type":"ListItem","position":23,"name":"Sentinel"},{"@type":"ListItem","position":24,"name":"Stretch"},{"@type":"ListItem","position":25,"name":"SWAT Van"},{"@type":"ListItem","position":26,"name":"Tank"},{"@type":"ListItem","position":27,"name":"Taxi"},{"@type":"ListItem","position":28,"name":"Wong"},{"@type":"ListItem","position":29,"name":"Yakuza"},{"@type":"ListItem","position":30,"name":"Yakuza (Asuka)"},{"@type":"ListItem","position":31,"name":"Yardie"}]}</script>
 <script src="../../../assets/js/site.js" defer></script>
@@ -25,8 +26,16 @@
 <body data-page="section">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../">Games</a></li><li><a href="../../../timeline/">Timeline</a></li><li><a href="../../../compare/">Compare</a></li><li><a href="../../../cheats/">Cheats</a></li><li><a href="../../../locations/">Locations</a></li><li><a href="../../../data/">Data</a></li><li><a href="../../../search/">Search</a></li><li><a href="../../../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../../../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta-advance/">GTA Advance</a></li><li><span aria-current="page">Vehicles</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -41,45 +50,50 @@
   <a class="btn btn-ghost" href="../../../data/games/gta-advance.json" type="application/json">Whole game bundle</a>
   <span class="badge badge-partial">1 unverified record</span>
 </p>
-<div class="table-wrap">
-<table class="data-table has-num has-thumb">
+<div class="filter-bar">
+  <label for="table-filter">Filter</label>
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 31 vehicles…" aria-controls="table-results">
+  <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
+</div>
+<div id="table-results"><div class="table-wrap">
+<table class="data-table has-num has-thumb" data-sortable>
 <caption>Vehicles — Grand Theft Auto Advance (31 records)</caption>
-<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col">Vehicle</th><th scope="col">Category</th><th scope="col">Class</th><th scope="col" class="num">Top speed (km/h)</th><th scope="col" class="num">Seats</th></tr></thead>
+<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col" data-sort>Vehicle</th><th scope="col" data-sort>Category</th><th scope="col" data-sort>Class</th><th scope="col" data-sort class="num">Top speed (km/h)</th><th scope="col" data-sort class="num">Seats</th></tr></thead>
 <tbody>
-<tr data-id="ambulance"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/ambulance.png" alt="Ambulance" width="1024" height="576"></td><td><strong>Ambulance</strong></td><td>Emergency</td><td>Medical</td><td class="num">—</td><td class="num">2</td></tr>
-<tr data-id="banshee"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/banshee.png" alt="Banshee" width="1024" height="576"></td><td><strong>Banshee</strong></td><td>Cars</td><td>Sports</td><td class="num">—</td><td class="num">2</td></tr>
-<tr data-id="barracks"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/barracks.png" alt="Barracks" width="1024" height="576"></td><td><strong>Barracks</strong></td><td>Emergency</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="belly"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/belly.png" alt="Belly" width="1024" height="576"></td><td><strong>Belly</strong></td><td>Vans &amp; Trucks</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="bf-injection"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/bf-injection.png" alt="BF Injection" width="1024" height="576"></td><td><strong>BF Injection</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="borgnine"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/borgnine.png" alt="Borgnine" width="1024" height="576"></td><td><strong>Borgnine</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="brit"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/brit.png" alt="Brit" width="1024" height="576"></td><td><strong>Brit</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="cheetah"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/cheetah.svg" alt="Cheetah (placeholder)" width="1024" height="576"></td><td><strong>Cheetah</strong></td><td>Car</td><td>Sports</td><td class="num">—</td><td class="num">2</td></tr>
-<tr data-id="coach"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/coach.png" alt="Coach" width="1024" height="576"></td><td><strong>Coach</strong></td><td>Vans &amp; Trucks</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="diablo"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/diablo.png" alt="Diablo" width="1024" height="576"></td><td><strong>Diablo</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="esperanto"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/esperanto.png" alt="Esperanto" width="1024" height="576"></td><td><strong>Esperanto</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="f1"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/f1.png" alt="F1" width="1024" height="576"></td><td><strong>F1</strong></td><td>Misc</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="fbi-car"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/fbi-car.png" alt="FBI Car" width="1024" height="576"></td><td><strong>FBI Car</strong></td><td>Emergency</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="fire-truck"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/fire-truck.png" alt="Fire Truck" width="1024" height="576"></td><td><strong>Fire Truck</strong></td><td>Emergency</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="hoods"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/hoods.png" alt="Hoods" width="1024" height="576"></td><td><strong>Hoods</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="idaho"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/idaho.png" alt="Idaho" width="1024" height="576"></td><td><strong>Idaho</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="kuruma"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/kuruma.svg" alt="Kuruma (placeholder)" width="1024" height="576"></td><td><strong>Kuruma</strong></td><td>Car</td><td>Sedan</td><td class="num">—</td><td class="num">4</td></tr>
-<tr data-id="manana"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/manana.png" alt="Manana" width="1024" height="576"></td><td><strong>Manana</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="monster-truck"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/monster-truck.png" alt="Monster Truck" width="1024" height="576"></td><td><strong>Monster Truck</strong></td><td>Vans &amp; Trucks</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="police-car"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/police-car.png" alt="Police Car" width="1024" height="576"></td><td><strong>Police Car</strong></td><td>Emergency</td><td>Police</td><td class="num">—</td><td class="num">4</td></tr>
-<tr data-id="rhino" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/rhino.svg" alt="Rhino (placeholder)" width="1024" height="576"></td><td><strong>Rhino</strong></td><td>Military</td><td>Tank</td><td class="num">—</td><td class="num">1</td></tr>
-<tr data-id="rumpo"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/rumpo.png" alt="Rumpo" width="1024" height="576"></td><td><strong>Rumpo</strong></td><td>Vans &amp; Trucks</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="sentinel"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/sentinel.png" alt="Sentinel" width="1024" height="576"></td><td><strong>Sentinel</strong></td><td>Gang Cars</td><td>Sedan</td><td class="num">—</td><td class="num">4</td></tr>
-<tr data-id="stretch"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/stretch.png" alt="Stretch" width="1024" height="576"></td><td><strong>Stretch</strong></td><td>Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="swat-van"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/swat-van.png" alt="SWAT Van" width="1024" height="576"></td><td><strong>SWAT Van</strong></td><td>Emergency</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="tank"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/tank.png" alt="Tank" width="1024" height="576"></td><td><strong>Tank</strong></td><td>Emergency</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="taxi"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/taxi.png" alt="Taxi" width="1024" height="576"></td><td><strong>Taxi</strong></td><td>Cars</td><td>Taxi</td><td class="num">—</td><td class="num">4</td></tr>
-<tr data-id="wong"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/wong.png" alt="Wong" width="1024" height="576"></td><td><strong>Wong</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="yakuza"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yakuza.png" alt="Yakuza" width="1024" height="576"></td><td><strong>Yakuza</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="yakuza-asuka"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yakuza-asuka.png" alt="Yakuza (Asuka)" width="1024" height="576"></td><td><strong>Yakuza (Asuka)</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
-<tr data-id="yardie"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yardie.png" alt="Yardie" width="1024" height="576"></td><td><strong>Yardie</strong></td><td>Gang Cars</td><td>—</td><td class="num">—</td><td class="num">—</td></tr>
+<tr data-id="ambulance" data-search="ambulance ambulance"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/ambulance.png" alt="Ambulance" width="1024" height="576"></td><td data-sort="Ambulance"><strong>Ambulance</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="Medical">Medical</td><td class="num" data-sort="">—</td><td class="num" data-sort="2">2</td></tr>
+<tr data-id="banshee" data-search="banshee banshee"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/banshee.png" alt="Banshee" width="1024" height="576"></td><td data-sort="Banshee"><strong>Banshee</strong></td><td data-sort="Cars">Cars</td><td data-sort="Sports">Sports</td><td class="num" data-sort="">—</td><td class="num" data-sort="2">2</td></tr>
+<tr data-id="barracks" data-search="barracks barracks"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/barracks.png" alt="Barracks" width="1024" height="576"></td><td data-sort="Barracks"><strong>Barracks</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="belly" data-search="belly belly"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/belly.png" alt="Belly" width="1024" height="576"></td><td data-sort="Belly"><strong>Belly</strong></td><td data-sort="Vans &amp; Trucks">Vans &amp; Trucks</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="bf-injection" data-search="bf-injection bf injection"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/bf-injection.png" alt="BF Injection" width="1024" height="576"></td><td data-sort="BF Injection"><strong>BF Injection</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="borgnine" data-search="borgnine borgnine"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/borgnine.png" alt="Borgnine" width="1024" height="576"></td><td data-sort="Borgnine"><strong>Borgnine</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="brit" data-search="brit brit"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/brit.png" alt="Brit" width="1024" height="576"></td><td data-sort="Brit"><strong>Brit</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="cheetah" data-search="cheetah cheetah"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/cheetah.svg" alt="Cheetah (placeholder)" width="1024" height="576"></td><td data-sort="Cheetah"><strong>Cheetah</strong></td><td data-sort="Car">Car</td><td data-sort="Sports">Sports</td><td class="num" data-sort="">—</td><td class="num" data-sort="2">2</td></tr>
+<tr data-id="coach" data-search="coach coach"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/coach.png" alt="Coach" width="1024" height="576"></td><td data-sort="Coach"><strong>Coach</strong></td><td data-sort="Vans &amp; Trucks">Vans &amp; Trucks</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="diablo" data-search="diablo diablo"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/diablo.png" alt="Diablo" width="1024" height="576"></td><td data-sort="Diablo"><strong>Diablo</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="esperanto" data-search="esperanto esperanto"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/esperanto.png" alt="Esperanto" width="1024" height="576"></td><td data-sort="Esperanto"><strong>Esperanto</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="f1" data-search="f1 f1"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/f1.png" alt="F1" width="1024" height="576"></td><td data-sort="F1"><strong>F1</strong></td><td data-sort="Misc">Misc</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="fbi-car" data-search="fbi-car fbi car"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/fbi-car.png" alt="FBI Car" width="1024" height="576"></td><td data-sort="FBI Car"><strong>FBI Car</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="fire-truck" data-search="fire-truck fire truck"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/fire-truck.png" alt="Fire Truck" width="1024" height="576"></td><td data-sort="Fire Truck"><strong>Fire Truck</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="hoods" data-search="hoods hoods"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/hoods.png" alt="Hoods" width="1024" height="576"></td><td data-sort="Hoods"><strong>Hoods</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="idaho" data-search="idaho idaho"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/idaho.png" alt="Idaho" width="1024" height="576"></td><td data-sort="Idaho"><strong>Idaho</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="kuruma" data-search="kuruma kuruma"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/kuruma.svg" alt="Kuruma (placeholder)" width="1024" height="576"></td><td data-sort="Kuruma"><strong>Kuruma</strong></td><td data-sort="Car">Car</td><td data-sort="Sedan">Sedan</td><td class="num" data-sort="">—</td><td class="num" data-sort="4">4</td></tr>
+<tr data-id="manana" data-search="manana manana"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/manana.png" alt="Manana" width="1024" height="576"></td><td data-sort="Manana"><strong>Manana</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="monster-truck" data-search="monster-truck monster truck"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/monster-truck.png" alt="Monster Truck" width="1024" height="576"></td><td data-sort="Monster Truck"><strong>Monster Truck</strong></td><td data-sort="Vans &amp; Trucks">Vans &amp; Trucks</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="police-car" data-search="police-car police car"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/police-car.png" alt="Police Car" width="1024" height="576"></td><td data-sort="Police Car"><strong>Police Car</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="Police">Police</td><td class="num" data-sort="">—</td><td class="num" data-sort="4">4</td></tr>
+<tr data-id="rhino" data-search="rhino rhino" class="unverified" title="Unverified record"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/rhino.svg" alt="Rhino (placeholder)" width="1024" height="576"></td><td data-sort="Rhino"><strong>Rhino</strong></td><td data-sort="Military">Military</td><td data-sort="Tank">Tank</td><td class="num" data-sort="">—</td><td class="num" data-sort="1">1</td></tr>
+<tr data-id="rumpo" data-search="rumpo rumpo"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/rumpo.png" alt="Rumpo" width="1024" height="576"></td><td data-sort="Rumpo"><strong>Rumpo</strong></td><td data-sort="Vans &amp; Trucks">Vans &amp; Trucks</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="sentinel" data-search="sentinel sentinel"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/sentinel.png" alt="Sentinel" width="1024" height="576"></td><td data-sort="Sentinel"><strong>Sentinel</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="Sedan">Sedan</td><td class="num" data-sort="">—</td><td class="num" data-sort="4">4</td></tr>
+<tr data-id="stretch" data-search="stretch stretch"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/stretch.png" alt="Stretch" width="1024" height="576"></td><td data-sort="Stretch"><strong>Stretch</strong></td><td data-sort="Cars">Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="swat-van" data-search="swat-van swat van"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/swat-van.png" alt="SWAT Van" width="1024" height="576"></td><td data-sort="SWAT Van"><strong>SWAT Van</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="tank" data-search="tank tank"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/tank.png" alt="Tank" width="1024" height="576"></td><td data-sort="Tank"><strong>Tank</strong></td><td data-sort="Emergency">Emergency</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="taxi" data-search="taxi taxi"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/taxi.png" alt="Taxi" width="1024" height="576"></td><td data-sort="Taxi"><strong>Taxi</strong></td><td data-sort="Cars">Cars</td><td data-sort="Taxi">Taxi</td><td class="num" data-sort="">—</td><td class="num" data-sort="4">4</td></tr>
+<tr data-id="wong" data-search="wong wong"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/wong.png" alt="Wong" width="1024" height="576"></td><td data-sort="Wong"><strong>Wong</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="yakuza" data-search="yakuza yakuza"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yakuza.png" alt="Yakuza" width="1024" height="576"></td><td data-sort="Yakuza"><strong>Yakuza</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="yakuza-asuka" data-search="yakuza-asuka yakuza (asuka)"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yakuza-asuka.png" alt="Yakuza (Asuka)" width="1024" height="576"></td><td data-sort="Yakuza (Asuka)"><strong>Yakuza (Asuka)</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
+<tr data-id="yardie" data-search="yardie yardie"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/vehicle/gta-advance/yardie.png" alt="Yardie" width="1024" height="576"></td><td data-sort="Yardie"><strong>Yardie</strong></td><td data-sort="Gang Cars">Gang Cars</td><td data-sort="">—</td><td class="num" data-sort="">—</td><td class="num" data-sort="">—</td></tr>
 </tbody>
 </table>
-</div>
+</div></div>
 <h2 id="fields">Field definitions</h2><div class="table-wrap"><table class="data-table">
 <caption>Fields on every vehicle record</caption>
 <thead><tr><th scope="col">Field</th><th scope="col">Type</th><th scope="col">Required</th><th scope="col">Notes</th></tr></thead>
@@ -90,9 +104,44 @@
 </nav>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="../../../data/index.json">index.json</a> · <a href="../../../data/search-index.json">search-index.json</a> · <a href="../../../llms.txt">llms.txt</a> · <a href="../../../sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../../../timeline/">Timeline</a></li>
+        <li><a href="../../../compare/">Compare games</a></li>
+        <li><a href="../../../cheats/">Cheat codes</a></li>
+        <li><a href="../../../locations/">Locations</a></li>
+        <li><a href="../../../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../../../data/index.json">index.json</a></li>
+        <li><a href="../../../data/search-index.json">search-index.json</a></li>
+        <li><a href="../../../data/images.json">images.json</a></li>
+        <li><a href="../../../llms.txt">llms.txt</a></li>
+        <li><a href="../../../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../../../about/">How this site works</a></li>
+        <li><a href="../../../about/#accuracy">Accuracy</a></li>
+        <li><a href="../../../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>

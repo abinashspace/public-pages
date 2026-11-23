@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="../../../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="../../../assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Locations — Grand Theft Auto V","numberOfItems":14,"itemListElement":[{"@type":"ListItem","position":1,"name":"Blaine County"},{"@type":"ListItem","position":2,"name":"Chamberlain Hills"},{"@type":"ListItem","position":3,"name":"Downtown Los Santos"},{"@type":"ListItem","position":4,"name":"Fort Zancudo"},{"@type":"ListItem","position":5,"name":"Humane Labs and Research"},{"@type":"ListItem","position":6,"name":"Los Santos"},{"@type":"ListItem","position":7,"name":"Mount Chiliad"},{"@type":"ListItem","position":8,"name":"Paleto Bay"},{"@type":"ListItem","position":9,"name":"Rockford Hills"},{"@type":"ListItem","position":10,"name":"San Andreas"},{"@type":"ListItem","position":11,"name":"Sandy Shores"},{"@type":"ListItem","position":12,"name":"Union Depository"},{"@type":"ListItem","position":13,"name":"Vespucci"},{"@type":"ListItem","position":14,"name":"Vinewood"}]}</script>
 <script src="../../../assets/js/site.js" defer></script>
@@ -25,8 +26,16 @@
 <body data-page="section">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../">Games</a></li><li><a href="../../../timeline/">Timeline</a></li><li><a href="../../../compare/">Compare</a></li><li><a href="../../../cheats/">Cheats</a></li><li><a href="../../../locations/">Locations</a></li><li><a href="../../../data/">Data</a></li><li><a href="../../../search/">Search</a></li><li><a href="../../../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../../../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta-v/">GTA V</a></li><li><span aria-current="page">Locations</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -41,28 +50,33 @@
   <a class="btn btn-ghost" href="../../../data/games/gta-v.json" type="application/json">Whole game bundle</a>
   
 </p>
-<div class="table-wrap">
-<table class="data-table has-thumb">
+<div class="filter-bar">
+  <label for="table-filter">Filter</label>
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 14 locations…" aria-controls="table-results">
+  <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
+</div>
+<div id="table-results"><div class="table-wrap">
+<table class="data-table has-thumb" data-sortable>
 <caption>Locations — Grand Theft Auto V (14 records)</caption>
-<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col">Location</th><th scope="col">Type</th><th scope="col">Parent area</th></tr></thead>
+<thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col" data-sort>Location</th><th scope="col" data-sort>Type</th><th scope="col" data-sort>Parent area</th></tr></thead>
 <tbody>
-<tr data-id="blaine-county"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/blaine-county.png" alt="Blaine County" width="1280" height="720"></td><td><strong>Blaine County</strong></td><td>Region</td><td>San Andreas</td></tr>
-<tr data-id="chamberlain-hills"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/chamberlain-hills.png" alt="Chamberlain Hills" width="1280" height="720"></td><td><strong>Chamberlain Hills</strong></td><td>Neighbourhood</td><td>Los Santos</td></tr>
-<tr data-id="downtown-los-santos"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/downtown-los-santos.svg" alt="Downtown Los Santos (placeholder)" width="1280" height="720"></td><td><strong>Downtown Los Santos</strong></td><td>District</td><td>Los Santos</td></tr>
-<tr data-id="fort-zancudo"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/fort-zancudo.png" alt="Fort Zancudo" width="1280" height="720"></td><td><strong>Fort Zancudo</strong></td><td>Landmark</td><td>Blaine County</td></tr>
-<tr data-id="humane-labs"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/humane-labs.png" alt="Humane Labs and Research" width="1280" height="720"></td><td><strong>Humane Labs and Research</strong></td><td>Landmark</td><td>Blaine County</td></tr>
-<tr data-id="los-santos"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/los-santos.svg" alt="Los Santos (placeholder)" width="1280" height="720"></td><td><strong>Los Santos</strong></td><td>City</td><td>San Andreas</td></tr>
-<tr data-id="mount-chiliad"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/mount-chiliad.svg" alt="Mount Chiliad (placeholder)" width="1280" height="720"></td><td><strong>Mount Chiliad</strong></td><td>Landmark</td><td>Blaine County</td></tr>
-<tr data-id="paleto-bay"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/paleto-bay.png" alt="Paleto Bay" width="1280" height="720"></td><td><strong>Paleto Bay</strong></td><td>Town</td><td>Blaine County</td></tr>
-<tr data-id="rockford-hills"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/rockford-hills.png" alt="Rockford Hills" width="1280" height="720"></td><td><strong>Rockford Hills</strong></td><td>District</td><td>Los Santos</td></tr>
-<tr data-id="san-andreas"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/san-andreas.svg" alt="San Andreas (placeholder)" width="1280" height="720"></td><td><strong>San Andreas</strong></td><td>Region</td><td>—</td></tr>
-<tr data-id="sandy-shores"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/sandy-shores.png" alt="Sandy Shores" width="1280" height="720"></td><td><strong>Sandy Shores</strong></td><td>Town</td><td>Blaine County</td></tr>
-<tr data-id="union-depository"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/union-depository.png" alt="Union Depository" width="1280" height="720"></td><td><strong>Union Depository</strong></td><td>Landmark</td><td>Los Santos</td></tr>
-<tr data-id="vespucci"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/vespucci.png" alt="Vespucci" width="1280" height="720"></td><td><strong>Vespucci</strong></td><td>District</td><td>Los Santos</td></tr>
-<tr data-id="vinewood"><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/vinewood.svg" alt="Vinewood (placeholder)" width="1280" height="720"></td><td><strong>Vinewood</strong></td><td>District</td><td>Los Santos</td></tr>
+<tr data-id="blaine-county" data-search="blaine-county blaine county rural desert and mountain county north of the city."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/blaine-county.png" alt="Blaine County" width="1280" height="720"></td><td data-sort="Blaine County"><strong>Blaine County</strong></td><td data-sort="Region">Region</td><td data-sort="San Andreas">San Andreas</td></tr>
+<tr data-id="chamberlain-hills" data-search="chamberlain-hills chamberlain hills franklin and lamar's home neighbourhood."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/chamberlain-hills.png" alt="Chamberlain Hills" width="1280" height="720"></td><td data-sort="Chamberlain Hills"><strong>Chamberlain Hills</strong></td><td data-sort="Neighbourhood">Neighbourhood</td><td data-sort="Los Santos">Los Santos</td></tr>
+<tr data-id="downtown-los-santos" data-search="downtown-los-santos downtown los santos skyscraper business district and the fib tower."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/downtown-los-santos.svg" alt="Downtown Los Santos (placeholder)" width="1280" height="720"></td><td data-sort="Downtown Los Santos"><strong>Downtown Los Santos</strong></td><td data-sort="District">District</td><td data-sort="Los Santos">Los Santos</td></tr>
+<tr data-id="fort-zancudo" data-search="fort-zancudo fort zancudo military base with restricted airspace."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/fort-zancudo.png" alt="Fort Zancudo" width="1280" height="720"></td><td data-sort="Fort Zancudo"><strong>Fort Zancudo</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Blaine County">Blaine County</td></tr>
+<tr data-id="humane-labs" data-search="humane-labs humane labs and research research facility raided in monkey business."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/humane-labs.png" alt="Humane Labs and Research" width="1280" height="720"></td><td data-sort="Humane Labs and Research"><strong>Humane Labs and Research</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Blaine County">Blaine County</td></tr>
+<tr data-id="los-santos" data-search="los-santos los santos los angeles analogue and the game's main urban area."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/los-santos.svg" alt="Los Santos (placeholder)" width="1280" height="720"></td><td data-sort="Los Santos"><strong>Los Santos</strong></td><td data-sort="City">City</td><td data-sort="San Andreas">San Andreas</td></tr>
+<tr data-id="mount-chiliad" data-search="mount-chiliad mount chiliad tallest mountain in the state, tied to the mystery egg and jetpack hunt."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/mount-chiliad.svg" alt="Mount Chiliad (placeholder)" width="1280" height="720"></td><td data-sort="Mount Chiliad"><strong>Mount Chiliad</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Blaine County">Blaine County</td></tr>
+<tr data-id="paleto-bay" data-search="paleto-bay paleto bay small northern town and bank heist location."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/paleto-bay.png" alt="Paleto Bay" width="1280" height="720"></td><td data-sort="Paleto Bay"><strong>Paleto Bay</strong></td><td data-sort="Town">Town</td><td data-sort="Blaine County">Blaine County</td></tr>
+<tr data-id="rockford-hills" data-search="rockford-hills rockford hills affluent district and michael's mansion."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/rockford-hills.png" alt="Rockford Hills" width="1280" height="720"></td><td data-sort="Rockford Hills"><strong>Rockford Hills</strong></td><td data-sort="District">District</td><td data-sort="Los Santos">Los Santos</td></tr>
+<tr data-id="san-andreas" data-search="san-andreas san andreas the state containing los santos and blaine county."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/san-andreas.svg" alt="San Andreas (placeholder)" width="1280" height="720"></td><td data-sort="San Andreas"><strong>San Andreas</strong></td><td data-sort="Region">Region</td><td data-sort="">—</td></tr>
+<tr data-id="sandy-shores" data-search="sandy-shores sandy shores desert town and trevor's base of operations."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/sandy-shores.png" alt="Sandy Shores" width="1280" height="720"></td><td data-sort="Sandy Shores"><strong>Sandy Shores</strong></td><td data-sort="Town">Town</td><td data-sort="Blaine County">Blaine County</td></tr>
+<tr data-id="union-depository" data-search="union-depository union depository target of the final heist."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/union-depository.png" alt="Union Depository" width="1280" height="720"></td><td data-sort="Union Depository"><strong>Union Depository</strong></td><td data-sort="Landmark">Landmark</td><td data-sort="Los Santos">Los Santos</td></tr>
+<tr data-id="vespucci" data-search="vespucci vespucci beach district and the boardwalk."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/vespucci.png" alt="Vespucci" width="1280" height="720"></td><td data-sort="Vespucci"><strong>Vespucci</strong></td><td data-sort="District">District</td><td data-sort="Los Santos">Los Santos</td></tr>
+<tr data-id="vinewood" data-search="vinewood vinewood hollywood analogue with the sign and studios."><td class="thumb-col"><img loading="lazy" decoding="async" src="../../../assets/img/location/gta-v/vinewood.svg" alt="Vinewood (placeholder)" width="1280" height="720"></td><td data-sort="Vinewood"><strong>Vinewood</strong></td><td data-sort="District">District</td><td data-sort="Los Santos">Los Santos</td></tr>
 </tbody>
 </table>
-</div>
+</div></div>
 <h2 id="fields">Field definitions</h2><div class="table-wrap"><table class="data-table">
 <caption>Fields on every location record</caption>
 <thead><tr><th scope="col">Field</th><th scope="col">Type</th><th scope="col">Required</th><th scope="col">Notes</th></tr></thead>
@@ -73,9 +87,44 @@
 </nav>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="../../../data/index.json">index.json</a> · <a href="../../../data/search-index.json">search-index.json</a> · <a href="../../../llms.txt">llms.txt</a> · <a href="../../../sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../../../timeline/">Timeline</a></li>
+        <li><a href="../../../compare/">Compare games</a></li>
+        <li><a href="../../../cheats/">Cheat codes</a></li>
+        <li><a href="../../../locations/">Locations</a></li>
+        <li><a href="../../../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../../../data/index.json">index.json</a></li>
+        <li><a href="../../../data/search-index.json">search-index.json</a></li>
+        <li><a href="../../../data/images.json">images.json</a></li>
+        <li><a href="../../../llms.txt">llms.txt</a></li>
+        <li><a href="../../../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../../../about/">How this site works</a></li>
+        <li><a href="../../../about/#accuracy">Accuracy</a></li>
+        <li><a href="../../../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>

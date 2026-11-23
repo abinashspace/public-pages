@@ -18,6 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0c0e">
 <link rel="icon" href="../../../../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <link rel="stylesheet" href="../../../../assets/css/site.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWork","name":"Madd Dogg's Rhymes","description":"Break into Madd Dogg's mansion and steal his rhyme book.","url":"https://abinashspace.github.io/gta-hub/games/gta-san-andreas/missions/madd-doggs-rhymes/","isPartOf":{"@type":"VideoGame","name":"Grand Theft Auto: San Andreas"}}</script>
 <script src="../../../../assets/js/site.js" defer></script>
@@ -25,8 +26,16 @@
 <body data-page="detail">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../../"><svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="18" fill="#1a1d23"/><text x="64" y="84" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff6b6b">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../../">Games</a></li><li><a href="../../../../timeline/">Timeline</a></li><li><a href="../../../../compare/">Compare</a></li><li><a href="../../../../cheats/">Cheats</a></li><li><a href="../../../../locations/">Locations</a></li><li><a href="../../../../data/">Data</a></li><li><a href="../../../../search/">Search</a></li><li><a href="../../../../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../../../../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../../">Games</a></li><li><a href="../../../../games/gta-san-andreas/">San Andreas</a></li><li><a href="../../../../games/gta-san-andreas/missions/">Missions</a></li><li><span aria-current="page">Madd Dogg's Rhymes</span></li></ol></nav>
 <main id="main" tabindex="-1">
@@ -56,9 +65,44 @@
 </nav>
 </main>
 <footer class="site-foot">
-  <p><strong>GTA Hub</strong> — static, machine-readable, no external services.</p>
-  <p>Data files: <a href="../../../../data/index.json">index.json</a> · <a href="../../../../data/search-index.json">search-index.json</a> · <a href="../../../../llms.txt">llms.txt</a> · <a href="../../../../sitemap.xml">sitemap.xml</a></p>
-  <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../../../../timeline/">Timeline</a></li>
+        <li><a href="../../../../compare/">Compare games</a></li>
+        <li><a href="../../../../cheats/">Cheat codes</a></li>
+        <li><a href="../../../../locations/">Locations</a></li>
+        <li><a href="../../../../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../../../../data/index.json">index.json</a></li>
+        <li><a href="../../../../data/search-index.json">search-index.json</a></li>
+        <li><a href="../../../../data/images.json">images.json</a></li>
+        <li><a href="../../../../llms.txt">llms.txt</a></li>
+        <li><a href="../../../../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../../../../about/">How this site works</a></li>
+        <li><a href="../../../../about/#accuracy">Accuracy</a></li>
+        <li><a href="../../../../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
 </footer>
 </body>
 </html>
