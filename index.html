@@ -41,224 +41,254 @@
 
 <main id="main" tabindex="-1">
 <section class="home-hero">
-  <p class="eyebrow">Static · JSON-first · No external services</p>
-  <h1>GTA Hub</h1>
-  <p class="lead">17 games. 7 section types. 3700 records. Every page has a JSON twin.</p>
-  
-</header>
-<dl class="stats"><div class="stat"><dt>Games</dt><dd>17</dd></div><div class="stat"><dt>Records</dt><dd>3700</dd></div><div class="stat"><dt>Sections</dt><dd>7</dd></div><div class="stat"><dt>Build</dt><dd><time datetime="2026-11-19">2026-11-19</time></dd></div></dl>
-<ul class="cards"><li class="card">
-  <a href="games/gta/">
-    <span class="card-kicker">1997 · Main</span>
-    <span class="card-title">Grand Theft Auto</span>
-    <span class="card-meta">Liberty City · Vice City · San Andreas — 211 records</span>
+  <div class="home-hero-copy">
+    <p class="eyebrow">Grand Theft Auto Series · 1997–2026</p>
+    <h1>Every <em>GTA</em>. One Living Archive.</h1>
+    <p class="lead">Explore 17 games across Liberty City, Vice City, San Andreas and beyond — characters, missions, vehicles, weapons, cheats and locations.</p>
+    <form class="home-search" role="search" action="search/" method="get">
+      <label class="visually-hidden" for="hero-q">Search every record</label>
+      <input id="hero-q" name="q" type="search" autocomplete="off" placeholder="Search “Tommy Vercetti”, “Rhino”, “Vice City”…">
+      <button class="btn" type="submit">Search</button>
+    </form>
+    <div class="hero-tags">
+      <a href="games/gta-vi/">GTA VI</a>
+      <a href="games/gta-v/">GTA V</a>
+      <a href="games/gta-san-andreas/">San Andreas</a>
+      <a href="games/gta-vice-city/">Vice City</a>
+      <a href="games/gta-iv/">GTA IV</a>
+      <a href="cheats/">Cheat codes →</a>
+    </div>
+  </div>
+  <div class="hero-fan" aria-label="Featured titles"><a href="games/gta-san-andreas/" title="Grand Theft Auto: San Andreas"><img src="assets/img/cover/gta-san-andreas/cover.png" alt="Grand Theft Auto: San Andreas cover" width="600" height="900" loading="eager" decoding="async"></a><a href="games/gta-v/" title="Grand Theft Auto V"><img src="assets/img/cover/gta-v/cover.png" alt="Grand Theft Auto V cover" width="600" height="900" loading="eager" decoding="async"></a><a href="games/gta-vi/" title="Grand Theft Auto VI"><img src="assets/img/cover/gta-vi/cover.png" alt="Grand Theft Auto VI cover" width="600" height="900" loading="eager" decoding="async"></a></div>
+</section>
+<dl class="stats"><div class="stat"><dt>Games</dt><dd>17</dd></div><div class="stat"><dt>Cataloged Entries</dt><dd>3700</dd></div><div class="stat"><dt>Categories</dt><dd>7</dd></div><div class="stat"><dt>Universes</dt><dd><a href="timeline/">2D · 3D · HD · VI</a></dd></div></dl>
+<div class="section-head">
+  <h2 id="library">The GTA Library</h2>
+  <p class="note">Seventeen releases, from the 1997 original to GTA VI. Pick any cover to explore its world.</p>
+</div>
+<ul class="game-grid"><li>
+  <a class="game-card" href="games/gta/" style="--game-accent:#e03131">
+    <span class="cover-wrap">
+      <img class="cover" src="assets/img/cover/gta/cover.jpg" alt="Grand Theft Auto box art" width="600" height="900" loading="eager" decoding="async">
+      <span class="cover-badge">1997</span>
+    </span>
+    <span class="game-body">
+      <span class="game-title">Grand Theft Auto</span>
+      <span class="game-meta">Main · Liberty City, Vice City, San Andreas</span>
+    </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-london-1969/">
+  <a class="game-card" href="games/gta-london-1969/" style="--game-accent:#c2255c">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-london-1969/cover.jpg" alt="Grand Theft Auto: London 1969 box art" width="600" height="900" loading="eager" decoding="async">
       <span class="cover-badge">1999</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: London 1969</span>
-      <span class="game-meta">Expansion · 1 city</span>
+      <span class="game-meta">Expansion · London</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-london-1961/">
+  <a class="game-card" href="games/gta-london-1961/" style="--game-accent:#7048e8">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-london-1961/cover.jpg" alt="Grand Theft Auto: London 1961 box art" width="600" height="900" loading="eager" decoding="async">
       <span class="cover-badge">1999</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: London 1961</span>
-      <span class="game-meta">Expansion · 1 city</span>
+      <span class="game-meta">Expansion · London</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-2/">
+  <a class="game-card" href="games/gta-2/" style="--game-accent:#f08c00">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-2/cover.jpg" alt="Grand Theft Auto 2 box art" width="600" height="900" loading="eager" decoding="async">
       <span class="cover-badge">1999</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto 2</span>
-      <span class="game-meta">Main · 1 city</span>
+      <span class="game-meta">Main · Anywhere City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-iii/">
+  <a class="game-card" href="games/gta-iii/" style="--game-accent:#1971c2">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-iii/cover.jpg" alt="Grand Theft Auto III box art" width="600" height="900" loading="eager" decoding="async">
       <span class="cover-badge">2001</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto III</span>
-      <span class="game-meta">Main · 1 city</span>
+      <span class="game-meta">Main · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-vice-city/">
+  <a class="game-card" href="games/gta-vice-city/" style="--game-accent:#f76707">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-vice-city/cover.jpg" alt="Grand Theft Auto: Vice City box art" width="600" height="900" loading="eager" decoding="async">
       <span class="cover-badge">2002</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: Vice City</span>
-      <span class="game-meta">Main · 1 city</span>
+      <span class="game-meta">Main · Vice City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-san-andreas/">
+  <a class="game-card" href="games/gta-san-andreas/" style="--game-accent:#2f9e44">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-san-andreas/cover.png" alt="Grand Theft Auto: San Andreas box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2004</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: San Andreas</span>
-      <span class="game-meta">Main · 3 cities</span>
+      <span class="game-meta">Main · Los Santos, San Fierro, Las Venturas</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-advance/">
+  <a class="game-card" href="games/gta-advance/" style="--game-accent:#868e96">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-advance/cover.jpg" alt="Grand Theft Auto Advance box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2004</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto Advance</span>
-      <span class="game-meta">Spin-off · 1 city</span>
+      <span class="game-meta">Spin-off · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-liberty-city-stories/">
+  <a class="game-card" href="games/gta-liberty-city-stories/" style="--game-accent:#0c8599">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-liberty-city-stories/cover.png" alt="Grand Theft Auto: Liberty City Stories box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2005</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: Liberty City Stories</span>
-      <span class="game-meta">Spin-off · 1 city</span>
+      <span class="game-meta">Spin-off · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-vice-city-stories/">
+  <a class="game-card" href="games/gta-vice-city-stories/" style="--game-accent:#ae3ec9">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-vice-city-stories/cover.jpg" alt="Grand Theft Auto: Vice City Stories box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2006</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: Vice City Stories</span>
-      <span class="game-meta">Spin-off · 1 city</span>
+      <span class="game-meta">Spin-off · Vice City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-iv/">
+  <a class="game-card" href="games/gta-iv/" style="--game-accent:#495057">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-iv/cover.jpg" alt="Grand Theft Auto IV box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2008</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto IV</span>
-      <span class="game-meta">Main · 1 city</span>
+      <span class="game-meta">Main · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-iv-the-lost-and-damned/">
+  <a class="game-card" href="games/gta-iv-the-lost-and-damned/" style="--game-accent:#5f3dc4">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-iv-the-lost-and-damned/cover.jpg" alt="Grand Theft Auto IV: The Lost and Damned box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2009</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto IV: The Lost and Damned</span>
-      <span class="game-meta">Expansion · 1 city</span>
+      <span class="game-meta">Expansion · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-the-ballad-of-gay-tony/">
+  <a class="game-card" href="games/gta-the-ballad-of-gay-tony/" style="--game-accent:#e8590c">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-the-ballad-of-gay-tony/cover.jpg" alt="Grand Theft Auto: The Ballad of Gay Tony box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2009</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: The Ballad of Gay Tony</span>
-      <span class="game-meta">Expansion · 1 city</span>
+      <span class="game-meta">Expansion · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-chinatown-wars/">
+  <a class="game-card" href="games/gta-chinatown-wars/" style="--game-accent:#c92a2a">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-chinatown-wars/cover.png" alt="Grand Theft Auto: Chinatown Wars box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2009</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto: Chinatown Wars</span>
-      <span class="game-meta">Spin-off · 1 city</span>
+      <span class="game-meta">Spin-off · Liberty City</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-v/">
+  <a class="game-card" href="games/gta-v/" style="--game-accent:#0b7285">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-v/cover.png" alt="Grand Theft Auto V box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2013</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto V</span>
-      <span class="game-meta">Main · 2 cities</span>
+      <span class="game-meta">Main · Los Santos, Blaine County</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-online/">
+  <a class="game-card" href="games/gta-online/" style="--game-accent:#1098ad">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-online/cover.jpg" alt="Grand Theft Auto Online box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2013</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto Online</span>
-      <span class="game-meta">Online · 2 cities</span>
+      <span class="game-meta">Online · Los Santos, Blaine County</span>
     </span>
   </a>
 </li><li>
-  <a class="game-card" href="games/gta-vi/">
+  <a class="game-card" href="games/gta-vi/" style="--game-accent:#d6336c">
     <span class="cover-wrap">
       <img class="cover" src="assets/img/cover/gta-vi/cover.png" alt="Grand Theft Auto VI box art" width="600" height="900" loading="lazy" decoding="async">
       <span class="cover-badge">2026</span>
     </span>
     <span class="game-body">
       <span class="game-title">Grand Theft Auto VI</span>
-      <span class="game-meta">Main · 2 cities</span>
+      <span class="game-meta">Main · Vice City, Leonida</span>
     </span>
   </a>
 </li></ul>
-<h2 id="cross">Cross-game views</h2>
+<div class="section-head">
+  <h2 id="cross">Explore Across Games</h2>
+  <p class="note">Trace recurring cities, compare eras, or jump straight to every cheat code.</p>
+</div>
 <ul class="cards"><li class="card">
   <a href="timeline/">
     <span class="card-kicker">1997–2026 · 17 releases</span>
-    <span class="card-title">Timeline</span>
-    <span class="card-meta">Every release in order, grouped by 2D, 3D and HD universe.</span>
+    <span class="card-title">Series Timeline</span>
+    <span class="card-meta">Every release in chronological order, grouped by 2D, 3D and HD universe.</span>
   </a>
 </li><li class="card">
   <a href="compare/">
     <span class="card-kicker">17 games × 7 sections</span>
-    <span class="card-title">Compare games</span>
-    <span class="card-meta">Record counts, section leaders and shared cities side by side.</span>
+    <span class="card-title">Compare Games</span>
+    <span class="card-meta">Side-by-side totals, section leaders and recurring cities.</span>
   </a>
 </li><li class="card">
   <a href="cheats/">
     <span class="card-kicker">452 cheats</span>
-    <span class="card-title">All cheat codes</span>
-    <span class="card-meta">One page, every game, with platform and button sequence.</span>
+    <span class="card-title">All Cheat Codes</span>
+    <span class="card-meta">Every game and platform button sequence or keyboard code on one page.</span>
   </a>
 </li><li class="card">
   <a href="locations/">
     <span class="card-kicker">144 locations</span>
-    <span class="card-title">All locations</span>
-    <span class="card-meta">Cities, districts and landmarks across the series.</span>
+    <span class="card-title">Cities &amp; Locations</span>
+    <span class="card-meta">Districts, landmarks and recurring settings across the series.</span>
   </a>
 </li></ul>
-<h2 id="reference">Reference tables</h2>
+<div class="section-head">
+  <h2 id="reference">Archive &amp; Open Data</h2>
+  <p class="note">Optional coverage matrices and static JSON endpoints for researchers and tools.</p>
+</div>
 <details class="panel">
-  <summary>Coverage matrix — records per section, per game</summary>
+  <summary>Coverage matrix — entries per section, per game</summary>
   <div class="panel-body">
     <p class="note">Cells show how many records exist today. <span class="badge badge-complete">complete</span> <span class="badge badge-partial">partial</span> <span class="badge badge-limited">limited</span> <span class="badge badge-official-only">official-only</span> <span class="badge badge-empty">empty</span></p>
     <div class="table-wrap"><table class="data-table coverage-table">
@@ -308,9 +338,9 @@
 <tr><td class="num">17</td><td><a href="games/gta-vi/">Grand Theft Auto VI</a></td><td class="num">2026</td><td>Main</td><td>upcoming</td><td>Vice City, Leonida</td><td>TBA</td></tr></tbody></table></div></div>
 </details>
 <details class="panel" id="machines">
-  <summary>Machine endpoints — for agents and crawlers</summary>
+  <summary>JSON API &amp; machine endpoints</summary>
   <div class="panel-body">
-    <p class="note">No JavaScript is required to read this site. Every URL below is a static file in this repository. Prefer JSON over scraping HTML.</p>
+    <p class="note">No JavaScript is required to read this site. Every URL below is a static file in this repository.</p>
     <div class="table-wrap"><table class="data-table">
 <caption>Machine endpoints</caption>
 <thead><tr><th scope="col">Path</th><th scope="col">Contents</th></tr></thead>

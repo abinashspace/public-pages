@@ -40,7 +40,7 @@
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta/">GTA</a></li><li><span aria-current="page">Locations</span></li></ol></nav>
 <main id="main" tabindex="-1">
 <header class="page-head">
-  <p class="eyebrow">GTA · 3 records · coverage: partial</p>
+  <p class="eyebrow">GTA · 3 entries · partial</p>
   <h1>Locations — Grand Theft Auto</h1>
   <p class="lead">Cities, districts and landmarks, with parent areas.</p>
   
@@ -50,8 +50,40 @@
   <a class="btn btn-ghost" href="../../../data/games/gta.json" type="application/json">Whole game bundle</a>
   
 </p>
-
-<div id="table-results"><div class="table-wrap">
+<div class="filter-bar">
+  <label for="table-filter">Filter</label>
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 3 locations…" aria-controls="gallery-results table-results">
+  <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
+  <div class="view-toggle" role="group" aria-label="View mode">
+    <button type="button" data-view="gallery" aria-pressed="true">Gallery</button>
+    <button type="button" data-view="table" aria-pressed="false">Table</button>
+  </div>
+</div>
+<div id="gallery-results"><ul class="media-grid"><li class="media-card" data-id="liberty-city" data-search="liberty-city liberty city new york-inspired city with three islands, one of three selectable cities. city"><div class="media-thumb">
+        <img loading="lazy" decoding="async" src="../../../assets/img/location/gta/liberty-city.svg" alt="Liberty City (placeholder)" width="1280" height="720">
+      </div><div class="media-body">
+        <div class="media-kicker">City</div>
+        <div class="media-title">Liberty City</div>
+        <p class="media-summary">New York-inspired city with three islands, one of three selectable cities.</p>
+        
+      </div></li>
+<li class="media-card" data-id="san-andreas" data-search="san-andreas san andreas west-coast-inspired city in the original game (unrelated to the 2004 state). city"><div class="media-thumb">
+        <img loading="lazy" decoding="async" src="../../../assets/img/location/gta/san-andreas.svg" alt="San Andreas (placeholder)" width="1280" height="720">
+      </div><div class="media-body">
+        <div class="media-kicker">City</div>
+        <div class="media-title">San Andreas</div>
+        <p class="media-summary">West-coast-inspired city in the original game (unrelated to the 2004 state).</p>
+        
+      </div></li>
+<li class="media-card" data-id="vice-city" data-search="vice-city vice city miami-inspired city with beach and downtown areas. city"><div class="media-thumb">
+        <img loading="lazy" decoding="async" src="../../../assets/img/location/gta/vice-city.jpg" alt="Vice City" width="1280" height="720">
+      </div><div class="media-body">
+        <div class="media-kicker">City</div>
+        <div class="media-title">Vice City</div>
+        <p class="media-summary">Miami-inspired city with beach and downtown areas.</p>
+        
+      </div></li></ul></div>
+<div id="table-results" class="is-view-hidden"><div class="table-wrap">
 <table class="data-table has-thumb" data-sortable>
 <caption>Locations — Grand Theft Auto (3 records)</caption>
 <thead><tr><th scope="col" class="thumb-col"><span class="visually-hidden">Image</span></th><th scope="col" data-sort>Location</th><th scope="col" data-sort>Type</th><th scope="col" data-sort>Parent area</th></tr></thead>

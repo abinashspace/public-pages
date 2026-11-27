@@ -84,35 +84,63 @@
 
   var filter = document.getElementById('table-filter');
   var results = document.getElementById('table-results');
-  if (filter && results) {
+  var gallery = document.getElementById('gallery-results');
+  if (filter && (results || gallery)) {
     var count = document.getElementById('table-filter-count');
-    var rows = Array.prototype.slice.call(results.querySelectorAll('tbody tr')).filter(function (r) {
-      return !r.querySelector('td[colspan]');
-    });
+    var rows = results
+      ? Array.prototype.slice.call(results.querySelectorAll('tbody tr')).filter(function (r) {
+          return !r.querySelector('td[colspan]');
+        })
+      : [];
+    var cards = gallery ? Array.prototype.slice.call(gallery.querySelectorAll('.media-card')) : [];
+    var totalItems = cards.length || rows.length;
+
     var emptyRow = document.createElement('tr');
-    emptyRow.innerHTML = '<td colspan="20" class="note">No records match that filter.</td>';
+    emptyRow.innerHTML = '<td colspan="20" class="note">No entries match that filter.</td>';
     emptyRow.hidden = true;
-    var body = results.querySelector('tbody');
+    var body = results && results.querySelector('tbody');
     if (body) body.appendChild(emptyRow);
 
     var apply = function () {
       var q = filter.value.trim().toLowerCase();
-      var shown = 0;
+      var shownRows = 0;
       rows.forEach(function (row) {
         var hay = (row.getAttribute('data-search') || '') + ' ' + row.textContent.toLowerCase();
         var hit = !q || hay.indexOf(q) !== -1;
         row.classList.toggle('is-hidden', !hit);
-        if (hit) shown++;
+        if (hit) shownRows++;
       });
-      emptyRow.hidden = shown !== 0;
+      var shownCards = 0;
+      cards.forEach(function (card) {
+        var hay = (card.getAttribute('data-search') || '') + ' ' + card.textContent.toLowerCase();
+        var hit = !q || hay.indexOf(q) !== -1;
+        card.classList.toggle('is-hidden', !hit);
+        if (hit) shownCards++;
+      });
+      var shown = cards.length ? shownCards : shownRows;
+      emptyRow.hidden = shownRows !== 0;
       if (count) {
         count.textContent = q
-          ? shown + ' of ' + rows.length + ' shown'
-          : rows.length + ' records';
+          ? shown + ' of ' + totalItems + ' shown'
+          : totalItems + ' entries';
       }
     };
     filter.addEventListener('input', apply);
     apply();
+  }
+
+  var viewButtons = Array.prototype.slice.call(document.querySelectorAll('.view-toggle button[data-view]'));
+  if (viewButtons.length && gallery && results) {
+    viewButtons.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var view = btn.getAttribute('data-view');
+        viewButtons.forEach(function (b) {
+          b.setAttribute('aria-pressed', b === btn ? 'true' : 'false');
+        });
+        gallery.classList.toggle('is-view-hidden', view !== 'gallery');
+        results.classList.toggle('is-view-hidden', view !== 'table');
+      });
+    });
   }
 
   /* ------------------------------------------------------------ search */
