@@ -332,6 +332,8 @@
           $id('d-link').href = item.href;
           dykDetail.classList.add('on');
           dykDetail.setAttribute('aria-hidden', 'false');
+          var ps = document.querySelector('.phone-screen');
+          if (ps) ps.scrollTop = 0;
           window.scrollTo(0, 0);
         };
         var closeDyk = function () {
