@@ -212,11 +212,25 @@
 
     function render() {
       var q = input.value.trim().toLowerCase();
+      var clearBtn = document.getElementById('q-clear');
+      var browseList = document.getElementById('browse-list');
+      var browseLabel = document.getElementById('browse-label');
+      if (clearBtn) clearBtn.style.display = q ? 'block' : 'none';
+      if (browseList) {
+        browseList.querySelectorAll('.app-browse-row').forEach(function (r) {
+          var hit = !q || (r.getAttribute('data-name') || '').indexOf(q) !== -1;
+          r.style.display = hit ? 'flex' : 'none';
+        });
+      }
       list.textContent = '';
       if (q.length < 2) {
-        resultCount.textContent = 'Type at least 2 characters.';
+        resultCount.textContent = '';
+        if (browseLabel) browseLabel.style.display = '';
+        if (browseList) browseList.style.display = '';
         return;
       }
+      if (browseLabel) browseLabel.style.display = 'none';
+      if (browseList) browseList.style.display = 'none';
       if (!index) {
         if (loadState === 'error') return;
         resultCount.textContent = 'Loading index…';
@@ -262,10 +276,190 @@
       timer = setTimeout(render, 120);
     });
     form.addEventListener('submit', function (e) { e.preventDefault(); render(); });
+    var clearBtn = document.getElementById('q-clear');
+    if (clearBtn) {
+      clearBtn.addEventListener('click', function () {
+        input.value = '';
+        render();
+        input.focus();
+      });
+    }
     load();
     var q = new URLSearchParams(location.search).get('q');
     if (q) { input.value = q; }
     render();
+  }
+
+  /* ------------------------------------------------------------ toast */
+
+  var toastEl = document.getElementById('toast');
+  var toastTimer;
+  function say(msg) {
+    if (!toastEl) return;
+    toastEl.textContent = msg;
+    toastEl.classList.add('on');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { toastEl.classList.remove('on'); }, 1800);
+  }
+
+  /* -------------------------------------------------- home do-you-know */
+
+  var dykDataEl = document.getElementById('dyk-data');
+  var dykBtn = document.getElementById('dyk');
+  var dykDetail = document.getElementById('dyk-detail');
+  if (dykDataEl && dykBtn && dykDetail) {
+    try {
+      var dykItems = JSON.parse(dykDataEl.textContent || '[]');
+      if (dykItems.length) {
+        var now = new Date();
+        var day = Math.floor(new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() / 86400000);
+        var item = dykItems[day % dykItems.length];
+        var $id = function (id) { return document.getElementById(id); };
+        $id('dyk-cat').textContent = item.c;
+        $id('dyk-title').textContent = item.t;
+        $id('dyk-teaser').textContent = item.s;
+        $id('dyk-img').src = item.img;
+        $id('dyk-img').alt = item.t;
+
+        var dateStr = now.toLocaleDateString(undefined, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+        var openDyk = function () {
+          $id('d-img').src = item.img;
+          $id('d-img').alt = item.t;
+          $id('d-cat').textContent = item.c;
+          $id('d-title').textContent = item.t;
+          $id('d-desc').textContent = item.d;
+          $id('d-date').textContent = 'DO YOU KNOW · ' + dateStr;
+          $id('d-link').href = item.href;
+          dykDetail.classList.add('on');
+          dykDetail.setAttribute('aria-hidden', 'false');
+          window.scrollTo(0, 0);
+        };
+        var closeDyk = function () {
+          dykDetail.classList.remove('on');
+          dykDetail.setAttribute('aria-hidden', 'true');
+        };
+        dykBtn.addEventListener('click', openDyk);
+        $id('dyk-back').addEventListener('click', closeDyk);
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && dykDetail.classList.contains('on')) closeDyk();
+        });
+      }
+    } catch (e) { /* ignore malformed inline json */ }
+  }
+
+  /* ---------------------------------------------------------- profile */
+
+  var dpBtn = document.getElementById('dp');
+  if (dpBtn) {
+    var $p = function (id) { return document.getElementById(id); };
+    var defaultPic = $p('p-img').getAttribute('src');
+    var pic = '';
+    var showPic = function () {
+      $p('p-img').src = pic || defaultPic;
+    };
+    var updateHead = function () {
+      $p('p-shown').textContent = $p('p-name').value.trim();
+    };
+    dpBtn.addEventListener('click', function () { $p('p-file').click(); });
+    $p('p-file').addEventListener('change', function (e) {
+      var f = e.target.files && e.target.files[0];
+      if (!f) return;
+      var r = new FileReader();
+      r.onload = function () {
+        var im = new Image();
+        im.onload = function () {
+          var s = 256, c = document.createElement('canvas');
+          c.width = c.height = s;
+          var m = Math.min(im.width, im.height);
+          var sx = (im.width - m) / 2;
+          var sy = (im.height - m) / 2;
+          c.getContext('2d').drawImage(im, sx, sy, m, m, 0, 0, s, s);
+          pic = c.toDataURL('image/jpeg', 0.85);
+          showPic();
+        };
+        im.src = r.result;
+      };
+      r.readAsDataURL(f);
+    });
+    $p('p-name').addEventListener('input', updateHead);
+
+    var saveProfile = function () {
+      var d = {
+        name: $p('p-name').value.trim(),
+        age: $p('p-age').value,
+        game: $p('p-game').value,
+        pic: pic,
+      };
+      try {
+        localStorage.setItem('gtaProfile', JSON.stringify(d));
+        say('Profile saved');
+      } catch (e) {
+        say('Saved for this visit only');
+      }
+    };
+    $p('p-save').addEventListener('click', saveProfile);
+
+    var applyProfile = function (d) {
+      $p('p-name').value = String(d.name || '').slice(0, 30);
+      $p('p-age').value = d.age || '';
+      $p('p-game').value = d.game || '';
+      pic = typeof d.pic === 'string' && d.pic.indexOf('data:image/') === 0 ? d.pic : '';
+      showPic();
+      updateHead();
+    };
+
+    $p('p-exp').addEventListener('click', function () {
+      var snap = {
+        app: 'gta-guide',
+        name: $p('p-name').value.trim(),
+        age: $p('p-age').value,
+        game: $p('p-game').value,
+        pic: pic,
+      };
+      var t = JSON.stringify(snap);
+      $p('p-box').value = t;
+      $p('p-box').select();
+      try {
+        navigator.clipboard.writeText(t).then(
+          function () { say('Copied to clipboard'); },
+          function () { say('Select the text and copy it'); }
+        );
+      } catch (e) {
+        say('Select the text and copy it');
+      }
+    });
+
+    var doImport = function () {
+      try {
+        var d = JSON.parse($p('p-box').value);
+        if (!d || typeof d !== 'object' || d.app !== 'gta-guide') {
+          say('That isn’t valid profile data');
+          return;
+        }
+        applyProfile(d);
+        saveProfile();
+      } catch (e) {
+        say('That isn’t valid profile data');
+      }
+    };
+    $p('p-imp').addEventListener('click', doImport);
+    $p('p-impf').addEventListener('click', function () { $p('p-jf').click(); });
+    $p('p-jf').addEventListener('change', function (e) {
+      var f = e.target.files && e.target.files[0];
+      if (!f) return;
+      var r = new FileReader();
+      r.onload = function () { $p('p-box').value = r.result; doImport(); };
+      r.readAsText(f);
+      e.target.value = '';
+    });
+
+    try {
+      var saved = localStorage.getItem('gtaProfile');
+      if (saved) {
+        var parsed = JSON.parse(saved);
+        applyProfile(parsed);
+      }
+    } catch (e) { /* private mode */ }
   }
 
   /* ---------------------------------------------------- mobile header */
