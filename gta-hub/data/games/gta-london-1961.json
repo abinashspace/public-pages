@@ -1,0 +1,635 @@
+{
+  "meta": {
+    "slug": "gta-london-1961",
+    "title": "Grand Theft Auto: London 1961",
+    "year": 1999,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-27T11:35:44.305Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "limited",
+      "locations": "partial",
+      "collectibles": "empty"
+    },
+    "counts": {
+      "characters": 2,
+      "missions": 9,
+      "vehicles": 41,
+      "weapons": 6,
+      "cheats": 1,
+      "locations": 1,
+      "collectibles": 0
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-london-1961/cover.jpg",
+      "banner": "assets/img/banner/gta-london-1961/banner.jpg",
+      "map": "assets/img/map/gta-london-1961/map.svg"
+    },
+    "sources": [
+      "GTA: London 1961 free add-on documentation"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "mission-contact",
+        "name": "London contact",
+        "role": "Mission contact",
+        "affiliations": [
+          "London firms"
+        ],
+        "summary": "Briefing character for the 1961 mission chain.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-london-1961/mission-contact.svg"
+      },
+      {
+        "id": "player-character",
+        "name": "Player-named protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "London underworld"
+        ],
+        "summary": "A London criminal working the city in 1961, two years before the events of London 1969.",
+        "status": "Varies",
+        "first_appearance": "GTA: London 1961",
+        "verified": true,
+        "image": "assets/img/portrait/gta-london-1961/player-character.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "when-we-were-very-small",
+        "order": 1,
+        "name": "When We Were Very Small",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Introduction",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/when-we-were-very-small.svg"
+      },
+      {
+        "id": "phonebox-1",
+        "order": 2,
+        "name": "Phonebox 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Wipe out two rival greaser gangs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-1.svg"
+      },
+      {
+        "id": "phonebox-2",
+        "order": 3,
+        "name": "Phonebox 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Protect Mr. Caukenbolls from his enemies.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-2.svg"
+      },
+      {
+        "id": "phonebox-3",
+        "order": 4,
+        "name": "Phonebox 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Kill Gene White , round up his girls and destroy the porno tapes White's men filmed.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-3.svg"
+      },
+      {
+        "id": "phonebox-4",
+        "order": 5,
+        "name": "Phonebox 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Kill Poundage Fern and his goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/phonebox-4.svg"
+      },
+      {
+        "id": "walkie-talkie",
+        "order": 6,
+        "name": "Walkie Talkie",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Disband Hans Nemesis' explosive potato ring.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/walkie-talkie.svg"
+      },
+      {
+        "id": "fab",
+        "order": 7,
+        "name": "Fab",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Deliver a car full of Tunderthighs dolls to Harold's nephew's birthday.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/fab.svg"
+      },
+      {
+        "id": "tv-van",
+        "order": 8,
+        "name": "TV Van",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Film yourself dealing with the people blackmailing Harold.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/tv-van.svg"
+      },
+      {
+        "id": "ending",
+        "order": 9,
+        "name": "Ending",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Chapter 1 - When We Were Very Small",
+        "reward": {},
+        "summary": "Meet Harold Cartwright .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta-london-1961/ending.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Medical",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-london-1961/ambulance.png"
+      },
+      {
+        "id": "beagle-3",
+        "name": "Beagle 3",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/beagle-3.png"
+      },
+      {
+        "id": "bentover",
+        "name": "Bentover",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/bentover.png"
+      },
+      {
+        "id": "big-bends",
+        "name": "Big Bends",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/big-bends.png"
+      },
+      {
+        "id": "bike",
+        "name": "Bike",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/bike.png"
+      },
+      {
+        "id": "camper",
+        "name": "Camper",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/camper.png"
+      },
+      {
+        "id": "characters",
+        "name": "Characters",
+        "category": "Navigation",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/characters.svg"
+      },
+      {
+        "id": "copper",
+        "name": "Copper",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/copper.png"
+      },
+      {
+        "id": "double-decker",
+        "name": "Double Decker",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/double-decker.png"
+      },
+      {
+        "id": "double-decker-bus",
+        "name": "Double-Decker Bus",
+        "category": "Industrial",
+        "class": "Bus",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/double-decker-bus.svg"
+      },
+      {
+        "id": "fab",
+        "name": "Fab",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/fab.png"
+      },
+      {
+        "id": "fat",
+        "name": "Fat",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/fat.png"
+      },
+      {
+        "id": "ferocious-250",
+        "name": "Ferocious 250",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/ferocious-250.png"
+      },
+      {
+        "id": "ferocious-312",
+        "name": "Ferocious 312",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/ferocious-312.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/fire-truck.png"
+      },
+      {
+        "id": "garden-shed",
+        "name": "Garden Shed",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/garden-shed.png"
+      },
+      {
+        "id": "jug-d-type",
+        "name": "Jug D Type",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/jug-d-type.png"
+      },
+      {
+        "id": "jug-swinger",
+        "name": "Jug Swinger",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/jug-swinger.png"
+      },
+      {
+        "id": "lewd-lorry",
+        "name": "Lewd Lorry",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/lewd-lorry.png"
+      },
+      {
+        "id": "london-cab",
+        "name": "London Cab",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Taxi",
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-london-1961/london-cab.png"
+      },
+      {
+        "id": "mcmk2",
+        "name": "MCMK2",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/mcmk2.png"
+      },
+      {
+        "id": "mini",
+        "name": "Mini",
+        "category": "Car",
+        "class": "Compact",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/mini.svg"
+      },
+      {
+        "id": "mod-scooter",
+        "name": "Mod Scooter",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/mod-scooter.png"
+      },
+      {
+        "id": "myni",
+        "name": "Myni",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/myni.png"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-london-1961/police-car.svg"
+      },
+      {
+        "id": "porka-910",
+        "name": "Porka 910",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/porka-910.png"
+      },
+      {
+        "id": "potato-truck",
+        "name": "Potato Truck",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/potato-truck.png"
+      },
+      {
+        "id": "ranger",
+        "name": "Ranger",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/ranger.png"
+      },
+      {
+        "id": "raver-2000",
+        "name": "Raver 2000",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/raver-2000.svg"
+      },
+      {
+        "id": "safari",
+        "name": "Safari",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/safari.png"
+      },
+      {
+        "id": "spider",
+        "name": "Spider",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/spider.png"
+      },
+      {
+        "id": "squealey",
+        "name": "Squealey",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/squealey.png"
+      },
+      {
+        "id": "sweets-van",
+        "name": "Sweets Van",
+        "category": "4x4s, Lorries, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/sweets-van.png"
+      },
+      {
+        "id": "tiger-tank",
+        "name": "Tiger Tank",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/tiger-tank.png"
+      },
+      {
+        "id": "tour-bus",
+        "name": "Tour Bus",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/tour-bus.png"
+      },
+      {
+        "id": "tramp-tr3",
+        "name": "Tramp TR3",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/tramp-tr3.png"
+      },
+      {
+        "id": "tramp-tr4",
+        "name": "Tramp TR4",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/tramp-tr4.png"
+      },
+      {
+        "id": "tv-van",
+        "name": "TV Van",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/tv-van.png"
+      },
+      {
+        "id": "voxel-concept",
+        "name": "Voxel Concept",
+        "category": "Sports Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/voxel-concept.png"
+      },
+      {
+        "id": "wheelchair",
+        "name": "Wheelchair",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/wheelchair.svg"
+      },
+      {
+        "id": "wimp",
+        "name": "Wimp",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-london-1961/wimp.svg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-london-1961/flamethrower.svg"
+      },
+      {
+        "id": "machine-gun",
+        "name": "Machine Gun",
+        "type": "Submachine gun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-london-1961/machine-gun.svg"
+      },
+      {
+        "id": "melee-attack",
+        "name": "Melee attack",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-london-1961/melee-attack.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "unlock": "Default",
+        "image": "assets/img/weapon/gta-london-1961/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-london-1961/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-london-1961/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GESUNDHEIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": false,
+        "source": "Inherited GTA 1 engine cheat; verify against the 1961 add-on",
+        "image": "assets/img/cheat/gta-london-1961/full-health.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "london",
+        "name": "London",
+        "type": "City",
+        "parent": null,
+        "summary": "1961 London using the GTA 1 engine and the London 1969 map assets.",
+        "verified": true,
+        "image": "assets/img/location/gta-london-1961/london.png"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "empty",
+    "items": []
+  }
+}

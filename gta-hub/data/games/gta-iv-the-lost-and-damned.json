@@ -1,0 +1,2031 @@
+{
+  "meta": {
+    "slug": "gta-iv-the-lost-and-damned",
+    "title": "Grand Theft Auto IV: The Lost and Damned",
+    "year": 2009,
+    "type": "Expansion",
+    "status": "released",
+    "generated": "2026-11-27T11:35:46.094Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "empty",
+      "locations": "partial",
+      "collectibles": "partial"
+    },
+    "counts": {
+      "characters": 12,
+      "missions": 22,
+      "vehicles": 143,
+      "weapons": 24,
+      "cheats": 0,
+      "locations": 6,
+      "collectibles": 3
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-iv-the-lost-and-damned/cover.jpg",
+      "banner": "assets/img/banner/gta-iv-the-lost-and-damned/banner.jpg",
+      "map": "assets/img/map/gta-iv-the-lost-and-damned/map.svg"
+    },
+    "sources": [
+      "TLAD in-game mission list",
+      "Rockstar Games Episodes from Liberty City materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "angus-martin",
+        "name": "Angus Martin",
+        "role": "Club member",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Wheelchair-bound club member and mechanic.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/angus-martin.jpg"
+      },
+      {
+        "id": "ashley-butler",
+        "name": "Ashley Butler",
+        "role": "Johnny's ex",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Johnny's ex-girlfriend, struggling with addiction and tied to Billy.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ashley-butler.png"
+      },
+      {
+        "id": "billy-grey",
+        "name": "Billy Grey",
+        "role": "Club president, antagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "The Lost's unstable president, whose feud with the Angels of Death escalates everything.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/billy-grey.jpg"
+      },
+      {
+        "id": "brian-jeremy",
+        "name": "Brian Jeremy",
+        "role": "Club member, antagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Billy loyalist who turns on Johnny after the leadership split.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/brian-jeremy.jpg"
+      },
+      {
+        "id": "clay-simons",
+        "name": "Clay Simons",
+        "role": "Road captain",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "The club's road captain and Johnny's right hand.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/clay-simons.png"
+      },
+      {
+        "id": "elizabeta-torres",
+        "name": "Elizabeta Torres",
+        "role": "Associate",
+        "affiliations": [
+          "Bohan drug trade"
+        ],
+        "summary": "Bohan drug queenpin connected to the Lost's business.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/elizabeta-torres.png"
+      },
+      {
+        "id": "jim-fitzgerald",
+        "name": "Jim Fitzgerald",
+        "role": "Treasurer, ally",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Johnny's most trusted club brother and the chapter's voice of reason.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/jim-fitzgerald.png"
+      },
+      {
+        "id": "johnny-klebitz",
+        "name": "Johnny Klebitz",
+        "role": "Protagonist",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Vice-president of the Lost MC's Liberty City chapter, trying to hold the club together.",
+        "status": "Varies",
+        "first_appearance": "GTA IV: The Lost and Damned",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/johnny-klebitz.png"
+      },
+      {
+        "id": "niko-bellic",
+        "name": "Niko Bellic",
+        "role": "Crossover character",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "Appears in shared scenes during the diamond storyline.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/niko-bellic.png"
+      },
+      {
+        "id": "ray-boccino",
+        "name": "Ray Boccino",
+        "role": "Associate",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "The mob contact who hires the Lost for diamond-related work.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/ray-boccino.jpg"
+      },
+      {
+        "id": "terry-thorpe",
+        "name": "Terry Thorpe",
+        "role": "Sergeant-at-arms",
+        "affiliations": [
+          "The Lost MC"
+        ],
+        "summary": "Heavy weapons specialist and loyal club member.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/terry-thorpe.png"
+      },
+      {
+        "id": "thomas-stubbs",
+        "name": "Thomas Stubbs",
+        "role": "Politician",
+        "affiliations": [
+          "Liberty City politics"
+        ],
+        "summary": "Corrupt congressman who pays the Lost for dirty work.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv-the-lost-and-damned/thomas-stubbs.jpg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "clean-and-serene",
+        "order": 1,
+        "name": "Clean and Serene",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 750,
+          "other": "Hexer Sawed-Off Shotgun The Lost MC Clubhouse One Percenter achievement/trophy"
+        },
+        "summary": "Opening: collect Billy from prison and ride back to the clubhouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/clean-and-serene.jpg"
+      },
+      {
+        "id": "angels-in-america",
+        "order": 2,
+        "name": "Angels in America",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 750,
+          "other": "Diabolus can now be requested from Clay"
+        },
+        "summary": "Hit an Angels of Death clubhouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/angels-in-america.jpg"
+      },
+      {
+        "id": "its-war",
+        "order": 3,
+        "name": "It's War",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Retaliate after the Angels strike back.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/its-war.jpg"
+      },
+      {
+        "id": "action-reaction",
+        "order": 4,
+        "name": "Action/Reaction",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000,
+          "other": "Grenade Launcher Hellfury can now be requested from Clay"
+        },
+        "summary": "A robbery that raises the stakes with the club's rivals.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/action-reaction.png"
+      },
+      {
+        "id": "liberty-city-choppers",
+        "order": 5,
+        "name": "Liberty City Choppers",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000,
+          "other": "Zombie can now be requested from Clay."
+        },
+        "summary": "Steal bikes from the Angels of Death with Jim",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/liberty-city-choppers.png"
+      },
+      {
+        "id": "bad-cop-drop",
+        "order": 6,
+        "name": "Bad Cop Drop",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000,
+          "other": "Automatic 9mm"
+        },
+        "summary": "Lure corrupt cops Jimmy Matthews and Ed McCornish into an ambush and kill them.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/bad-cop-drop.jpg"
+      },
+      {
+        "id": "buyers-market",
+        "order": 7,
+        "name": "Buyer's Market",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Integrity 2.0 as a radio station"
+        },
+        "summary": "A drug deal that goes sideways.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/buyers-market.png"
+      },
+      {
+        "id": "politics",
+        "order": 8,
+        "name": "Politics",
+        "type": "Story",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
+        "reward": {
+          "money": 3000
+        },
+        "summary": "Dirty work for Congressman Stubbs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/politics.png"
+      },
+      {
+        "id": "off-route",
+        "order": 9,
+        "name": "Off Route",
+        "type": "Story",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
+        "reward": {
+          "money": 5000
+        },
+        "summary": "Hijack a prison transport.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/off-route.png"
+      },
+      {
+        "id": "coming-down",
+        "order": 10,
+        "name": "Coming Down",
+        "type": "Story",
+        "giver": "Ashley Butler",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Rescue Ashley from a drug den.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/coming-down.png"
+      },
+      {
+        "id": "this-shits-cursed",
+        "order": 11,
+        "name": "This Shit's Cursed",
+        "type": "Story",
+        "giver": "Billy Grey",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Johnny becomes President of the Lost MC Alderney Chapter Revenant can now be requested from Clay The Lost Boy achievement/trophy"
+        },
+        "summary": "Attend a heroin deal with the Triads and escape their ambush with Jim , then watch Billy getting arrested.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/this-shits-cursed.png"
+      },
+      {
+        "id": "hit-the-pipe",
+        "order": 12,
+        "name": "Hit the Pipe",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000,
+          "other": "Pipe Bombs"
+        },
+        "summary": "Destroy Angels of Death vans with pipe bombs .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/hit-the-pipe.jpg"
+      },
+      {
+        "id": "end-of-chapter",
+        "order": 13,
+        "name": "End of Chapter",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Meet up with Brian and his faction and survive their ambush.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/end-of-chapter.jpg"
+      },
+      {
+        "id": "bad-standing",
+        "order": 14,
+        "name": "Bad Standing",
+        "type": "Story",
+        "giver": "Jim Fitzgerald",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000,
+          "other": "Brian Jeremy's Safehouse"
+        },
+        "summary": "Deal with Billy loyalists inside the club.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/bad-standing.jpg"
+      },
+      {
+        "id": "heavy-toll",
+        "order": 15,
+        "name": "Heavy Toll",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000,
+          "other": "Assault Shotgun"
+        },
+        "summary": "Rob an armored truck on the turnpike.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/heavy-toll.png"
+      },
+      {
+        "id": "marta-full-of-grace",
+        "order": 16,
+        "name": "Marta Full of Grace",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Pick up Marta from the airport and bring her to Elizabeta's apartment after losing the cops.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/marta-full-of-grace.png"
+      },
+      {
+        "id": "shifting-weight",
+        "order": 17,
+        "name": "Shifting Weight",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Liberty City",
+        "reward": {
+          "money": 3000,
+          "other": "Double T can now be requested from Clay"
+        },
+        "summary": "Move a heroin shipment under police pressure.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/shifting-weight.png"
+      },
+      {
+        "id": "romans-holiday",
+        "order": 18,
+        "name": "Roman's Holiday",
+        "type": "Story",
+        "giver": "Ashley Butler",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kidnap Roman Bellic with Malc in orders of Dimitri Rascalov's men .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/romans-holiday.png"
+      },
+      {
+        "id": "diamonds-in-the-rough",
+        "order": 19,
+        "name": "Diamonds in the Rough",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "The diamond exchange seen from the Lost's side.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/diamonds-in-the-rough.png"
+      },
+      {
+        "id": "collectors-item",
+        "order": 20,
+        "name": "Collector's Item",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {
+          "money": 10000,
+          "other": "Lycan can now be requested from Clay"
+        },
+        "summary": "Attend the diamond deal with Niko Bellic at The Libertonian and escape with the money.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/collectors-item.jpg"
+      },
+      {
+        "id": "was-it-worth-it",
+        "order": 21,
+        "name": "Was It Worth It?",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Aftermath of the diamond deal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/was-it-worth-it.png"
+      },
+      {
+        "id": "get-lost",
+        "order": 22,
+        "name": "Get Lost",
+        "type": "Story",
+        "giver": "Thomas Stubbs",
+        "location": "Liberty City",
+        "reward": {
+          "money": 7000
+        },
+        "summary": "Final mission: settle the club's future.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-iv-the-lost-and-damned/get-lost.png"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/admiral.png"
+      },
+      {
+        "id": "airtug",
+        "name": "Airtug",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/airtug.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ambulance.png"
+      },
+      {
+        "id": "angel",
+        "name": "Angel",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/angel.png"
+      },
+      {
+        "id": "annihilator",
+        "name": "Annihilator",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/annihilator.png"
+      },
+      {
+        "id": "bagger",
+        "name": "Bagger",
+        "category": "Motorcycle",
+        "class": "Cruiser",
+        "top_speed_kph": 175,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bagger.svg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/banshee.png"
+      },
+      {
+        "id": "bati-800",
+        "name": "Bati 800",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sport bike",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-800.png"
+      },
+      {
+        "id": "bati-custom",
+        "name": "Bati Custom",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bati-custom.png"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/benson.png"
+      },
+      {
+        "id": "biff",
+        "name": "Biff",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/biff.png"
+      },
+      {
+        "id": "blista-compact",
+        "name": "Blista Compact",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/blista-compact.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bobcat.png"
+      },
+      {
+        "id": "boxville",
+        "name": "Boxville",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/boxville.png"
+      },
+      {
+        "id": "bucanneer",
+        "name": "Bucanneer",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bucanneer.svg"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/burrito.png"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/bus.png"
+      },
+      {
+        "id": "cabby",
+        "name": "Cabby",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cabby.png"
+      },
+      {
+        "id": "cablecar",
+        "name": "Cablecar",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cablecar.png"
+      },
+      {
+        "id": "cavalcade",
+        "name": "Cavalcade",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade.png"
+      },
+      {
+        "id": "cavalcade-fxt",
+        "name": "Cavalcade FXT",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cavalcade-fxt.png"
+      },
+      {
+        "id": "chavos",
+        "name": "Chavos",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/chavos.png"
+      },
+      {
+        "id": "cognoscenti",
+        "name": "Cognoscenti",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/cognoscenti.png"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/comet.png"
+      },
+      {
+        "id": "contender",
+        "name": "Contender",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/contender.png"
+      },
+      {
+        "id": "coquette",
+        "name": "Coquette",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/coquette.png"
+      },
+      {
+        "id": "daemon",
+        "name": "Daemon",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/daemon.png"
+      },
+      {
+        "id": "df8-90",
+        "name": "DF8-90",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/df8-90.png"
+      },
+      {
+        "id": "diabolus",
+        "name": "Diabolus",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/diabolus.png"
+      },
+      {
+        "id": "dilettante",
+        "name": "Dilettante",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dilettante.png"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dinghy.png"
+      },
+      {
+        "id": "double-t",
+        "name": "Double T",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sport bike",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t.png"
+      },
+      {
+        "id": "double-t-custom",
+        "name": "Double T Custom",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/double-t-custom.png"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/dukes.png"
+      },
+      {
+        "id": "emperor",
+        "name": "Emperor",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/emperor.png"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/enforcer.png"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/esperanto.png"
+      },
+      {
+        "id": "faction",
+        "name": "Faction",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faction.png"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/faggio.png"
+      },
+      {
+        "id": "fbi-buffalo",
+        "name": "FBI Buffalo",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fbi-buffalo.svg"
+      },
+      {
+        "id": "feltzer",
+        "name": "Feltzer",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feltzer.png"
+      },
+      {
+        "id": "feroci",
+        "name": "Feroci",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/feroci.png"
+      },
+      {
+        "id": "fib-buffalo",
+        "name": "FIB Buffalo",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fib-buffalo.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fire-truck.png"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/flatbed.png"
+      },
+      {
+        "id": "forklift",
+        "name": "Forklift",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/forklift.png"
+      },
+      {
+        "id": "fortune",
+        "name": "Fortune",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/fortune.png"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/freeway.png"
+      },
+      {
+        "id": "futo",
+        "name": "Futo",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/futo.png"
+      },
+      {
+        "id": "gang-burrito",
+        "name": "Gang Burrito",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Gang",
+        "top_speed_kph": 160,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/gang-burrito.png"
+      },
+      {
+        "id": "habanero",
+        "name": "Habanero",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/habanero.png"
+      },
+      {
+        "id": "hakuchou",
+        "name": "Hakuchou",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou.png"
+      },
+      {
+        "id": "hakuchou-custom",
+        "name": "Hakuchou Custom",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakuchou-custom.png"
+      },
+      {
+        "id": "hakumai",
+        "name": "Hakumai",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hakumai.png"
+      },
+      {
+        "id": "helitours-maverick",
+        "name": "Helitours Maverick",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/helitours-maverick.png"
+      },
+      {
+        "id": "hellfury",
+        "name": "Hellfury",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hellfury.png"
+      },
+      {
+        "id": "hexer",
+        "name": "Hexer",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Custom cruiser",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/hexer.png"
+      },
+      {
+        "id": "huntley-sport",
+        "name": "Huntley Sport",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/huntley-sport.png"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/infernus.png"
+      },
+      {
+        "id": "ingot",
+        "name": "Ingot",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ingot.png"
+      },
+      {
+        "id": "innovation",
+        "name": "Innovation",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/innovation.png"
+      },
+      {
+        "id": "intruder",
+        "name": "Intruder",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/intruder.png"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/jetmax.png"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/landstalker.png"
+      },
+      {
+        "id": "laundromat",
+        "name": "Laundromat",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/laundromat.png"
+      },
+      {
+        "id": "lokus",
+        "name": "Lokus",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lokus.png"
+      },
+      {
+        "id": "lycan",
+        "name": "Lycan",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Custom cruiser",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/lycan.png"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/manana.png"
+      },
+      {
+        "id": "marbelle",
+        "name": "Marbelle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marbelle.png"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/marquis.png"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/maverick.png"
+      },
+      {
+        "id": "merit",
+        "name": "Merit",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/merit.png"
+      },
+      {
+        "id": "minivan",
+        "name": "Minivan",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/minivan.png"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/moonbeam.png"
+      },
+      {
+        "id": "mr-tasty",
+        "name": "Mr Tasty",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mr-tasty.png"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/mule.png"
+      },
+      {
+        "id": "nightblade",
+        "name": "Nightblade",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nightblade.png"
+      },
+      {
+        "id": "noose-cruiser",
+        "name": "NOOSE Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-cruiser.png"
+      },
+      {
+        "id": "noose-patriot",
+        "name": "NOOSE Patriot",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/noose-patriot.png"
+      },
+      {
+        "id": "nrg-900",
+        "name": "NRG 900",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/nrg-900.png"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/oracle.png"
+      },
+      {
+        "id": "packer",
+        "name": "Packer",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/packer.png"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/patriot.png"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ 600",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pcj-600.png"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/perennial.png"
+      },
+      {
+        "id": "peyote",
+        "name": "Peyote",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/peyote.png"
+      },
+      {
+        "id": "phantom",
+        "name": "Phantom",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/phantom.png"
+      },
+      {
+        "id": "pinnacle",
+        "name": "Pinnacle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pinnacle.png"
+      },
+      {
+        "id": "pmp-600",
+        "name": "PMP 600",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pmp-600.png"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-cruiser.png"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-maverick.png"
+      },
+      {
+        "id": "police-patrol",
+        "name": "Police Patrol",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-patrol.png"
+      },
+      {
+        "id": "police-predator",
+        "name": "Police Predator",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/police-predator.png"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/pony.png"
+      },
+      {
+        "id": "premier",
+        "name": "Premier",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/premier.png"
+      },
+      {
+        "id": "presidente",
+        "name": "Presidente",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/presidente.png"
+      },
+      {
+        "id": "primo",
+        "name": "Primo",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/primo.png"
+      },
+      {
+        "id": "prison-bus",
+        "name": "Prison Bus",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/prison-bus.png"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rancher.png"
+      },
+      {
+        "id": "rebla",
+        "name": "Rebla",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rebla.png"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/reefer.png"
+      },
+      {
+        "id": "regina",
+        "name": "Regina",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/regina.png"
+      },
+      {
+        "id": "revenant",
+        "name": "Revenant",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/revenant.png"
+      },
+      {
+        "id": "rhapsody",
+        "name": "Rhapsody",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/rhapsody.png"
+      },
+      {
+        "id": "ripley",
+        "name": "Ripley",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ripley.png"
+      },
+      {
+        "id": "romans-taxi",
+        "name": "Roman's Taxi",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/romans-taxi.png"
+      },
+      {
+        "id": "ruiner",
+        "name": "Ruiner",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/ruiner.png"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre.png"
+      },
+      {
+        "id": "sabre-gt",
+        "name": "Sabre GT",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sabre-gt.png"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sanchez.png"
+      },
+      {
+        "id": "schafter",
+        "name": "Schafter",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/schafter.png"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/securicar.png"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sentinel.png"
+      },
+      {
+        "id": "slamvan",
+        "name": "Slamvan",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Lowrider",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/slamvan.png"
+      },
+      {
+        "id": "solair",
+        "name": "Solair",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/solair.png"
+      },
+      {
+        "id": "speedo",
+        "name": "Speedo",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/speedo.png"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/squalo.png"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stallion.png"
+      },
+      {
+        "id": "steed",
+        "name": "Steed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/steed.png"
+      },
+      {
+        "id": "stratum",
+        "name": "Stratum",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stratum.png"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/stretch.png"
+      },
+      {
+        "id": "subway",
+        "name": "Subway",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/subway.svg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan.png"
+      },
+      {
+        "id": "sultan-rs",
+        "name": "Sultan RS",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/sultan-rs.png"
+      },
+      {
+        "id": "supergt",
+        "name": "SuperGT",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/supergt.png"
+      },
+      {
+        "id": "tampa",
+        "name": "Tampa",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tampa.png"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/taxi.png"
+      },
+      {
+        "id": "tow-truck",
+        "name": "Tow Truck",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tow-truck.png"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/trashmaster.png"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tropic.png"
+      },
+      {
+        "id": "tug",
+        "name": "Tug",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/tug.png"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/turismo.png"
+      },
+      {
+        "id": "uranus",
+        "name": "Uranus",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/uranus.png"
+      },
+      {
+        "id": "vigero",
+        "name": "Vigero",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vigero.png"
+      },
+      {
+        "id": "vincent",
+        "name": "Vincent",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/vincent.png"
+      },
+      {
+        "id": "virgo",
+        "name": "Virgo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/virgo.png"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/voodoo.png"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/washington.png"
+      },
+      {
+        "id": "wayfarer",
+        "name": "Wayfarer",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wayfarer.png"
+      },
+      {
+        "id": "willard",
+        "name": "Willard",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/willard.png"
+      },
+      {
+        "id": "wolfsbane",
+        "name": "Wolfsbane",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Custom cruiser",
+        "top_speed_kph": 185,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/wolfsbane.png"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/yankee.png"
+      },
+      {
+        "id": "zombie",
+        "name": "Zombie",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv-the-lost-and-damned/zombie.png"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "unlock": "Terry Thorpe",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-rifle.png"
+      },
+      {
+        "id": "assault-shotgun",
+        "name": "Assault Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/assault-shotgun.png"
+      },
+      {
+        "id": "automatic-9mm",
+        "name": "Automatic 9mm",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/automatic-9mm.png"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/baseball-bat.png"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/carbine-rifle.png"
+      },
+      {
+        "id": "combat-pistol",
+        "name": "Combat Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-pistol.png"
+      },
+      {
+        "id": "combat-shotgun",
+        "name": "Combat Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-shotgun.png"
+      },
+      {
+        "id": "combat-sniper",
+        "name": "Combat Sniper",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/combat-sniper.png"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/fist.png"
+      },
+      {
+        "id": "glock-17",
+        "name": "Glock 17",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/glock-17.svg"
+      },
+      {
+        "id": "grenade",
+        "name": "Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade.png"
+      },
+      {
+        "id": "grenade-launcher",
+        "name": "Grenade Launcher",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "6 rounds",
+        "unlock": "Club supply",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/grenade-launcher.png"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/knife.png"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "unlock": "Club supply",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/micro-smg.png"
+      },
+      {
+        "id": "molotov-cocktail",
+        "name": "Molotov Cocktail",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/molotov-cocktail.png"
+      },
+      {
+        "id": "pipe-bomb",
+        "name": "Pipe Bomb",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "unlock": "Club supply",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pipe-bomb.png"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pistol.png"
+      },
+      {
+        "id": "pool-cue",
+        "name": "Pool Cue",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pool-cue.png"
+      },
+      {
+        "id": "pump-shotgun",
+        "name": "Pump Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/pump-shotgun.png"
+      },
+      {
+        "id": "random-pickable-objects",
+        "name": "Random Pickable Objects",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/random-pickable-objects.png"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "unlock": "Club supply",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/rpg.png"
+      },
+      {
+        "id": "sawn-off-shotgun",
+        "name": "Sawn-Off Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "2 shells",
+        "unlock": "Club supply",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sawn-off-shotgun.png"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/smg.png"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv-the-lost-and-damned/sniper-rifle.png"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "empty",
+    "items": []
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "acton-hill",
+        "name": "Acton Hill",
+        "type": "Neighbourhood",
+        "parent": "Alderney",
+        "summary": "Industrial area near the Lost clubhouse.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/acton-hill.svg"
+      },
+      {
+        "id": "alderney",
+        "name": "Alderney",
+        "type": "State",
+        "parent": "Liberty City",
+        "summary": "The Lost MC clubhouse and main operating area.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/alderney.png"
+      },
+      {
+        "id": "algonquin",
+        "name": "Algonquin",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Manhattan analogue used for diamond-related missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/algonquin.jpg"
+      },
+      {
+        "id": "bohan",
+        "name": "Bohan",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Northern borough, Ashley's drug den and Elizabeta's turf.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/bohan.png"
+      },
+      {
+        "id": "broker",
+        "name": "Broker",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Eastern borough visited during club business.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/broker.png"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "Same map as GTA IV, used from the Lost's Alderney base.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv-the-lost-and-damned/liberty-city.svg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bike-races",
+        "name": "Bike Races",
+        "type": "Race",
+        "total": 1,
+        "reward": "Cash and bike unlocks",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/bike-races.svg"
+      },
+      {
+        "id": "gang-wars",
+        "name": "Gang Wars",
+        "type": "Side job",
+        "total": 1,
+        "reward": "Club territory and weapon caches",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.jpg"
+      },
+      {
+        "id": "seagulls",
+        "name": "Seagulls",
+        "type": "Seagull",
+        "total": 50,
+        "reward": "Weapons at the clubhouse",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.jpg"
+      }
+    ]
+  }
+}

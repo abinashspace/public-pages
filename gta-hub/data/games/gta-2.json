@@ -1,0 +1,1605 @@
+{
+  "meta": {
+    "slug": "gta-2",
+    "title": "Grand Theft Auto 2",
+    "year": 1999,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-27T11:35:44.330Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "limited",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "complete",
+      "locations": "partial",
+      "collectibles": "limited"
+    },
+    "counts": {
+      "characters": 9,
+      "missions": 4,
+      "vehicles": 68,
+      "weapons": 20,
+      "cheats": 33,
+      "locations": 4,
+      "collectibles": 1
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-2/cover.jpg",
+      "banner": "assets/img/banner/gta-2/banner.jpg",
+      "map": "assets/img/map/gta-2/map.svg"
+    },
+    "sources": [
+      "GTA 2 in-game district and gang systems",
+      "Rockstar Games GTA 2 materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "claude-speed",
+        "name": "Claude Speed",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "A nameless-until-the-ending criminal working for Anywhere City's seven gangs.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto 2",
+        "verified": true,
+        "image": "assets/img/portrait/gta-2/claude-speed.png"
+      },
+      {
+        "id": "hare-krishna-leader",
+        "name": "Hare Krishna leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Hare Krishna"
+        ],
+        "summary": "Leader of the Hare Krishna gang.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/hare-krishna-leader.svg"
+      },
+      {
+        "id": "loonies-leader",
+        "name": "Loonies leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Loonies"
+        ],
+        "summary": "Leader of the insane asylum-based Loonies gang.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/loonies-leader.svg"
+      },
+      {
+        "id": "rednecks-leader",
+        "name": "Rednecks leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "Rednecks"
+        ],
+        "summary": "Leader of the Rednecks in the Industrial district.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/rednecks-leader.svg"
+      },
+      {
+        "id": "russian-boss",
+        "name": "Russian boss",
+        "role": "Gang leader",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "Head of the Russian Mafia in Anywhere City.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/russian-boss.svg"
+      },
+      {
+        "id": "srs-leader",
+        "name": "SRS leader",
+        "role": "Gang leader",
+        "affiliations": [
+          "SRS Scientists"
+        ],
+        "summary": "Leader of the SRS Scientists, a research-gang operating from a lab.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/srs-leader.svg"
+      },
+      {
+        "id": "yakuza-boss",
+        "name": "Yakuza boss",
+        "role": "Gang leader",
+        "affiliations": [
+          "Yakuza"
+        ],
+        "summary": "Head of the Yakuza in Anywhere City's Downtown district.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/yakuza-boss.svg"
+      },
+      {
+        "id": "zaibatsu",
+        "name": "Zaibatsu",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-2, starting with \"Final jobs\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-2/zaibatsu.jpg"
+      },
+      {
+        "id": "zaibatsu-boss",
+        "name": "Zaibatsu boss",
+        "role": "Corporation boss",
+        "affiliations": [
+          "Zaibatsu Corporation"
+        ],
+        "summary": "Head of the Zaibatsu Corporation, the city's dominant corporate power.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-2/zaibatsu-boss.svg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "downtown-jobs",
+        "order": 1,
+        "name": "Downtown jobs",
+        "type": "Story",
+        "giver": "Downtown gang bosses",
+        "location": "Downtown",
+        "reward": {
+          "money": 0,
+          "other": "Respect with Downtown gangs"
+        },
+        "summary": "First district mission chain; completing jobs raises respect and unlocks better weapons.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/downtown-jobs.svg"
+      },
+      {
+        "id": "residential-jobs",
+        "order": 2,
+        "name": "Residential jobs",
+        "type": "Story",
+        "giver": "Residential gang bosses",
+        "location": "Residential",
+        "reward": {
+          "money": 0,
+          "other": "Respect progression"
+        },
+        "summary": "Second district chain with tougher rivals and better payouts.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/residential-jobs.svg"
+      },
+      {
+        "id": "industrial-jobs",
+        "order": 3,
+        "name": "Industrial jobs",
+        "type": "Story",
+        "giver": "Industrial gang bosses",
+        "location": "Industrial",
+        "reward": {
+          "money": 0,
+          "other": "Respect progression"
+        },
+        "summary": "Third district chain based around the docks and factories.",
+        "verified": true,
+        "image": "assets/img/mission/gta-2/industrial-jobs.svg"
+      },
+      {
+        "id": "final-jobs",
+        "order": 4,
+        "name": "Final jobs",
+        "type": "Story",
+        "giver": "Zaibatsu",
+        "location": "Anywhere City",
+        "reward": {
+          "money": 0,
+          "other": "Ending"
+        },
+        "summary": "Endgame chain against the Zaibatsu Corporation.",
+        "verified": false,
+        "image": "assets/img/mission/gta-2/final-jobs.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "a-type",
+        "name": "A-Type",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/a-type.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency",
+        "class": "Medical",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/ambulance.svg"
+      },
+      {
+        "id": "aniston-bd4",
+        "name": "Aniston BD4",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/aniston-bd4.png"
+      },
+      {
+        "id": "arachnid",
+        "name": "Arachnid",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/arachnid.png"
+      },
+      {
+        "id": "armed-land-roamer",
+        "name": "Armed Land Roamer",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/armed-land-roamer.png"
+      },
+      {
+        "id": "b-type",
+        "name": "B-Type",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/b-type.png"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/banshee.svg"
+      },
+      {
+        "id": "beamer",
+        "name": "Beamer",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/beamer.png"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/benson.png"
+      },
+      {
+        "id": "big-bug",
+        "name": "Big Bug",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/big-bug.png"
+      },
+      {
+        "id": "box-car-boxcar-s",
+        "name": "Box Car (boxcar(s))",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/box-car-boxcar-s.png"
+      },
+      {
+        "id": "box-truck",
+        "name": "Box Truck",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/box-truck.png"
+      },
+      {
+        "id": "bug",
+        "name": "Bug",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/bug.png"
+      },
+      {
+        "id": "bulwark",
+        "name": "Bulwark",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/bulwark.png"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Bus",
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-2/bus.png"
+      },
+      {
+        "id": "cop-car",
+        "name": "Cop Car",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/cop-car.png"
+      },
+      {
+        "id": "dementia",
+        "name": "Dementia",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/dementia.png"
+      },
+      {
+        "id": "dementia-limousine",
+        "name": "Dementia Limousine",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/dementia-limousine.png"
+      },
+      {
+        "id": "eddy",
+        "name": "Eddy",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/eddy.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Fire",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-2/fire-truck.png"
+      },
+      {
+        "id": "furore-gt",
+        "name": "Furore GT",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/furore-gt.png"
+      },
+      {
+        "id": "g4-bank-van",
+        "name": "G4 Bank Van",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/g4-bank-van.png"
+      },
+      {
+        "id": "garbage-truck",
+        "name": "Garbage Truck",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Truck",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-2/garbage-truck.png"
+      },
+      {
+        "id": "gt-a1",
+        "name": "GT-A1",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/gt-a1.png"
+      },
+      {
+        "id": "hachura",
+        "name": "Hachura",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/hachura.png"
+      },
+      {
+        "id": "hot-dog-van",
+        "name": "Hot Dog Van",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/hot-dog-van.png"
+      },
+      {
+        "id": "ice-cream-van",
+        "name": "Ice-Cream Van",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Special",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-2/ice-cream-van.png"
+      },
+      {
+        "id": "jagular-xk",
+        "name": "Jagular XK",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/jagular-xk.png"
+      },
+      {
+        "id": "jefferson",
+        "name": "Jefferson",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/jefferson.png"
+      },
+      {
+        "id": "karma-bus",
+        "name": "Karma Bus",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/karma-bus.png"
+      },
+      {
+        "id": "land-roamer",
+        "name": "Land Roamer",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/land-roamer.png"
+      },
+      {
+        "id": "maurice",
+        "name": "Maurice",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/maurice.png"
+      },
+      {
+        "id": "medicar",
+        "name": "Medicar",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/medicar.png"
+      },
+      {
+        "id": "meteor-turbo",
+        "name": "Meteor (turbo)",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/meteor-turbo.png"
+      },
+      {
+        "id": "miara",
+        "name": "Miara",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/miara.png"
+      },
+      {
+        "id": "michelli-roadster",
+        "name": "Michelli Roadster",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/michelli-roadster.png"
+      },
+      {
+        "id": "minx",
+        "name": "Minx",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/minx.png"
+      },
+      {
+        "id": "morton",
+        "name": "Morton",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/morton.png"
+      },
+      {
+        "id": "pacifier",
+        "name": "Pacifier",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/pacifier.png"
+      },
+      {
+        "id": "panto",
+        "name": "Panto",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/panto.png"
+      },
+      {
+        "id": "pickup",
+        "name": "Pickup",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/pickup.png"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-2/police-car.svg"
+      },
+      {
+        "id": "romero",
+        "name": "Romero",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/romero.png"
+      },
+      {
+        "id": "rumbler",
+        "name": "Rumbler",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/rumbler.png"
+      },
+      {
+        "id": "schmidt",
+        "name": "Schmidt",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/schmidt.png"
+      },
+      {
+        "id": "shark",
+        "name": "Shark",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/shark.png"
+      },
+      {
+        "id": "special-agent-car",
+        "name": "Special Agent Car",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/special-agent-car.png"
+      },
+      {
+        "id": "sports-limousine",
+        "name": "Sports Limousine",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/sports-limousine.png"
+      },
+      {
+        "id": "spritzer",
+        "name": "Spritzer",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/spritzer.png"
+      },
+      {
+        "id": "stinger",
+        "name": "Stinger",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/stinger.png"
+      },
+      {
+        "id": "stretch-limousine",
+        "name": "Stretch Limousine",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/stretch-limousine.png"
+      },
+      {
+        "id": "swat-van",
+        "name": "Swat Van",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/swat-van.png"
+      },
+      {
+        "id": "t-rex",
+        "name": "T-Rex",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/t-rex.png"
+      },
+      {
+        "id": "tv-van",
+        "name": "T.V. Van",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/tv-van.png"
+      },
+      {
+        "id": "tank",
+        "name": "Tank",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Tank",
+        "seats": 1,
+        "image": "assets/img/vehicle/gta-2/tank.png"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Taxi",
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-2/taxi.png"
+      },
+      {
+        "id": "taxi-xpress",
+        "name": "Taxi Xpress",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/taxi-xpress.png"
+      },
+      {
+        "id": "tow-truck",
+        "name": "Tow Truck",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/tow-truck.png"
+      },
+      {
+        "id": "train-locomotive",
+        "name": "Train (locomotive)",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/train-locomotive.png"
+      },
+      {
+        "id": "train-cab-coach",
+        "name": "Train Cab (coach)",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/train-cab-coach.png"
+      },
+      {
+        "id": "train-fb-flatbed",
+        "name": "Train FB (flatbed)",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/train-fb-flatbed.png"
+      },
+      {
+        "id": "trance-am",
+        "name": "Trance-AM",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/trance-am.png"
+      },
+      {
+        "id": "truck-cab",
+        "name": "Truck Cab",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/truck-cab.png"
+      },
+      {
+        "id": "truck-cab-sx",
+        "name": "Truck Cab SX",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/truck-cab-sx.png"
+      },
+      {
+        "id": "u-jerk-truck",
+        "name": "U-Jerk Truck",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/u-jerk-truck.png"
+      },
+      {
+        "id": "van",
+        "name": "Van",
+        "category": "Trucks and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/van.png"
+      },
+      {
+        "id": "wellard",
+        "name": "Wellard",
+        "category": "Sports and Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/wellard.png"
+      },
+      {
+        "id": "z-type",
+        "name": "Z-Type",
+        "category": "Gang Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-2/z-type.png"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "dual-pistol",
+        "name": "Dual Pistol",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/dual-pistol.svg"
+      },
+      {
+        "id": "electro-gun",
+        "name": "Electro Gun",
+        "type": "Heavy",
+        "damage_tier": "High",
+        "ammo": "Charge",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/electro-gun.svg"
+      },
+      {
+        "id": "electrobaton",
+        "name": "ElectroBaton",
+        "type": "Deleted weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/electrobaton.svg"
+      },
+      {
+        "id": "electrogun",
+        "name": "ElectroGun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/electrogun.svg"
+      },
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "Fuel",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-2/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-2/grenades.svg"
+      },
+      {
+        "id": "instant-vehicle-bomb",
+        "name": "Instant Vehicle Bomb",
+        "type": "Deleted weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/instant-vehicle-bomb.svg"
+      },
+      {
+        "id": "melee-attack",
+        "name": "Melee attack",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/melee-attack.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/molotov.svg"
+      },
+      {
+        "id": "molotov-cocktails",
+        "name": "Molotov Cocktails",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/molotov-cocktails.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "unlock": "Default",
+        "image": "assets/img/weapon/gta-2/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-2/rocket-launcher.svg"
+      },
+      {
+        "id": "s-uzi-machine-gun",
+        "name": "S-Uzi Machine Gun",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/s-uzi-machine-gun.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-2/shotgun.svg"
+      },
+      {
+        "id": "silenced-s-uzi-machine-gun",
+        "name": "Silenced S-Uzi Machine Gun",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/silenced-s-uzi-machine-gun.svg"
+      },
+      {
+        "id": "silenced-uzi",
+        "name": "Silenced Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-2/silenced-uzi.svg"
+      },
+      {
+        "id": "vehicle-bomb",
+        "name": "Vehicle Bomb",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-bomb.svg"
+      },
+      {
+        "id": "vehicle-machine-guns",
+        "name": "Vehicle Machine Guns",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-machine-guns.svg"
+      },
+      {
+        "id": "vehicle-mines",
+        "name": "Vehicle Mines",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-mines.svg"
+      },
+      {
+        "id": "vehicle-oil-slick",
+        "name": "Vehicle Oil Slick",
+        "type": "Weapons introduced in GTA 2",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-2/vehicle-oil-slick.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "10x-multiplier",
+        "effect": "10x multiplier",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SEGARULZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/10x-multiplier.svg"
+      },
+      {
+        "id": "5x-multiplier",
+        "effect": "5x multiplier",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "BOYAKASH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "HIGHFIVE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/5x-multiplier.svg"
+      },
+      {
+        "id": "99-lives",
+        "effect": "99 lives",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "BIGCATS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "CUTIE1",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/99-lives.svg"
+      },
+      {
+        "id": "all-cars-are-mini-cars",
+        "effect": "All cars are mini cars",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "FISHFLAP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-cars-are-mini-cars.svg"
+      },
+      {
+        "id": "all-levels-unlocked",
+        "effect": "All levels unlocked",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "SESAME",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "TUMYFROG",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "ITSALLUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-levels-unlocked.svg"
+      },
+      {
+        "id": "all-peds-are-naked",
+        "effect": "All peds are naked",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "NEKKID",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-peds-are-naked.svg"
+      },
+      {
+        "id": "all-weapons",
+        "effect": "All weapons",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "BIGGUNS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "GODOFGTA",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "NAVARONE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/all-weapons.svg"
+      },
+      {
+        "id": "basic-set-of-weapons-and-max-ammo",
+        "effect": "Basic set of weapons and max ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DAVEMOON",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/basic-set-of-weapons-and-max-ammo.svg"
+      },
+      {
+        "id": "debug-basic-scripts",
+        "effect": "Debug basic scripts",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "NOFRILLS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/debug-basic-scripts.svg"
+      },
+      {
+        "id": "display-coordinates",
+        "effect": "Display coordinates",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "WUGGLES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/display-coordinates.svg"
+      },
+      {
+        "id": "electro-gun-with-infinite-ammo",
+        "effect": "Electro Gun with infinite ammo",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "BIGFRIES",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "VOLTFEST",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/electro-gun-with-infinite-ammo.svg"
+      },
+      {
+        "id": "flame-thrower-with-infinite-ammo",
+        "effect": "Flame Thrower with infinite ammo",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "TOASTIES",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "FLAMEON",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/flame-thrower-with-infinite-ammo.svg"
+      },
+      {
+        "id": "free-shopping",
+        "effect": "Free shopping",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "EATSOUP",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/free-shopping.svg"
+      },
+      {
+        "id": "get-10-000-000",
+        "effect": "Get $10,000,000",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "ULTIMATE",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "IAMDAVEJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-10-000-000.svg"
+      },
+      {
+        "id": "get-500-000",
+        "effect": "Get $500,000",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "MUCHCASH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-500-000.svg"
+      },
+      {
+        "id": "get-10-million-points",
+        "effect": "Get 10 million points",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "BIGSCORE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/get-10-million-points.svg"
+      },
+      {
+        "id": "invincibility",
+        "effect": "Invincibility*",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "INFINITY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "RSJABBER",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "LIVELONG",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/invincibility.svg"
+      },
+      {
+        "id": "invisibility",
+        "effect": "Invisibility",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "SCOOBYDO",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "HUNSRUS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/invisibility.svg"
+      },
+      {
+        "id": "keep-weapons-after-death",
+        "effect": "Keep weapons after death",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "LOSTTOYS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "ARSESTAR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/keep-weapons-after-death.svg"
+      },
+      {
+        "id": "max-respect-from-all-gangs",
+        "effect": "Max respect from all gangs",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "ALLFREND",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "MADEMAN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/max-respect-from-all-gangs.svg"
+      },
+      {
+        "id": "maximum-wanted-level",
+        "effect": "Maximum wanted level",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "BADBOYS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "DESIRES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/maximum-wanted-level.svg"
+      },
+      {
+        "id": "more-blood",
+        "effect": "More blood",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "WOUNDED",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "GOREFEST",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/more-blood.svg"
+      },
+      {
+        "id": "no-police",
+        "effect": "No police",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "LAWLESS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "LOSEFEDS",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation",
+            "code": "LOSEFEDS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/no-police.svg"
+      },
+      {
+        "id": "only-elvis-peds-spawn",
+        "effect": "Only Elvis peds spawn",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "ERRHUH",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "LASVEGAS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/only-elvis-peds-spawn.svg"
+      },
+      {
+        "id": "only-mugger-peds-spawn",
+        "effect": "Only mugger peds spawn",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BUCKFAST",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/only-mugger-peds-spawn.svg"
+      },
+      {
+        "id": "player-get-points",
+        "effect": "Player get points",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "DANISGOD",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/player-get-points.svg"
+      },
+      {
+        "id": "skip-exploding-scores",
+        "effect": "Skip exploding scores",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "COCKTART",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/skip-exploding-scores.svg"
+      },
+      {
+        "id": "turbo-mode",
+        "effect": "Turbo mode",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "IGNITION",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/turbo-mode.svg"
+      },
+      {
+        "id": "unlimited-get-out-of-jail-free-cards",
+        "effect": "Unlimited \"get out of jail free\" cards",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "JAILBAIT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-get-out-of-jail-free-cards.svg"
+      },
+      {
+        "id": "unlimited-cash",
+        "effect": "Unlimited cash",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "IAMPLAYA",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-cash.svg"
+      },
+      {
+        "id": "unlimited-double-damage",
+        "effect": "Unlimited double damage",
+        "codes": [
+          {
+            "platform": "Dreamcast",
+            "code": "DBLWAMMY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PC",
+            "code": "SCHURULZ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlimited-double-damage.svg"
+      },
+      {
+        "id": "unlock-levels-one-and-two",
+        "effect": "Unlock levels one and two",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "GINGERRR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlock-levels-one-and-two.svg"
+      },
+      {
+        "id": "unlock-three-main-levels",
+        "effect": "Unlock three main levels",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "UKGAMER",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-2/unlock-three-main-levels.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "anywhere-city",
+        "name": "Anywhere City",
+        "type": "City",
+        "parent": null,
+        "summary": "Dystopian city of 2013 split into three districts by bridges and water.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/anywhere-city.png"
+      },
+      {
+        "id": "downtown",
+        "name": "Downtown",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Corporate skyscrapers, the Zaibatsu tower and Yakuza turf.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/downtown.svg"
+      },
+      {
+        "id": "industrial",
+        "name": "Industrial",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Docks, factories and the Rednecks.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/industrial.svg"
+      },
+      {
+        "id": "residential",
+        "name": "Residential",
+        "type": "District",
+        "parent": "Anywhere City",
+        "summary": "Suburban and asylum district, home to the Loonies.",
+        "verified": true,
+        "image": "assets/img/location/gta-2/residential.png"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "kf-radio-tokens",
+        "name": "Kill Frenzy tokens",
+        "type": "Token",
+        "total": 0,
+        "reward": "Cash and weapons; part of 100% completion",
+        "verified": false,
+        "source": "Count varies by platform",
+        "image": "assets/img/collectible/gta-2/kf-radio-tokens.svg"
+      }
+    ]
+  }
+}

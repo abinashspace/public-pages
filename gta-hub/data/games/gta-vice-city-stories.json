@@ -1,0 +1,3113 @@
+{
+  "meta": {
+    "slug": "gta-vice-city-stories",
+    "title": "Grand Theft Auto: Vice City Stories",
+    "year": 2006,
+    "type": "Spin-off",
+    "status": "released",
+    "generated": "2026-11-27T11:35:45.957Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "complete",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 15,
+      "missions": 59,
+      "vehicles": 106,
+      "weapons": 42,
+      "cheats": 31,
+      "locations": 10,
+      "collectibles": 5
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-vice-city-stories/cover.jpg",
+      "banner": "assets/img/banner/gta-vice-city-stories/banner.jpg",
+      "map": "assets/img/map/gta-vice-city-stories/map.svg"
+    },
+    "sources": [
+      "VCS in-game mission list",
+      "Rockstar Leeds PSP/PS2 release notes"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "armando-mendez",
+        "name": "Armando Mendez",
+        "role": "Antagonist",
+        "affiliations": [
+          "Mendez Cartel"
+        ],
+        "summary": "One of the Mendez brothers running the cartel's Vice City operation.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/armando-mendez.jpg"
+      },
+      {
+        "id": "bryan-forbes",
+        "name": "Bryan Forbes",
+        "role": "Antagonist",
+        "affiliations": [
+          "Mendez Cartel"
+        ],
+        "summary": "Cartel enforcer caught in a feud with Victor.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/bryan-forbes.jpg"
+      },
+      {
+        "id": "diego-mendez",
+        "name": "Diego Mendez",
+        "role": "Antagonist",
+        "affiliations": [
+          "Mendez Cartel"
+        ],
+        "summary": "The other Mendez brother and cartel co-leader.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/diego-mendez.jpg"
+      },
+      {
+        "id": "gonzales",
+        "name": "Gonzales",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 2 missions in gta-vice-city-stories, starting with \"Home's on the Range\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-vice-city-stories/gonzales.jpg"
+      },
+      {
+        "id": "gonzalez",
+        "name": "Gonzalez",
+        "role": "Associate",
+        "affiliations": [
+          "Diaz Cartel"
+        ],
+        "summary": "Diaz's nervous middleman, already active in 1984.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/gonzalez.jpg"
+      },
+      {
+        "id": "jerry-martinez",
+        "name": "Jerry Martinez",
+        "role": "Antagonist",
+        "affiliations": [
+          "Mendez Cartel",
+          "Army"
+        ],
+        "summary": "Corrupt sergeant who betrays Victor and becomes a cartel player.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/jerry-martinez.png"
+      },
+      {
+        "id": "lance-vance",
+        "name": "Lance Vance",
+        "role": "Brother, ally",
+        "affiliations": [
+          "Vance Crime Family"
+        ],
+        "summary": "Victor's younger brother and partner in the family business.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/lance-vance.jpg"
+      },
+      {
+        "id": "louise-cassidy-williams",
+        "name": "Louise Cassidy-Williams",
+        "role": "Ally",
+        "affiliations": [
+          "Vance Crime Family"
+        ],
+        "summary": "Widow of Marty Jay Williams who becomes Victor's partner and love interest.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/louise-cassidy-williams.png"
+      },
+      {
+        "id": "marty-jay-williams",
+        "name": "Marty Jay Williams",
+        "role": "Antagonist",
+        "affiliations": [
+          "Trailer Park gang"
+        ],
+        "summary": "Abusive gang leader running the trailer park racket.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/marty-jay-williams.png"
+      },
+      {
+        "id": "mendez-brothers",
+        "name": "Mendez Brothers",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 5 missions in gta-vice-city-stories, starting with \"The Mugshot Longshot\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-vice-city-stories/mendez-brothers.jpg"
+      },
+      {
+        "id": "phil-cassidy",
+        "name": "Phil Cassidy",
+        "role": "Ally, gun runner",
+        "affiliations": [
+          "Vance Crime Family"
+        ],
+        "summary": "Louise's brother and the family's weapons supplier.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/phil-cassidy.jpg"
+      },
+      {
+        "id": "reni-wassulmaier",
+        "name": "Reni Wassulmaier",
+        "role": "Ally, film director",
+        "affiliations": [
+          "InterGlobal Films"
+        ],
+        "summary": "Eccentric film director who gives Victor a set of missions.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/reni-wassulmaier.jpg"
+      },
+      {
+        "id": "ricardo-diaz",
+        "name": "Ricardo Diaz",
+        "role": "Associate",
+        "affiliations": [
+          "Diaz Cartel"
+        ],
+        "summary": "A rising drug figure in 1984, later the kingpin of Vice City.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/ricardo-diaz.jpg"
+      },
+      {
+        "id": "umberto-robina",
+        "name": "Umberto Robina",
+        "role": "Ally",
+        "affiliations": [
+          "Los Cabrones"
+        ],
+        "summary": "Cuban gang leader and early ally of Victor.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/umberto-robina.jpg"
+      },
+      {
+        "id": "victor-vance",
+        "name": "Victor Vance",
+        "role": "Protagonist",
+        "affiliations": [
+          "Vance Crime Family",
+          "Army (former)"
+        ],
+        "summary": "A discharged soldier who builds a drug empire in 1984 Vice City.",
+        "status": "Deceased",
+        "first_appearance": "GTA: Vice City Stories",
+        "verified": true,
+        "image": "assets/img/portrait/gta-vice-city-stories/victor-vance.png"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "soldier",
+        "order": 1,
+        "name": "Soldier",
+        "type": "Story",
+        "giver": "Introduction",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 50,
+          "other": "Pistol"
+        },
+        "summary": "Opening: Victor runs errands on the army base before being discharged.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/soldier.png"
+      },
+      {
+        "id": "cleaning-house",
+        "order": 2,
+        "name": "Cleaning House",
+        "type": "Story",
+        "giver": "Jerry Martinez",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 100
+        },
+        "summary": "Clean out a drug house for Martinez.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/cleaning-house.jpg"
+      },
+      {
+        "id": "conduct-unbecoming",
+        "order": 3,
+        "name": "Conduct Unbecoming",
+        "type": "Story",
+        "giver": "Jerry Martinez",
+        "location": "Vice City Mainland",
+        "reward": {
+          "other": "101 Bayshore Avenue Casual Outfit"
+        },
+        "summary": "Cover for Martinez by taking the fall in a military drug bust.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/conduct-unbecoming.png"
+      },
+      {
+        "id": "cholo-victory",
+        "order": 4,
+        "name": "Cholo Victory",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Perform a drive-by on some Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/cholo-victory.jpg"
+      },
+      {
+        "id": "boomshine-blowout",
+        "order": 5,
+        "name": "Boomshine Blowout",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 250
+        },
+        "summary": "Get Phil's boomshine out of his warehouse before it goes up in flames.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/boomshine-blowout.jpg"
+      },
+      {
+        "id": "truck-stop",
+        "order": 6,
+        "name": "Truck Stop",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Hijack an arms truck.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/truck-stop.jpg"
+      },
+      {
+        "id": "shakedown",
+        "order": 7,
+        "name": "Shakedown",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Help Marty take care of his protection racket .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/shakedown.jpg"
+      },
+      {
+        "id": "fear-the-repo",
+        "order": 8,
+        "name": "Fear the Repo",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Repossess vehicles for the family business.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/fear-the-repo.jpg"
+      },
+      {
+        "id": "waking-up-the-neighbors",
+        "order": 9,
+        "name": "Waking Up the Neighbors",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Blow up three Cholo vans with grenades.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/waking-up-the-neighbors.png"
+      },
+      {
+        "id": "o-brothel-where-art-thou",
+        "order": 10,
+        "name": "O, Brothel, Where Art Thou?",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 700,
+          "other": "Stonewall J's store"
+        },
+        "summary": "Take over a brothel from a rival operator.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/o-brothel-where-art-thou.jpg"
+      },
+      {
+        "id": "got-protection",
+        "order": 11,
+        "name": "Got Protection?",
+        "type": "Story",
+        "giver": "Marty Jay Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Rescue Marty's prostitutes from the Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/got-protection.jpg"
+      },
+      {
+        "id": "marked-men",
+        "order": 12,
+        "name": "Marked Men",
+        "type": "Story",
+        "giver": "Phil Cassidy",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Escape an ambush set by Jerry Martinez.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/marked-men.jpg"
+      },
+      {
+        "id": "when-funday-comes",
+        "order": 13,
+        "name": "When Funday Comes",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Participate in a quad bike race with Louise.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/when-funday-comes.jpg"
+      },
+      {
+        "id": "takin-out-the-white-trash",
+        "order": 14,
+        "name": "Takin' Out the White-Trash",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Retrieve Louise's belongings from Marty's trailer.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/takin-out-the-white-trash.jpg"
+      },
+      {
+        "id": "divorce",
+        "order": 15,
+        "name": "D.I.V.O.R.C.E.",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "other": "The Compound Trailer Trash"
+        },
+        "summary": "Rescue Louise from Marty and kill him.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/divorce.jpg"
+      },
+      {
+        "id": "to-victor-the-spoils",
+        "order": 16,
+        "name": "To Victor, the Spoils",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500,
+          "other": "Gang recruitment Ability to have a 5-star wanted level"
+        },
+        "summary": "Take over Marty's businesses .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/to-victor-the-spoils.jpg"
+      },
+      {
+        "id": "jive-drive",
+        "order": 17,
+        "name": "Jive Drive",
+        "type": "Story",
+        "giver": "Victor Vance",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Defend Lance's car from the attacking Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/jive-drive.jpg"
+      },
+      {
+        "id": "hose-the-hoes",
+        "order": 18,
+        "name": "Hose the Hoes",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Extinguish the fire at Vic's brothel.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/hose-the-hoes.jpg"
+      },
+      {
+        "id": "robbing-the-cradle",
+        "order": 19,
+        "name": "Robbing the Cradle",
+        "type": "Story",
+        "giver": "Louise Cassidy-Williams",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Convince the Welfare Agent to drop Louise's case.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/robbing-the-cradle.jpg"
+      },
+      {
+        "id": "nice-package",
+        "order": 20,
+        "name": "Nice Package",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Acquire a package for Umberto.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/nice-package.jpg"
+      },
+      {
+        "id": "balls",
+        "order": 21,
+        "name": "Balls",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 800
+        },
+        "summary": "Take care of the Cholo troublemakers around Little Havana with Umberto's men .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/balls.jpg"
+      },
+      {
+        "id": "papi-dont-screech",
+        "order": 22,
+        "name": "Papi Don't Screech",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Pick up Umberto's father from the Stadium and protect him from the Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/papi-dont-screech.jpg"
+      },
+      {
+        "id": "havana-good-time",
+        "order": 23,
+        "name": "Havana Good Time",
+        "type": "Story",
+        "giver": "Umberto Robina",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500,
+          "other": "Cuban Style"
+        },
+        "summary": "Help the Cubans against the Cholos.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/havana-good-time.jpg"
+      },
+      {
+        "id": "the-audition",
+        "order": 24,
+        "name": "The Audition",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Film-industry work for Reni.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-audition.jpg"
+      },
+      {
+        "id": "money-for-nothing",
+        "order": 25,
+        "name": "Money for Nothing",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Distract the cops during Lance and Forbes' drug run.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/money-for-nothing.jpg"
+      },
+      {
+        "id": "caught-as-an-act",
+        "order": 26,
+        "name": "Caught as an Act",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 750
+        },
+        "summary": "Confront and chase down Bryan Forbes.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/caught-as-an-act.jpg"
+      },
+      {
+        "id": "leap-and-bound",
+        "order": 27,
+        "name": "Leap and Bound",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Rescue Lance from kidnapping drug dealers .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/leap-and-bound.jpg"
+      },
+      {
+        "id": "the-bum-deal",
+        "order": 28,
+        "name": "The Bum Deal",
+        "type": "Story",
+        "giver": "Bryan Forbes",
+        "location": "Vice City Mainland",
+        "reward": {},
+        "summary": "Survive Forbes' second betrayal and kill him.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-bum-deal.jpg"
+      },
+      {
+        "id": "snitch-hitch",
+        "order": 29,
+        "name": "Snitch Hitch",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Acquire the files detailing a big drug shipment.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/snitch-hitch.jpg"
+      },
+      {
+        "id": "from-zero-to-hero",
+        "order": 30,
+        "name": "From Zero to Hero",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Mainland",
+        "reward": {
+          "money": 3000,
+          "other": "Infernus Access to Vice City Beach , Prawn Island , and Leaf Links Ability to have a 6-star wanted level"
+        },
+        "summary": "Set up the first business and start earning.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/from-zero-to-hero.jpg"
+      },
+      {
+        "id": "brawn-of-the-dead",
+        "order": 31,
+        "name": "Brawn of the Dead",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850,
+          "other": "Pastel Suit"
+        },
+        "summary": "Act as a stuntman in a zombie horror film.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/brawn-of-the-dead.png"
+      },
+      {
+        "id": "blitzkrieg",
+        "order": 32,
+        "name": "Blitzkrieg",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Defend Vance Brothers' businesses from the Mendez Cartel .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/blitzkrieg.jpg"
+      },
+      {
+        "id": "accidents-will-happen",
+        "order": 33,
+        "name": "Accidents Will Happen",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850
+        },
+        "summary": "Drive a stunt car for Reni's commercial.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/accidents-will-happen.png"
+      },
+      {
+        "id": "the-mugshot-longshot",
+        "order": 34,
+        "name": "The Mugshot Longshot",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {},
+        "summary": "Take photos of Jerry Martinez to \"prove\" he's an undercover DEA agent.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-mugshot-longshot.jpg"
+      },
+      {
+        "id": "hostile-takeover",
+        "order": 35,
+        "name": "Hostile Takeover",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Kill a gang of bikers .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/hostile-takeover.jpg"
+      },
+      {
+        "id": "unfriendly-competition",
+        "order": 36,
+        "name": "Unfriendly Competition",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1300
+        },
+        "summary": "Kill two competing drug runners.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/unfriendly-competition.jpg"
+      },
+      {
+        "id": "high-wire",
+        "order": 37,
+        "name": "High Wire",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Use a chopper with a magnet to steal back the drugs confiscated by the police.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/high-wire.jpg"
+      },
+      {
+        "id": "turn-on-tune-in-bug-out",
+        "order": 38,
+        "name": "Turn on, Tune in, Bug out",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 300,
+          "other": "Rocket Launcher available in Ammu-Nation"
+        },
+        "summary": "Destroy three antennas used by the DEA to spy on the Vance Brothers.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/turn-on-tune-in-bug-out.png"
+      },
+      {
+        "id": "the-colonels-coke",
+        "order": 39,
+        "name": "The Colonel's Coke",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850
+        },
+        "summary": "Escort Gonzalez and his drug shipment to Viceport .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-colonels-coke.jpg"
+      },
+      {
+        "id": "kill-phil",
+        "order": 40,
+        "name": "Kill Phil",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Rescue Phil Collins from Forelli Crime Family hitmen .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/kill-phil.jpg"
+      },
+      {
+        "id": "say-cheese",
+        "order": 41,
+        "name": "Say Cheese",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 850
+        },
+        "summary": "Act as a stunt driver in Reni's commercial.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/say-cheese.jpg"
+      },
+      {
+        "id": "homes-on-the-range",
+        "order": 42,
+        "name": "Home's on the Range",
+        "type": "Story",
+        "giver": "Gonzales",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Kill a traitor in Gonzalez's organization using explosive golf balls.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/homes-on-the-range.jpg"
+      },
+      {
+        "id": "purple-haze",
+        "order": 43,
+        "name": "Purple Haze",
+        "type": "Story",
+        "giver": "Gonzales",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Steal back Gonzalez's drugs after a botched deal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/purple-haze.jpg"
+      },
+      {
+        "id": "kill-phil-part-2",
+        "order": 44,
+        "name": "Kill Phil: Part 2",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Clear out the Hyman Memorial Stadium from hitmen and assassins.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/kill-phil-part-2.png"
+      },
+      {
+        "id": "taking-the-fall",
+        "order": 45,
+        "name": "Taking the Fall",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 300,
+          "other": "Biker Angel"
+        },
+        "summary": "Take out the bikers who've been stealing the Vance Brothers' cocaine.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/taking-the-fall.png"
+      },
+      {
+        "id": "white-lies",
+        "order": 46,
+        "name": "White Lies",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500,
+          "other": "Bovver'64"
+        },
+        "summary": "Gather back all the drugs Lance throws away.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/white-lies.png"
+      },
+      {
+        "id": "where-it-hurts-most",
+        "order": 47,
+        "name": "Where it Hurts Most",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Rescue Louise from Jerry Martinez's goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/where-it-hurts-most.jpg"
+      },
+      {
+        "id": "steal-the-deal",
+        "order": 48,
+        "name": "Steal the Deal",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Steal Gonzalez's drug boat.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/steal-the-deal.jpg"
+      },
+      {
+        "id": "the-exchange",
+        "order": 49,
+        "name": "The Exchange",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1750
+        },
+        "summary": "Defend Diaz's men during a meeting with the DEA.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/the-exchange.jpg"
+      },
+      {
+        "id": "farewell-to-arms",
+        "order": 50,
+        "name": "Farewell To Arms",
+        "type": "Story",
+        "giver": "Gonzalez",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 2500,
+          "other": "Minigun available in Ammu-Nation"
+        },
+        "summary": "Final arms deal with Phil.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/farewell-to-arms.jpg"
+      },
+      {
+        "id": "burning-bridges",
+        "order": 51,
+        "name": "Burning Bridges",
+        "type": "Story",
+        "giver": "Mendez Brothers",
+        "location": "Vice City Beach",
+        "reward": {},
+        "summary": "Survive Mendez Brothers' betrayal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/burning-bridges.jpg"
+      },
+      {
+        "id": "blitzkrieg-strikes-again",
+        "order": 52,
+        "name": "Blitzkrieg Strikes Again",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 700
+        },
+        "summary": "Defend the Vance Brothers' businesses from the Mendez Cartel.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/blitzkrieg-strikes-again.jpg"
+      },
+      {
+        "id": "lost-and-found",
+        "order": 53,
+        "name": "Lost and Found",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Pick up Louise from the hospital and save Lance from Martinez's goons.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/lost-and-found.png"
+      },
+      {
+        "id": "domo-arigato-domestoboto",
+        "order": 54,
+        "name": "Domo Arigato Domestoboto",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 2000
+        },
+        "summary": "Destroy the contents of Armando Mendez's safe by remote controling his robotic servant .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/domo-arigato-domestoboto.jpg"
+      },
+      {
+        "id": "so-long-schlong",
+        "order": 55,
+        "name": "So Long Schlong",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Defend Reni from the Mendez Brothers' hitmen.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/so-long-schlong.jpg"
+      },
+      {
+        "id": "in-the-air-tonight",
+        "order": 56,
+        "name": "In the Air Tonight",
+        "type": "Story",
+        "giver": "Reni Wassulmaier",
+        "location": "Vice City Beach",
+        "reward": {
+          "money": 3000,
+          "other": "Can be purchase a ticket for Phil Collins ' concert by paying at the stadium at any time."
+        },
+        "summary": "Protect Phil Collins from saboteurs during his concert in Hyman Memorial Stadium.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/in-the-air-tonight.png"
+      },
+      {
+        "id": "light-my-pyre",
+        "order": 57,
+        "name": "Light My Pyre",
+        "type": "Story",
+        "giver": "Lance Vance",
+        "location": "Vice City",
+        "reward": {
+          "money": 2500
+        },
+        "summary": "Protect Lance from the Mendez Cartel and kill Armando Mendez .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/light-my-pyre.jpg"
+      },
+      {
+        "id": "over-the-top",
+        "order": 58,
+        "name": "Over the Top",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City",
+        "reward": {
+          "money": 3000
+        },
+        "summary": "Steal a military helicopter from Fort Baxter .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/over-the-top.jpg"
+      },
+      {
+        "id": "last-stand",
+        "order": 59,
+        "name": "Last Stand",
+        "type": "Story",
+        "giver": "Ricardo Diaz",
+        "location": "Vice City",
+        "reward": {
+          "money": 5000,
+          "other": "Hunter Winner Outfit"
+        },
+        "summary": "Attack the Mendez Building and kill Diego Mendez and Jerry Martinez .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-vice-city-stories/last-stand.png"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/admiral.jpg"
+      },
+      {
+        "id": "aeroplane",
+        "name": "Aeroplane",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/aeroplane.png"
+      },
+      {
+        "id": "air-ambulance",
+        "name": "Air Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/air-ambulance.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/ambulance.jpg"
+      },
+      {
+        "id": "armadillo",
+        "name": "Armadillo",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/armadillo.png"
+      },
+      {
+        "id": "baggage-handler",
+        "name": "Baggage Handler",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/baggage-handler.jpg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 215,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/banshee.jpg"
+      },
+      {
+        "id": "barracks-ol",
+        "name": "Barracks OL",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/barracks-ol.png"
+      },
+      {
+        "id": "barracks-ol-ammo",
+        "name": "Barracks OL (ammo)",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/barracks-ol-ammo.png"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/benson.png"
+      },
+      {
+        "id": "bf-injection",
+        "name": "BF Injection",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bf-injection.jpg"
+      },
+      {
+        "id": "biker-angel",
+        "name": "Biker Angel",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/biker-angel.png"
+      },
+      {
+        "id": "biplane",
+        "name": "Biplane",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/biplane.jpg"
+      },
+      {
+        "id": "blista-compact",
+        "name": "Blista Compact",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/blista-compact.png"
+      },
+      {
+        "id": "bmx",
+        "name": "BMX",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bmx.jpg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bobcat.png"
+      },
+      {
+        "id": "bovver64",
+        "name": "Bovver'64",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bovver64.png"
+      },
+      {
+        "id": "boxville",
+        "name": "Boxville",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/boxville.png"
+      },
+      {
+        "id": "bulldozer",
+        "name": "Bulldozer",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/bulldozer.png"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/burrito.png"
+      },
+      {
+        "id": "cabbie",
+        "name": "Cabbie",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cabbie.jpg"
+      },
+      {
+        "id": "caddy",
+        "name": "Caddy",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/caddy.jpg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/cheetah.jpg"
+      },
+      {
+        "id": "cholo-sabre",
+        "name": "Cholo Sabre",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cholo-sabre.png"
+      },
+      {
+        "id": "coach",
+        "name": "Coach",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/coach.png"
+      },
+      {
+        "id": "coast-guard",
+        "name": "Coast Guard",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/coast-guard.jpg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 205,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/comet.jpg"
+      },
+      {
+        "id": "cuban-hermes",
+        "name": "Cuban Hermes",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/cuban-hermes.jpg"
+      },
+      {
+        "id": "deluxo",
+        "name": "Deluxo",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/deluxo.png"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/dinghy.jpg"
+      },
+      {
+        "id": "domestobot",
+        "name": "Domestobot",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/domestobot.png"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/enforcer.svg"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/esperanto.jpg"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/faggio.jpg"
+      },
+      {
+        "id": "fbi-washington",
+        "name": "FBI Washington",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/fbi-washington.png"
+      },
+      {
+        "id": "firetruck",
+        "name": "Firetruck",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/firetruck.jpg"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/flatbed.jpg"
+      },
+      {
+        "id": "forklift",
+        "name": "Forklift",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/forklift.jpg"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Cruiser",
+        "top_speed_kph": 180,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/freeway.jpg"
+      },
+      {
+        "id": "gang-rancher",
+        "name": "Gang Rancher",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/gang-rancher.png"
+      },
+      {
+        "id": "glendale",
+        "name": "Glendale",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/glendale.jpg"
+      },
+      {
+        "id": "greenwood",
+        "name": "Greenwood",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/greenwood.png"
+      },
+      {
+        "id": "hermes",
+        "name": "Hermes",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/hermes.jpg"
+      },
+      {
+        "id": "hunter",
+        "name": "Hunter",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/hunter.jpg"
+      },
+      {
+        "id": "idaho",
+        "name": "Idaho",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/idaho.png"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/infernus.jpg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Speedboat",
+        "top_speed_kph": 115,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/jetmax.jpg"
+      },
+      {
+        "id": "jetski",
+        "name": "JetSki",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/jetski.png"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/landstalker.jpg"
+      },
+      {
+        "id": "linerunner",
+        "name": "Linerunner",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/linerunner.jpg"
+      },
+      {
+        "id": "little-willie",
+        "name": "Little Willie",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/little-willie.png"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/manana.jpg"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/marquis.jpg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Helicopter",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-vice-city-stories/maverick.jpg"
+      },
+      {
+        "id": "mesa-grande",
+        "name": "Mesa Grande",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mesa-grande.jpg"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/moonbeam.png"
+      },
+      {
+        "id": "mr-whoopee",
+        "name": "Mr Whoopee",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mr-whoopee.jpg"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/mule.png"
+      },
+      {
+        "id": "oceanic",
+        "name": "Oceanic",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/oceanic.jpg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "SUV",
+        "top_speed_kph": 175,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-vice-city-stories/patriot.jpg"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ-600",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sport bike",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/pcj-600.jpg"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/perennial.jpg"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/phoenix.jpg"
+      },
+      {
+        "id": "polaris-v8",
+        "name": "Polaris V8",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/polaris-v8.png"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/pony.jpg"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Police boat",
+        "top_speed_kph": 95,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/predator.jpg"
+      },
+      {
+        "id": "quad",
+        "name": "Quad",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/quad.jpg"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Car",
+        "class": "SUV",
+        "top_speed_kph": 165,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-vice-city-stories/rancher.svg"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/reefer.jpg"
+      },
+      {
+        "id": "regina",
+        "name": "Regina",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/regina.png"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Tank",
+        "top_speed_kph": 60,
+        "seats": 1,
+        "image": "assets/img/vehicle/gta-vice-city-stories/rhino.jpg"
+      },
+      {
+        "id": "rio",
+        "name": "Rio",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/rio.jpg"
+      },
+      {
+        "id": "rumpo",
+        "name": "Rumpo",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/rumpo.jpg"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sabre.png"
+      },
+      {
+        "id": "sabre-turbo",
+        "name": "Sabre Turbo",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "top_speed_kph": 205,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/sabre-turbo.png"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Dirt bike",
+        "top_speed_kph": 170,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/sanchez.jpg"
+      },
+      {
+        "id": "sandking",
+        "name": "Sandking",
+        "category": "SUVs, pickup trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sandking.jpg"
+      },
+      {
+        "id": "sea-sparrow",
+        "name": "Sea Sparrow",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Helicopter",
+        "top_speed_kph": 190,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/sea-sparrow.png"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/securicar.jpg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sentinel.jpg"
+      },
+      {
+        "id": "sentinel-xs",
+        "name": "Sentinel XS",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 190,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-vice-city-stories/sentinel-xs.jpg"
+      },
+      {
+        "id": "skimmer",
+        "name": "Skimmer",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/skimmer.jpg"
+      },
+      {
+        "id": "sparrow",
+        "name": "Sparrow",
+        "category": "Aircraft",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/sparrow.jpg"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/speeder.png"
+      },
+      {
+        "id": "splitz-6-atv",
+        "name": "Splitz-6 ATV",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/splitz-6-atv.png"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Speedboat",
+        "top_speed_kph": 110,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/squalo.jpg"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/stallion.jpg"
+      },
+      {
+        "id": "stinger",
+        "name": "Stinger",
+        "category": "Sports. super. & muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 210,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-vice-city-stories/stinger.jpg"
+      },
+      {
+        "id": "streetfighter",
+        "name": "Streetfighter",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/streetfighter.png"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/stretch.jpg"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/taxi.png"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/trashmaster.jpg"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/tropic.jpg"
+      },
+      {
+        "id": "vcpd-cheetah",
+        "name": "VCPD Cheetah",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-cheetah.png"
+      },
+      {
+        "id": "vcpd-cruiser",
+        "name": "VCPD Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-cruiser.jpg"
+      },
+      {
+        "id": "vcpd-maverick",
+        "name": "VCPD Maverick",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-maverick.jpg"
+      },
+      {
+        "id": "vcpd-wintergreen",
+        "name": "VCPD WinterGreen",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/vcpd-wintergreen.jpg"
+      },
+      {
+        "id": "ventoso",
+        "name": "Ventoso",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/ventoso.jpg"
+      },
+      {
+        "id": "violator",
+        "name": "Violator",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/violator.jpg"
+      },
+      {
+        "id": "virgo",
+        "name": "Virgo",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/virgo.jpg"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Coupes & compact cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Lowrider",
+        "top_speed_kph": 180,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-vice-city-stories/voodoo.png"
+      },
+      {
+        "id": "walton",
+        "name": "Walton",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/walton.jpg"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/washington.jpg"
+      },
+      {
+        "id": "wintergreen",
+        "name": "WinterGreen",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/wintergreen.jpg"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/yankee.png"
+      },
+      {
+        "id": "yola",
+        "name": "Yola",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-vice-city-stories/yola.jpg"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "ak",
+        "name": "AK",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/ak.png"
+      },
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/assault-rifle.png"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/baseball-bat.png"
+      },
+      {
+        "id": "binoculars",
+        "name": "Binoculars",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/binoculars.png"
+      },
+      {
+        "id": "brass-knuckles",
+        "name": "Brass Knuckles",
+        "type": "Unarmed",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-vice-city-stories/brass-knuckles.png"
+      },
+      {
+        "id": "butterfly-knife",
+        "name": "Butterfly Knife",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/butterfly-knife.png"
+      },
+      {
+        "id": "camera",
+        "name": "Camera",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/camera.png"
+      },
+      {
+        "id": "chainsaw",
+        "name": "Chainsaw",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/chainsaw.png"
+      },
+      {
+        "id": "detonator",
+        "name": "Detonator",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/detonator.png"
+      },
+      {
+        "id": "equalizer",
+        "name": "Equalizer",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/equalizer.png"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Unarmed",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/fist.png"
+      },
+      {
+        "id": "flame-thrower",
+        "name": "Flame-Thrower",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/flame-thrower.png"
+      },
+      {
+        "id": "gaff-hook",
+        "name": "Gaff Hook",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/gaff-hook.png"
+      },
+      {
+        "id": "golf-club",
+        "name": "Golf Club",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/golf-club.png"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "20",
+        "unlock": "Ammu-Nation",
+        "image": "assets/img/weapon/gta-vice-city-stories/grenades.svg"
+      },
+      {
+        "id": "hand-axe",
+        "name": "Hand Axe",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/hand-axe.png"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-vice-city-stories/katana.png"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/knife.png"
+      },
+      {
+        "id": "land-mine",
+        "name": "Land Mine",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/land-mine.png"
+      },
+      {
+        "id": "laser-sniper",
+        "name": "Laser Sniper",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/laser-sniper.png"
+      },
+      {
+        "id": "m249",
+        "name": "M249",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/m249.png"
+      },
+      {
+        "id": "m4",
+        "name": "M4",
+        "type": "Assault rifle",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city-stories/m4.svg"
+      },
+      {
+        "id": "machete",
+        "name": "Machete",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/machete.png"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/micro-smg.png"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "150 rounds",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-vice-city-stories/minigun.png"
+      },
+      {
+        "id": "molotovs",
+        "name": "Molotovs",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/molotovs.svg"
+      },
+      {
+        "id": "mp5",
+        "name": "MP5",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city-stories/mp5.svg"
+      },
+      {
+        "id": "nightstick",
+        "name": "Nightstick",
+        "type": "Melee Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/nightstick.png"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "unlock": "Ammu-Nation",
+        "image": "assets/img/weapon/gta-vice-city-stories/pistol.png"
+      },
+      {
+        "id": "python",
+        "name": "Python",
+        "type": "Handgun",
+        "damage_tier": "Very high",
+        "ammo": "6 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city-stories/python.svg"
+      },
+      {
+        "id": "remote-grenade",
+        "name": "Remote Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/remote-grenade.png"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-vice-city-stories/rocket-launcher.png"
+      },
+      {
+        "id": "ruger",
+        "name": "Ruger",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city-stories/ruger.svg"
+      },
+      {
+        "id": "scorpion",
+        "name": "Scorpion",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/scorpion.png"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "unlock": "Ammu-Nation",
+        "image": "assets/img/weapon/gta-vice-city-stories/shotgun.png"
+      },
+      {
+        "id": "silenced-mg",
+        "name": "Silenced MG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/silenced-mg.png"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/smg.png"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "unlock": "Ammu-Nation",
+        "image": "assets/img/weapon/gta-vice-city-stories/sniper-rifle.png"
+      },
+      {
+        "id": "spaz-12",
+        "name": "Spaz 12",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/spaz-12.png"
+      },
+      {
+        "id": "stubby-shotgun",
+        "name": "Stubby Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/stubby-shotgun.png"
+      },
+      {
+        "id": "tear-gas",
+        "name": "Tear Gas",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-vice-city-stories/tear-gas.png"
+      },
+      {
+        "id": "uzi",
+        "name": "Uzi",
+        "type": "Submachine gun",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Ammu-Nation",
+        "verified": true,
+        "image": "assets/img/weapon/gta-vice-city-stories/uzi.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "250-000",
+        "effect": "$250,000",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Cross → Cross → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Cross → Cross → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/250-000.svg"
+      },
+      {
+        "id": "100-multiplayer-content",
+        "effect": "100% multiplayer content",
+        "codes": [
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Up → Triangle → Triangle → Circle → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/100-multiplayer-content.svg"
+      },
+      {
+        "id": "50-multiplayer-content",
+        "effect": "50% multiplayer content",
+        "codes": [
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Up → Circle → Circle → Cross → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/50-multiplayer-content.svg"
+      },
+      {
+        "id": "black-cars",
+        "effect": "Black cars",
+        "codes": [
+          {
+            "platform": "PlayStation Portable",
+            "code": "L Trigger → R Trigger → L Trigger → R Trigger → D-Pad Left → Circle → D-Pad Up → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/black-cars.svg"
+      },
+      {
+        "id": "chrome-traffic",
+        "effect": "Chrome traffic",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → Triangle → Triangle → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Right → D-Pad Up → D-Pad Left → D-Pad Down → Triangle → Triangle → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/chrome-traffic.svg"
+      },
+      {
+        "id": "clear-weather",
+        "effect": "Clear weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Down → R1 → L1 → D-Pad Right → D-Pad Up → D-Pad Left → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Down → R Trigger → L Trigger → D-Pad Right → D-Pad Up → D-Pad Left → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/clear-weather.svg"
+      },
+      {
+        "id": "commit-suicide",
+        "effect": "Commit suicide",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → D-Pad Right → Circle → Circle → L1 → R1 → D-Pad Down → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Right → D-Pad Right → Circle → Circle → L Trigger → R Trigger → D-Pad Down → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/commit-suicide.svg"
+      },
+      {
+        "id": "destroy-all-cars",
+        "effect": "Destroy all cars",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "L1 → R1 → R1 → D-Pad Left → D-Pad Right → Square → D-Pad Down → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L Trigger → R Trigger → R Trigger → D-Pad Left → D-Pad Right → Square → D-Pad Down → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/destroy-all-cars.svg"
+      },
+      {
+        "id": "faster-game-time",
+        "effect": "Faster game time",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → L1 → L1 → D-Pad Down → D-Pad Up → Cross → D-Pad Down → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R Trigger → L Trigger → L Trigger → D-Pad Down → D-Pad Up → Cross → D-Pad Down → L Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/faster-game-time.svg"
+      },
+      {
+        "id": "faster-gameplay",
+        "effect": "Faster gameplay",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → R1 → R1 → D-Pad Up → Triangle → D-Pad Down → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Left → R Trigger → R Trigger → D-Pad Up → Triangle → D-Pad Down → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/faster-gameplay.svg"
+      },
+      {
+        "id": "foggy-weather",
+        "effect": "Foggy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Down → Triangle → Cross → D-Pad Right → D-Pad Up → D-Pad Left → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Down → Triangle → Cross → D-Pad Right → D-Pad Up → D-Pad Left → L Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/foggy-weather.svg"
+      },
+      {
+        "id": "full-armor",
+        "effect": "Full armor",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Square → Square → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Square → Square → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/full-armor.svg"
+      },
+      {
+        "id": "full-health",
+        "effect": "Full health",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Circle → Circle → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Down → D-Pad Left → D-Pad Right → Circle → Circle → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/full-health.svg"
+      },
+      {
+        "id": "never-wanted",
+        "effect": "Never wanted",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Right → Triangle → Triangle → D-Pad Down → D-Pad Left → Cross → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Right → Triangle → Triangle → D-Pad Down → D-Pad Left → Cross → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/never-wanted.svg"
+      },
+      {
+        "id": "overcast-weather",
+        "effect": "Overcast weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Down → L1 → R1 → D-Pad Right → D-Pad Up → D-Pad Left → Square",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Down → L Trigger → R Trigger → D-Pad Right → D-Pad Up → D-Pad Left → Square",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/overcast-weather.svg"
+      },
+      {
+        "id": "pedestrian-enters-your-vehicle",
+        "effect": "Pedestrian enters your vehicle",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Right → L1 → L1 → Square → D-Pad Up → L1",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/pedestrian-enters-your-vehicle.svg"
+      },
+      {
+        "id": "pedestrians-attack",
+        "effect": "Pedestrians attack",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → Triangle → D-Pad Up → Cross → L1 → R1 → L1 → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Down → Triangle → D-Pad Up → Cross → L Trigger → R Trigger → L Trigger → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/pedestrians-attack.svg"
+      },
+      {
+        "id": "pedestrians-follow-you",
+        "effect": "Pedestrians follow you",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Right → L1 → D-Pad Down → L1 → Circle → D-Pad Up → L1 → Square",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/pedestrians-follow-you.svg"
+      },
+      {
+        "id": "pedestrians-have-weapons",
+        "effect": "Pedestrians have weapons",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → L1 → D-Pad Down → R1 → D-Pad Left → Circle → D-Pad Right → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → L Trigger → D-Pad Down → R Trigger → D-Pad Left → Circle → D-Pad Right → Triangle",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/pedestrians-have-weapons.svg"
+      },
+      {
+        "id": "pedestrians-riot",
+        "effect": "Pedestrians riot",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "R1 → L1 → L1 → D-Pad Down → D-Pad Left → Circle → D-Pad Down → L1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R Trigger → L Trigger → L Trigger → D-Pad Down → D-Pad Left → Circle → D-Pad Down → L Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/pedestrians-riot.svg"
+      },
+      {
+        "id": "perfect-handling-traction",
+        "effect": "Perfect handling/traction",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → L1 → R1 → Triangle → Circle → Cross → L3",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Down → D-Pad Left → D-Pad Up → L Trigger → R Trigger → Triangle → Circle → Cross → D-Pad Down",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/perfect-handling-traction.svg"
+      },
+      {
+        "id": "rainy-weather",
+        "effect": "Rainy weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Down → L1 → R1 → D-Pad Right → D-Pad Up → D-Pad Left → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Down → L Trigger → R Trigger → D-Pad Right → D-Pad Up → D-Pad Left → Triangle",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/rainy-weather.svg"
+      },
+      {
+        "id": "raise-wanted-level",
+        "effect": "Raise wanted level",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Right → Square → Square → D-Pad Down → D-Pad Left → Circle → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → D-Pad Right → Square → Square → D-Pad Down → D-Pad Left → Circle → Circle",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/raise-wanted-level.svg"
+      },
+      {
+        "id": "slower-gameplay",
+        "effect": "Slower gameplay",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Left → Circle → Circle → D-Pad Down → D-Pad Up → Triangle → Cross",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Left → Circle → Circle → D-Pad Down → D-Pad Up → Triangle → Cross",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/slower-gameplay.svg"
+      },
+      {
+        "id": "spawn-rhino",
+        "effect": "Spawn Rhino",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → L1 → D-Pad Down → R1 → D-Pad Left → L1 → D-Pad Right → R1",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Up → L Trigger → D-Pad Down → R Trigger → D-Pad Left → L Trigger → D-Pad Right → R Trigger",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/spawn-rhino.svg"
+      },
+      {
+        "id": "spawn-trashmaster",
+        "effect": "Spawn Trashmaster",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Right → Triangle → L1 → Triangle → L1 → Triangle",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Down → D-Pad Up → D-Pad Right → Triangle → L Trigger → Triangle → L Trigger → Triangle",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/spawn-trashmaster.svg"
+      },
+      {
+        "id": "sunny-weather",
+        "effect": "Sunny weather",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Down → R1 → L1 → D-Pad Right → D-Pad Up → D-Pad Left → Circle",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Down → R Trigger → L Trigger → D-Pad Right → D-Pad Up → D-Pad Left → Circle",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/sunny-weather.svg"
+      },
+      {
+        "id": "traffic-avoids-you",
+        "effect": "Traffic avoids you",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Up → D-Pad Up → D-Pad Right → D-Pad Left → Triangle → Circle → Circle → Square",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/traffic-avoids-you.svg"
+      },
+      {
+        "id": "weapons-tier-1",
+        "effect": "Weapons (tier 1)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → Cross → D-Pad Up → D-Pad Down → Square → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Right → Cross → D-Pad Up → D-Pad Down → Square → D-Pad Left → D-Pad Right",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/weapons-tier-1.svg"
+      },
+      {
+        "id": "weapons-tier-2",
+        "effect": "Weapons (tier 2)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → Square → D-Pad Up → D-Pad Down → Triangle → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Right → Square → D-Pad Up → D-Pad Down → Triangle → D-Pad Left → D-Pad Right",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/weapons-tier-2.svg"
+      },
+      {
+        "id": "weapons-tier-3",
+        "effect": "Weapons (tier 3)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "D-Pad Left → D-Pad Right → Triangle → D-Pad Up → D-Pad Down → Circle → D-Pad Left → D-Pad Right",
+            "input": "button"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "D-Pad Left → D-Pad Right → Triangle → D-Pad Up → D-Pad Down → Circle → D-Pad Left → D-Pad Right",
+            "input": "button"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-vice-city-stories/weapons-tier-3.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "downtown",
+        "name": "Downtown",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Skyscraper district and empire business location.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/downtown.svg"
+      },
+      {
+        "id": "escobar-intl-airport",
+        "name": "Escobar International Airport",
+        "type": "Landmark",
+        "parent": "Vice Mainland",
+        "summary": "Airport used in smuggling missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/escobar-intl-airport.png"
+      },
+      {
+        "id": "fort-baxter",
+        "name": "Fort Baxter",
+        "type": "Landmark",
+        "parent": "Vice Mainland",
+        "summary": "Military base where Victor is stationed.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/fort-baxter.jpg"
+      },
+      {
+        "id": "little-haiti",
+        "name": "Little Haiti",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Haitian territory and drug business sites.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/little-haiti.png"
+      },
+      {
+        "id": "little-havana",
+        "name": "Little Havana",
+        "type": "Neighbourhood",
+        "parent": "Vice Mainland",
+        "summary": "Cuban territory and early gang missions.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/little-havana.png"
+      },
+      {
+        "id": "starfish-island",
+        "name": "Starfish Island",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Mansion island used by the Mendez cartel.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/starfish-island.png"
+      },
+      {
+        "id": "trailer-park",
+        "name": "Trailer Park",
+        "type": "District",
+        "parent": "Vice Mainland",
+        "summary": "Marty Jay Williams' base of operations.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/trailer-park.jpg"
+      },
+      {
+        "id": "vice-beach",
+        "name": "Vice Beach",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Beach island with Ocean Beach and Washington Beach.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/vice-beach.png"
+      },
+      {
+        "id": "vice-city",
+        "name": "Vice City",
+        "type": "City",
+        "parent": null,
+        "summary": "Vice City in 1984, two years before Tommy Vercetti's arrival.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/vice-city.jpg"
+      },
+      {
+        "id": "vice-mainland",
+        "name": "Vice City Mainland",
+        "type": "Island",
+        "parent": "Vice City",
+        "summary": "Mainland with Downtown, Little Haiti, Little Havana and the airport.",
+        "verified": true,
+        "image": "assets/img/location/gta-vice-city-stories/vice-mainland.jpg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "empires",
+        "name": "Empires",
+        "type": "Business",
+        "total": 30,
+        "reward": "Passive income and completion",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city-stories/empires.svg"
+      },
+      {
+        "id": "hidden-packages",
+        "name": "Hidden Packages",
+        "type": "Package",
+        "total": 99,
+        "reward": "Weapons at safehouses",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city-stories/hidden-packages.svg"
+      },
+      {
+        "id": "rampages",
+        "name": "Rampages",
+        "type": "Rampage",
+        "total": 30,
+        "reward": "Cash",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city-stories/rampages.jpg"
+      },
+      {
+        "id": "red-balloons",
+        "name": "Red Balloons",
+        "type": "Balloon",
+        "total": 99,
+        "reward": "Cash and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city-stories/red-balloons.jpg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Jumps",
+        "type": "Stunt",
+        "total": 36,
+        "reward": "Cash toward 100%",
+        "verified": true,
+        "image": "assets/img/collectible/gta-vice-city-stories/unique-jumps.png"
+      }
+    ]
+  }
+}

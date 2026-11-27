@@ -1,0 +1,2427 @@
+{
+  "meta": {
+    "slug": "gta-chinatown-wars",
+    "title": "Grand Theft Auto: Chinatown Wars",
+    "year": 2009,
+    "type": "Spin-off",
+    "status": "released",
+    "generated": "2026-11-27T11:35:46.273Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "complete",
+      "locations": "partial",
+      "collectibles": "partial"
+    },
+    "counts": {
+      "characters": 10,
+      "missions": 58,
+      "vehicles": 75,
+      "weapons": 33,
+      "cheats": 20,
+      "locations": 5,
+      "collectibles": 2
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-chinatown-wars/cover.png",
+      "banner": "assets/img/banner/gta-chinatown-wars/banner.png",
+      "map": "assets/img/map/gta-chinatown-wars/map.svg"
+    },
+    "sources": [
+      "Chinatown Wars in-game mission list",
+      "Rockstar Leeds DS/PSP release materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "chan-jaoming",
+        "name": "Chan Jaoming",
+        "role": "Triad heir",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Hsin's son and one claimant to the Triad leadership.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/chan-jaoming.png"
+      },
+      {
+        "id": "hsin-jaoming",
+        "name": "Hsin Jaoming",
+        "role": "Triad boss",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Aging Triad leader whose succession struggle drives the plot.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/hsin-jaoming.png"
+      },
+      {
+        "id": "huang-lee",
+        "name": "Huang Lee",
+        "role": "Protagonist",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Returns to Liberty City with a stolen sword and a murdered father's legacy to untangle.",
+        "status": "Alive",
+        "first_appearance": "GTA: Chinatown Wars",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/huang-lee.png"
+      },
+      {
+        "id": "lester-leroc",
+        "name": "Lester Leroc",
+        "role": "Crime scene investigator",
+        "affiliations": [
+          "Liberty City forensics"
+        ],
+        "summary": "Forensics contact who provides Huang with information.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-chinatown-wars/lester-leroc.png"
+      },
+      {
+        "id": "ling",
+        "name": "Ling",
+        "role": "Ally",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Huang's ally within the Triad power struggle.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta-chinatown-wars/ling.jpg"
+      },
+      {
+        "id": "melanie-mallard",
+        "name": "Melanie Mallard",
+        "role": "Journalist",
+        "affiliations": [
+          "Liberty City press"
+        ],
+        "summary": "Investigative journalist working the Triad succession story.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/melanie-mallard.png"
+      },
+      {
+        "id": "rudy-davanzo",
+        "name": "Rudy D'Avanzo",
+        "role": "Mafia associate",
+        "affiliations": [
+          "Liberty City Mafia"
+        ],
+        "summary": "Italian mob contact who pulls Huang into Mafia business.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/rudy-davanzo.jpg"
+      },
+      {
+        "id": "wade-heston",
+        "name": "Wade Heston",
+        "role": "Undercover agent",
+        "affiliations": [
+          "Federal law enforcement"
+        ],
+        "summary": "Undercover operative who recruits Huang's help.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/wade-heston.png"
+      },
+      {
+        "id": "wu-lee",
+        "name": "Wu Lee",
+        "role": "Uncle, Triad elder",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "Huang's uncle and the Triad elder he reports to.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/wu-lee.png"
+      },
+      {
+        "id": "zhou-ming",
+        "name": "Zhou Ming",
+        "role": "Triad rival",
+        "affiliations": [
+          "Liberty City Triads"
+        ],
+        "summary": "The other claimant to the Triad leadership.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-chinatown-wars/zhou-ming.jpg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "yu-jian",
+        "order": 1,
+        "name": "Yu Jian",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50,
+          "other": "Safehouse in Cerveza Heights"
+        },
+        "summary": "Go to Kenny's home .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/yu-jian.jpg"
+      },
+      {
+        "id": "pursuit-farce",
+        "order": 2,
+        "name": "Pursuit Farce",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Take Ling Shan and lose the cops.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/pursuit-farce.jpg"
+      },
+      {
+        "id": "under-the-gun",
+        "order": 3,
+        "name": "Under the Gun",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Practice the fighting skills with Ling Shan and kill the goons attacking one of Kenny's restaurants, while witnessing Ling's death.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/under-the-gun.png"
+      },
+      {
+        "id": "payback",
+        "order": 4,
+        "name": "Payback",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Avenge Ling's death.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/payback.jpg"
+      },
+      {
+        "id": "the-wheelman",
+        "order": 5,
+        "name": "The Wheelman",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Steal 3 cars for Chan Jaoming in 6 hours.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-wheelman.jpg"
+      },
+      {
+        "id": "tricks-of-the-triad",
+        "order": 6,
+        "name": "Tricks of the Triad",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Drug Dealing"
+        },
+        "summary": "Do a drug deal with two drug dealers , then stash the drugs in the apartment.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/tricks-of-the-triad.jpg"
+      },
+      {
+        "id": "pimp-his-ride",
+        "order": 7,
+        "name": "Pimp His Ride",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Sabotage the race car of Chan's opponent.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/pimp-his-ride.jpg"
+      },
+      {
+        "id": "natural-burn-killer",
+        "order": 8,
+        "name": "Natural Burn Killer",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50,
+          "other": "Liberty City Gun Club : Grenades"
+        },
+        "summary": "Burn down 2 stores who won't pay their rent.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/natural-burn-killer.jpg"
+      },
+      {
+        "id": "recruitment-drive",
+        "order": 9,
+        "name": "Recruitment Drive",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50,
+          "other": "Tattoo Parlors"
+        },
+        "summary": "Recruit new crime victims and recruit them as Triads.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/recruitment-drive.jpg"
+      },
+      {
+        "id": "whack-the-racers",
+        "order": 10,
+        "name": "Whack the Racers",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 100,
+          "other": "Turf map available in the PDA Races become available across the city Liberty City Gun Club : MP5"
+        },
+        "summary": "Help Chan win a race by taking out the other racers.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/whack-the-racers.jpg"
+      },
+      {
+        "id": "stealing-the-show",
+        "order": 11,
+        "name": "Stealing the Show",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 150
+        },
+        "summary": "Sneak onto the back of a delivery truck and toss the merchandise to Zhou .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/stealing-the-show.jpg"
+      },
+      {
+        "id": "jackin-chan",
+        "order": 12,
+        "name": "Jackin' Chan",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 150
+        },
+        "summary": "Rescue Chan from the&#160; Irish-American Killers .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/jackin-chan.jpg"
+      },
+      {
+        "id": "flatliner",
+        "order": 13,
+        "name": "Flatliner",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 150
+        },
+        "summary": "Steal an Ambulance containing Zhou's old friend Uri from Francis International Airport and drive it back to Zhou's house.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/flatliner.jpg"
+      },
+      {
+        "id": "bomb-disposal",
+        "order": 14,
+        "name": "Bomb Disposal",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Disarm three of Hsin 's vans containing bombs meant to destroy Zhou's drug stash cars, and stop further attempts to do so.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/bomb-disposal.jpg"
+      },
+      {
+        "id": "carpe-dime",
+        "order": 15,
+        "name": "Carpe 'Dime'",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Lancaster Safehouse Ability to steal gang Burritos for drugs Liberty City Gun Club : Pump Shotgun"
+        },
+        "summary": "Steal a Spanish Lord 's van to check for the Yu Jian.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/carpe-dime.jpg"
+      },
+      {
+        "id": "store-wars",
+        "order": 16,
+        "name": "Store Wars",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 50
+        },
+        "summary": "Defend a store from the Spanish Lords .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/store-wars.jpg"
+      },
+      {
+        "id": "driven-to-destruction",
+        "order": 17,
+        "name": "Driven to Destruction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 150
+        },
+        "summary": "Drive Zhou on his Bobcat to African-American drug dealers and let him shoot them with his minigun, until the Carnage meter is filled.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/driven-to-destruction.jpg"
+      },
+      {
+        "id": "raw-deal",
+        "order": 18,
+        "name": "Raw Deal",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200,
+          "other": "Safehouse in South Bohan"
+        },
+        "summary": "Protect Chan from the Spanish Lords during a drug deal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/raw-deal.jpg"
+      },
+      {
+        "id": "the-tow-job",
+        "order": 19,
+        "name": "The Tow Job",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Steal a Korean's car, gain police attention and park it outside the police station in Bohan.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-tow-job.jpg"
+      },
+      {
+        "id": "the-tail-bagging-the-dogs",
+        "order": 20,
+        "name": "The Tail Bagging the Dogs",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kill the Korean and all his underbosses.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-tail-bagging-the-dogs.jpg"
+      },
+      {
+        "id": "trail-blazer",
+        "order": 21,
+        "name": "Trail Blazer",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 300
+        },
+        "summary": "Destroy a gambling den by ramming a leaking&#160; Tanker &#160;into it.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/trail-blazer.jpg"
+      },
+      {
+        "id": "copter-carnage",
+        "order": 22,
+        "name": "Copter Carnage",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 400
+        },
+        "summary": "Defend Kenny's merchandise from the Spanish Lords and tail the copter back to their warehouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/copter-carnage.jpg"
+      },
+      {
+        "id": "kenny-strikes-back",
+        "order": 23,
+        "name": "Kenny Strikes Back",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "3 bags of Coke"
+        },
+        "summary": "Steal merchandise from the Spanish Lord's warehouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/kenny-strikes-back.jpg"
+      },
+      {
+        "id": "weapons-of-mass-distraction",
+        "order": 24,
+        "name": "Weapons of Mass Distraction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Distract the Midtown Gangsters while Heston plants a bug in their base.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/weapons-of-mass-distraction.jpg"
+      },
+      {
+        "id": "street-of-rage",
+        "order": 25,
+        "name": "Street of Rage",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Rescue Heston from the Wonsu Assassins .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/street-of-rage.jpg"
+      },
+      {
+        "id": "missed-the-boat",
+        "order": 26,
+        "name": "Missed the Boat?",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "10 bags of Heroin Lower Easton Safehouse"
+        },
+        "summary": "Take a boat out to a drug deal and escape from the coast guards before bringing the drugs back to shore.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/missed-the-boat.jpg"
+      },
+      {
+        "id": "cash-and-burn",
+        "order": 27,
+        "name": "Cash & Burn",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Burn all of the Korean's goods at a construction site and kill the security forces.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/cash-and-burn.jpg"
+      },
+      {
+        "id": "dragon-haul-z",
+        "order": 28,
+        "name": "Dragon Haul Z",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Steal a truck containing a dragon costume and after Zhou robs a bank, do the instructed moves in the dragon costume without arrousing too much suspicion and escape.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/dragon-haul-z.jpg"
+      },
+      {
+        "id": "sa-boat-age",
+        "order": 29,
+        "name": "Sa-Boat-Age",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "12 bags of Ecstasy"
+        },
+        "summary": "Race Chan and protect him from the Spanish Lords.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/sa-boat-age.jpg"
+      },
+      {
+        "id": "the-offshore-offload",
+        "order": 30,
+        "name": "The Offshore Offload",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 700,
+          "other": "Fully Cocked License available at AmmuNation.net"
+        },
+        "summary": "Rescue Hsin's men from the Feds, pick up Hsin's accountant and take them all to&#160; Castle Gardens .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-offshore-offload.jpg"
+      },
+      {
+        "id": "one-shot-one-kill",
+        "order": 31,
+        "name": "One Shot, One Kill",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "Liberty City Gun Club : Sniper Rifle"
+        },
+        "summary": "Snipe an&#160; FIB &#160;informant against&#160; Chan Jaoming &#160;and lose the wanted level.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/one-shot-one-kill.jpg"
+      },
+      {
+        "id": "counterfeit-gangster",
+        "order": 32,
+        "name": "Counterfeit Gangster",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Opening arc: Huang's arrival and the stolen sword go wrong.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/counterfeit-gangster.jpg"
+      },
+      {
+        "id": "slaying-with-fire",
+        "order": 33,
+        "name": "Slaying With Fire",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 250
+        },
+        "summary": "Kill all of Chan's entourage.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/slaying-with-fire.jpg"
+      },
+      {
+        "id": "the-fandom-menace",
+        "order": 34,
+        "name": "The Fandom Menace",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Escort Zhou and two other Triad members while avoiding paparazzi.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-fandom-menace.jpg"
+      },
+      {
+        "id": "operation-northwood",
+        "order": 35,
+        "name": "Operation Northwood",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Chase a drug dealer to his warehouse, then destroy it with the car bomb.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/operation-northwood.jpg"
+      },
+      {
+        "id": "torpedo-run",
+        "order": 36,
+        "name": "Torpedo Run",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Destroy Zhou Ming's&#160; drug boat &#160;then take out his escaping gang members.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/torpedo-run.jpg"
+      },
+      {
+        "id": "so-near-yet-sonar",
+        "order": 37,
+        "name": "So Near, Yet Sonar",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "15 bags of Acid"
+        },
+        "summary": "Recover sunken goods from Zhou's sunken ship using a sonar.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/so-near-yet-sonar.jpg"
+      },
+      {
+        "id": "by-myriads-of-swords",
+        "order": 38,
+        "name": "By Myriads of Swords",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Kill two of the Midtown Gangster leaders unfaithful to Hsin and collect their IDs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/by-myriads-of-swords.jpg"
+      },
+      {
+        "id": "a-shadow-of-doubt",
+        "order": 39,
+        "name": "A Shadow of Doubt",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Tail two Koreans to their hideout.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/a-shadow-of-doubt.jpg"
+      },
+      {
+        "id": "double-trouble",
+        "order": 40,
+        "name": "Double Trouble",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Take out some of&#160; The Lost &#160;gangsters and use the&#160; Monoglobe &#160;to destroy a building with The Lost members.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/double-trouble.jpg"
+      },
+      {
+        "id": "grave-situation",
+        "order": 41,
+        "name": "Grave Situation",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 250,
+          "other": "Safehouse in Northwood"
+        },
+        "summary": "Protect D'Avanzo from Jimmy Capra 's men.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/grave-situation.jpg"
+      },
+      {
+        "id": "faster-pusher-man-sell-sell",
+        "order": 42,
+        "name": "Faster Pusher Man! Sell! Sell!",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "other": "10 bags of Coke"
+        },
+        "summary": "Sell all of the&#160; AoD 's drugs before the rivals do.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/faster-pusher-man-sell-sell.jpg"
+      },
+      {
+        "id": "friend-or-foe",
+        "order": 43,
+        "name": "Friend or Foe?",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Breach the Koreans' hideout and obtain the FIB files.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/friend-or-foe.jpg"
+      },
+      {
+        "id": "scrambled",
+        "order": 44,
+        "name": "Scrambled",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Destroy 3 scramblers.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/scrambled.jpg"
+      },
+      {
+        "id": "steal-the-wheels",
+        "order": 45,
+        "name": "Steal the Wheels",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Steal Jimmy Capra's car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/steal-the-wheels.jpg"
+      },
+      {
+        "id": "arms-out-of-harms-way",
+        "order": 46,
+        "name": "Arms Out of Harm's Way",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Kill the Midtown Gangsters' arms dealer.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/arms-out-of-harms-way.jpg"
+      },
+      {
+        "id": "the-wages-of-hsin",
+        "order": 47,
+        "name": "The Wages of Hsin",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 2500
+        },
+        "summary": "Destroy the Koreans' hideout with explosives.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-wages-of-hsin.jpg"
+      },
+      {
+        "id": "convoy-conflict",
+        "order": 48,
+        "name": "Convoy Conflict",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Protect the Angels of Death convoy from The Lost MC members.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/convoy-conflict.jpg"
+      },
+      {
+        "id": "the-worlds-a-stooge",
+        "order": 49,
+        "name": "The World's a Stooge",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1500
+        },
+        "summary": "Take out three men mentioned in the record from Jimmy Capra's car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/the-worlds-a-stooge.jpg"
+      },
+      {
+        "id": "evidence-dash",
+        "order": 50,
+        "name": "Evidence Dash",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Destroy evidence in Heston's&#160; Admiral .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/evidence-dash.jpg"
+      },
+      {
+        "id": "oversights",
+        "order": 51,
+        "name": "Oversights",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 250
+        },
+        "summary": "Snipe&#160; Jimmy Capra &#160;and his men.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/oversights.jpg"
+      },
+      {
+        "id": "a-rude-awakening",
+        "order": 52,
+        "name": "A Rude Awakening",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Chase and kill&#160; Rudy D'Avanzo .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/a-rude-awakening.jpg"
+      },
+      {
+        "id": "see-no-evil",
+        "order": 53,
+        "name": "See No Evil",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Protect Lester and Meredith from the&#160; Angels of Death &#160;as he transports her to her house, without frightening her.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/see-no-evil.jpg"
+      },
+      {
+        "id": "wi-find",
+        "order": 54,
+        "name": "Wi-Find",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 200
+        },
+        "summary": "Hack the&#160; FIB &#160;files to identify the Triad's rat.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/wi-find.jpg"
+      },
+      {
+        "id": "rat-race",
+        "order": 55,
+        "name": "Rat Race",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Defend Kenny while he drives to warn&#160; Hsin Jaoming &#160;of&#160; Zhou Ming &#160;and&#160; Chan Jaoming 's betrayal.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/rat-race.jpg"
+      },
+      {
+        "id": "clear-the-pier",
+        "order": 56,
+        "name": "Clear the Pier",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 500
+        },
+        "summary": "Chase and kill Chan Jaoming.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/clear-the-pier.jpg"
+      },
+      {
+        "id": "hit-from-the-tong",
+        "order": 57,
+        "name": "Hit from the Tong",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {
+          "money": 1000
+        },
+        "summary": "Kill Zhou Ming.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/hit-from-the-tong.jpg"
+      },
+      {
+        "id": "salt-in-the-wound",
+        "order": 58,
+        "name": "Salt in the Wound",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Chase and kill the real traitor .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, giver, description and rewards",
+        "image": "assets/img/mission/gta-chinatown-wars/salt-in-the-wound.jpg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "500-xlr8",
+        "name": "500 XLR8",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/500-xlr8.jpg"
+      },
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/admiral.jpg"
+      },
+      {
+        "id": "alphamail",
+        "name": "Alphamail",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/alphamail.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Medical",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-chinatown-wars/ambulance.png"
+      },
+      {
+        "id": "angel",
+        "name": "Angel",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/angel.jpg"
+      },
+      {
+        "id": "baggage-handler",
+        "name": "Baggage Handler",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/baggage-handler.jpg"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-chinatown-wars/banshee.jpg"
+      },
+      {
+        "id": "blista",
+        "name": "Blista",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/blista.jpg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "SUVs/SUTs and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/bobcat.png"
+      },
+      {
+        "id": "buccaneer",
+        "name": "Buccaneer",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/buccaneer.jpg"
+      },
+      {
+        "id": "bulldozer",
+        "name": "Bulldozer",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/bulldozer.jpg"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "SUVs/SUTs and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/burrito.png"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/bus.jpg"
+      },
+      {
+        "id": "cabbie",
+        "name": "Cabbie",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cabbie.jpg"
+      },
+      {
+        "id": "cavalcade",
+        "name": "Cavalcade",
+        "category": "SUVs/SUTs and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade.png"
+      },
+      {
+        "id": "cavalcade-fxt",
+        "name": "Cavalcade FXT",
+        "category": "SUVs/SUTs and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cavalcade-fxt.png"
+      },
+      {
+        "id": "chavos",
+        "name": "Chavos",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/chavos.jpg"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/cheetah.svg"
+      },
+      {
+        "id": "chopper",
+        "name": "Chopper",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/chopper.jpg"
+      },
+      {
+        "id": "cityscape",
+        "name": "Cityscape",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cityscape.jpg"
+      },
+      {
+        "id": "coast-guard-dinghy",
+        "name": "Coast Guard Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-dinghy.png"
+      },
+      {
+        "id": "coast-guard-launch",
+        "name": "Coast Guard Launch",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/coast-guard-launch.png"
+      },
+      {
+        "id": "cognoscenti",
+        "name": "Cognoscenti",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cognoscenti.jpg"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/comet.jpg"
+      },
+      {
+        "id": "cruiser",
+        "name": "Cruiser",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/cruiser.png"
+      },
+      {
+        "id": "defender",
+        "name": "Defender",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/defender.png"
+      },
+      {
+        "id": "destroyer",
+        "name": "Destroyer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/destroyer.png"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/dinghy.png"
+      },
+      {
+        "id": "dragon-wagon",
+        "name": "Dragon Wagon",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/dragon-wagon.png"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/dukes.jpg"
+      },
+      {
+        "id": "fib-rancher",
+        "name": "FIB Rancher",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/fib-rancher.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Fire",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-chinatown-wars/fire-truck.png"
+      },
+      {
+        "id": "fists",
+        "name": "Fists",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/fists.png"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/flatbed.png"
+      },
+      {
+        "id": "formula-r",
+        "name": "Formula R",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/formula-r.jpg"
+      },
+      {
+        "id": "go-kart",
+        "name": "Go Kart",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/go-kart.jpg"
+      },
+      {
+        "id": "gumshoe",
+        "name": "Gumshoe",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/gumshoe.jpg"
+      },
+      {
+        "id": "hearse",
+        "name": "Hearse",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/hearse.jpg"
+      },
+      {
+        "id": "helitours-maverick",
+        "name": "Helitours Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/helitours-maverick.png"
+      },
+      {
+        "id": "hellenbach",
+        "name": "Hellenbach",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/hellenbach.jpg"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-chinatown-wars/infernus.jpg"
+      },
+      {
+        "id": "ingot",
+        "name": "Ingot",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/ingot.jpg"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/jetmax.png"
+      },
+      {
+        "id": "limo",
+        "name": "Limo",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/limo.jpg"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/manana.jpg"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Aircraft",
+        "class": "Helicopter",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-chinatown-wars/maverick.svg"
+      },
+      {
+        "id": "mk-gt9",
+        "name": "MK GT9",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/mk-gt9.jpg"
+      },
+      {
+        "id": "noose-enforcer",
+        "name": "NOOSE Enforcer",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/noose-enforcer.png"
+      },
+      {
+        "id": "nrg-900",
+        "name": "NRG 900",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/nrg-900.jpg"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "SUVs/SUTs and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/patriot.png"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/perennial.jpg"
+      },
+      {
+        "id": "peyote",
+        "name": "Peyote",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/peyote.jpg"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-car.svg"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-maverick.png"
+      },
+      {
+        "id": "police-patrol",
+        "name": "Police Patrol",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/police-patrol.png"
+      },
+      {
+        "id": "predator",
+        "name": "Predator",
+        "category": "Boat",
+        "class": "Police boat",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": false,
+        "image": "assets/img/vehicle/gta-chinatown-wars/predator.svg"
+      },
+      {
+        "id": "recovery",
+        "name": "Recovery",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/recovery.png"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/reefer.png"
+      },
+      {
+        "id": "resolution-x",
+        "name": "Resolution X",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/resolution-x.jpg"
+      },
+      {
+        "id": "rhino",
+        "name": "Rhino",
+        "category": "Emergency Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/rhino.png"
+      },
+      {
+        "id": "sabre-gt",
+        "name": "Sabre GT",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/sabre-gt.jpg"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/sanchez.jpg"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Car",
+        "class": "Sedan",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/sentinel.svg"
+      },
+      {
+        "id": "sparrow",
+        "name": "Sparrow",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/sparrow.png"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/speeder.png"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/stallion.jpg"
+      },
+      {
+        "id": "style-sr",
+        "name": "Style SR",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/style-sr.jpg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Basic Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/sultan.jpg"
+      },
+      {
+        "id": "tanker",
+        "name": "Tanker",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/tanker.png"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Car",
+        "class": "Taxi",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-chinatown-wars/taxi.svg"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Sports, Super and Race Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/turismo.jpg"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Muscle Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/voodoo.jpg"
+      },
+      {
+        "id": "wet-ski",
+        "name": "Wet Ski",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/wet-ski.png"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial and Industrial Vehicles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/yankee.png"
+      },
+      {
+        "id": "zhouboat",
+        "name": "Zhouboat",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-chinatown-wars/zhouboat.png"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/assault-rifle.png"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-chinatown-wars/baseball-bat.png"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/carbine-rifle.png"
+      },
+      {
+        "id": "chainsaw",
+        "name": "Chainsaw",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/chainsaw.png"
+      },
+      {
+        "id": "crates",
+        "name": "Crates",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/crates.svg"
+      },
+      {
+        "id": "detonator",
+        "name": "Detonator",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/detonator.png"
+      },
+      {
+        "id": "double-barreled-shotgun",
+        "name": "Double Barreled Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/double-barreled-shotgun.png"
+      },
+      {
+        "id": "drug-sample",
+        "name": "Drug Sample",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/drug-sample.png"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Unarmed",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/fist.svg"
+      },
+      {
+        "id": "fists",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/fists.png"
+      },
+      {
+        "id": "flame-thrower",
+        "name": "Flame Thrower",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/flame-thrower.png"
+      },
+      {
+        "id": "flashbangs",
+        "name": "Flashbangs",
+        "type": "Thrown",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/flashbangs.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta-chinatown-wars/grenades.png"
+      },
+      {
+        "id": "katana",
+        "name": "Katana",
+        "type": "Melee",
+        "damage_tier": "High",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Story",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/katana.svg"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-chinatown-wars/micro-smg.png"
+      },
+      {
+        "id": "minigun",
+        "name": "Minigun",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/minigun.png"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/molotov.svg"
+      },
+      {
+        "id": "molotov-cocktails",
+        "name": "Molotov Cocktails",
+        "type": "Thrown",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/molotov-cocktails.svg"
+      },
+      {
+        "id": "night-stick",
+        "name": "Night Stick",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/night-stick.png"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "unlock": "Ammu-Nation equivalent",
+        "image": "assets/img/weapon/gta-chinatown-wars/pistol.png"
+      },
+      {
+        "id": "proximity-mines",
+        "name": "Proximity Mines",
+        "type": "Thrown",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/proximity-mines.png"
+      },
+      {
+        "id": "revolver",
+        "name": "Revolver",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/revolver.png"
+      },
+      {
+        "id": "rifle",
+        "name": "Rifle",
+        "type": "Assault rifle",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "price": null,
+        "unlock": "Later missions",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/rifle.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-chinatown-wars/rocket-launcher.svg"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/rpg.png"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-chinatown-wars/shotgun.png"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/smg.png"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/sniper-rifle.png"
+      },
+      {
+        "id": "stubby-shotgun",
+        "name": "Stubby Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/stubby-shotgun.png"
+      },
+      {
+        "id": "sword",
+        "name": "Sword",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/sword.png"
+      },
+      {
+        "id": "teaser",
+        "name": "Teaser",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/teaser.png"
+      },
+      {
+        "id": "time-bomb",
+        "name": "Time Bomb",
+        "type": "Special",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/time-bomb.png"
+      },
+      {
+        "id": "twin-pistols",
+        "name": "Twin Pistols",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-chinatown-wars/twin-pistols.png"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "armor",
+        "effect": "Armor",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "SHELLY",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "L L R B B A A R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L L R X X O O R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/armor.svg"
+      },
+      {
+        "id": "cloud",
+        "effect": "Cloud",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT X Y L R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT TRIANGLE SQUARE L R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/cloud.svg"
+      },
+      {
+        "id": "explosive-eagle",
+        "effect": "Explosive eagle",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "BOOMCAN",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "L R X Y A B UP DOWN",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L R TRIANGLE SQUARE O X UP DOWN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/explosive-eagle.svg"
+      },
+      {
+        "id": "extra-sunny",
+        "effect": "Extra sunny",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT B X L R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT X TRIANGLE L R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/extra-sunny.svg"
+      },
+      {
+        "id": "fog",
+        "effect": "Fog",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT Y B R L",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT SQUARE X R L",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/fog.svg"
+      },
+      {
+        "id": "get-10-000",
+        "effect": "Get $10,000",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "CASHIN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/get-10-000.svg"
+      },
+      {
+        "id": "health",
+        "effect": "Health",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "LIFEUP",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "L L R A A B B R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L L R O O X X R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/health.svg"
+      },
+      {
+        "id": "heavy-rain",
+        "effect": "Heavy rain",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT A X R L",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT O TRIANGLE R L",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/heavy-rain.svg"
+      },
+      {
+        "id": "jump-1-day",
+        "effect": "Jump 1 day",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "JUMPDAY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/jump-1-day.svg"
+      },
+      {
+        "id": "jump-1-hour",
+        "effect": "Jump 1 hour",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "JUMPHR",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/jump-1-hour.svg"
+      },
+      {
+        "id": "jump-6-hours",
+        "effect": "Jump 6 hours",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "JUMPHRS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/jump-6-hours.svg"
+      },
+      {
+        "id": "rain",
+        "effect": "Rain",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT Y A L R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT SQUARE O L R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/rain.svg"
+      },
+      {
+        "id": "storm",
+        "effect": "Storm",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT B Y R L",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT X SQUARE R L",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/storm.svg"
+      },
+      {
+        "id": "sunny",
+        "effect": "Sunny",
+        "codes": [
+          {
+            "platform": "Nintendo DS",
+            "code": "UP DOWN LEFT RIGHT A B L R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "UP DOWN LEFT RIGHT O X L R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/sunny.svg"
+      },
+      {
+        "id": "wanted-level-down",
+        "effect": "Wanted level down",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "COPOUT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "R X X Y Y R L L",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L L R TRIANGLE TRIANGLE SQUARE SQUARE R L L",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/wanted-level-down.svg"
+      },
+      {
+        "id": "wanted-level-up",
+        "effect": "Wanted level up",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "COPIN",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "L L R Y Y X X R",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "L L R SQUARE SQUARE TRIANGLE TRIANGLE R",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/wanted-level-up.svg"
+      },
+      {
+        "id": "weapon-pack-1",
+        "effect": "Weapon pack 1",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "LOADOA",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "R UP B DOWN LEFT R B RIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R UP X DOWN LEFT R X RIGHT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/weapon-pack-1.svg"
+      },
+      {
+        "id": "weapon-pack-2",
+        "effect": "Weapon pack 2",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "LOADOB",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "R UP A DOWN LEFT R A RIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R UP O DOWN LEFT R O RIGHT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/weapon-pack-2.svg"
+      },
+      {
+        "id": "weapon-pack-3",
+        "effect": "Weapon pack 3",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "LOADOC",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "R UP Y DOWN LEFT R Y RIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R UP SQUARE DOWN LEFT R SQUARE RIGHT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/weapon-pack-3.svg"
+      },
+      {
+        "id": "weapon-pack-4",
+        "effect": "Weapon pack 4",
+        "codes": [
+          {
+            "platform": "iOS / Android",
+            "code": "LOADOD",
+            "input": "keyboard"
+          },
+          {
+            "platform": "Nintendo DS",
+            "code": "R UP X DOWN LEFT R X RIGHT",
+            "input": "keyboard"
+          },
+          {
+            "platform": "PlayStation Portable",
+            "code": "R UP TRIANGLE DOWN LEFT R TRIANGLE RIGHT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-chinatown-wars/weapon-pack-4.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "chinatown",
+        "name": "Chinatown",
+        "type": "District",
+        "parent": "Portland",
+        "summary": "Triad heartland and the game's opening area.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/chinatown.svg"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "Liberty City in 2009, rendered top-down with a stylised cel-shaded look.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/liberty-city.svg"
+      },
+      {
+        "id": "portland",
+        "name": "Portland",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/portland.png"
+      },
+      {
+        "id": "shoreside-vale",
+        "name": "Shoreside Vale",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Suburban island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/shoreside-vale.png"
+      },
+      {
+        "id": "staunton-island",
+        "name": "Staunton Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Commercial island.",
+        "verified": true,
+        "image": "assets/img/location/gta-chinatown-wars/staunton-island.png"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "drug-deals",
+        "name": "Drug deals",
+        "type": "Trade",
+        "total": 0,
+        "reward": "Profit and safehouse upgrades",
+        "verified": false,
+        "source": "Continuous economy, not a fixed collectible set",
+        "image": "assets/img/collectible/gta-chinatown-wars/drug-deals.svg"
+      },
+      {
+        "id": "lions-of-south",
+        "name": "Lions of South America",
+        "type": "Collectible",
+        "total": 0,
+        "reward": "Cash and 100% progress",
+        "verified": false,
+        "image": "assets/img/collectible/gta-chinatown-wars/lions-of-south.svg"
+      }
+    ]
+  }
+}

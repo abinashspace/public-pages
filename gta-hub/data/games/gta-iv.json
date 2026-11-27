@@ -1,0 +1,3528 @@
+{
+  "meta": {
+    "slug": "gta-iv",
+    "title": "Grand Theft Auto IV",
+    "year": 2008,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-27T11:35:46.040Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "partial",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "complete",
+      "locations": "partial",
+      "collectibles": "complete"
+    },
+    "counts": {
+      "characters": 26,
+      "missions": 90,
+      "vehicles": 122,
+      "weapons": 23,
+      "cheats": 32,
+      "locations": 12,
+      "collectibles": 4
+    },
+    "images": {
+      "cover": "assets/img/cover/gta-iv/cover.jpg",
+      "banner": "assets/img/banner/gta-iv/banner.jpg",
+      "map": "assets/img/map/gta-iv/map.svg"
+    },
+    "sources": [
+      "GTA IV in-game mission list",
+      "Rockstar Games official GTA IV materials"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "bernie-crane",
+        "name": "Bernie Crane",
+        "role": "Friend",
+        "affiliations": [
+          "Liberty City politics"
+        ],
+        "summary": "An old friend of Niko's from the war, now a flamboyant political fixer.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/bernie-crane.jpg"
+      },
+      {
+        "id": "brucie-kibbutz",
+        "name": "Brucie Kibbutz",
+        "role": "Ally, car dealer",
+        "affiliations": [
+          "Kibbutz Motors"
+        ],
+        "summary": "Steroid-obsessed car dealer and adrenaline junkie.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/brucie-kibbutz.png"
+      },
+      {
+        "id": "derrick-mcreary",
+        "name": "Derrick McReary",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Smackdown\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/derrick-mcreary.jpg"
+      },
+      {
+        "id": "dimitri-rascalov",
+        "name": "Dimitri Rascalov",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "A manipulative Russian gangster who betrays everyone he works with.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/dimitri-rascalov.jpg"
+      },
+      {
+        "id": "dwayne-forge",
+        "name": "Dwayne Forge",
+        "role": "Ally",
+        "affiliations": [
+          "North Holland crew"
+        ],
+        "summary": "An ex-con trying to rebuild his life after prison.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/dwayne-forge.png"
+      },
+      {
+        "id": "elizabeta-torres",
+        "name": "Elizabeta Torres",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 4 missions in gta-iv, starting with \"Luck of the Irish\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/elizabeta-torres.png"
+      },
+      {
+        "id": "francis-mcreary",
+        "name": "Francis McReary",
+        "role": "Corrupt cop",
+        "affiliations": [
+          "Liberty City Police Department",
+          "McReary Crime Family"
+        ],
+        "summary": "A police detective who blackmails Niko into cleaning up his problems.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/francis-mcreary.jpg"
+      },
+      {
+        "id": "gerald-mcreary",
+        "name": "Gerald McReary",
+        "role": "McReary patriarch",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "The eldest McReary brother, running the family business from prison.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/gerald-mcreary.jpg"
+      },
+      {
+        "id": "gerry-mcreary",
+        "name": "Gerry McReary",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 5 missions in gta-iv, starting with \"Actions Speak Louder than Words\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/gerry-mcreary.jpg"
+      },
+      {
+        "id": "jimmy-pegorino",
+        "name": "Jimmy Pegorino",
+        "role": "Boss",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "The head of the Alderney family and Niko's final employer.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/jimmy-pegorino.jpg"
+      },
+      {
+        "id": "jon-gravelli",
+        "name": "Jon Gravelli",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Entourage\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/jon-gravelli.jpg"
+      },
+      {
+        "id": "kate-mcreary",
+        "name": "Kate McReary",
+        "role": "Girlfriend",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "Packie's sister and Niko's moral counterweight.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/kate-mcreary.png"
+      },
+      {
+        "id": "little-jacob",
+        "name": "Little Jacob",
+        "role": "Ally, arms dealer",
+        "affiliations": [
+          "Yardies",
+          "Bellic crew"
+        ],
+        "summary": "Jamaican arms dealer and Niko's most loyal friend.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/little-jacob.png"
+      },
+      {
+        "id": "mallorie-bardas",
+        "name": "Mallorie Bardas",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-iv, starting with \"Hostile Negotiation\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/mallorie-bardas.jpg"
+      },
+      {
+        "id": "manny-escuela",
+        "name": "Manny Escuela",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 3 missions in gta-iv, starting with \"Escuela of the Streets\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/manny-escuela.png"
+      },
+      {
+        "id": "michelle",
+        "name": "Michelle",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 1 mission in gta-iv, starting with \"First Date\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/michelle.svg"
+      },
+      {
+        "id": "mikhail-faustin",
+        "name": "Mikhail Faustin",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "Volatile Russian crime boss whose paranoia starts a war.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/mikhail-faustin.jpg"
+      },
+      {
+        "id": "niko-bellic",
+        "name": "Niko Bellic",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent",
+          "McReary crew (associate)"
+        ],
+        "summary": "A Balkan war veteran who comes to Liberty City chasing the man who betrayed his unit.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto IV",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/niko-bellic.png"
+      },
+      {
+        "id": "packie-mcreary",
+        "name": "Patrick 'Packie' McReary",
+        "role": "Ally, bank robber",
+        "affiliations": [
+          "McReary Crime Family"
+        ],
+        "summary": "The youngest McReary brother, a skilled bank robber and Niko's heist partner.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/packie-mcreary.png"
+      },
+      {
+        "id": "phil-bell",
+        "name": "Phil Bell",
+        "role": "Associate",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "A Pegorino associate running truck hijackings.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/phil-bell.jpg"
+      },
+      {
+        "id": "playboy-x",
+        "name": "Playboy X",
+        "role": "Ally, drug dealer",
+        "affiliations": [
+          "North Holland crew"
+        ],
+        "summary": "An ambitious dealer whose partnership with Niko ends in a choice.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/playboy-x.jpg"
+      },
+      {
+        "id": "ray-boccino",
+        "name": "Ray Boccino",
+        "role": "Associate, capo",
+        "affiliations": [
+          "Pegorino Crime Family"
+        ],
+        "summary": "A Pegorino capo and diamond dealer.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/ray-boccino.jpg"
+      },
+      {
+        "id": "roman-bellic",
+        "name": "Roman Bellic",
+        "role": "Cousin, taxi depot owner",
+        "affiliations": [
+          "Bellic Enterprises"
+        ],
+        "summary": "Niko's cousin, whose exaggerated stories hide a gambling problem and loan-shark debt.",
+        "status": "Varies",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/roman-bellic.jpg"
+      },
+      {
+        "id": "ul-paper-contact",
+        "name": "United Liberty Paper contact",
+        "role": "Handler",
+        "affiliations": [
+          "Federal intelligence"
+        ],
+        "summary": "A shadowy agent who trades favours for information about Niko's past.",
+        "status": "Alive",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/ul-paper-contact.svg"
+      },
+      {
+        "id": "vlad-glebov",
+        "name": "Vlad Glebov",
+        "role": "Mission giver",
+        "affiliations": [],
+        "summary": "Gives 4 missions in gta-iv, starting with \"Bull in a China Shop\". Added from the mission table; affiliations are not tabulated here.",
+        "verified": true,
+        "source": "Derived from the mission list in this dataset (giver field)",
+        "image": "assets/img/portrait/gta-iv/vlad-glebov.jpg"
+      },
+      {
+        "id": "vladimir-glebov",
+        "name": "Vladimir Glebov",
+        "role": "Antagonist",
+        "affiliations": [
+          "Russian Mafia"
+        ],
+        "summary": "A petty loan shark running a small crew out of Hove Beach.",
+        "status": "Deceased",
+        "verified": true,
+        "image": "assets/img/portrait/gta-iv/vladimir-glebov.jpg"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "the-cousins-bellic",
+        "order": 1,
+        "name": "The Cousins Bellic",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach, Broker",
+        "reward": {
+          "other": "Roman's apartment"
+        },
+        "summary": "Niko arrives on the Platypus and sees the reality behind Roman's stories.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/the-cousins-bellic.jpg"
+      },
+      {
+        "id": "its-your-call",
+        "order": 2,
+        "name": "It's Your Call",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach, Broker",
+        "reward": {},
+        "summary": "Deal with the Albanian loan sharks threatening Roman.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/its-your-call.png"
+      },
+      {
+        "id": "threes-a-crowd",
+        "order": 3,
+        "name": "Three's a Crowd",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach, Broker",
+        "reward": {},
+        "summary": "Rescue Roman and his cab from Albanian loan sharks at the docks.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/threes-a-crowd.png"
+      },
+      {
+        "id": "first-date",
+        "order": 4,
+        "name": "First Date",
+        "type": "Story",
+        "giver": "Michelle",
+        "location": "Broker",
+        "reward": {
+          "other": "Michelle as a girlfriend"
+        },
+        "summary": "Take Michelle bowling on a first date.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/first-date.jpg"
+      },
+      {
+        "id": "bleed-out",
+        "order": 5,
+        "name": "Bleed Out",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Firefly Projects, Broker",
+        "reward": {},
+        "summary": "Save Roman from a beating at the Firefly Projects.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/bleed-out.png"
+      },
+      {
+        "id": "easy-fare",
+        "order": 6,
+        "name": "Easy Fare",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach, Broker",
+        "reward": {},
+        "summary": "Collect a fare for Roman's cab company and shake a police tail.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/easy-fare.png"
+      },
+      {
+        "id": "jamaican-heat",
+        "order": 7,
+        "name": "Jamaican Heat",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Broker",
+        "reward": {
+          "other": "Little Jacob introduced"
+        },
+        "summary": "Watch over Little Jacob's deal from a rooftop.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/jamaican-heat.png"
+      },
+      {
+        "id": "concrete-jungle",
+        "order": 8,
+        "name": "Concrete Jungle",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Clear a drug corner for Little Jacob.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/concrete-jungle.png"
+      },
+      {
+        "id": "bull-in-a-china-shop",
+        "order": 9,
+        "name": "Bull in a China Shop",
+        "type": "Story",
+        "giver": "Vlad Glebov",
+        "location": "Hove Beach, Broker",
+        "reward": {},
+        "summary": "Intimidate a shopkeeper who owes Vlad money.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/bull-in-a-china-shop.jpg"
+      },
+      {
+        "id": "hung-out-to-dry",
+        "order": 10,
+        "name": "Hung Out to Dry",
+        "type": "Story",
+        "giver": "Vlad Glebov",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Chase down a laundry owner who skipped out on Vlad.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/hung-out-to-dry.jpg"
+      },
+      {
+        "id": "clean-getaway",
+        "order": 11,
+        "name": "Clean Getaway",
+        "type": "Story",
+        "giver": "Vlad Glebov",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Steal a car for Vlad and keep it clean.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/clean-getaway.jpg"
+      },
+      {
+        "id": "ivan-the-not-so-terrible",
+        "order": 12,
+        "name": "Ivan the Not So Terrible",
+        "type": "Story",
+        "giver": "Vlad Glebov",
+        "location": "Broker",
+        "reward": {
+          "other": "Choice: kill Ivan or spare him"
+        },
+        "summary": "Track down Ivan Bytchkov across the rooftops.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/ivan-the-not-so-terrible.png"
+      },
+      {
+        "id": "uncle-vlad",
+        "order": 13,
+        "name": "Uncle Vlad",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Hove Beach, Broker",
+        "reward": {},
+        "summary": "Confront Vlad over Mallorie and kill him.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/uncle-vlad.png"
+      },
+      {
+        "id": "crime-and-punishment",
+        "order": 14,
+        "name": "Crime and Punishment",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Broker",
+        "reward": {
+          "other": "Dimitri introduced"
+        },
+        "summary": "Faustin's men kidnap the cousins and Dimitri appears.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/crime-and-punishment.png"
+      },
+      {
+        "id": "do-you-have-protection",
+        "order": 15,
+        "name": "Do You Have Protection?",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Broker",
+        "reward": {
+          "other": "Underground Gun Shops open"
+        },
+        "summary": "Collect protection money with Dimitri.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/do-you-have-protection.jpg"
+      },
+      {
+        "id": "final-destination",
+        "order": 16,
+        "name": "Final Destination",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Stop a man from testifying against Faustin.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/final-destination.jpg"
+      },
+      {
+        "id": "no-love-lost",
+        "order": 17,
+        "name": "No Love Lost",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Kill the biker leader Faustin blames for an insult.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/no-love-lost.jpg"
+      },
+      {
+        "id": "rigged-to-blow",
+        "order": 18,
+        "name": "Rigged to Blow",
+        "type": "Story",
+        "giver": "Mikhail Faustin",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Deliver a rigged car and get clear before it explodes.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/rigged-to-blow.jpg"
+      },
+      {
+        "id": "shadow",
+        "order": 19,
+        "name": "Shadow",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Broker",
+        "reward": {
+          "other": "Little Jacob becomes a friend"
+        },
+        "summary": "Follow a target through Broker for Jacob.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/shadow.png"
+      },
+      {
+        "id": "logging-on",
+        "order": 20,
+        "name": "Logging On",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Broker",
+        "reward": {
+          "other": "Brucie Kibbutz introduced"
+        },
+        "summary": "Meet Brucie Kibbutz through Roman.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/logging-on.png"
+      },
+      {
+        "id": "search-and-delete",
+        "order": 21,
+        "name": "Search and Delete",
+        "type": "Story",
+        "giver": "Brucie Kibbutz",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Kill Lyle Rivas and take his laptop.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/search-and-delete.png"
+      },
+      {
+        "id": "easy-as-can-be",
+        "order": 22,
+        "name": "Easy as Can Be",
+        "type": "Story",
+        "giver": "Brucie Kibbutz",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Steal Lyle Rivas's car for Brucie.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/easy-as-can-be.jpg"
+      },
+      {
+        "id": "the-master-and-the-molotov",
+        "order": 23,
+        "name": "The Master and the Molotov",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Broker",
+        "reward": {
+          "other": "Faustin killed"
+        },
+        "summary": "Kill Mikhail Faustin on Dimitri's word.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/the-master-and-the-molotov.jpg"
+      },
+      {
+        "id": "russian-revolution",
+        "order": 24,
+        "name": "Russian Revolution",
+        "type": "Story",
+        "giver": "Dimitri Rascalov",
+        "location": "Broker",
+        "reward": {
+          "other": "Bulgarin introduced"
+        },
+        "summary": "Survive the ambush at the warehouse deal.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/russian-revolution.jpg"
+      },
+      {
+        "id": "romans-sorrow",
+        "order": 25,
+        "name": "Roman's Sorrow",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Broker",
+        "reward": {
+          "other": "Move to Bohan"
+        },
+        "summary": "The flat and cab depot burn; the cousins move to Bohan.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/romans-sorrow.png"
+      },
+      {
+        "id": "out-of-the-closet",
+        "order": 26,
+        "name": "Out of the Closet",
+        "type": "Story",
+        "giver": "Brucie Kibbutz",
+        "location": "Broker",
+        "reward": {},
+        "summary": "Deal with Tom Rivas for Brucie.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/out-of-the-closet.jpg"
+      },
+      {
+        "id": "no-1",
+        "order": 27,
+        "name": "No. 1",
+        "type": "Story",
+        "giver": "Brucie Kibbutz",
+        "location": "Broker",
+        "reward": {
+          "other": "Brucie becomes a friend; helicopter travel"
+        },
+        "summary": "Win a street race for Brucie to earn his friendship.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/no-1.jpg"
+      },
+      {
+        "id": "escuela-of-the-streets",
+        "order": 28,
+        "name": "Escuela of the Streets",
+        "type": "Story",
+        "giver": "Manny Escuela",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Help Manny film a crackdown on dealers.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/escuela-of-the-streets.png"
+      },
+      {
+        "id": "street-sweeper",
+        "order": 29,
+        "name": "Street Sweeper",
+        "type": "Story",
+        "giver": "Manny Escuela",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Clear a drug house for Manny's documentary.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/street-sweeper.png"
+      },
+      {
+        "id": "luck-of-the-irish",
+        "order": 30,
+        "name": "Luck of the Irish",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Bohan",
+        "reward": {
+          "other": "Packie McReary introduced"
+        },
+        "summary": "Guard a drug deal for Elizabeta and meet Packie.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/luck-of-the-irish.png"
+      },
+      {
+        "id": "blow-your-cover",
+        "order": 31,
+        "name": "Blow Your Cover",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Bohan",
+        "reward": {
+          "other": "Algonquin opens"
+        },
+        "summary": "Survive a police raid on Elizabeta's deal.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/blow-your-cover.png"
+      },
+      {
+        "id": "the-holland-play",
+        "order": 32,
+        "name": "The Holland Play",
+        "type": "Story",
+        "giver": "Playboy X",
+        "location": "North Holland, Algonquin",
+        "reward": {
+          "other": "Choice: kill Playboy X or Dwayne Forge"
+        },
+        "summary": "Settle the feud between Playboy X and Dwayne Forge.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/the-holland-play.png"
+      },
+      {
+        "id": "ruff-rider",
+        "order": 33,
+        "name": "Ruff Rider",
+        "type": "Story",
+        "giver": "Dwayne Forge",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Track down a biker who robbed Dwayne.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/ruff-rider.png"
+      },
+      {
+        "id": "undress-to-kill",
+        "order": 34,
+        "name": "Undress to Kill",
+        "type": "Story",
+        "giver": "Dwayne Forge",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Hit a strip club that muscled into Dwayne's turf.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/undress-to-kill.jpg"
+      },
+      {
+        "id": "call-and-collect",
+        "order": 35,
+        "name": "Call and Collect",
+        "type": "Story",
+        "giver": "Francis McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Recover a blackmail file for Francis McReary.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/call-and-collect.jpg"
+      },
+      {
+        "id": "the-puerto-rican-connection",
+        "order": 36,
+        "name": "The Puerto Rican Connection",
+        "type": "Story",
+        "giver": "Manny Escuela",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Follow a target's train route for Manny.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/the-puerto-rican-connection.jpg"
+      },
+      {
+        "id": "the-snow-storm",
+        "order": 37,
+        "name": "The Snow Storm",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Bohan",
+        "reward": {
+          "other": "Cocaine recovered"
+        },
+        "summary": "Steal Elizabeta's cocaine back from the police.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/the-snow-storm.jpg"
+      },
+      {
+        "id": "have-a-heart",
+        "order": 38,
+        "name": "Have a Heart",
+        "type": "Story",
+        "giver": "Elizabeta Torres",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Deliver a body for Elizabeta before the police arrive.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/have-a-heart.png"
+      },
+      {
+        "id": "final-interview",
+        "order": 39,
+        "name": "Final Interview",
+        "type": "Story",
+        "giver": "Francis McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Lawyer's office access"
+        },
+        "summary": "Pass a job interview, then kill the lawyer behind it.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/final-interview.png"
+      },
+      {
+        "id": "holland-nights",
+        "order": 40,
+        "name": "Holland Nights",
+        "type": "Story",
+        "giver": "Francis McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Kill a dealer in Holland for Francis.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/holland-nights.jpg"
+      },
+      {
+        "id": "lure",
+        "order": 41,
+        "name": "Lure",
+        "type": "Story",
+        "giver": "Francis McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Lure a target out of his apartment and kill him.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/lure.png"
+      },
+      {
+        "id": "harboring-a-grudge",
+        "order": 42,
+        "name": "Harboring a Grudge",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Kate McReary introduced"
+        },
+        "summary": "Raid a warehouse with Packie for McReary loot.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/harboring-a-grudge.png"
+      },
+      {
+        "id": "waste-not-want-knots",
+        "order": 43,
+        "name": "Waste Not Want Knots",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Kate can be dated"
+        },
+        "summary": "Rob a money-laundering operation with the McRearys.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/waste-not-want-knots.jpg"
+      },
+      {
+        "id": "three-leaf-clover",
+        "order": 44,
+        "name": "Three Leaf Clover",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Alderney opens; Packie as a friend"
+        },
+        "summary": "Rob the Bank of Liberty with the McReary brothers.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/three-leaf-clover.png"
+      },
+      {
+        "id": "actions-speak-louder-than-words",
+        "order": 45,
+        "name": "Actions Speak Louder than Words",
+        "type": "Story",
+        "giver": "Gerry McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Plant a bomb in a rival union office for Gerry.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/actions-speak-louder-than-words.png"
+      },
+      {
+        "id": "i-need-your-clothes-your-boots-and-your-motorcycle",
+        "order": 46,
+        "name": "I Need Your Clothes, Your Boots, and Your Motorcycle",
+        "type": "Story",
+        "giver": "Gerry McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Impersonate a biker and kill a target for Gerry.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/i-need-your-clothes-your-boots-and-your-motorcycle.png"
+      },
+      {
+        "id": "smackdown",
+        "order": 47,
+        "name": "Smackdown",
+        "type": "Story",
+        "giver": "Derrick McReary",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Kill a drug dealer who informed on Derrick.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/smackdown.jpg"
+      },
+      {
+        "id": "a-long-way-to-fall",
+        "order": 48,
+        "name": "A Long Way to Fall",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Throw a target off a rooftop for Ray Boccino.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/a-long-way-to-fall.jpg"
+      },
+      {
+        "id": "taking-in-the-trash",
+        "order": 49,
+        "name": "Taking in the Trash",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Collect Ray's garbage trucks and their hidden cargo.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/taking-in-the-trash.png"
+      },
+      {
+        "id": "meltdown",
+        "order": 50,
+        "name": "Meltdown",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Alderney",
+        "reward": {
+          "other": "Diamonds recovered"
+        },
+        "summary": "Intercept the stolen diamonds for Ray.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/meltdown.jpg"
+      },
+      {
+        "id": "museum-piece",
+        "order": 51,
+        "name": "Museum Piece",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Diamond sale scene"
+        },
+        "summary": "Guard the diamond sale at the Libertonian museum.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/museum-piece.jpg"
+      },
+      {
+        "id": "no-way-on-the-subway",
+        "order": 52,
+        "name": "No Way on the Subway",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Jim Fitzgerald killed"
+        },
+        "summary": "Chase a biker into the subway tunnels for Ray.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/no-way-on-the-subway.png"
+      },
+      {
+        "id": "babysitting",
+        "order": 53,
+        "name": "Babysitting",
+        "type": "Story",
+        "giver": "Derrick McReary",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Escort a boat shipment for Derrick.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/babysitting.jpg"
+      },
+      {
+        "id": "tunnel-of-death",
+        "order": 54,
+        "name": "Tunnel of Death",
+        "type": "Story",
+        "giver": "Derrick McReary",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Ambush a prison convoy in the Booth Tunnel.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/tunnel-of-death.png"
+      },
+      {
+        "id": "blood-brothers",
+        "order": 55,
+        "name": "Blood Brothers",
+        "type": "Story",
+        "giver": "Francis McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Choice: kill Francis or Derrick"
+        },
+        "summary": "Choose which McReary brother survives.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/blood-brothers.png"
+      },
+      {
+        "id": "undertaker",
+        "order": 56,
+        "name": "Undertaker",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Algonquin",
+        "reward": {
+          "other": "A Romero hearse afterwards"
+        },
+        "summary": "Survive an Albanian attack at the McReary funeral.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/undertaker.png"
+      },
+      {
+        "id": "ill-take-her",
+        "order": 57,
+        "name": "I'll Take Her",
+        "type": "Story",
+        "giver": "Gerry McReary",
+        "location": "Alderney",
+        "reward": {
+          "other": "Gracie Ancelotti kidnapped"
+        },
+        "summary": "Kidnap Gracie Ancelotti for the McRearys.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/ill-take-her.jpg"
+      },
+      {
+        "id": "late-checkout",
+        "order": 58,
+        "name": "Late Checkout",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Kill a target in his hotel suite for Ray.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/late-checkout.jpg"
+      },
+      {
+        "id": "truck-hustle",
+        "order": 59,
+        "name": "Truck Hustle",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Hijack a truckload of heroin for Phil Bell.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/truck-hustle.png"
+      },
+      {
+        "id": "pegorinos-pride",
+        "order": 60,
+        "name": "Pegorino's Pride",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Defend the Pegorino compound from attackers.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/pegorinos-pride.png"
+      },
+      {
+        "id": "payback",
+        "order": 61,
+        "name": "Payback",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Take revenge on a crew that robbed the Pegorinos.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/payback.jpg"
+      },
+      {
+        "id": "catch-the-wave",
+        "order": 62,
+        "name": "Catch the Wave",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Steal a shipment of cocaine from the docks.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/catch-the-wave.png"
+      },
+      {
+        "id": "flatline",
+        "order": 63,
+        "name": "Flatline",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "other": "Hospital access"
+        },
+        "summary": "Get to a dying don in hospital before his rivals.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/flatline.jpg"
+      },
+      {
+        "id": "trespass",
+        "order": 64,
+        "name": "Trespass",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Clear squatters from a Pegorino property.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/trespass.png"
+      },
+      {
+        "id": "to-live-and-die-in-alderney",
+        "order": 65,
+        "name": "To Live and Die in Alderney",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Escort a Pegorino deal out of Alderney.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/to-live-and-die-in-alderney.png"
+      },
+      {
+        "id": "deconstruction-for-beginners",
+        "order": 66,
+        "name": "Deconstruction for Beginners",
+        "type": "Story",
+        "giver": "Playboy X",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Wipe out a construction crew for Playboy X.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/deconstruction-for-beginners.png"
+      },
+      {
+        "id": "photo-shoot",
+        "order": 67,
+        "name": "Photo Shoot",
+        "type": "Story",
+        "giver": "Playboy X",
+        "location": "Bohan",
+        "reward": {},
+        "summary": "Photograph and kill a rival for Playboy X.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/photo-shoot.jpg"
+      },
+      {
+        "id": "hostile-negotiation",
+        "order": 68,
+        "name": "Hostile Negotiation",
+        "type": "Story",
+        "giver": "Mallorie Bardas",
+        "location": "Bohan",
+        "reward": {
+          "other": "Roman rescued"
+        },
+        "summary": "Rescue Roman from Dimitri's kidnappers.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/hostile-negotiation.png"
+      },
+      {
+        "id": "wrong-is-right",
+        "order": 69,
+        "name": "Wrong is Right",
+        "type": "Story",
+        "giver": "United Liberty Paper",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Work for the agency that employs Michelle.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/wrong-is-right.jpg"
+      },
+      {
+        "id": "portrait-of-a-killer",
+        "order": 70,
+        "name": "Portrait of a Killer",
+        "type": "Story",
+        "giver": "United Liberty Paper",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Track a killer through Liberty City for the agency.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/portrait-of-a-killer.jpg"
+      },
+      {
+        "id": "dust-off",
+        "order": 71,
+        "name": "Dust Off",
+        "type": "Story",
+        "giver": "United Liberty Paper",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Follow a helicopter target for the agency.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/dust-off.jpg"
+      },
+      {
+        "id": "paper-trail",
+        "order": 72,
+        "name": "Paper Trail",
+        "type": "Story",
+        "giver": "United Liberty Paper",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Roman's penthouse and new fleet"
+        },
+        "summary": "Take down Borodin's helicopter with Little Jacob.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/paper-trail.png"
+      },
+      {
+        "id": "ransom",
+        "order": 73,
+        "name": "Ransom",
+        "type": "Story",
+        "giver": "Packie McReary",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Deliver the ransom for Gracie Ancelotti.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/ransom.jpg"
+      },
+      {
+        "id": "weekend-at-florians",
+        "order": 74,
+        "name": "Weekend at Florian's",
+        "type": "Story",
+        "giver": "Ray Boccino",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Find Florian Cravic, now Bernie Crane.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/weekend-at-florians.jpg"
+      },
+      {
+        "id": "shes-a-keeper",
+        "order": 75,
+        "name": "She's a Keeper",
+        "type": "Story",
+        "giver": "Gerry McReary",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Hold Gracie Ancelotti while the exchange is arranged.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/shes-a-keeper.png"
+      },
+      {
+        "id": "diamonds-are-a-girls-best-friend",
+        "order": 76,
+        "name": "Diamonds Are a Girl's Best Friend",
+        "type": "Story",
+        "giver": "Gerry McReary",
+        "location": "Alderney",
+        "reward": {
+          "other": "Diamonds lost to Bulgarin"
+        },
+        "summary": "Trade Gracie for the diamonds and survive Bulgarin.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/diamonds-are-a-girls-best-friend.png"
+      },
+      {
+        "id": "pest-control",
+        "order": 77,
+        "name": "Pest Control",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {},
+        "summary": "Kill two men who crossed the Pegorino family.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/pest-control.png"
+      },
+      {
+        "id": "hating-the-haters",
+        "order": 78,
+        "name": "Hating the Haters",
+        "type": "Story",
+        "giver": "Bernie Crane",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Stop a man harassing Bernie Crane.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/hating-the-haters.png"
+      },
+      {
+        "id": "union-drive",
+        "order": 79,
+        "name": "Union Drive",
+        "type": "Story",
+        "giver": "Bernie Crane",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Intimidate a union official for Bernie.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/union-drive.jpg"
+      },
+      {
+        "id": "buoys-ahoy",
+        "order": 80,
+        "name": "Buoys Ahoy",
+        "type": "Story",
+        "giver": "Bernie Crane",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Deal with attackers on the water for Bernie.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/buoys-ahoy.png"
+      },
+      {
+        "id": "entourage",
+        "order": 81,
+        "name": "Entourage",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Gravelli's protection"
+        },
+        "summary": "Protect a visiting dignitary for Jon Gravelli.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/entourage.jpg"
+      },
+      {
+        "id": "dining-out",
+        "order": 82,
+        "name": "Dining Out",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Kill a target in a restaurant for Gravelli.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/dining-out.jpg"
+      },
+      {
+        "id": "liquidize-the-assets",
+        "order": 83,
+        "name": "Liquidize the Assets",
+        "type": "Story",
+        "giver": "Jon Gravelli",
+        "location": "Algonquin",
+        "reward": {},
+        "summary": "Destroy a rival's assets for Gravelli.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/liquidize-the-assets.jpg"
+      },
+      {
+        "id": "that-special-someone",
+        "order": 84,
+        "name": "That Special Someone",
+        "type": "Story",
+        "giver": "United Liberty Paper",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Choice: kill Darko Brevic or walk away"
+        },
+        "summary": "Confront Darko Brevic, the man who betrayed Niko's unit.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/that-special-someone.png"
+      },
+      {
+        "id": "one-last-thing",
+        "order": 85,
+        "name": "One Last Thing",
+        "type": "Story",
+        "giver": "Jimmy Pegorino",
+        "location": "Alderney",
+        "reward": {
+          "other": "Choice: Deal or Revenge"
+        },
+        "summary": "Decide whether to take Dimitri's deal or go for revenge.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/one-last-thing.jpg"
+      },
+      {
+        "id": "if-the-price-is-right",
+        "order": 86,
+        "name": "If the Price is Right",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "money": 250000,
+          "other": "Deal path; $250,000"
+        },
+        "summary": "Deal path: the heroin exchange at Port Tudor goes wrong.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/if-the-price-is-right.jpg"
+      },
+      {
+        "id": "a-dish-served-cold",
+        "order": 87,
+        "name": "A Dish Served Cold",
+        "type": "Story",
+        "giver": "Phil Bell",
+        "location": "Alderney",
+        "reward": {
+          "other": "Revenge path"
+        },
+        "summary": "Revenge path: kill Dimitri aboard the Platypus.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/a-dish-served-cold.jpg"
+      },
+      {
+        "id": "mr-and-mrs-bellic",
+        "order": 88,
+        "name": "Mr. & Mrs. Bellic",
+        "type": "Story",
+        "giver": "Roman Bellic",
+        "location": "Algonquin",
+        "reward": {
+          "other": "Roman dies (Deal) / Kate dies (Revenge)"
+        },
+        "summary": "The wedding, and the drive-by that follows it.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/mr-and-mrs-bellic.png"
+      },
+      {
+        "id": "a-revengers-tragedy",
+        "order": 89,
+        "name": "A Revenger's Tragedy",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Happiness Island, Algonquin",
+        "reward": {
+          "other": "Deal path finale"
+        },
+        "summary": "Deal path: chase Dimitri to Happiness Island and kill him.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/a-revengers-tragedy.jpg"
+      },
+      {
+        "id": "out-of-commission",
+        "order": 90,
+        "name": "Out of Commission",
+        "type": "Story",
+        "giver": "Little Jacob",
+        "location": "Happiness Island, Algonquin",
+        "reward": {
+          "money": 250000,
+          "other": "Revenge path finale; $250,000"
+        },
+        "summary": "Revenge path: hunt Pegorino down on Happiness Island.",
+        "verified": true,
+        "source": "GTA IV mission order, givers and unlocks cross-checked against published mission tables",
+        "image": "assets/img/mission/gta-iv/out-of-commission.png"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "admiral",
+        "name": "Admiral",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/admiral.png"
+      },
+      {
+        "id": "airtug",
+        "name": "Airtug",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/airtug.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Medical",
+        "top_speed_kph": 165,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/ambulance.png"
+      },
+      {
+        "id": "annihilator",
+        "name": "Annihilator",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Attack helicopter",
+        "top_speed_kph": 260,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/annihilator.png"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 255,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/banshee.png"
+      },
+      {
+        "id": "benson",
+        "name": "Benson",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/benson.png"
+      },
+      {
+        "id": "biff",
+        "name": "Biff",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/biff.png"
+      },
+      {
+        "id": "blista-compact",
+        "name": "Blista Compact",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/blista-compact.svg"
+      },
+      {
+        "id": "bobcat",
+        "name": "Bobcat",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Pickup",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/bobcat.png"
+      },
+      {
+        "id": "boxville",
+        "name": "Boxville",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/boxville.png"
+      },
+      {
+        "id": "bucanneer",
+        "name": "Bucanneer",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/bucanneer.svg"
+      },
+      {
+        "id": "burrito",
+        "name": "Burrito",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/burrito.png"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/bus.png"
+      },
+      {
+        "id": "cabby",
+        "name": "Cabby",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/cabby.png"
+      },
+      {
+        "id": "cablecar",
+        "name": "Cablecar",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/cablecar.png"
+      },
+      {
+        "id": "cavalcade",
+        "name": "Cavalcade",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "SUV",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/cavalcade.png"
+      },
+      {
+        "id": "cavalcade-fxt",
+        "name": "Cavalcade FXT",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/cavalcade-fxt.png"
+      },
+      {
+        "id": "chavos",
+        "name": "Chavos",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/chavos.png"
+      },
+      {
+        "id": "cognoscenti",
+        "name": "Cognoscenti",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/cognoscenti.png"
+      },
+      {
+        "id": "comet",
+        "name": "Comet",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/comet.png"
+      },
+      {
+        "id": "contender",
+        "name": "Contender",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/contender.png"
+      },
+      {
+        "id": "coquette",
+        "name": "Coquette",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/coquette.png"
+      },
+      {
+        "id": "df8-90",
+        "name": "DF8-90",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/df8-90.png"
+      },
+      {
+        "id": "dilettante",
+        "name": "Dilettante",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/dilettante.png"
+      },
+      {
+        "id": "dinghy",
+        "name": "Dinghy",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/dinghy.png"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "top_speed_kph": 230,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/dukes.png"
+      },
+      {
+        "id": "emperor",
+        "name": "Emperor",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/emperor.png"
+      },
+      {
+        "id": "enforcer",
+        "name": "Enforcer",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Police van",
+        "top_speed_kph": 160,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/enforcer.png"
+      },
+      {
+        "id": "esperanto",
+        "name": "Esperanto",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/esperanto.png"
+      },
+      {
+        "id": "faction",
+        "name": "Faction",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/faction.png"
+      },
+      {
+        "id": "faggio",
+        "name": "Faggio",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/faggio.png"
+      },
+      {
+        "id": "fbi-buffalo",
+        "name": "FBI Buffalo",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": 250,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/fbi-buffalo.svg"
+      },
+      {
+        "id": "feltzer",
+        "name": "Feltzer",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 245,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/feltzer.png"
+      },
+      {
+        "id": "feroci",
+        "name": "Feroci",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/feroci.png"
+      },
+      {
+        "id": "fib-buffalo",
+        "name": "FIB Buffalo",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/fib-buffalo.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Fire",
+        "top_speed_kph": 150,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/fire-truck.png"
+      },
+      {
+        "id": "flatbed",
+        "name": "Flatbed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/flatbed.png"
+      },
+      {
+        "id": "forklift",
+        "name": "Forklift",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/forklift.png"
+      },
+      {
+        "id": "fortune",
+        "name": "Fortune",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/fortune.png"
+      },
+      {
+        "id": "freeway",
+        "name": "Freeway",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Cruiser",
+        "top_speed_kph": 200,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/freeway.png"
+      },
+      {
+        "id": "futo",
+        "name": "Futo",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/futo.png"
+      },
+      {
+        "id": "habanero",
+        "name": "Habanero",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/habanero.png"
+      },
+      {
+        "id": "hakumai",
+        "name": "Hakumai",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/hakumai.png"
+      },
+      {
+        "id": "helitours-maverick",
+        "name": "Helitours Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/helitours-maverick.png"
+      },
+      {
+        "id": "hellfury",
+        "name": "Hellfury",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Cruiser",
+        "top_speed_kph": 195,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/hellfury.png"
+      },
+      {
+        "id": "huntley-sport",
+        "name": "Huntley Sport",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "SUV",
+        "top_speed_kph": 210,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/huntley-sport.png"
+      },
+      {
+        "id": "infernus",
+        "name": "Infernus",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Super",
+        "top_speed_kph": 290,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/infernus.png"
+      },
+      {
+        "id": "ingot",
+        "name": "Ingot",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/ingot.png"
+      },
+      {
+        "id": "intruder",
+        "name": "Intruder",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/intruder.png"
+      },
+      {
+        "id": "jetmax",
+        "name": "Jetmax",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Speedboat",
+        "top_speed_kph": 130,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/jetmax.png"
+      },
+      {
+        "id": "landstalker",
+        "name": "Landstalker",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/landstalker.png"
+      },
+      {
+        "id": "laundromat",
+        "name": "Laundromat",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/laundromat.png"
+      },
+      {
+        "id": "lokus",
+        "name": "Lokus",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/lokus.png"
+      },
+      {
+        "id": "manana",
+        "name": "Manana",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/manana.png"
+      },
+      {
+        "id": "marbelle",
+        "name": "Marbelle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/marbelle.png"
+      },
+      {
+        "id": "marquis",
+        "name": "Marquis",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/marquis.png"
+      },
+      {
+        "id": "maverick",
+        "name": "Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Helicopter",
+        "top_speed_kph": 230,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/maverick.png"
+      },
+      {
+        "id": "merit",
+        "name": "Merit",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/merit.png"
+      },
+      {
+        "id": "minivan",
+        "name": "Minivan",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/minivan.png"
+      },
+      {
+        "id": "moonbeam",
+        "name": "Moonbeam",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/moonbeam.png"
+      },
+      {
+        "id": "mr-tasty",
+        "name": "Mr. Tasty",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/mr-tasty.png"
+      },
+      {
+        "id": "mule",
+        "name": "Mule",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/mule.png"
+      },
+      {
+        "id": "noose-cruiser",
+        "name": "NOOSE Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/noose-cruiser.png"
+      },
+      {
+        "id": "noose-patriot",
+        "name": "NOOSE Patriot",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/noose-patriot.png"
+      },
+      {
+        "id": "nrg-900",
+        "name": "NRG 900",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sport bike",
+        "top_speed_kph": 260,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/nrg-900.png"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/oracle.png"
+      },
+      {
+        "id": "packer",
+        "name": "Packer",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/packer.png"
+      },
+      {
+        "id": "patriot",
+        "name": "Patriot",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "SUV",
+        "top_speed_kph": 205,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/patriot.png"
+      },
+      {
+        "id": "pcj-600",
+        "name": "PCJ 600",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sport bike",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/pcj-600.png"
+      },
+      {
+        "id": "perennial",
+        "name": "Perennial",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/perennial.png"
+      },
+      {
+        "id": "peyote",
+        "name": "Peyote",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/peyote.png"
+      },
+      {
+        "id": "phantom",
+        "name": "Phantom",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/phantom.png"
+      },
+      {
+        "id": "pinnacle",
+        "name": "Pinnacle",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/pinnacle.png"
+      },
+      {
+        "id": "pmp-600",
+        "name": "PMP 600",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/pmp-600.png"
+      },
+      {
+        "id": "police-cruiser",
+        "name": "Police Cruiser",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Police",
+        "top_speed_kph": 225,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/police-cruiser.png"
+      },
+      {
+        "id": "police-maverick",
+        "name": "Police Maverick",
+        "category": "Helicopters",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Helicopter",
+        "top_speed_kph": 230,
+        "seats": 3,
+        "image": "assets/img/vehicle/gta-iv/police-maverick.png"
+      },
+      {
+        "id": "police-patrol",
+        "name": "Police Patrol",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/police-patrol.png"
+      },
+      {
+        "id": "police-predator",
+        "name": "Police Predator",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/police-predator.png"
+      },
+      {
+        "id": "police-stockade",
+        "name": "Police Stockade",
+        "category": "Emergency, rescue & government",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/police-stockade.png"
+      },
+      {
+        "id": "pony",
+        "name": "Pony",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/pony.png"
+      },
+      {
+        "id": "premier",
+        "name": "Premier",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/premier.png"
+      },
+      {
+        "id": "presidente",
+        "name": "Presidente",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/presidente.png"
+      },
+      {
+        "id": "primo",
+        "name": "Primo",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/primo.png"
+      },
+      {
+        "id": "rancher",
+        "name": "Rancher",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/rancher.png"
+      },
+      {
+        "id": "rebla",
+        "name": "Rebla",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/rebla.png"
+      },
+      {
+        "id": "reefer",
+        "name": "Reefer",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/reefer.png"
+      },
+      {
+        "id": "ripley",
+        "name": "Ripley",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/ripley.png"
+      },
+      {
+        "id": "romans-taxi",
+        "name": "Roman's Taxi",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Taxi",
+        "top_speed_kph": 200,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/romans-taxi.png"
+      },
+      {
+        "id": "romero",
+        "name": "Romero",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/romero.png"
+      },
+      {
+        "id": "ruiner",
+        "name": "Ruiner",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "top_speed_kph": 235,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/ruiner.png"
+      },
+      {
+        "id": "sabre",
+        "name": "Sabre",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/sabre.png"
+      },
+      {
+        "id": "sabre-gt",
+        "name": "Sabre GT",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "top_speed_kph": 240,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/sabre-gt.png"
+      },
+      {
+        "id": "sanchez",
+        "name": "Sanchez",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Dirt bike",
+        "top_speed_kph": 210,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/sanchez.png"
+      },
+      {
+        "id": "schafter",
+        "name": "Schafter",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 220,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/schafter.png"
+      },
+      {
+        "id": "securicar",
+        "name": "Securicar",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/securicar.png"
+      },
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sedan",
+        "top_speed_kph": 215,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/sentinel.png"
+      },
+      {
+        "id": "solair",
+        "name": "Solair",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/solair.png"
+      },
+      {
+        "id": "speedo",
+        "name": "Speedo",
+        "category": "Light trucks & vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/speedo.png"
+      },
+      {
+        "id": "squalo",
+        "name": "Squalo",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Speedboat",
+        "top_speed_kph": 120,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/squalo.png"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "top_speed_kph": 225,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/stallion.png"
+      },
+      {
+        "id": "steed",
+        "name": "Steed",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/steed.png"
+      },
+      {
+        "id": "stratum",
+        "name": "Stratum",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/stratum.png"
+      },
+      {
+        "id": "stretch",
+        "name": "Stretch",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/stretch.png"
+      },
+      {
+        "id": "subway",
+        "name": "Subway",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/subway.svg"
+      },
+      {
+        "id": "sultan",
+        "name": "Sultan",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/sultan.png"
+      },
+      {
+        "id": "sultan-rs",
+        "name": "Sultan RS",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Sports",
+        "top_speed_kph": 255,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/sultan-rs.png"
+      },
+      {
+        "id": "super-gt",
+        "name": "Super GT",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": 265,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta-iv/super-gt.png"
+      },
+      {
+        "id": "supergt",
+        "name": "SuperGT",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/supergt.png"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/taxi.png"
+      },
+      {
+        "id": "trashmaster",
+        "name": "Trashmaster",
+        "category": "Public service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/trashmaster.png"
+      },
+      {
+        "id": "tropic",
+        "name": "Tropic",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Boat",
+        "top_speed_kph": 100,
+        "seats": 4,
+        "image": "assets/img/vehicle/gta-iv/tropic.png"
+      },
+      {
+        "id": "tug",
+        "name": "Tug",
+        "category": "Boats",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/tug.png"
+      },
+      {
+        "id": "turismo",
+        "name": "Turismo",
+        "category": "Sports & supercars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Super",
+        "top_speed_kph": 285,
+        "seats": 2,
+        "image": "assets/img/vehicle/gta-iv/turismo.png"
+      },
+      {
+        "id": "uranus",
+        "name": "Uranus",
+        "category": "Coupes & hatchbacks",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/uranus.png"
+      },
+      {
+        "id": "vigero",
+        "name": "Vigero",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/vigero.png"
+      },
+      {
+        "id": "vincent",
+        "name": "Vincent",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/vincent.png"
+      },
+      {
+        "id": "virgo",
+        "name": "Virgo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/virgo.png"
+      },
+      {
+        "id": "voodoo",
+        "name": "Voodoo",
+        "category": "Muscle cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/voodoo.png"
+      },
+      {
+        "id": "washington",
+        "name": "Washington",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/washington.png"
+      },
+      {
+        "id": "willard",
+        "name": "Willard",
+        "category": "Sedans & station wagons",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/willard.png"
+      },
+      {
+        "id": "yankee",
+        "name": "Yankee",
+        "category": "Commercial & industrial",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/yankee.png"
+      },
+      {
+        "id": "zombie",
+        "name": "Zombie",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta-iv/zombie.png"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "assault-rifle",
+        "name": "Assault Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "unlock": "Little Jacob",
+        "image": "assets/img/weapon/gta-iv/assault-rifle.png"
+      },
+      {
+        "id": "baseball-bat",
+        "name": "Baseball Bat",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-iv/baseball-bat.png"
+      },
+      {
+        "id": "carbine-rifle",
+        "name": "Carbine Rifle",
+        "type": "Assault Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "30 rounds",
+        "unlock": "Little Jacob (later)",
+        "image": "assets/img/weapon/gta-iv/carbine-rifle.png"
+      },
+      {
+        "id": "combat-pistol",
+        "name": "Combat Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/combat-pistol.png"
+      },
+      {
+        "id": "combat-shotgun",
+        "name": "Combat Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/combat-shotgun.png"
+      },
+      {
+        "id": "combat-sniper",
+        "name": "Combat Sniper",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/combat-sniper.png"
+      },
+      {
+        "id": "desert-eagle",
+        "name": "Desert Eagle",
+        "type": "Handgun",
+        "damage_tier": "Very high",
+        "ammo": "7 rounds",
+        "price": null,
+        "unlock": "Little Jacob / gun van",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/desert-eagle.svg"
+      },
+      {
+        "id": "fist",
+        "name": "Fist",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/fist.png"
+      },
+      {
+        "id": "fists",
+        "name": "Fists",
+        "type": "Melee",
+        "damage_tier": "Low",
+        "ammo": "—",
+        "price": null,
+        "unlock": "Default",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/fists.svg"
+      },
+      {
+        "id": "glock-17",
+        "name": "Glock 17",
+        "type": "Handgun",
+        "damage_tier": "Medium",
+        "ammo": "17 rounds",
+        "price": null,
+        "unlock": "Default sidearm",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/glock-17.svg"
+      },
+      {
+        "id": "grenade",
+        "name": "Grenade",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/grenade.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/grenades.png"
+      },
+      {
+        "id": "knife",
+        "name": "Knife",
+        "type": "Melee",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "—",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta-iv/knife.png"
+      },
+      {
+        "id": "micro-smg",
+        "name": "Micro SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "30 rounds",
+        "unlock": "Little Jacob",
+        "image": "assets/img/weapon/gta-iv/micro-smg.png"
+      },
+      {
+        "id": "molotov-cocktail",
+        "name": "Molotov Cocktail",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/molotov-cocktail.png"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "25",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/molotov.png"
+      },
+      {
+        "id": "mp5",
+        "name": "MP5",
+        "type": "Submachine gun",
+        "damage_tier": "High",
+        "ammo": "30 rounds",
+        "price": null,
+        "unlock": "Little Jacob",
+        "verified": true,
+        "image": "assets/img/weapon/gta-iv/mp5.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/pistol.png"
+      },
+      {
+        "id": "pump-shotgun",
+        "name": "Pump Shotgun",
+        "type": "Shotguns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "8 shells",
+        "unlock": "Little Jacob",
+        "image": "assets/img/weapon/gta-iv/pump-shotgun.png"
+      },
+      {
+        "id": "random-pickable-objects",
+        "name": "Random Pickable Objects",
+        "type": "Thrown Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/random-pickable-objects.png"
+      },
+      {
+        "id": "rpg",
+        "name": "RPG",
+        "type": "Heavy Weapons",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "5 rockets",
+        "unlock": "Little Jacob",
+        "image": "assets/img/weapon/gta-iv/rpg.png"
+      },
+      {
+        "id": "smg",
+        "name": "SMG",
+        "type": "Submachine Guns",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta-iv/smg.png"
+      },
+      {
+        "id": "sniper-rifle",
+        "name": "Sniper Rifle",
+        "type": "Sniper Rifles",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "5 rounds",
+        "unlock": "Little Jacob",
+        "image": "assets/img/weapon/gta-iv/sniper-rifle.png"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "advanced-weapons-set-and-refill-ammo-baseball-bat",
+        "effect": "Advanced weapons set and refill ammo ( Baseball Bat , Combat Pistol , Combat Shotgun , SMG , Carbine Rifle , Combat Sniper , Grenades and RPG )",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "486-555-0100 (GUN-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/advanced-weapons-set-and-refill-ammo-baseball-bat.svg"
+      },
+      {
+        "id": "advanced-weapons-set-and-refill-ammo-knife-pistol-44",
+        "effect": "Advanced weapons set and refill ammo ( Knife , Pistol .44 , Explosive Shotgun , Assault SMG , Advanced MG , Advanced Sniper , Grenade Launcher , Sticky Bombs )",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "486-555-0100 (GUN-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/advanced-weapons-set-and-refill-ammo-knife-pistol-44.svg"
+      },
+      {
+        "id": "akuma",
+        "effect": "Akuma",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "625-555-0200 (MBK-555-0200)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/akuma.svg"
+      },
+      {
+        "id": "annihilator",
+        "effect": "Annihilator",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "359-555-0100 (FLY-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/annihilator.svg"
+      },
+      {
+        "id": "apc",
+        "effect": "APC",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "272-555-8265 (APC-555-TANK)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/apc.svg"
+      },
+      {
+        "id": "bullet-gt",
+        "effect": "Bullet GT",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-9666 (CAR-555-ZOOM)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/bullet-gt.svg"
+      },
+      {
+        "id": "buzzard",
+        "effect": "Buzzard",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "359-555-2899 (FLY-555-BUZZ)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/buzzard.svg"
+      },
+      {
+        "id": "clear-wanted-level",
+        "effect": "Clear wanted level",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "267-555-0100 (COP-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/clear-wanted-level.svg"
+      },
+      {
+        "id": "cognoscenti",
+        "effect": "Cognoscenti",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-0142 (CAR-555-0142)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/cognoscenti.svg"
+      },
+      {
+        "id": "comet",
+        "effect": "Comet",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-0175 (CAR-555-0175)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/comet.svg"
+      },
+      {
+        "id": "cycles-weather-sequentially-to-the-next-condition-in",
+        "effect": "Cycles weather sequentially to the next condition in the same order as the timecyc.dat file; there are eight different weather conditions",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "468-555-0100 (HOT-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/cycles-weather-sequentially-to-the-next-condition-in.svg"
+      },
+      {
+        "id": "double-t-custom",
+        "effect": "Double T Custom",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "245-555-0125 (BIK-555-0125)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/double-t-custom.svg"
+      },
+      {
+        "id": "explosive-sniper-rounds",
+        "effect": "Explosive sniper rounds",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "486-555-2526 (GUN-555-BLAM)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/explosive-sniper-rounds.svg"
+      },
+      {
+        "id": "fib-buffalo",
+        "effect": "FIB Buffalo",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-0100 (CAR-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/fib-buffalo.svg"
+      },
+      {
+        "id": "floater",
+        "effect": "Floater",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "938-555-0150 (WET-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/floater.svg"
+      },
+      {
+        "id": "gang-burrito",
+        "effect": "Gang Burrito",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "826-555-0150 (VAN-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/gang-burrito.svg"
+      },
+      {
+        "id": "hakuchou-custom",
+        "effect": "Hakuchou Custom",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "245-555-0199 (BIK-555-0199)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/hakuchou-custom.svg"
+      },
+      {
+        "id": "hexer",
+        "effect": "Hexer",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "245-555-0150 (BIK-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/hexer.svg"
+      },
+      {
+        "id": "increase-wanted-level-by-one-star",
+        "effect": "Increase wanted level by one star",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "267-555-0150 (COP-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/increase-wanted-level-by-one-star.svg"
+      },
+      {
+        "id": "innovation",
+        "effect": "Innovation",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "245-555-0100 (BIK-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/innovation.svg"
+      },
+      {
+        "id": "jetmax",
+        "effect": "Jetmax",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "938-555-0100 (WET-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/jetmax.svg"
+      },
+      {
+        "id": "luis-throws-explosive-punches",
+        "effect": "Luis throws explosive punches",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "276-555-2666 (ARM-555-BOOM)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/luis-throws-explosive-punches.svg"
+      },
+      {
+        "id": "nrg-900",
+        "effect": "NRG 900",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "625-555-0100 (MBK-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/nrg-900.svg"
+      },
+      {
+        "id": "parachute",
+        "effect": "Parachute",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "359-555-7272 (FLY-555-PARA)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/parachute.svg"
+      },
+      {
+        "id": "poor-weapons-set-and-refill-ammo-knife-pistol-pump",
+        "effect": "Poor weapons set and refill ammo ( Knife , Pistol , Pump Shotgun , Micro-SMG , Assault Rifle , Combat Sniper , Molotov Cocktail and RPG )",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "486-555-0150 (GUN-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/poor-weapons-set-and-refill-ammo-knife-pistol-pump.svg"
+      },
+      {
+        "id": "refill-health-and-ammo-repair-vehicle-and-advanced",
+        "effect": "Refill health and ammo, repair vehicle, and advanced weapons set",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "482-555-0100 (GTA-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/refill-health-and-ammo-repair-vehicle-and-advanced.svg"
+      },
+      {
+        "id": "refill-health-and-armor-repair-vehicle",
+        "effect": "Refill health and armor, repair vehicle",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "362-555-0100 (DOC-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/refill-health-and-armor-repair-vehicle.svg"
+      },
+      {
+        "id": "sanchez",
+        "effect": "Sanchez",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "625-555-0150 (MBK-555-0150)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/sanchez.svg"
+      },
+      {
+        "id": "slamvan",
+        "effect": "Slamvan",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "826-555-0100 (VAN-555-0100)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/slamvan.svg"
+      },
+      {
+        "id": "supergt",
+        "effect": "SuperGT",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-0168 (CAR-555-0168)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/supergt.svg"
+      },
+      {
+        "id": "turismo",
+        "effect": "Turismo",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "227-555-0147 (CAR-555-0147)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/turismo.svg"
+      },
+      {
+        "id": "vader",
+        "effect": "Vader",
+        "codes": [
+          {
+            "platform": "In-game phone",
+            "code": "625-555-3273 (MBK-555-FARE)",
+            "input": "phone"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta-iv/vader.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "alderney",
+        "name": "Alderney",
+        "type": "State",
+        "parent": "Liberty City",
+        "summary": "New Jersey analogue across the river, Pegorino territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/alderney.png"
+      },
+      {
+        "id": "algonquin",
+        "name": "Algonquin",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Manhattan analogue and the city's centre.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/algonquin.jpg"
+      },
+      {
+        "id": "bohan",
+        "name": "Bohan",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Bronx analogue, northern borough.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/bohan.png"
+      },
+      {
+        "id": "broker",
+        "name": "Broker",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Brooklyn analogue and Niko's first neighbourhood, Hove Beach.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/broker.png"
+      },
+      {
+        "id": "colon-island",
+        "name": "Colony Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Industrial island with the warehouse from The Snow Storm.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/colon-island.png"
+      },
+      {
+        "id": "dukes",
+        "name": "Dukes",
+        "type": "Borough",
+        "parent": "Liberty City",
+        "summary": "Queens analogue with the airport and McReary territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/dukes.png"
+      },
+      {
+        "id": "francis-international-airport",
+        "name": "Francis International Airport",
+        "type": "Landmark",
+        "parent": "Dukes",
+        "summary": "Liberty City's main airport.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/francis-international-airport.png"
+      },
+      {
+        "id": "happiness-island",
+        "name": "Happiness Island",
+        "type": "Island",
+        "parent": "Liberty City",
+        "summary": "Statue island in the bay, significant in the endgame.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/happiness-island.png"
+      },
+      {
+        "id": "hove-beach",
+        "name": "Hove Beach",
+        "type": "Neighbourhood",
+        "parent": "Broker",
+        "summary": "Russian immigrant neighbourhood with Roman's taxi depot.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/hove-beach.png"
+      },
+      {
+        "id": "libertian-museum",
+        "name": "Libertonian Museum",
+        "type": "Landmark",
+        "parent": "Algonquin",
+        "summary": "Museum where the diamond deal takes place.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/libertian-museum.png"
+      },
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "The HD-era Liberty City, modelled on New York and New Jersey.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/liberty-city.svg"
+      },
+      {
+        "id": "north-holland",
+        "name": "North Holland",
+        "type": "Neighbourhood",
+        "parent": "Algonquin",
+        "summary": "Harlem analogue; Playboy X and Dwayne Forge territory.",
+        "verified": true,
+        "image": "assets/img/location/gta-iv/north-holland.png"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "flying-rats",
+        "name": "Flying Rats",
+        "type": "Pigeon",
+        "total": 200,
+        "reward": "Weapons at safehouses per borough",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/flying-rats.png"
+      },
+      {
+        "id": "most-wanted",
+        "name": "Most Wanted",
+        "type": "Side job",
+        "total": 30,
+        "reward": "Cash and weapon rewards",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/most-wanted.jpg"
+      },
+      {
+        "id": "unique-jumps",
+        "name": "Unique Stunt Jumps",
+        "type": "Stunt",
+        "total": 50,
+        "reward": "Cash and 100% progress",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/unique-jumps.png"
+      },
+      {
+        "id": "vigilante-levels",
+        "name": "Vigilante",
+        "type": "Side job",
+        "total": 1,
+        "reward": "Armor and cash",
+        "verified": true,
+        "image": "assets/img/collectible/gta-iv/vigilante-levels.svg"
+      }
+    ]
+  }
+}

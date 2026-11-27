@@ -1,0 +1,2542 @@
+{
+  "meta": {
+    "slug": "gta",
+    "title": "Grand Theft Auto",
+    "year": 1997,
+    "type": "Main",
+    "status": "released",
+    "generated": "2026-11-27T11:35:44.234Z",
+    "schema_version": "1.0.0",
+    "coverage": {
+      "characters": "limited",
+      "missions": "complete",
+      "vehicles": "complete",
+      "weapons": "complete",
+      "cheats": "complete",
+      "locations": "partial",
+      "collectibles": "limited"
+    },
+    "counts": {
+      "characters": 4,
+      "missions": 100,
+      "vehicles": 60,
+      "weapons": 8,
+      "cheats": 35,
+      "locations": 3,
+      "collectibles": 1
+    },
+    "images": {
+      "cover": "assets/img/cover/gta/cover.jpg",
+      "banner": "assets/img/banner/gta/banner.jpg",
+      "map": "assets/img/map/gta/map.svg"
+    },
+    "sources": [
+      "GTA 1 in-game city select",
+      "DMA Design press materials, 1997"
+    ],
+    "license": "Unofficial fan data. Game names and trademarks belong to Rockstar Games / Take-Two Interactive."
+  },
+  "characters": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "el-burro-gta1",
+        "name": "El Burro",
+        "role": "Boss (San Andreas)",
+        "affiliations": [
+          "San Andreas gangs"
+        ],
+        "summary": "A San Andreas mission boss in the original top-down game.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/el-burro-gta1.svg"
+      },
+      {
+        "id": "player-character",
+        "name": "Player-named protagonist",
+        "role": "Protagonist",
+        "affiliations": [
+          "Independent"
+        ],
+        "summary": "The player picks one of several starting characters; all follow the same three-city crime ladder.",
+        "status": "Varies",
+        "first_appearance": "Grand Theft Auto",
+        "verified": false,
+        "source": "Character select roster needs verification",
+        "image": "assets/img/portrait/gta/player-character.svg"
+      },
+      {
+        "id": "samuel-deever",
+        "name": "Samuel Deever",
+        "role": "Boss (Vice City)",
+        "affiliations": [
+          "Vice City gangs"
+        ],
+        "summary": "Vice City mission contact in the original game.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/samuel-deever.png"
+      },
+      {
+        "id": "uncle-fu",
+        "name": "Uncle Fu",
+        "role": "Boss (Liberty City)",
+        "affiliations": [
+          "Liberty City gangs"
+        ],
+        "summary": "One of the city bosses who hands out missions in Liberty City.",
+        "status": "Alive",
+        "verified": false,
+        "image": "assets/img/portrait/gta/uncle-fu.png"
+      }
+    ]
+  },
+  "missions": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "introduction",
+        "order": 1,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Answer the South Park phones to get jobs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction.svg"
+      },
+      {
+        "id": "phone-1",
+        "order": 2,
+        "name": "Phone 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Drive Crazy Jimmy to Bubby's love nest.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1.svg"
+      },
+      {
+        "id": "phone-2",
+        "order": 3,
+        "name": "Phone 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Steal the Angels ' Bike and deliver the drugs to Tony Dio .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2.svg"
+      },
+      {
+        "id": "phone-3",
+        "order": 4,
+        "name": "Phone 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kill the police chief and Sonetti's lawyer and associates.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3.svg"
+      },
+      {
+        "id": "phone-4",
+        "order": 5,
+        "name": "Phone 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Deliver two Taxis to the crane at the docks and kill the contact's brother.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4.svg"
+      },
+      {
+        "id": "beast-gts-southwest-island-heights",
+        "order": 6,
+        "name": "Beast GTS ( Southwest Island Heights )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kill the two men who tore up Bubby's cat house.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/beast-gts-southwest-island-heights.svg"
+      },
+      {
+        "id": "bulldog-south-tellberg",
+        "order": 7,
+        "name": "Bulldog ( South Tellberg )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Take the car to Dalgetti's place.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/bulldog-south-tellberg.svg"
+      },
+      {
+        "id": "coach-northeast-fort-law",
+        "order": 8,
+        "name": "Coach ( Northeast Fort Law )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Drive around the bus while the Vercottis try to find a way to disarm the bomb planted by Sonetti's men.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/coach-northeast-fort-law.svg"
+      },
+      {
+        "id": "cossie-northeast-island-city",
+        "order": 9,
+        "name": "Cossie ( Northeast Island City )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Help Pablo escape the police after a diamond wholesales heist goes wrong.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/cossie-northeast-island-city.svg"
+      },
+      {
+        "id": "counthash-northwest-fort-law",
+        "order": 10,
+        "name": "Counthash ( Northwest Fort Law )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Blow up the Train carrying Sonetti's shipment. (PC Version only)",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/counthash-northwest-fort-law.svg"
+      },
+      {
+        "id": "tanker-northwest-law-island",
+        "order": 11,
+        "name": "Tanker ( Northwest Law Island )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Deliver the Tanker to the pool hall in Kings .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/tanker-northwest-law-island.svg"
+      },
+      {
+        "id": "taxi-north-park",
+        "order": 12,
+        "name": "Taxi ( North Park )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Drive Bubby's wife and her \"personal trainer\" to Hotel Mon Signor .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/taxi-north-park.svg"
+      },
+      {
+        "id": "ending-north-park",
+        "order": 13,
+        "name": "Ending ( North Park )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Meet Don Sonetti's right-hand man behind the strip club at the Park.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-north-park.svg"
+      },
+      {
+        "id": "introduction-14",
+        "order": 14,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Rescue Bubby's pet.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction-14.svg"
+      },
+      {
+        "id": "phone-1-15",
+        "order": 15,
+        "name": "Phone 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Help Tommy escape the police after a bank job.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1-15.svg"
+      },
+      {
+        "id": "phone-2-16",
+        "order": 16,
+        "name": "Phone 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Use the Model Cars to destroy a sports car .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2-16.svg"
+      },
+      {
+        "id": "phone-3-17",
+        "order": 17,
+        "name": "Phone 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Steal one of Sonetti's shipments and take it to Seymour Reamer .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3-17.svg"
+      },
+      {
+        "id": "phone-4-18",
+        "order": 18,
+        "name": "Phone 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kill Sonetti's men and drive the mayoress to Bubby at Vega's place.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4-18.svg"
+      },
+      {
+        "id": "4-x-4-southwest-new-guernsey",
+        "order": 19,
+        "name": "4 x 4 ( Southwest New Guernsey )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Deliver two Pickups to the docks and steal Sonetti's car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/4-x-4-southwest-new-guernsey.svg"
+      },
+      {
+        "id": "bulldog-east-guernsey-city",
+        "order": 20,
+        "name": "Bulldog ( East Guernsey City )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Rescue the contact's wife.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/bulldog-east-guernsey-city.svg"
+      },
+      {
+        "id": "cossie-southeast-brix",
+        "order": 21,
+        "name": "Cossie ( Southeast Brix )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Recover Bubby's tapes and take down Don Sonetti.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/cossie-southeast-brix.svg"
+      },
+      {
+        "id": "itali-southwest-estoria",
+        "order": 22,
+        "name": "Itali ( Southwest Estoria )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Survive a Train explosion. (PC version only)",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/itali-southwest-estoria.svg"
+      },
+      {
+        "id": "mundano-west-hackenslash",
+        "order": 23,
+        "name": "Mundano ( West Hackenslash )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Escort Pablo to his office.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mundano-west-hackenslash.svg"
+      },
+      {
+        "id": "penetrator-west-no-law",
+        "order": 24,
+        "name": "Penetrator ( West No Law )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Help the Vercotti's informant escape from a military base with top secret files.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/penetrator-west-no-law.svg"
+      },
+      {
+        "id": "porka-turbo-southwest-kings",
+        "order": 25,
+        "name": "Porka Turbo ( Southwest Kings )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Help Crazy Jimmy escape the police after robbing the National Reserve Bank and kill Dumb Kurt .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/porka-turbo-southwest-kings.svg"
+      },
+      {
+        "id": "stallion-north-hackenslash",
+        "order": 26,
+        "name": "Stallion ( North Hackenslash )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Kidnap the D.A. and take him to Bubby at the meat warehouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/stallion-north-hackenslash.svg"
+      },
+      {
+        "id": "ending-south-island-heights",
+        "order": 27,
+        "name": "Ending ( South Island Heights )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Liberty City",
+        "reward": {},
+        "summary": "Meet Bubby at his office in Island Heights .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-south-island-heights.svg"
+      },
+      {
+        "id": "introduction-28",
+        "order": 28,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Answer the Central Market phones to get jobs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction-28.svg"
+      },
+      {
+        "id": "phone-1-mission-1",
+        "order": 29,
+        "name": "Phone 1 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Bring Hung Well 's car to Uncle Fu's garage.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1-mission-1.svg"
+      },
+      {
+        "id": "mission-2",
+        "order": 30,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Respray Pu Ling 's car and take it to Uncle Fu's garage.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2.svg"
+      },
+      {
+        "id": "mission-3",
+        "order": 31,
+        "name": "Mission 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Help Chu Ying escape the police after a bank robbery.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-3.svg"
+      },
+      {
+        "id": "phone-2-mission-1",
+        "order": 32,
+        "name": "Phone 2 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Collect the protection money from the restaurants.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2-mission-1.svg"
+      },
+      {
+        "id": "mission-2-33",
+        "order": 33,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill Fu Ming for refusing to sell his laundromat to Uncle Fu.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-33.svg"
+      },
+      {
+        "id": "phone-3-mission-1",
+        "order": 34,
+        "name": "Phone 3 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill the drunk rabble in Aye Valley.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3-mission-1.svg"
+      },
+      {
+        "id": "mission-2-35",
+        "order": 35,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Disarm the bombs from cars belonging to notorious criminals around the city.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-35.svg"
+      },
+      {
+        "id": "mission-3-36",
+        "order": 36,
+        "name": "Mission 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill Uncle Fu's nephew for dishonoring him and his family.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-3-36.svg"
+      },
+      {
+        "id": "phone-4-mission-1",
+        "order": 37,
+        "name": "Phone 4 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Recover Yu Pong 's car from the police impound yard .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4-mission-1.svg"
+      },
+      {
+        "id": "mission-2-38",
+        "order": 38,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill Yu Pong's betrayer.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-38.svg"
+      },
+      {
+        "id": "phone-5-mission-1",
+        "order": 39,
+        "name": "Phone 5 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Take the Squad Car rigged with explosives to the diner in Telephone Hill.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-5-mission-1.svg"
+      },
+      {
+        "id": "mission-2-40",
+        "order": 40,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Survive Bryson 's life-risking trials.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-40.svg"
+      },
+      {
+        "id": "phone-6-mission-1",
+        "order": 41,
+        "name": "Phone 6 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Complete Uncle Fu's skill test.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-6-mission-1.svg"
+      },
+      {
+        "id": "mission-2-42",
+        "order": 42,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill the District Attorney and his bodyguards.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-42.svg"
+      },
+      {
+        "id": "phone-7-mission-1",
+        "order": 43,
+        "name": "Phone 7 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Steal a Tanker from the munitions depot and blow it up on a bridge.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-7-mission-1.svg"
+      },
+      {
+        "id": "mission-2-44",
+        "order": 44,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill Don Traegeri and his bodyguards Timio and Colini .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-44.svg"
+      },
+      {
+        "id": "phone-8-mission-1",
+        "order": 45,
+        "name": "Phone 8 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill four lawyers for selling their firm to one of Uncle Fu's rival gangs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-8-mission-1.svg"
+      },
+      {
+        "id": "mission-2-46",
+        "order": 46,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Collect the elements of a substance called GTA.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-46.svg"
+      },
+      {
+        "id": "ending-southwest-chinatown",
+        "order": 47,
+        "name": "Ending ( Southwest Chinatown )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Meet Uncle Fu at the Rampant Dragon .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-southwest-chinatown.svg"
+      },
+      {
+        "id": "introduction-48",
+        "order": 48,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Answer the North Telephone Hill phones to get jobs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction-48.svg"
+      },
+      {
+        "id": "phone-1-mission-1-49",
+        "order": 49,
+        "name": "Phone 1 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Take down the buses used to bring people across the border illegally.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1-mission-1-49.svg"
+      },
+      {
+        "id": "mission-2-50",
+        "order": 50,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Pay El Burro's informants.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-50.svg"
+      },
+      {
+        "id": "phone-2-mission-1-51",
+        "order": 51,
+        "name": "Phone 2 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill one of El Burro's disloyal men.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2-mission-1-51.svg"
+      },
+      {
+        "id": "mission-2-52",
+        "order": 52,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Destroy the TV Vans who filmed the protagonist's latest escapade.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-52.svg"
+      },
+      {
+        "id": "phone-3-mission-1-53",
+        "order": 53,
+        "name": "Phone 3 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill eight police officers so El Burro can win a bet.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3-mission-1-53.svg"
+      },
+      {
+        "id": "mission-2-54",
+        "order": 54,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Dump three cars in the sea.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-54.svg"
+      },
+      {
+        "id": "phone-4-mission-1-55",
+        "order": 55,
+        "name": "Phone 4 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Steal a truck full of \"unusual\" chemicals and deliver it to the warehouse.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4-mission-1-55.svg"
+      },
+      {
+        "id": "mission-2-56",
+        "order": 56,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill El Burro's men who unloaded the truck and got infected by a weird disease.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-56.svg"
+      },
+      {
+        "id": "phone-5-mission-1-57",
+        "order": 57,
+        "name": "Phone 5 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Survive Mike Tallon's ambush at his mansion.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-5-mission-1-57.svg"
+      },
+      {
+        "id": "mission-2-58",
+        "order": 58,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill Mike Tallon.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-58.svg"
+      },
+      {
+        "id": "phone-6-mission-1-59",
+        "order": 59,
+        "name": "Phone 6 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Avenge the death of one of El Burro's friends.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-6-mission-1-59.svg"
+      },
+      {
+        "id": "mission-2-60",
+        "order": 60,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Destroy the Yakuza Limousines in Sunview and steal one for El Burro.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-60.svg"
+      },
+      {
+        "id": "phone-7-mission-1-61",
+        "order": 61,
+        "name": "Phone 7 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Kill one of El Burro's disloyal men.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-7-mission-1-61.svg"
+      },
+      {
+        "id": "mission-2-62",
+        "order": 62,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Destroy an underground drug lab in Eagleside.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-62.svg"
+      },
+      {
+        "id": "phone-8-mission-1-63",
+        "order": 63,
+        "name": "Phone 8 Mission 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Steal \"movie props\" for a friend of El Burro's.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-8-mission-1-63.svg"
+      },
+      {
+        "id": "mission-2-64",
+        "order": 64,
+        "name": "Mission 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Survive Bryson's life-risking trials and kill him.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/mission-2-64.svg"
+      },
+      {
+        "id": "ending-northeast-aye-valley",
+        "order": 65,
+        "name": "Ending ( Northeast Aye Valley )",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "San Andreas",
+        "reward": {},
+        "summary": "Meet El Burro at the Red Clam Bar .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-northeast-aye-valley.svg"
+      },
+      {
+        "id": "introduction-66",
+        "order": 66,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Answer the phones in East Vice Beach , Southwest Vice Shores and southwest Greek Heights to get jobs.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction-66.svg"
+      },
+      {
+        "id": "phone-1-67",
+        "order": 67,
+        "name": "Phone 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Take Deever's kids to the hotel and bring his wife to Deever at the hardware store.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1-67.svg"
+      },
+      {
+        "id": "phone-2-68",
+        "order": 68,
+        "name": "Phone 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill the stripper associated with the Rastas.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2-68.svg"
+      },
+      {
+        "id": "phone-3-69",
+        "order": 69,
+        "name": "Phone 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Blow up the Rasta \"crack house\" in Richman Heights.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3-69.svg"
+      },
+      {
+        "id": "phone-4-70",
+        "order": 70,
+        "name": "Phone 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Disrupt a major deal in Little Bogota.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4-70.svg"
+      },
+      {
+        "id": "phone-5",
+        "order": 71,
+        "name": "Phone 5",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill the rookie cop and his wife before they deliver the evidence against Deever.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-5.svg"
+      },
+      {
+        "id": "phone-6",
+        "order": 72,
+        "name": "Phone 6",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill the Angel's leader and sell his bike and a dead Rasta's car.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-6.svg"
+      },
+      {
+        "id": "phone-7",
+        "order": 73,
+        "name": "Phone 7",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kidnap a bank robber and take him to Deever.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-7.svg"
+      },
+      {
+        "id": "phone-8",
+        "order": 74,
+        "name": "Phone 8",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Pay the dirty cops and kill the greedy one.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-8.svg"
+      },
+      {
+        "id": "phone-9",
+        "order": 75,
+        "name": "Phone 9",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Steal the Rastas' drugs and sell them to Deever's customers.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-9.svg"
+      },
+      {
+        "id": "phone-10",
+        "order": 76,
+        "name": "Phone 10",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Drive the abortion doctor to the clinic.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-10.svg"
+      },
+      {
+        "id": "phone-11",
+        "order": 77,
+        "name": "Phone 11",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Start a large-scale war against the Rastas.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-11.svg"
+      },
+      {
+        "id": "phone-12",
+        "order": 78,
+        "name": "Phone 12",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Find and destroy the Rasta crack factory.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-12.svg"
+      },
+      {
+        "id": "phone-13-west-banana-grove",
+        "order": 79,
+        "name": "Phone 13 (West Banana Grove)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill Dell from Internal Affairs and help Deever escape the ATF agents.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-13-west-banana-grove.svg"
+      },
+      {
+        "id": "phone-14-south-vice-beach",
+        "order": 80,
+        "name": "Phone 14 (South Vice Beach)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Dispose of the dead bodies of Deever's recent victims.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-14-south-vice-beach.svg"
+      },
+      {
+        "id": "phone-15-northwest-vice-shores",
+        "order": 81,
+        "name": "Phone 15 (Northwest Vice Shores)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Take down El Burro.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-15-northwest-vice-shores.svg"
+      },
+      {
+        "id": "phone-16-northeast-richman-heights",
+        "order": 82,
+        "name": "Phone 16 (Northeast Richman Heights)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Destroy the hospital in Little Dominica.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-16-northeast-richman-heights.svg"
+      },
+      {
+        "id": "ending-west-banana-grove",
+        "order": 83,
+        "name": "Ending (West Banana Grove)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Meet Samuel Deever at the Banana Grove Police Station .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-west-banana-grove.svg"
+      },
+      {
+        "id": "introduction-84",
+        "order": 84,
+        "name": "Introduction",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Complete one last dirty job for Deever before betraying him with the Rastas.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/introduction-84.svg"
+      },
+      {
+        "id": "phone-1-85",
+        "order": 85,
+        "name": "Phone 1",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Save Jimi from the Vice Squad agents.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-1-85.svg"
+      },
+      {
+        "id": "phone-2-86",
+        "order": 86,
+        "name": "Phone 2",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Assassinate the President of the United States before he reaches the TV Station.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-2-86.svg"
+      },
+      {
+        "id": "phone-3-87",
+        "order": 87,
+        "name": "Phone 3",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Meet Brother Leroy and help him with his \"last job\".",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-3-87.svg"
+      },
+      {
+        "id": "phone-4-88",
+        "order": 88,
+        "name": "Phone 4",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Stop the Vice Squad snipers from killing Brother Zachary .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-4-88.svg"
+      },
+      {
+        "id": "phone-5-89",
+        "order": 89,
+        "name": "Phone 5",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Take down Samuel Deever and his squad.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-5-89.svg"
+      },
+      {
+        "id": "phone-6-90",
+        "order": 90,
+        "name": "Phone 6",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Destroy the Vice Squad surveillance vans .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-6-90.svg"
+      },
+      {
+        "id": "phone-7-91",
+        "order": 91,
+        "name": "Phone 7",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Protect the Rastas' weed stash from the Vice Squad.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-7-91.svg"
+      },
+      {
+        "id": "phone-8-92",
+        "order": 92,
+        "name": "Phone 8",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill the Vice Squad agents at the \" Rasta holy ground \".",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-8-92.svg"
+      },
+      {
+        "id": "phone-9-93",
+        "order": 93,
+        "name": "Phone 9",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill Spindly Jim and his associates.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-9-93.svg"
+      },
+      {
+        "id": "phone-10-94",
+        "order": 94,
+        "name": "Phone 10",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill the Vice Squad agents in Vice Beach so the Rastas can recover their turf.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-10-94.svg"
+      },
+      {
+        "id": "phone-11-95",
+        "order": 95,
+        "name": "Phone 11",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Avenge Brother Aerol 's death.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-11-95.svg"
+      },
+      {
+        "id": "phone-12-96",
+        "order": 96,
+        "name": "Phone 12",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Stop Brother Maelcum 's assassination.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-12-96.svg"
+      },
+      {
+        "id": "phone-13-southwest-felicity",
+        "order": 97,
+        "name": "Phone 13 (Southwest Felicity)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Kill Judge Alberts in a car explosion in front of the Vice Beach Police Station .",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-13-southwest-felicity.svg"
+      },
+      {
+        "id": "phone-14-southeast-miramire",
+        "order": 98,
+        "name": "Phone 14 (Southeast Miramire)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Stop the Vice Squad's attempt to kill Brother Marcus' mother.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-14-southeast-miramire.svg"
+      },
+      {
+        "id": "phone-15-west-vice-beach",
+        "order": 99,
+        "name": "Phone 15 (West Vice Beach)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Destroy the KBC TV Station in Felicity.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/phone-15-west-vice-beach.svg"
+      },
+      {
+        "id": "ending-northwest-greek-heights",
+        "order": 100,
+        "name": "Ending (Northwest Greek Heights)",
+        "type": "Story",
+        "giver": "Unspecified",
+        "location": "Vice City",
+        "reward": {},
+        "summary": "Collect retirement pay from Brother Marcus.",
+        "verified": true,
+        "source": "GTA Wiki mission list: order, chapter, description and rewards",
+        "image": "assets/img/mission/gta/ending-northwest-greek-heights.svg"
+      }
+    ]
+  },
+  "vehicles": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "29-special",
+        "name": "29 Special",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/29-special.png"
+      },
+      {
+        "id": "4-x-4",
+        "name": "4 x 4",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/4-x-4.png"
+      },
+      {
+        "id": "ambulance",
+        "name": "Ambulance",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Medical",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta/ambulance.png"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/banshee.svg"
+      },
+      {
+        "id": "beast-gts",
+        "name": "Beast GTS",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/beast-gts.png"
+      },
+      {
+        "id": "bike",
+        "name": "Bike",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/bike.png"
+      },
+      {
+        "id": "boat",
+        "name": "Boat",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/boat.png"
+      },
+      {
+        "id": "brigham",
+        "name": "Brigham",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/brigham.png"
+      },
+      {
+        "id": "bug",
+        "name": "Bug",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/bug.png"
+      },
+      {
+        "id": "bulldog",
+        "name": "Bulldog",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/bulldog.png"
+      },
+      {
+        "id": "bus",
+        "name": "Bus",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Bus",
+        "seats": 4,
+        "image": "assets/img/vehicle/gta/bus.png"
+      },
+      {
+        "id": "challenger",
+        "name": "Challenger",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/challenger.png"
+      },
+      {
+        "id": "cheetah",
+        "name": "Cheetah",
+        "category": "Car",
+        "class": "Sports",
+        "top_speed_kph": null,
+        "seats": 2,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/cheetah.svg"
+      },
+      {
+        "id": "classic",
+        "name": "Classic",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/classic.png"
+      },
+      {
+        "id": "coach",
+        "name": "Coach",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/coach.png"
+      },
+      {
+        "id": "cossie",
+        "name": "Cossie",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/cossie.png"
+      },
+      {
+        "id": "counthash",
+        "name": "Counthash",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/counthash.png"
+      },
+      {
+        "id": "f-19",
+        "name": "F-19",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/f-19.png"
+      },
+      {
+        "id": "fire-truck",
+        "name": "Fire Truck",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Fire",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta/fire-truck.png"
+      },
+      {
+        "id": "flamer",
+        "name": "Flamer",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/flamer.png"
+      },
+      {
+        "id": "helicopter",
+        "name": "Helicopter",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/helicopter.jpg"
+      },
+      {
+        "id": "hotrod",
+        "name": "Hotrod",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/hotrod.png"
+      },
+      {
+        "id": "impaler",
+        "name": "Impaler",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/impaler.png"
+      },
+      {
+        "id": "itali",
+        "name": "Itali",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/itali.png"
+      },
+      {
+        "id": "itali-gtb",
+        "name": "Itali GTB",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/itali-gtb.png"
+      },
+      {
+        "id": "itali-gto",
+        "name": "Itali GTO",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/itali-gto.png"
+      },
+      {
+        "id": "juggernaut",
+        "name": "Juggernaut",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/juggernaut.png"
+      },
+      {
+        "id": "jugular",
+        "name": "Jugular",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/jugular.png"
+      },
+      {
+        "id": "lebonham",
+        "name": "LeBonham",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/lebonham.png"
+      },
+      {
+        "id": "limousine",
+        "name": "Limousine",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/limousine.png"
+      },
+      {
+        "id": "love-wagon",
+        "name": "Love Wagon",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/love-wagon.png"
+      },
+      {
+        "id": "mamba",
+        "name": "Mamba",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/mamba.png"
+      },
+      {
+        "id": "model-car",
+        "name": "Model Car",
+        "category": "Miscellaneous",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/model-car.png"
+      },
+      {
+        "id": "monster-bug",
+        "name": "Monster Bug",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/monster-bug.png"
+      },
+      {
+        "id": "mundano",
+        "name": "Mundano",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/mundano.png"
+      },
+      {
+        "id": "panther",
+        "name": "Panther",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/panther.png"
+      },
+      {
+        "id": "penetrator",
+        "name": "Penetrator",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/penetrator.png"
+      },
+      {
+        "id": "pickup",
+        "name": "Pickup",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/pickup.png"
+      },
+      {
+        "id": "police-car",
+        "name": "Police Car",
+        "category": "Emergency",
+        "class": "Police",
+        "top_speed_kph": null,
+        "seats": 4,
+        "verified": true,
+        "image": "assets/img/vehicle/gta/police-car.svg"
+      },
+      {
+        "id": "porka",
+        "name": "Porka",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/porka.png"
+      },
+      {
+        "id": "porka-turbo",
+        "name": "Porka Turbo",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/porka-turbo.png"
+      },
+      {
+        "id": "portsmouth",
+        "name": "Portsmouth",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/portsmouth.png"
+      },
+      {
+        "id": "regal",
+        "name": "Regal",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/regal.png"
+      },
+      {
+        "id": "repair-van",
+        "name": "Repair Van",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/repair-van.png"
+      },
+      {
+        "id": "roadster",
+        "name": "Roadster",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/roadster.png"
+      },
+      {
+        "id": "speeder",
+        "name": "Speeder",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/speeder.png"
+      },
+      {
+        "id": "squad-car",
+        "name": "Squad Car",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/squad-car.png"
+      },
+      {
+        "id": "stallion",
+        "name": "Stallion",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Muscle",
+        "seats": 2,
+        "image": "assets/img/vehicle/gta/stallion.png"
+      },
+      {
+        "id": "stinger",
+        "name": "Stinger",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/stinger.png"
+      },
+      {
+        "id": "stinger-z29",
+        "name": "Stinger Z29",
+        "category": "Sports, Muscle and Customized Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/stinger-z29.png"
+      },
+      {
+        "id": "superbike",
+        "name": "Superbike",
+        "category": "Motorcycles",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/superbike.png"
+      },
+      {
+        "id": "tank",
+        "name": "Tank",
+        "category": "Government and Emergency",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Tank",
+        "seats": 1,
+        "image": "assets/img/vehicle/gta/tank.png"
+      },
+      {
+        "id": "tanker",
+        "name": "Tanker",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/tanker.png"
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi",
+        "category": "Public Service",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "class": "Taxi",
+        "seats": 4,
+        "image": "assets/img/vehicle/gta/taxi.png"
+      },
+      {
+        "id": "thunderhead",
+        "name": "Thunderhead",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/thunderhead.png"
+      },
+      {
+        "id": "train",
+        "name": "Train",
+        "category": "Railway",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/train.png"
+      },
+      {
+        "id": "tram",
+        "name": "Tram",
+        "category": "Railway",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/tram.png"
+      },
+      {
+        "id": "transit-van",
+        "name": "Transit Van",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/transit-van.png"
+      },
+      {
+        "id": "tv-van",
+        "name": "TV Van",
+        "category": "SUVs, Trucks, and Vans",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/tv-van.png"
+      },
+      {
+        "id": "vulture",
+        "name": "Vulture",
+        "category": "Standard Cars",
+        "verified": true,
+        "source": "GTA Wiki vehicle list (model names and class grouping)",
+        "image": "assets/img/vehicle/gta/vulture.png"
+      }
+    ]
+  },
+  "weapons": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "flamethrower",
+        "name": "Flamethrower",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Very high",
+        "ammo": "Fuel",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta/flamethrower.svg"
+      },
+      {
+        "id": "grenades",
+        "name": "Grenades",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/grenades.svg"
+      },
+      {
+        "id": "machine-gun",
+        "name": "Machine Gun",
+        "type": "Submachine gun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "High",
+        "ammo": "Magazine",
+        "unlock": "Street pickups",
+        "image": "assets/img/weapon/gta/machine-gun.svg"
+      },
+      {
+        "id": "melee-attack",
+        "name": "Melee attack",
+        "type": "Weapon",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "image": "assets/img/weapon/gta/melee-attack.svg"
+      },
+      {
+        "id": "molotov",
+        "name": "Molotov Cocktail",
+        "type": "Thrown",
+        "damage_tier": "High",
+        "ammo": "Count",
+        "price": null,
+        "unlock": "Pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/molotov.svg"
+      },
+      {
+        "id": "pistol",
+        "name": "Pistol",
+        "type": "Handgun",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Medium",
+        "ammo": "Magazine",
+        "unlock": "Default",
+        "image": "assets/img/weapon/gta/pistol.svg"
+      },
+      {
+        "id": "rocket-launcher",
+        "name": "Rocket Launcher",
+        "type": "Heavy",
+        "verified": true,
+        "source": "GTA Wiki weapon list (names and weapon class)",
+        "damage_tier": "Lethal",
+        "ammo": "Rockets",
+        "unlock": "Pickups",
+        "image": "assets/img/weapon/gta/rocket-launcher.svg"
+      },
+      {
+        "id": "shotgun",
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage_tier": "High",
+        "ammo": "Shells",
+        "price": null,
+        "unlock": "Street pickups",
+        "verified": true,
+        "image": "assets/img/weapon/gta/shotgun.svg"
+      }
+    ]
+  },
+  "cheats": {
+    "coverage": "complete",
+    "items": [
+      {
+        "id": "10-score-multipliers-from-the-start",
+        "effect": "+10 Score Multipliers from the start.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "HATEMACHINE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/10-score-multipliers-from-the-start.svg"
+      },
+      {
+        "id": "9-999-990-points",
+        "effect": "9,999,990 points",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "WEYHEY",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/9-999-990-points.svg"
+      },
+      {
+        "id": "99-lives",
+        "effect": "99 lives",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "SATANLIVES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/99-lives.svg"
+      },
+      {
+        "id": "999-999-999-points-from-the-start",
+        "effect": "999,999,999 points from the start.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ITCOULDBEYOU",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/999-999-999-points-from-the-start.svg"
+      },
+      {
+        "id": "access-san-andreas-parts-1-and-2",
+        "effect": "Access San Andreas parts 1 and 2",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "TVMAN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/access-san-andreas-parts-1-and-2.svg"
+      },
+      {
+        "id": "all-cheats",
+        "effect": "All Cheats",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "T H E S H I T",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-cheats.svg"
+      },
+      {
+        "id": "all-cities",
+        "effect": "All Cities",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Caprice",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-cities.svg"
+      },
+      {
+        "id": "all-cities-parts-1-and-2-except-vice-city",
+        "effect": "All Cities parts 1 and 2 except Vice City .",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "URGE",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-cities-parts-1-and-2-except-vice-city.svg"
+      },
+      {
+        "id": "all-cities-infinite-weapons-and-99-lives",
+        "effect": "All cities,infinite weapons and 99 lives",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "BSTARD",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-cities-infinite-weapons-and-99-lives.svg"
+      },
+      {
+        "id": "all-six-chapters-unlocked",
+        "effect": "All six chapters unlocked.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ITSGALLUS NINEINAROW SUPER WELL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-six-chapters-unlocked.svg"
+      },
+      {
+        "id": "all-weapons",
+        "effect": "All Weapons",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "Groovy",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-weapons.svg"
+      },
+      {
+        "id": "all-weapons-with-full-ammo",
+        "effect": "All weapons with full ammo",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad *",
+            "edition": "Debug only",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-weapons-with-full-ammo.svg"
+      },
+      {
+        "id": "all-weapons-armor-and-a-jail-card",
+        "effect": "All Weapons, Armor and a Jail Card",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "PECKINPAH",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/all-weapons-armor-and-a-jail-card.svg"
+      },
+      {
+        "id": "center-camera-view",
+        "effect": "Center camera view",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Home",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/center-camera-view.svg"
+      },
+      {
+        "id": "disable-offensive-language",
+        "effect": "Disable offensive language",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "IAMNOTGARYPENN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/disable-offensive-language.svg"
+      },
+      {
+        "id": "disable-wanted-level-press-ctrl-enter-after-entering",
+        "effect": "Disable wanted level. Press Ctrl + Enter after entering train to hijack it.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "IAMTHELAW STEVESMATES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/disable-wanted-level-press-ctrl-enter-after-entering.svg"
+      },
+      {
+        "id": "enable-coordinates",
+        "effect": "Enable Coordinates",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "BLOWME",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/enable-coordinates.svg"
+      },
+      {
+        "id": "enable-offensive-language",
+        "effect": "Enable offensive language",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "IAMGARYPENN",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/enable-offensive-language.svg"
+      },
+      {
+        "id": "five-times-multiplier",
+        "effect": "Five Times Multiplier",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "EXCREMENT",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/five-times-multiplier.svg"
+      },
+      {
+        "id": "gives-the-player-all-weapons-full-armor-and-a-get-out",
+        "effect": "Gives the player all weapons, full Armor and a 'Get Out of Jail Free Card' from the start.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "SUCKMYROCKET",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/gives-the-player-all-weapons-full-armor-and-a-get-out.svg"
+      },
+      {
+        "id": "god-cheat",
+        "effect": "God Cheat",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "HANGTHEDJ",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/god-cheat.svg"
+      },
+      {
+        "id": "infinite-lives",
+        "effect": "Infinite lives.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "ITSTANTRUM 6031769",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/infinite-lives.svg"
+      },
+      {
+        "id": "level-select",
+        "effect": "Level Select",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "SKYBABIES",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/level-select.svg"
+      },
+      {
+        "id": "level-select-with-extra-options",
+        "effect": "Level Select with Extra Options",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "INGLORIOUS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/level-select-with-extra-options.svg"
+      },
+      {
+        "id": "liberty-city-parts-1-and-2",
+        "effect": "Liberty City parts 1 and 2",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "FECK",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/liberty-city-parts-1-and-2.svg"
+      },
+      {
+        "id": "no-police",
+        "effect": "No Police",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "CHUFF",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/no-police.svg"
+      },
+      {
+        "id": "pan-camera-down",
+        "effect": "Pan camera down",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad 2",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/pan-camera-down.svg"
+      },
+      {
+        "id": "pan-camera-left",
+        "effect": "Pan camera left",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad 4",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/pan-camera-left.svg"
+      },
+      {
+        "id": "pan-camera-right",
+        "effect": "Pan camera right",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad 6",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/pan-camera-right.svg"
+      },
+      {
+        "id": "pan-camera-up",
+        "effect": "Pan camera up",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad 8",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/pan-camera-up.svg"
+      },
+      {
+        "id": "pause-and-advance-single-frame",
+        "effect": "Pause and advance single frame",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "Numpad +",
+            "edition": "Debug only",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/pause-and-advance-single-frame.svg"
+      },
+      {
+        "id": "press-the-to-enable-all-weapons",
+        "effect": "Press the * to enable all weapons.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "BUCKFAST CALLMENIGEL",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/press-the-to-enable-all-weapons.svg"
+      },
+      {
+        "id": "raise-point-values",
+        "effect": "Raise point values.",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "% MACHINE",
+            "input": "touch"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/raise-point-values.svg"
+      },
+      {
+        "id": "restart-current-chapter",
+        "effect": "Restart current chapter",
+        "codes": [
+          {
+            "platform": "PC",
+            "code": "F12",
+            "edition": "Debug only",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/restart-current-chapter.svg"
+      },
+      {
+        "id": "wanted-level-max",
+        "effect": "Wanted Level Max ($)",
+        "codes": [
+          {
+            "platform": "PlayStation",
+            "code": "EATTHIS",
+            "input": "keyboard"
+          }
+        ],
+        "verified": true,
+        "source": "GTA Wiki cheat code tables (per-platform codes)",
+        "image": "assets/img/cheat/gta/wanted-level-max.svg"
+      }
+    ]
+  },
+  "locations": {
+    "coverage": "partial",
+    "items": [
+      {
+        "id": "liberty-city",
+        "name": "Liberty City",
+        "type": "City",
+        "parent": null,
+        "summary": "New York-inspired city with three islands, one of three selectable cities.",
+        "verified": true,
+        "image": "assets/img/location/gta/liberty-city.svg"
+      },
+      {
+        "id": "san-andreas",
+        "name": "San Andreas",
+        "type": "City",
+        "parent": null,
+        "summary": "West-coast-inspired city in the original game (unrelated to the 2004 state).",
+        "verified": true,
+        "image": "assets/img/location/gta/san-andreas.svg"
+      },
+      {
+        "id": "vice-city",
+        "name": "Vice City",
+        "type": "City",
+        "parent": null,
+        "summary": "Miami-inspired city with beach and downtown areas.",
+        "verified": true,
+        "image": "assets/img/location/gta/vice-city.jpg"
+      }
+    ]
+  },
+  "collectibles": {
+    "coverage": "limited",
+    "items": [
+      {
+        "id": "score-bonuses",
+        "name": "Score Bonuses",
+        "type": "Bonus",
+        "total": 0,
+        "reward": "Multipliers and rank progression",
+        "verified": false,
+        "source": "No discrete collectible set documented for this build",
+        "image": "assets/img/collectible/gta/score-bonuses.svg"
+      }
+    ]
+  }
+}

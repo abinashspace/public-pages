@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Data — GTA Hub</title>
+<meta name="description" content="JSON endpoints, schemas and conventions for the GTA Hub dataset.">
+<link rel="canonical" href="https://abinashspace.github.io/public-pages/gta-hub/data/">
+<link rel="alternate" type="application/json" href="../data/index.json" title="Machine-readable JSON">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="generator" content="gta-hub build">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GTA Hub">
+<meta property="og:title" content="Data — GTA Hub">
+<meta property="og:description" content="JSON endpoints, schemas and conventions for the GTA Hub dataset.">
+<meta property="og:url" content="https://abinashspace.github.io/public-pages/gta-hub/data/">
+<meta property="og:image" content="https://abinashspace.github.io/public-pages/gta-hub/assets/img/brand/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="icon" href="../assets/img/brand/favicon.svg" type="image/svg+xml">
+<script>(function(){try{var t=localStorage.getItem('gta-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script src="../assets/js/site.js" defer></script>
+</head>
+<body data-page="data">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head">
+  <a class="brand" href="../"><span class="brand-mark">GTA</span><span>HUB</span></a>
+  <nav aria-label="Primary"><ul><li><a href="../">Games</a></li><li><a href="../timeline/">Timeline</a></li><li><a href="../compare/">Compare</a></li><li><a href="../cheats/">Cheats</a></li><li><a href="../locations/">Locations</a></li><li><a href="../data/" aria-current="page">Data</a></li><li><a href="../search/">Search</a></li><li><a href="../about/">About</a></li></ul></nav>
+  <div class="head-actions">
+    <form class="head-search" role="search" action="../search/" method="get">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      <label class="visually-hidden" for="head-q">Search all games</label>
+      <input id="head-q" name="q" type="search" placeholder="Search records…" autocomplete="off">
+    </form>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle colour theme" title="Toggle colour theme"><svg class="icon-dark" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg><svg class="icon-light" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg></button>
+  </div>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../">Games</a></li><li><span aria-current="page">Data</span></li></ol></nav>
+<main id="main" tabindex="-1">
+<header class="page-head">
+  <p class="eyebrow">Machine interface</p>
+  <h1>Data</h1>
+  <p class="lead">Everything on this site is generated from these files. All paths are relative to the repository root and available on the live site.</p>
+  
+</header>
+<dl class="stats"><div class="stat"><dt>Game bundles</dt><dd>17</dd></div><div class="stat"><dt>Section files</dt><dd>119</dd></div><div class="stat"><dt>Records</dt><dd>3700</dd></div><div class="stat"><dt>Images tracked</dt><dd>3751</dd></div></dl>
+<h2>Entry points</h2>
+<div class="table-wrap"><table class="data-table">
+<caption>Stable data endpoints</caption>
+<thead><tr><th scope="col">Path</th><th scope="col">Type</th><th scope="col">Description</th></tr></thead>
+<tbody>
+<tr><td><a href="index.json"><code>/data/index.json</code></a></td><td>Index</td><td>Site, sections, all games with counts and links</td></tr>
+<tr><td><a href="search-index.json"><code>/data/search-index.json</code></a></td><td>Corpus</td><td>One object per record; powers /search/</td></tr>
+<tr><td><a href="images.json"><code>/data/images.json</code></a></td><td>Manifest</td><td>Every image path, dimension and status</td></tr>
+<tr><td><a href="status.json"><code>/data/status.json</code></a></td><td>Status</td><td>Per-game coverage and totals</td></tr>
+<tr><td><a href="cheats.json"><code>/data/cheats.json</code></a></td><td>Cross-game</td><td>Every cheat code flattened, with game, platform and input type</td></tr>
+<tr><td><a href="locations.json"><code>/data/locations.json</code></a></td><td>Cross-game</td><td>Every location flattened, plus a city index</td></tr>
+<tr><td><a href="cross/timeline.json"><code>/data/cross/timeline.json</code></a></td><td>Cross-game</td><td>All releases grouped by 2D, 3D and HD universe</td></tr>
+<tr><td><a href="cross/compare.json"><code>/data/cross/compare.json</code></a></td><td>Cross-game</td><td>Record counts per game and section, leaders, shared cities</td></tr>
+<tr><td><a href="games/gta-iii.json"><code>/data/games/&lt;slug&gt;.json</code></a></td><td>Bundle</td><td>All seven sections for one game</td></tr>
+<tr><td><a href="games/gta-iii/characters.json"><code>/data/games/&lt;slug&gt;/&lt;section&gt;.json</code></a></td><td>Collection</td><td>One section, sorted, with coverage metadata</td></tr>
+</tbody></table></div>
+<h2>Schemas</h2>
+<div class="table-wrap"><table class="data-table">
+<caption>JSON Schema (draft 2020-12) per record type</caption>
+<thead><tr><th scope="col">Path</th><th scope="col">Record</th><th scope="col">Description</th></tr></thead>
+<tbody><tr><td><code>data/schema/characters.json</code></td><td>Characters</td><td>Named characters with role, affiliations and a short summary.</td></tr><tr><td><code>data/schema/missions.json</code></td><td>Missions</td><td>Story and side missions in order, with giver, location and reward.</td></tr><tr><td><code>data/schema/vehicles.json</code></td><td>Vehicles</td><td>Cars, bikes, boats, aircraft and special vehicles with class and capacity.</td></tr><tr><td><code>data/schema/weapons.json</code></td><td>Weapons</td><td>Weapons by type with damage tier, ammo cap, price and unlock source.</td></tr><tr><td><code>data/schema/cheats.json</code></td><td>Cheat codes</td><td>Effects with the code for each platform and edition.</td></tr><tr><td><code>data/schema/locations.json</code></td><td>Locations</td><td>Cities, districts and landmarks, with parent areas.</td></tr><tr><td><code>data/schema/collectibles.json</code></td><td>Collectibles</td><td>Collectible sets with totals and completion rewards.</td></tr></tbody></table></div>
+<h2>Conventions</h2>
+<ul>
+<li>Record <code>id</code> is a permanent kebab-case slug, unique inside its game and section.</li>
+<li><code>verified</code> is a boolean on every record. <code>false</code> means best-effort, not confirmed.</li>
+<li><code>source</code> is an optional URL or document name backing the record.</li>
+<li><code>coverage</code> is one of <code>complete</code>, <code>partial</code>, <code>limited</code>, <code>official-only</code>, <code>empty</code>.</li>
+<li>Missing numbers are <code>null</code>, never <code>0</code> and never a guess.</li>
+<li>Arrays are sorted deterministically; files contain no timestamps except the top-level <code>generated</code> field.</li>
+</ul>
+</main>
+<footer class="site-foot">
+  <div class="foot-inner">
+    <div class="foot-brand">
+      <a class="brand" href="../"><span class="brand-mark">GTA</span><span>HUB</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository.</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="../timeline/">Timeline</a></li>
+        <li><a href="../compare/">Compare games</a></li>
+        <li><a href="../cheats/">Cheat codes</a></li>
+        <li><a href="../locations/">Locations</a></li>
+        <li><a href="../search/">Search</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="Data">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="../data/index.json">index.json</a></li>
+        <li><a href="../data/search-index.json">search-index.json</a></li>
+        <li><a href="../data/images.json">images.json</a></li>
+        <li><a href="../llms.txt">llms.txt</a></li>
+        <li><a href="../sitemap.xml">sitemap.xml</a></li>
+      </ul>
+    </nav>
+    <nav class="foot-col" aria-label="About">
+      <h2>About</h2>
+      <ul>
+        <li><a href="../about/">How this site works</a></li>
+        <li><a href="../about/#accuracy">Accuracy</a></li>
+        <li><a href="../assets/img/CREDITS.md">Image credits</a></li>
+        <li><a href="https://github.com/abinashspace/gta-hub" rel="noopener">Source on GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="foot-legal">
+    <p class="fine">Unofficial fan reference. Game names, trademarks and artwork are property of Rockstar Games and Take-Two Interactive. Code MIT; game names, trademarks and art belong to Rockstar Games / Take-Two Interactive.</p>
+  </div>
+</footer>
+</body>
+</html>

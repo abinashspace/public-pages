@@ -1,9 +1,0 @@
-# GTA Hub
-User-agent: *
-Allow: /
-
-# Machine entry points
-# https://abinashspace.github.io/public-pages/data/index.json
-# https://abinashspace.github.io/public-pages/llms.txt
-
-Sitemap: https://abinashspace.github.io/public-pages/sitemap.xml
