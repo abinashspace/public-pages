@@ -26,7 +26,7 @@
 <body data-page="section">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
-  <a class="brand" href="../../../"><svg width="30" height="30" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
+  <a class="brand" href="../../../"><span class="brand-mark">GTA</span><span>HUB</span></a>
   <nav aria-label="Primary"><ul><li><a href="../../../">Games</a></li><li><a href="../../../timeline/">Timeline</a></li><li><a href="../../../compare/">Compare</a></li><li><a href="../../../cheats/">Cheats</a></li><li><a href="../../../locations/">Locations</a></li><li><a href="../../../data/">Data</a></li><li><a href="../../../search/">Search</a></li><li><a href="../../../about/">About</a></li></ul></nav>
   <div class="head-actions">
     <form class="head-search" role="search" action="../../../search/" method="get">
@@ -40,49 +40,41 @@
 <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="../../../">Games</a></li><li><a href="../../../games/gta-iv-the-lost-and-damned/">TLAD</a></li><li><span aria-current="page">Collectibles</span></li></ol></nav>
 <main id="main" tabindex="-1">
 <header class="page-head">
-  <p class="eyebrow">TLAD · 3 entries · partial</p>
-  <h1>Collectibles — Grand Theft Auto IV: The Lost and Damned</h1>
-  <p class="lead">Collectible sets with totals and completion rewards.</p>
+  <p class="eyebrow">TLAD</p>
+  <h1>Collectibles</h1>
+  
   
 </header>
 <p class="section-actions">
-  <a class="btn" href="../../../data/games/gta-iv-the-lost-and-damned/collectibles.json" type="application/json">Download collectibles.json</a>
-  <a class="btn btn-ghost" href="../../../data/games/gta-iv-the-lost-and-damned.json" type="application/json">Whole game bundle</a>
-  
+  <a class="btn btn-ghost" href="../../../data/games/gta-iv-the-lost-and-damned/collectibles.json" type="application/json">collectibles.json</a>
 </p>
 <div class="filter-bar">
   <label for="table-filter">Filter</label>
-  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter 3 collectibles…" aria-controls="gallery-results table-results">
+  <input id="table-filter" type="search" autocomplete="off" placeholder="Filter collectibles…" aria-controls="gallery-results table-results">
   <span class="filter-count" id="table-filter-count" aria-live="polite"></span>
   <div class="view-toggle" role="group" aria-label="View mode">
     <button type="button" data-view="gallery" aria-pressed="true">Gallery</button>
     <button type="button" data-view="table" aria-pressed="false">Table</button>
   </div>
 </div>
-<div id="gallery-results"><ul class="media-grid"><li class="media-card" data-id="bike-races" data-search="bike-races bike races race"><div class="media-thumb is-contain">
-        <img loading="lazy" decoding="async" src="../../../assets/img/collectible/gta-iv-the-lost-and-damned/bike-races.svg" alt="Bike Races (placeholder)" width="256" height="256">
+<div id="gallery-results"><ul class="media-grid"><li class="media-card" data-id="bike-races" data-search="bike-races bike races race"><a class="media-card-link" href="../../../games/gta-iv-the-lost-and-damned/collectibles/"><div class="media-thumb is-contain">
+        <img loading="lazy" decoding="async" src="../../../assets/img/collectible/gta-iv-the-lost-and-damned/bike-races.svg" alt="Bike Races" width="256" height="256">
       </div><div class="media-body">
-        <div class="media-kicker">Collectible</div>
-        <div class="media-title">Bike Races</div>
+        <span class="media-title">Bike Races</span>
         
-        
-      </div></li>
-<li class="media-card" data-id="gang-wars" data-search="gang-wars gang wars side job"><div class="media-thumb is-contain">
+      </div></a></li>
+<li class="media-card" data-id="gang-wars" data-search="gang-wars gang wars side job"><a class="media-card-link" href="../../../games/gta-iv-the-lost-and-damned/collectibles/"><div class="media-thumb is-contain">
         <img loading="lazy" decoding="async" src="../../../assets/img/collectible/gta-iv-the-lost-and-damned/gang-wars.jpg" alt="Gang Wars" width="256" height="256">
       </div><div class="media-body">
-        <div class="media-kicker">Collectible</div>
-        <div class="media-title">Gang Wars</div>
+        <span class="media-title">Gang Wars</span>
         
-        
-      </div></li>
-<li class="media-card" data-id="seagulls" data-search="seagulls seagulls seagull"><div class="media-thumb is-contain">
+      </div></a></li>
+<li class="media-card" data-id="seagulls" data-search="seagulls seagulls seagull"><a class="media-card-link" href="../../../games/gta-iv-the-lost-and-damned/collectibles/"><div class="media-thumb is-contain">
         <img loading="lazy" decoding="async" src="../../../assets/img/collectible/gta-iv-the-lost-and-damned/seagulls.jpg" alt="Seagulls" width="256" height="256">
       </div><div class="media-body">
-        <div class="media-kicker">Collectible</div>
-        <div class="media-title">Seagulls</div>
+        <span class="media-title">Seagulls</span>
         
-        
-      </div></li></ul></div>
+      </div></a></li></ul></div>
 <div id="table-results" class="is-view-hidden"><div class="table-wrap">
 <table class="data-table has-num has-thumb" data-sortable>
 <caption>Collectibles — Grand Theft Auto IV: The Lost and Damned (3 records)</caption>
@@ -94,20 +86,16 @@
 </tbody>
 </table>
 </div></div>
-<h2 id="fields">Field definitions</h2><div class="table-wrap"><table class="data-table">
-<caption>Fields on every collectible record</caption>
-<thead><tr><th scope="col">Field</th><th scope="col">Type</th><th scope="col">Required</th><th scope="col">Notes</th></tr></thead>
-<tbody><tr><td><code>name</code></td><td>string</td><td>yes</td><td></td></tr><tr><td><code>type</code></td><td>string</td><td>yes</td><td></td></tr><tr><td><code>total</code></td><td>integer</td><td>yes</td><td></td></tr><tr><td><code>reward</code></td><td>string</td><td>yes</td><td></td></tr><tr><td><code>image</code></td><td>string | null</td><td>no</td><td></td></tr><tr><td><code>verified</code></td><td>boolean</td><td>yes</td><td></td></tr><tr><td><code>source</code></td><td>string</td><td>no</td><td></td></tr></tbody></table></div>
 <nav class="pager" aria-label="Section navigation">
-  <a href="../../../games/gta-iv-the-lost-and-damned/">← TLAD overview</a>
+  <a href="../../../games/gta-iv-the-lost-and-damned/">← TLAD</a>
   <a href="../../../">All games →</a>
 </nav>
 </main>
 <footer class="site-foot">
   <div class="foot-inner">
     <div class="foot-brand">
-      <a class="brand" href="../../../"><svg width="26" height="26" viewBox="0 0 128 128" aria-hidden="true"><rect width="128" height="128" rx="20" fill="#1a1d23"/><text x="64" y="86" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="54" fill="#ff4d5a">GTA</text></svg><span>GTA Hub</span></a>
-      <p>Every Grand Theft Auto game, every record, one static repository. Static, machine-readable, no external services.</p>
+      <a class="brand" href="../../../"><span class="brand-mark">GTA</span><span>HUB</span></a>
+      <p>Every Grand Theft Auto game, every record, one static repository.</p>
     </div>
     <nav class="foot-col" aria-label="Explore">
       <h2>Explore</h2>
