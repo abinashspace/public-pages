@@ -2,10 +2,10 @@
   "site": {
     "title": "GTA Hub",
     "description": "A machine-first encyclopedia of the Grand Theft Auto series: characters, missions, vehicles, weapons, cheats, locations and collectibles for all 17 games, published as static HTML and portable JSON.",
-    "base_url": "https://abinashspace.github.io/gta-hub",
+    "base_url": "https://abinashspace.github.io/public-pages",
     "language": "en"
   },
-  "generated": "2026-11-27T05:22:10.758Z",
+  "generated": "2026-11-27T08:28:58.735Z",
   "schema_version": "1.0.0",
   "counts": {
     "games": 17,
