@@ -45,7 +45,7 @@
   /* type */
   --sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-  --display: "Space Grotesk", "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --display: "Outfit", "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 
   /* motion */
   --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -525,8 +525,8 @@ p { text-wrap: pretty; }
   background: var(--bg-soft);
 }
 .media-title {
-  font-family: var(--display); font-weight: 800; font-size: 0.98rem;
-  line-height: 1.25; color: var(--fg); text-transform: uppercase;
+  font-family: var(--display); font-weight: 700; font-size: 0.96rem;
+  line-height: 1.25; color: var(--fg);
 }
 .media-tag {
   flex: 0 0 auto;
@@ -1445,9 +1445,11 @@ figcaption { font-size: 0.8rem; color: var(--fg-dim); padding-top: 0.5rem; }
   .desktop-title {
     margin: 0;
     font-family: var(--display);
-    font-size: 3rem;
-    line-height: 1;
-    letter-spacing: 0.02em;
+    font-weight: 800;
+    font-size: 2.85rem;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    text-transform: none;
     color: var(--fg);
   }
   .desktop-lead {
