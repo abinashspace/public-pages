@@ -7,25 +7,25 @@
 :root {
   color-scheme: light;
 
-  /* IMDb Yellow + Pitch Black app palette */
-  --bg: #FFD500;
-  --bg-grad: linear-gradient(160deg, #FFF27A 0%, #FFD500 45%, #FFB300 100%);
-  --bg-soft: #FFE44D;
-  --bg-elev: #0a0a0a;
-  --bg-elev-2: #1c1c1e;
-  --blk: linear-gradient(145deg, #262626, #000000);
-  --line: #0a0a0a;
-  --line-soft: rgba(10, 10, 10, 0.2);
+  /* Toned Butter-Cream + Pitch Black + IMDb Gold */
+  --bg: #FFF7D6;
+  --bg-grad: linear-gradient(160deg, #FFFDF0 0%, #FFF7D6 50%, #FCE89C 100%);
+  --bg-soft: #FFFFFF;
+  --bg-elev: #FFFFFF;
+  --bg-elev-2: #FFF2B8;
+  --blk: linear-gradient(145deg, #1E1E22, #0A0A0C);
+  --line: #0A0A0A;
+  --line-soft: rgba(10, 10, 10, 0.14);
 
   /* ink */
-  --fg: #0a0a0a;
-  --fg-soft: #1f1f22;
-  --fg-dim: #3d3814;
+  --fg: #0A0A0A;
+  --fg-soft: #27272A;
+  --fg-dim: #52525B;
 
-  /* IMDb Yellow accent */
-  --yellow: #FFD500;
-  --yellow-hot: #F5C518;
-  --yellow-ink: #0a0a0a;
+  /* IMDb Gold accent */
+  --yellow: #F5C518;
+  --yellow-hot: #FFD500;
+  --yellow-ink: #0A0A0A;
 
   /* status */
   --ok: #15803d;
@@ -843,9 +843,9 @@ figcaption { font-size: 0.8rem; color: var(--fg-dim); padding-top: 0.5rem; }
 /* ============================================================== 12 app layout */
 
 .site-head {
-  background: rgba(255, 213, 0, 0.92);
+  background: rgba(255, 249, 224, 0.92);
   backdrop-filter: blur(10px);
-  border-bottom: 3px solid var(--line);
+  border-bottom: 2px solid var(--line-soft);
 }
 :root[data-theme="dark"] .site-head {
   background: rgba(9, 9, 11, 0.94);
@@ -998,16 +998,17 @@ figcaption { font-size: 0.8rem; color: var(--fg-dim); padding-top: 0.5rem; }
   flex-direction: column;
   justify-content: space-between;
   gap: 0.7rem;
-  border: 3px solid var(--line);
-  background: transparent;
+  border: 2px solid var(--line);
+  background: #FFFFFF;
   color: var(--fg);
   border-radius: 16px;
-  padding: 0.95rem;
+  padding: 0.9rem;
   text-decoration: none;
   font-family: var(--display);
-  font-size: 1.15rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 12px rgba(10, 10, 10, 0.05);
   transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease), transform var(--t-fast) var(--ease);
 }
 :root[data-theme="dark"] .app-tile { border-color: var(--yellow); color: var(--yellow); }
@@ -1160,15 +1161,16 @@ figcaption { font-size: 0.8rem; color: var(--fg-dim); padding-top: 0.5rem; }
   width: 100%;
   text-align: left;
   text-decoration: none;
-  background: transparent;
-  border: 3px solid var(--line);
+  background: #FFFFFF;
+  border: 2px solid var(--line);
   color: var(--fg);
   border-radius: 16px;
   padding: 0.65rem 1rem 0.65rem 0.75rem;
   font-family: var(--display);
-  font-size: 1.2rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.08rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 12px rgba(10, 10, 10, 0.05);
   transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
 }
 :root[data-theme="dark"] .app-browse-row { border-color: var(--yellow); color: var(--yellow); }
